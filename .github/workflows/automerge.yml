@@ -1,12 +1,12 @@
 # This is a basic workflow to help you get started with Actions
-name: Auto merge files by schedule
+name: Auto merge files by schedule, runs every hour
 
 # Controls when the workflow will run
 on:
   schedule:
     # Runs every day at midnight UTC. 
     # Use https://crontab.guru to customize your schedule.
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch: # Allows you to run the action manually for testing
 
 jobs:
@@ -41,7 +41,7 @@ jobs:
           
       - name: Commit and push changes
         run: |
-          git config --local user.name "GitHub Action"
+          git config --local user.name "thcoban [bot]"
           git add thethao.m3u
           git commit -m "Merge files to thethao.m3u"
           git push
