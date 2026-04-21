@@ -1,0 +1,47 @@
+# This is a basic workflow to help you get started with Actions
+name: Auto merge files by schedule
+
+# Controls when the workflow will run
+on:
+  schedule:
+    # Runs every day at midnight UTC. 
+    # Use https://crontab.guru to customize your schedule.
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to run the action manually for testing
+
+jobs:
+  merge-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push changes back to the repo
+      
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      - name: Download file via curl
+        run: |
+          curl -L -o bongda.m3u "https://tr.ee/ttbongda"
+          curl -L -o thethao-base.m3u "https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/thethao-base.m3u"
+
+      # Runs a set of commands using the runners shell
+      - name: Merge Files
+          # Combine thethao-base.m3u and bongda.m3u into merged.txt
+        run: |
+          cat thethao-base.m3u > thethao.m3u
+          echo " " >> thethao.m3u
+          cat bongda.m3u >> thethao.m3u
+          echo " " >> thethao.m3u
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "GitHub Action"
+          git add thethao.m3u
+          git commit -m "Merge files to thethao.m3u"
+          git push
