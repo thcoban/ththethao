@@ -195,6 +195,8 @@ http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/6097/index.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.Bundesliga.2.de" group-title="Sky Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-bundesliga.png", Sky Sports Bundesliga 9 🇩🇪 (b3)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6097/index.m3u8
 
+#EXTINF:-1 tvg-id="Sky.Sports.1.de" group-title="Sky Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-tennis-de.png", Sky Sports Tennis 🇩🇪
+http://lb.wisp.cat/lb0/DE_Sky_Sport_Tennis_HD/video.m3u8?token=AUSnMTD
 
 #EXTINF:-1 tvg-id="Sky.Sports.1.de" group-title="Sky Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-de-1.png", Sky Sports 1 🇩🇪 (b1)
 http://cwx6kmfd.otttv.pw/iptv/SZZ2LTTQ7Y9KPGCDB2G4ENGH/2478/index.m3u8
@@ -725,16 +727,22 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
 #EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-2.png", beIN Sports 2 (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659428
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-2.png" group-title="beIN Sports", beIN Sports 1 🇶🇦
+http://77.137.40.221:8000/play/a01e
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-2.png" group-title="beIN Sports", beIN Sports 2 🇶🇦
 http://77.137.40.221:8000/play/a01g
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-3.png" group-title="beIN Sports", beIN Sports 3 🇶🇦
 http://77.137.40.221:8000/play/a01h
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-4.png" group-title="beIN Sports", beIN Sports 4 🇶🇦
 http://77.137.40.221:8000/play/a01i
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png" group-title="beIN Sports", beIN Sports 1 🇫🇷
 http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-2.png" group-title="beIN Sports", beIN Sports 2 🇫🇷
+http://99.27.51.147:8080/BeinSport2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-3.png" group-title="beIN Sports", beIN Sports 3 🇫🇷
 http://99.27.51.147:8080/BeinSport3/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-3.png" group-title="beIN Sports", beIN Sports 3 🇫🇷
 http://145.239.5.177:80/559/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-3.png" group-title="beIN Sports", beIN Sports 3 🇫🇷
@@ -1261,7 +1269,10 @@ http://aflaxtv.xyz:8080/F36591/3f1a2b5c/304079-3029fd2c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NZ: Sky Sport Select" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/nz-sky-sport-select.png" group-title="Sky Sport 🇳🇿" , Sky Sport Select 🇳🇿 (a) offline
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302401-3029fd2c.m3u8
 
-
+#EXTINF:-1 group-title="General", L`Equipe 🇫🇷  
+http://145.239.5.177:80/549/index.m3u8
+#EXTINF:-1 group-title="General", L`Equipe 🇫🇷
+http://145.239.5.177/549/mpegts
 #EXTINF:-1 group-title="General", L`Equipe 🇫🇷
 http://157.143.44.195/play/a0fw
 #EXTINF:-1 group-title="General", L`Equipe 🇫🇷
@@ -1283,6 +1294,7 @@ http://cdntv.online/low/9mlxywika2/1021.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Setanta Sport", Setenta Sport 2 🇷🇺
 http://cdntv.online/low/9mlxywika2/1022.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , Матч! 🇷🇺
 http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , Матч! 🇷🇺
@@ -1296,36 +1308,34 @@ http://5.188.221.43:8080/play/match
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , Матч! 🇷🇺
 http://cdntv.online/low/9mlxywika2/48.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , Матч! 🇷🇺
+http://cdntv.online/low/9mlxywika2/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , Матч! 🇷🇺
 http://95.47.155.244:8001/play/a003
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 1HD 🇷🇺
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 1 HD 🇷🇺
 http://193.25.8.59:8000/fut
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 1HD 🇷🇺
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 1 HD 🇷🇺
 http://cdntv.online/low/9mlxywika2/55.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 1HD 🇷🇺
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 1 HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.16:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 2HD 🇷🇺
-http://188.191.160.238:7780/udp/239.195.3.17:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 2HD 🇷🇺
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 2 HD 🇷🇺
 http://193.25.8.59:8000/fut2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 2HD 🇷🇺
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 2 HD 🇷🇺
 http://cdntv.online/low/9mlxywika2/56.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 2HD 🇷🇺
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 2 HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 2HD 🇷🇺
-http://cdntv.online/low/9mlxywika2/56.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 3HD 🇷🇺
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 3 HD 🇷🇺
+http://193.25.8.59:8000/fut3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 3 HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 3 HD 🇷🇺
 http://185.57.68.33/110/mpegts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , Матч! Футбол 3 HD 🇷🇺
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , Матч! ФУТБOЛ 3 HD 🇷🇺
 http://185.57.68.33:8091/110/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 3HD 🇷🇺
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 3 HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.18:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 3HD 🇷🇺
-http://cdntv.online/low/9mlxywika2/57.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , МАТЧ! ФУТБOЛ 3HD 🇷🇺
-http://cdntv.online/low/9mlxywika2/57.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , Матч! 4 HD 🇷🇺
 http://46.149.191.217:9010/play/a019
@@ -1659,6 +1669,9 @@ http://91.201.172.14:35006/
 
 #EXTINF:-1 group-title="Uncategorized" , Беларусь 5 🇧🇾
 http://cdntv.online/low/9mlxywika2/778.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Uncategorized" , Sport 2
+http://46.149.191.217:9010/play/a015
 
 #EXTINF:-1 group-title="Uncategorized" , M4 Sport 🇭🇺
 http://46.149.191.217:9010/play/a017
