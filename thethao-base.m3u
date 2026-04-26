@@ -21,6 +21,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz"
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz"
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_RS1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz"
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz"
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
@@ -775,6 +776,8 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #EXTINF:-1 tvg-id="SPOTV.2.HD.id"  group-title="SPOTV" tvg-logo="https://i.imgur.com/ZWV6t5x.png" , SPOTV 2
 https://hls.iill.top/api/Spotv-2/index.m3u8
 #EXTINF:-1 tvg-id="SPOTV2.(HD).vn"  group-title="SPOTV" tvg-logo="https://i.imgur.com/ZWV6t5x.png" , SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1086,6 +1089,15 @@ http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/31949/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.1.HD.pt" group-title="Eurosport" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/eurosport-1-pt.png", Eurosport 1 PT 🇵🇹 (b3)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31949/index.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport.1.cz" group-title="Eurosport" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/eurosport-1-pt.png", Eurosport 1 SK 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
 #EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK 🇬🇧 (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2285
 #EXTINF:-1 tvg-id="Eurosport.2.E.ch" group-title="Eurosport" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/eurosport-2-uk.png", Eurosport 2 UK 🇬🇧 (b1)
@@ -1118,8 +1130,14 @@ http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/31950/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.2.HD.pt" group-title="Eurosport" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/eurosport-2-pt.png", Eurosport 2 PT 🇵🇹 (b3)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31950/index.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport.2.HD.cz" group-title="Eurosport" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/eurosport-2-pt.png", Eurosport 2 PT 🇨🇿
-http://178.23.88.55/Eurosport_2/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.cz" group-title="Eurosport" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/eurosport-2-pt.png", Eurosport 2 SK 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 
 #EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" group-title="Telemundo 🇲🇽" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/telemundo.png", Telemundo 🇲🇽 (b1)
@@ -1223,6 +1241,14 @@ http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/2556/index.m3u8
 
 #EXTINF:-1 tvg-id="ČT.sport.cz" tvg-logo="" group-title="Czech Republic Sports 🇨🇿" , CT Sport HD 🇨🇿
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="ČT.sport.cz" tvg-logo="" group-title="Czech Republic Sports 🇨🇿" , CT Sport HD 🇨🇿
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-id="Sport1.cz" tvg-logo="" group-title="Czech Republic Sports 🇨🇿" , Sport 1 HD 🇨🇿
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
@@ -1248,8 +1274,82 @@ http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
 #EXTINF:-1 tvg-id="Oneplay.Sport.3.cz" tvg-logo="" group-title="Czech Republic Sports 🇨🇿" , ONEPLAY 3 🇨🇿
 http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czech Republic Sports 🇨🇿", SPORTYTV 🇨🇿
+#EXTINF:-1 tvg-id="RTVS.SPORT.cz" tvg-logo="" group-title="Czech Republic Sports 🇨🇿" , RTVS SPORT 🇨🇿
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Sporty.TV.cz" tvg-logo="" group-title="Czech Republic Sports 🇨🇿", Sporty TV 🇨🇿
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="JOJ.ŠPORT.HD.sk" tvg-logo="" group-title="Slovakia Sports 🇸🇰", JOJ SPORT 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
+
+
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.sk" tvg-logo="" group-title="Slovakia Sports 🇸🇰" , Arena Sport 1 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.sk" tvg-logo="" group-title="Slovakia Sports 🇸🇰" , Arena Sport 2 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Sport1.HD.sk" tvg-logo="" group-title="Slovakia Sports 🇸🇰" , SPORT 1 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Sport2.HD.sk" tvg-logo="" group-title="Slovakia Sports 🇸🇰" , SPORT 2 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Nova.Sport.1.HD.sk" tvg-logo="" group-title="Slovakia Sports 🇸🇰" , NOVA SPORT 1 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Nova.Sport.2.HD.sk" tvg-logo="" group-title="Slovakia Sports 🇸🇰" , NOVA SPORT 2 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
 
 #EXTINF:-1 tvg-id="truTV.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/trutv.png", TruTV 🇺🇸 (r)
