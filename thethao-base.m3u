@@ -16,7 +16,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz"
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz"
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz"
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz"
@@ -1435,7 +1434,7 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 #EXTINF:-1 tvg-id="1SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssjl1j1627494247.png" group-title="Israel Sports 🇮🇱" , 1 SPORT 🇮🇱
 http://77.137.40.221:8000/play/a016
-#EXTINF:-1 tvg-id="1SPORT.HD.il" tvg-logo="" group-title="Israel Sports 🇮🇱" , 1 SPORT 🇮🇱
+#EXTINF:-1 tvg-id="1SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssjl1j1627494247.png" group-title="Israel Sports 🇮🇱" , 1 SPORT 🇮🇱
 http://185.132.134.159:80/sport1/index.m3u8
 
 #EXTINF:-1 tvg-id="2SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/27uvm51627494269.png" group-title="Israel Sports 🇮🇱" , 2 SPORT 🇮🇱
@@ -1479,7 +1478,7 @@ http://77.137.40.221:8000/play/a00i
 http://77.137.40.221:8000/play/a001
 
 
-#EXTINF:-1 tvg-id="S.SPORT.tr" tvg-logo="" group-title="Turkey Sports 🇹🇷" , S SPORT 🇹🇷
+#EXTINF:-1 tvg-id="S.SPORT.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1u01u91643201009.png" group-title="Turkey Sports 🇹🇷" , S SPORT 🇹🇷
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess1.m3u8
 
 #EXTINF:-1 tvg-id="ID.tr" tvg-logo="" group-title="Turkey Sports 🇹🇷" , IDMANTV 🇹🇷
@@ -1495,13 +1494,13 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="Ekol.Sports.tr" tvg-logo="" group-title="Turkey Sports 🇹🇷" , EKOL SPORTS 🇹🇷
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 
-#EXTINF:-1 tvg-id="TİVİBU.SPOR.1.tr" tvg-logo="" group-title="Turkey Sports 🇹🇷" , Tivibu Spor 1 🇹🇷
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Turkey Sports 🇹🇷" , Tivibu Spor 🇹🇷
 http://65.108.239.207/t1/index.m3u8
-#EXTINF:-1 tvg-id="TİVİBU.SPOR.2.tr" tvg-logo="" group-title="Turkey Sports 🇹🇷" , Tivibu Spor 2 🇹🇷
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.2.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png" group-title="Turkey Sports 🇹🇷" , Tivibu Spor 2 🇹🇷
 http://65.108.239.207/t2/index.m3u8
-#EXTINF:-1 tvg-id="TİVİBU.SPOR.3.tr" tvg-logo="" group-title="Turkey Sports 🇹🇷" , Tivibu Spor 3 🇹🇷
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.3.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/slwrz41642604502.png" group-title="Turkey Sports 🇹🇷" , Tivibu Spor 3 🇹🇷
 http://65.108.239.207/t3/index.m3u8
-#EXTINF:-1 tvg-id="TİVİBU.SPOR.4.tr" tvg-logo="" group-title="Turkey Sports 🇹🇷" , Tivibu Spor 4 🇹🇷
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.4.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/59bqi81642604517.png" group-title="Turkey Sports 🇹🇷" , Tivibu Spor 4 🇹🇷
 http://65.108.239.207/t4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Turkey Sports 🇹🇷" , Smart 1 🇹🇷
@@ -1510,18 +1509,16 @@ http://65.108.239.207/smart1/index.m3u8
 http://65.108.239.207/smart2/index.m3u8
 
 
-#EXTINF:-1 group-title="Uncategorized" , DSPORTS 1 🇦🇷
+#EXTINF:-1 tvg-id="" group-title="Argentina Sports 🇦🇷" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f8fyyg1642114077.png" , DirecTV Sports 1 🇦🇷
 http://201.230.121.85:8000/play/a0yv/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" , DSPORTS 1 🇦🇷
+#EXTINF:-1 tvg-id="" group-title="Argentina Sports 🇦🇷" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f8fyyg1642114077.png" , DirecTV Sports 1 🇦🇷
 http://190.117.20.37:8000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" , DSPORTS 1 🇦🇷
+#EXTINF:-1 tvg-id="" group-title="Argentina Sports 🇦🇷" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f8fyyg1642114077.png" , DirecTV Sports 1 🇦🇷
 http://190.117.20.39:8000/play/a08d/index.m3u8
 
-#EXTINF:-1 group-title="Uncategorized" , TELEFE 🇦🇷
+#EXTINF:-1 tvg-id="Canal.Telefé.(Argentina).ar" group-title="Argentina Sports 🇦🇷" tvg-logo="" , Canal Telefé 🇦🇷
 http://200.115.120.1:8000/play/ca016/index.m3u8
 
-#EXTINF:-1 group-title="Uncategorized" , TELECOSTA GUATEMALA 🇬🇹
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1 group-title="Uncategorized" , TDM Desporto 🇲🇴
 http://cdn6.163189.xyz/163189/amty
@@ -1547,9 +1544,6 @@ http://46.149.191.217:9010/play/a017
 
 #EXTINF:-1 group-title="Uncategorized" , 2 Super
 http://46.149.191.217:9010/play/a01m
-
-#EXTINF:-1 group-title="Uncategorized" , M+
-http://46.149.191.217:9010/play/a01r
 
 
 #EXTINF:-1 group-title="Uncategorized" , Sportdigital 🇩🇪
