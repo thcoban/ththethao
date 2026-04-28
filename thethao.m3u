@@ -712,7 +712,7 @@ http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/30063/index.m3u8
 #EXTINF:-1 tvg-id="8392" group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/espn-deportes.png", ESPN Deportes 🇺🇸
 http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
-#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 1 🇬🇧 (for) (r)
+#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 1 🇬🇧 (event only) (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
 
 #EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 1 (4) [AR] (r)
@@ -731,13 +731,13 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659428
 
 
-#EXTINF:-1 tvg-id="beIN.Sports.HD.ae" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 🇦🇪
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_EN.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 🇦🇪
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
-#EXTINF:-1 tvg-id="beIN.Sports.News.ae" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 🇦🇪
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 🇦🇪
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
@@ -2021,7 +2021,14 @@ https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 
+#EXTINF:-1 tvg-id="Fancode3" tvg-name="Fancode 3" tvg-logo="" group-title="Uncategorized", Test 1
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 
+#EXTINF:-1 tvg-id="Fancode3" tvg-name="Fancode 3" tvg-logo="" group-title="Uncategorized", Test 2
+https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+
+#EXTINF:-1 tvg-id="Fancode3" tvg-name="Fancode 3" tvg-logo="" group-title="Uncategorized", Test 3
+https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
  
 #EXTM3U
 #EXTM3U
@@ -2039,30 +2046,28 @@ https://hls-ls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6dae
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/240_164940911982.png",05h00 ngày 29/04 San Lorenzo vs Santos (Lương Sơn) BLV KENCHU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1777400861.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers (Lương Sơn) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1777400861.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers (Lương Sơn) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/60d4e81866206bbe2d1c3147e6ce5a94/image/small?v=1768601124",01h00 ngày 29/04 Al Hilal vs Damac (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/4e71a54c7c55cfd7abece9e3ad44f5f6/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/218d6e9ccf70235b399e76d716bba1d5/image/small?v=1768601124",00h00 ngày 29/04 Bonner vs RotvsWeiss Oberhausen (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ad18242c277a5f5efab2078cf3010b05/image/small?v=1768601124",05h00 ngày 29/04 San Lorenzo vs Santos Fc vs SP (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/50ae6c4c5c8f07421b970c3048c17b19/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b92c1c92962252668dc4d90bf631bbea/image/small?v=1768601124",00h00 ngày 29/04 Rigas Futbola Skola vs Riga FC (Khán Đài A) source
+https://live.alilicloud.com/live/db7ba46c3be3b9e69812213a659605d5/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2d9b31d68cd29921aa481b2f2d47b868/image/small?v=1768601124",06h00 ngày 29/04 Charlotte FC vs Atlanta United (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9d0382a27afaf5cfde948ecfb05b5b7e/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c01b7ecde3263270ed96334ce97f0b50/image/small?v=1768601124",00h00 ngày 29/04 El Mokawloon El Arab vs Ghazl El Mahallah (Khán Đài A) source
+https://live.alilicloud.com/live/1a0e4c4bd588d8dc0184ed3d3a2ecc41/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8995f7c42d311e226c2ebfa3a2474878/image/small?v=1768601124",06h00 ngày 29/04 CA Votuporanguense SP vs Juventus SP (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/34179c960af864416812b7cf058dfde7/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/751ca26e9fc85992fb54c7a1f3f4da7e/image/small?v=1768601124",00h00 ngày 29/04 VJS Vantaa B vs Käpylän Pallo (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5330becf500505378f08210dce939fba/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9bc1eb9587e3aaf2f1b4151a0c38bae0/image/small?v=1768601124",00h00 ngày 29/04 Beitar Jerusalem vs Hapoel Petah Tikva (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ec95ff1a4a87e5d1dae791846675a9bc/playlist.m3u8
+https://live.alilicloud.com/live/b7f08444934d1871ddfd5be929539116/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/44f3d8f5e5eb0f54b139ceb420b66b4e/image/small?v=1768601124",00h50 ngày 29/04 Al Bukayriyah vs Jeddah Sports Club (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2071,26 +2076,14 @@ https://live.alilicloud.com/live/084a35ee0bd7b068c8ca911843e36e44/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/ebbd1e8e493036782ea2457607dd1469/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fb0951a6682a274f7e7bfc91ca2115bd/image/small?v=1768601124",00h00 ngày 29/04 Kahraba Ismailia vs Bank El Ahly (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f4c627d6944a52d1df56d6b6f37bb626/image/small?v=1768601124",05h30 ngày 29/04 Ferrol Carril Oeste vs Almirante Brown (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/eb4d24c6e2ed8dc70ce760ea171f4ad0/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/39b7881082dcf9f909ff4bf027bf7d58/image/small?v=1768601124",00h00 ngày 29/04 Feirense vs SCU Torreense (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/586e5dcbdf13b2ba2903822542e34845/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0fb63c7cb13d9f50d5432ec9eaa1b381/image/small?v=1768601124",23h30 ngày 28/04 Academico Viseu U23 vs Leixoes U23 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/18b662014a6b9d139d79f80a12359eb2/playlist.m3u8
+https://live.alilicloud.com/live/bd740b9303c83234da985513875617be/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b0528999e3b2e9dfcab3ef85a2273c9d/image/small?v=1768601124",03h00 ngày 29/04 Independiente Medellin Women vs Once Caldas (w) (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/246430d971b89c8f24f691eaf27f9dda/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ff60b5e28002ffe13514e75059748798/image/small?v=1768601124",23h45 ngày 28/04 Roda JC vs RKC Waalwijk (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d886f1fa5da216e658389ea9e022b2cc/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e801af160b3633959b61d13ffed8a4ee/image/small?v=1768601124",01h45 ngày 29/04 Scunthorpe United vs Southend United (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2107,26 +2100,6 @@ https://live.alilicloud.com/live/cb4adfea454348552d2d8d785ec48eeb/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/1e3e5704ac8da6b1f89c057c0545a22b/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2c6c9388fc92656478dcb60eb5237bae/image/small?v=1768601124",23h45 ngày 28/04 NEOM Sports Club vs Al Hazem (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/911ef2b2f290fd642d9f3ebb7d9439b3/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2c6c9388fc92656478dcb60eb5237bae/image/small?v=1768601124",23h45 ngày 28/04 NEOM Sports Club vs Al Hazem (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-kda.fastestcdn-global.com/live/d82f270434ae47518f692ea63194d09d/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2c6c9388fc92656478dcb60eb5237bae/image/small?v=1768601124",23h45 ngày 28/04 NEOM Sports Club vs Al Hazem (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-kda.fastestcdn-global.com/live/d82f270434ae47518f692ea63194d09d/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2c6c9388fc92656478dcb60eb5237bae/image/small?v=1768601124",23h45 ngày 28/04 NEOM Sports Club vs Al Hazem (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-kda.fastestcdn-global.com/live/d82f270434ae47518f692ea63194d09d/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/055e8dd785ff3e5462afe11cf8c45ae7/image/small?v=1768601124",23h30 ngày 28/04 BFA Vilnius vs Babrungas (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ffca6161a790d8782395faff905f329d/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a040970aab09796d73be344824bd8632/image/small?v=1768601124",01h00 ngày 29/04 Sarmiento Junin Reserve vs River Plate R (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2135,18 +2108,10 @@ https://live.alilicloud.com/live/5dcf4ba27e878404ec8a39437b34bc76/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/427497a5acbb4625ce3183ea9e030e9a/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0c13a3d71e30c32ae3c6bbc7de279b1a/image/small?v=1768601124",23h10 ngày 28/04 Al Zulfi vs AlvsTai (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/8c618fe976d6288209ee47d00e5cc941/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6f9ab606179c957ae9297733b2d7e19c/image/small?v=1768601124",05h00 ngày 29/04 Botafogo vs RJ vs Independiente Petrolero (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/b6bcd91667ae8c66b496f3581bb7c8df/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/45a9f0e63c256ee68c32a6d507b1dbed/image/small?v=1768601124",23h30 ngày 28/04 FK REO LT Vilnius vs FK Riteriai (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/289ec515f47ef7c97be2a2161c42fdb8/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e1aa497ed73d54411618514d3a1a4db0/image/small?v=1768601124",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2159,10 +2124,6 @@ https://live.alilicloud.com/live/8d0d351db636c7be8d72f6ebc6a857ac/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/188a94605b6ebbee27b9d32087aca802/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/acfc0b9c9b58b9a7caf485f63bcc749d/image/small?v=1768601124",23h30 ngày 28/04 Maccabi Tel Aviv vs Hapoel Beer Sheva (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/8a1f148bc0dd9512a4a3641635d41352/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5b5856d61c050e75fbe3a9acbfeaea58/image/small?v=1768601124",01h00 ngày 29/04 JFC Helsinki vs HIFK (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2171,10 +2132,6 @@ https://live.alilicloud.com/live/6b750f58d689f41d3bedf2afeaf5291c/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/af03a576c8aded652e29e9766f494996/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/94be713f5b828139d9039a3db7e593a2/image/small?v=1768601124",23h30 ngày 28/04 Santa Clara U23 vs Sporting CP U23 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/565e7c288b70cfea1b0ff453b9419699/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ae2048c3e5e218b9434dec2b76e66568/image/small?v=1768601124",01h00 ngày 29/04 Gimnasia LP Reserves vs Tigre Reserves (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2235,42 +2192,26 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ad18242c277a5f5efab2078cf3010b05/image/small?v=1768601124",05h00 ngày 29/04 San Lorenzo vs Santos Fc vs SP (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/db7ba46c3be3b9e69812213a659605d5/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b0528999e3b2e9dfcab3ef85a2273c9d/image/small?v=1768601124",03h00 ngày 29/04 Independiente Medellin Women vs Once Caldas (w) (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/246430d971b89c8f24f691eaf27f9dda/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5b5856d61c050e75fbe3a9acbfeaea58/image/small?v=1768601124",01h00 ngày 29/04 JFC Helsinki vs HIFK (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2d9b31d68cd29921aa481b2f2d47b868/image/small?v=1768601124",06h00 ngày 29/04 Charlotte FC vs Atlanta United (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6b750f58d689f41d3bedf2afeaf5291c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/92b43f90afba5265564310f47bd3db75/image/small?v=1768601124",02h00 ngày 29/04 AD Fafe vs SC São João de Ver (Gà Vàng) source
+https://live.alilicloud.com/live/1a0e4c4bd588d8dc0184ed3d3a2ecc41/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8995f7c42d311e226c2ebfa3a2474878/image/small?v=1768601124",06h00 ngày 29/04 CA Votuporanguense SP vs Juventus SP (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ebbd1e8e493036782ea2457607dd1469/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/60d4e81866206bbe2d1c3147e6ce5a94/image/small?v=1768601124",01h00 ngày 29/04 Al Hilal vs Damac (Gà Vàng) source
+https://live.alilicloud.com/live/b7f08444934d1871ddfd5be929539116/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f4c627d6944a52d1df56d6b6f37bb626/image/small?v=1768601124",05h30 ngày 29/04 Ferrol Carril Oeste vs Almirante Brown (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4e71a54c7c55cfd7abece9e3ad44f5f6/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/e801af160b3633959b61d13ffed8a4ee/image/small?v=1768601124",01h45 ngày 29/04 Scunthorpe United vs Southend United (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/3228071211b99f7309d2c06e8e13b1a3/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/885dabe8e3487ab50e6a32d79d3262e1/image/small?v=1768601124",01h30 ngày 29/04 Hearts Women vs Partick Thistle Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6f16b9f6507808a9131b69a5e7283124/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/bdea14dbea1fe92a2ca0d20a131f0895/image/small?v=1768601124",01h45 ngày 29/04 Southampton vs Ipswich Town (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/cb4adfea454348552d2d8d785ec48eeb/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6451242cbf03b2bd7433a18797c82d7a/image/small?v=1768601124",01h00 ngày 29/04 Al Khaleej Club vs Al Najma(KSA) (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/1e3e5704ac8da6b1f89c057c0545a22b/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a040970aab09796d73be344824bd8632/image/small?v=1768601124",01h00 ngày 29/04 Sarmiento Junin Reserve vs River Plate R (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/5dcf4ba27e878404ec8a39437b34bc76/playlist.m3u8
+https://live.alilicloud.com/live/bd740b9303c83234da985513875617be/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8957312c09c9a56e2df781ce5e885540/image/small?v=1768601124",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -2283,142 +2224,214 @@ https://live.alilicloud.com/live/b6bcd91667ae8c66b496f3581bb7c8df/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/8c42c9012f9c1b76ff31b6029a0ca363/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/80c6659f721215fcc0a4af790766696e/image/small?v=1768601124",01h00 ngày 29/04 Newell's Reserves vs Central Cordoba SdE Reserves (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/8d0d351db636c7be8d72f6ebc6a857ac/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9af3e2ad4eabe9b735f946d133bfb609/image/small?v=1768601124",01h45 ngày 29/04 Northampton Town vs Barnsley (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/188a94605b6ebbee27b9d32087aca802/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f1c27f77b4fd34078aa429a5fb978421/image/small?v=1768601124",03h00 ngày 29/04 Argentina Women U17 vs Bolivia Women U17 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/af03a576c8aded652e29e9766f494996/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ae2048c3e5e218b9434dec2b76e66568/image/small?v=1768601124",01h00 ngày 29/04 Gimnasia LP Reserves vs Tigre Reserves (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/50ad34a0392556032d7dd9d7842d7a1e/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c926dd776d7b736d2d058a134228e10c.png",05h00 ngày 29/04 San Lorenzo vs Santos Fc - SP [NGƯỜI THÉP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1777416445-0-0-7f794b3834536d617ca4816b1277c70d
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1777421845-0-0-b0fd86022c27457e223d3d82d0e4920c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c926dd776d7b736d2d058a134228e10c.png",05h00 ngày 29/04 San Lorenzo vs Santos Fc - SP [NGƯỜI THÉP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1777416445-0-0-545c40731b2bb554fe66945ee3e09f92
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1777421845-0-0-afd66f52490eedde92b8fe1b82cf0c12
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c926dd776d7b736d2d058a134228e10c.png",05h00 ngày 29/04 San Lorenzo vs Santos Fc - SP [NGƯỜI THÉP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1777416445-0-0-c046125ec08097c9c9a9fe9c7e7d7764
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1777421845-0-0-42615091b5a0bed50d0fd39a7751ff88
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c926dd776d7b736d2d058a134228e10c.png",05h00 ngày 29/04 San Lorenzo vs Santos Fc - SP [NGƯỜI THÉP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1777416445-0-0-b1f398f1f8c55c340aaa0c35fc0403ce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [VỊT BẠC] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1777416445-0-0-d6700bd523c8554c2baa095b50a7b776
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [VỊT BẠC] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1777416445-0-0-f801f02529e5c7ec3dce4dbeaaa0d4a1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [VỊT BẠC] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1777416445-0-0-f9cc82acadddeda4bfb14dadf11d9d6f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [VỊT BẠC] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1777416445-0-0-190d44ee9f92b953fecf4d383849266f
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1777421845-0-0-1dafc33dce225ed13b65f76cb64c612a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/46176c9c50c5ae6b72891c39e9341051.png",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito [BLV LUCAS] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1777416445-0-0-cf7c8b921acb0de8a1abf5ba8e36a11f
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1777421845-0-0-3d7e6fed39b0d2753d36c8c13fa5effb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/46176c9c50c5ae6b72891c39e9341051.png",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito [BLV LUCAS] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1777416445-0-0-608e911850691132ad4257381679853f
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1777421845-0-0-02a770a73ad765f557769e77f3050298
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/46176c9c50c5ae6b72891c39e9341051.png",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito [BLV LUCAS] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1777416445-0-0-346c3a15957cbe24bf618a4320c46690
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1777421845-0-0-1728f86aeae84e9803ba1c16b30db08f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/46176c9c50c5ae6b72891c39e9341051.png",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito [BLV LUCAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1777416445-0-0-9d12617c4492cbef83f4152f3fb7744e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/e5d90d4af168a2298b013c9ff9388d3b.png",05h00 ngày 29/04 Botafogo - RJ vs Independiente Petrolero [PINKMAN] (Socolive) flv
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1777421845-0-0-702947eeb9cf41e8cd41865a683fdd57
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [VỊT BẠC] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=d0ec4be0662847c62f181b6602688812&txTime=69f180b5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/e5d90d4af168a2298b013c9ff9388d3b.png",05h00 ngày 29/04 Botafogo - RJ vs Independiente Petrolero [PINKMAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1777421845-0-0-14d29a77afb9f28cea11b714da63814f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [VỊT BẠC] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=1eb41b23cbbd0adc9ab4604ea7f97f4c&txTime=69f180b5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/e5d90d4af168a2298b013c9ff9388d3b.png",05h00 ngày 29/04 Botafogo - RJ vs Independiente Petrolero [PINKMAN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1777421845-0-0-e40d61ac8e1a395cf3973f48286873f4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [VỊT BẠC] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=d0ec4be0662847c62f181b6602688812&txTime=69f180b5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/e5d90d4af168a2298b013c9ff9388d3b.png",05h00 ngày 29/04 Botafogo - RJ vs Independiente Petrolero [PINKMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1777421845-0-0-03bef1aa7c269f87ad7403e1aff480ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [VỊT BẠC] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=1eb41b23cbbd0adc9ab4604ea7f97f4c&txTime=69f180b5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [BLV GÔN] (Socolive) flv
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1777421845-0-0-853ccb9a15c1233c0ce0ad7a932801e0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1777416805-0-0-1aae2b859e79e8d949657023206a5052
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [BLV GÔN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1777421845-0-0-c0d4d42ced3955b27f1ae4b70bda570e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1777416805-0-0-1dd50de4339017109237a0e17f147798
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [BLV GÔN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1777421845-0-0-ae248605bedc4740d37efa50c11d67c6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1777416805-0-0-e8f43d0f9f9970503a02373d1580bc23
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [BLV GÔN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1777421845-0-0-34c189c050cbda43c6b7376233d24ac6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1777416805-0-0-82c403d57a5afd3982bcfe8ab65c714d
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1777421845-0-0-fb880a3f32ed7992975f88f60762dea2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/9d55047ee143ef297f7d67c58be3903d.png",06h00 ngày 29/04 Charlotte FC vs Atlanta United [BLV KAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=415a6bb3018852174756dee96b88cfac&txTime=69f19465
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/9d55047ee143ef297f7d67c58be3903d.png",06h00 ngày 29/04 Charlotte FC vs Atlanta United [BLV KAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=64f5eb4b455199a26d8b5a92475631d6&txTime=69f19465
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/9d55047ee143ef297f7d67c58be3903d.png",06h00 ngày 29/04 Charlotte FC vs Atlanta United [BLV KAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=415a6bb3018852174756dee96b88cfac&txTime=69f19465
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/9d55047ee143ef297f7d67c58be3903d.png",06h00 ngày 29/04 Charlotte FC vs Atlanta United [BLV KAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=64f5eb4b455199a26d8b5a92475631d6&txTime=69f19465
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1777421845-0-0-f1bdab60c01df0bdd19088246d6d521d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1777421845-0-0-8140cc98b3b0425abfc8c0f4a0037838
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1777421845-0-0-700251a03062abb1103b8011e4a4db73
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1777421845-0-0-8475e918526eaaab43cb39a4828be307
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1777421845-0-0-4e1cb741f2954516d49216d581807d91
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1777421845-0-0-32cf618417a41b555a7a73be1e0a968c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1777421845-0-0-810e27107135170e876696d1dc38aa2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1777421845-0-0-99f512c0559d29a7195f53d5e2b31db8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [BLV NIBO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1777416820-0-0-e769bfb6c5cded1841cc98a2356f3ba2
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1777422205-0-0-9758bfdde7ca498f685c7a695ac9af4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [BLV NIBO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1777416820-0-0-eb52a507757c616cfa984db677c8b82b
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1777422205-0-0-c0a8ddef5fdd5efbb1235734ef67b12e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [BLV NIBO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1777416820-0-0-ff868cee9f05aa7e959fd431274102a8
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1777422205-0-0-c65a25198157196996b3fda2d4e557a7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [BLV NIBO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1777416820-0-0-ea8a0c536f53ccbc4dfcc5fdecc10f05
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1777422205-0-0-424bd532f9cccb154a37d3e2f592a14b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/e5d90d4af168a2298b013c9ff9388d3b.png",05h00 ngày 29/04 Botafogo - RJ vs Independiente Petrolero [PINKMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=71008a43e17669a12dbb130734892f02&txTime=69f195cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/e5d90d4af168a2298b013c9ff9388d3b.png",05h00 ngày 29/04 Botafogo - RJ vs Independiente Petrolero [PINKMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=b333dedfff553f9cc3011d3cb9a2f8c2&txTime=69f195cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/e5d90d4af168a2298b013c9ff9388d3b.png",05h00 ngày 29/04 Botafogo - RJ vs Independiente Petrolero [PINKMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=71008a43e17669a12dbb130734892f02&txTime=69f195cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/e5d90d4af168a2298b013c9ff9388d3b.png",05h00 ngày 29/04 Botafogo - RJ vs Independiente Petrolero [PINKMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=b333dedfff553f9cc3011d3cb9a2f8c2&txTime=69f195cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [BLV GÔN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1777422205-0-0-2e0819a87ae49bc4e468187544cdf437
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [BLV GÔN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1777422205-0-0-c799b7272f8dba0d02adfe0696a465cc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [BLV GÔN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1777422205-0-0-4f19c96ee92e2a7d36800d381fdf97a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/64e91be767a6b5a836d89a1a49af1a5a.png",05h00 ngày 29/04 Club Libertad Asunción vs Independiente del Valle [BLV GÔN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1777422205-0-0-6fc6acf2c3b58275c498d50ca8603d8c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c926dd776d7b736d2d058a134228e10c.png",05h00 ngày 29/04 San Lorenzo vs Santos Fc - SP [CHANH MUỐI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1777416805-0-0-5b8e9cfb173ff43c4c91dd3872c47ca7
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1777422205-0-0-959486f229cb484300884119055c36d8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c926dd776d7b736d2d058a134228e10c.png",05h00 ngày 29/04 San Lorenzo vs Santos Fc - SP [CHANH MUỐI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1777416805-0-0-dcbfb86941179e699ac83887a9993863
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1777422205-0-0-40bdafddb866025d3169ee12348c99c8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c926dd776d7b736d2d058a134228e10c.png",05h00 ngày 29/04 San Lorenzo vs Santos Fc - SP [CHANH MUỐI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1777416805-0-0-3f20dc249dd17f189c96c3b0f1e22a4c
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1777422205-0-0-02f0dbca2ca44c6a535fad8aebb9eac7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c926dd776d7b736d2d058a134228e10c.png",05h00 ngày 29/04 San Lorenzo vs Santos Fc - SP [CHANH MUỐI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1777416805-0-0-523da431fd7b7c2b43256afae8b0a240
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/46176c9c50c5ae6b72891c39e9341051.png",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito [BLV SATIVA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1777417165-0-0-59fa13912bb640344fe3cd31162010ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/46176c9c50c5ae6b72891c39e9341051.png",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito [BLV SATIVA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1777417165-0-0-e31cab78fcb0ebd8d1e27509d5ffa945
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/46176c9c50c5ae6b72891c39e9341051.png",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito [BLV SATIVA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1777417165-0-0-b2a78e9709288516bae183632acfe038
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/46176c9c50c5ae6b72891c39e9341051.png",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito [BLV SATIVA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1777417165-0-0-ca0b3d3120403aa01a799fc14c4317ed
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1777422205-0-0-daad90d70fb270ff9cceea82fa314de6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/46176c9c50c5ae6b72891c39e9341051.png",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito [BLV CHIVAS] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=226a74fbd1656ddebbfad08e58367361&txTime=69f1821d
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=1e94ed299705e522b8bcfdbde909ceea&txTime=69f19735
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/46176c9c50c5ae6b72891c39e9341051.png",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito [BLV CHIVAS] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=43bcaa8e68ec2d9c73c5d69d83c7c83d&txTime=69f1821d
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=e7b0a0ad5af005da2e59a904f723dc33&txTime=69f19735
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/46176c9c50c5ae6b72891c39e9341051.png",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito [BLV CHIVAS] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=226a74fbd1656ddebbfad08e58367361&txTime=69f1821d
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=1e94ed299705e522b8bcfdbde909ceea&txTime=69f19735
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/46176c9c50c5ae6b72891c39e9341051.png",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito [BLV CHIVAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=43bcaa8e68ec2d9c73c5d69d83c7c83d&txTime=69f1821d
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=e7b0a0ad5af005da2e59a904f723dc33&txTime=69f19735
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1777422565-0-0-a0fb08a5a7600bb20be11c6400028246
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1777422565-0-0-0c80d77f536bc8a4e255ce21f0e2eb32
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1777422565-0-0-94c4c1a7f8538ecffaab21f52ccf024f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1777422565-0-0-38581ba152eaebe406d42f0d5693ee46
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/46176c9c50c5ae6b72891c39e9341051.png",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito [BLV SATIVA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1777422565-0-0-b012a1d32581497428a8366c3ec61af7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/46176c9c50c5ae6b72891c39e9341051.png",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito [BLV SATIVA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1777422565-0-0-2ebff5b81e0b20fbe58529f2f9beaa63
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/46176c9c50c5ae6b72891c39e9341051.png",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito [BLV SATIVA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1777422565-0-0-698893199fb5d7848112cb12864021ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/46176c9c50c5ae6b72891c39e9341051.png",05h00 ngày 29/04 Club Atlético Lanús vs Liga Dep Universitaria Quito [BLV SATIVA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1777422565-0-0-d2c68b8d343a4dbbb8fdf2f15d579a0c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/e5d90d4af168a2298b013c9ff9388d3b.png",05h00 ngày 29/04 Botafogo - RJ vs Independiente Petrolero [BLV ANH TÀI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1777417165-0-0-d3971fdacb061e54bd2e68504dbc9d4b
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1777422565-0-0-af61aae87d776d8d4ea73d05f4bfc382
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/e5d90d4af168a2298b013c9ff9388d3b.png",05h00 ngày 29/04 Botafogo - RJ vs Independiente Petrolero [BLV ANH TÀI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1777417165-0-0-f855df77b6213147f5ed236378326559
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1777422565-0-0-80bcd70e574b96f999f75edc676e71b3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/e5d90d4af168a2298b013c9ff9388d3b.png",05h00 ngày 29/04 Botafogo - RJ vs Independiente Petrolero [BLV ANH TÀI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1777417165-0-0-6b24e941caf27478abe10ce7334df3ed
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1777422565-0-0-65a357ca3639a147fd4b931da6657e41
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/e5d90d4af168a2298b013c9ff9388d3b.png",05h00 ngày 29/04 Botafogo - RJ vs Independiente Petrolero [BLV ANH TÀI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1777417165-0-0-94ed6141f8eaad5a51fcbf032508368d
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1777422565-0-0-7c17a673abee422f605a1e3a82414d4c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/9d55047ee143ef297f7d67c58be3903d.png",06h00 ngày 29/04 Charlotte FC vs Atlanta United [BLV CUỘI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-256080_lsd.flv?txSecret=5408a50bdc3f3e44c4928328c7beabbe&txTime=69f19735
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/9d55047ee143ef297f7d67c58be3903d.png",06h00 ngày 29/04 Charlotte FC vs Atlanta United [BLV CUỘI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-256080_lhd.flv?txSecret=418d29811d19fe5ef6b0e3b61105d632&txTime=69f19735
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/9d55047ee143ef297f7d67c58be3903d.png",06h00 ngày 29/04 Charlotte FC vs Atlanta United [BLV CUỘI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-256080_lsd.m3u8?txSecret=5408a50bdc3f3e44c4928328c7beabbe&txTime=69f19735
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/9d55047ee143ef297f7d67c58be3903d.png",06h00 ngày 29/04 Charlotte FC vs Atlanta United [BLV CUỘI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=418d29811d19fe5ef6b0e3b61105d632&txTime=69f19735
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912115_lsd.flv?txSecret=4158bb6d773db8f356030cb89c90c72c&txTime=69f19735
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912115_lhd.flv?txSecret=0024cbd9ad622cee22441a90c2cb0aef&txTime=69f19735
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=4158bb6d773db8f356030cb89c90c72c&txTime=69f19735
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260427/aeea619c7441de23dec9f3203de7b223.png",06h00 ngày 29/04 Boston Celtics vs Philadelphia 76ers [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=0024cbd9ad622cee22441a90c2cb0aef&txTime=69f19735
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/460.png",05h00 29/04 San Lorenzo vs Santos (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2431,6 +2444,18 @@ https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f5/Boston_Celtics.png",06h00 29/04 Boston Celtics vs Philadelphia 76ers (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f5/Boston_Celtics.png",06h00 29/04 Boston Celtics vs Philadelphia 76ers (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f5/Boston_Celtics.png",06h00 29/04 Boston Celtics vs Philadelphia 76ers (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Zverev_MCM23_%2820%29.jpg",03h00 29/04 Alexander Zverev vs Jakub Mensik (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2449,6 +2474,12 @@ https://live5.msrktz.app/live/78905744.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80",05h00 29/04 San Lorenzo vs Santos
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/99121525.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80",06h00 29/04 Boston Celtics vs Philadelphia 76ers
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/90865415.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/5c01731e3c513a3797c85b95c436e0d9.png!w80",06h00 29/04 Charlotte FC vs Atlanta Utd
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/87547578.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Quê Choa",[Pro League] 01h00 29/04 Al Khaleej Saihat vs Al Najma [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
