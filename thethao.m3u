@@ -1,33 +1,5 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml.gz"
-
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AT1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_Ph1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_RS1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_VN1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 
 # Disclaimer: Links were collected on the internet. For legal issues, please contact appropriate media file owners/hosters.
@@ -740,22 +712,22 @@ http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/30063/index.m3u8
 #EXTINF:-1 tvg-id="8392" group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/espn-deportes.png", ESPN Deportes 🇺🇸
 http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
-
-#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 1 [AR] (r)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/714411
-#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 1 🇬🇧 (r)
+#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 1 🇬🇧 (for) (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
-#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 1 [AR] (b1)
+
+#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 1 (4) [AR] (r)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/714411
+#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 1 (4) [AR] (b1)
 http://cwx6kmfd.otttv.pw/iptv/SZZ2LTTQ7Y9KPGCDB2G4ENGH/6123/index.m3u8
-#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 1 [AR] (b2)
+#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 1 (4) [AR] (b2)
 http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/6123/index.m3u8
-#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 1 [AR] (b3)
+#EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 1 [(4) AR] (b3)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6123/index.m3u8
 
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.(HD).sg" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-2.png", beIN Sports 1 [SG] (r)
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.hk" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-2.png", beIN Sports 2 [HK] (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
-#EXTINF:-1 tvg-id="beIN_SPORTS2_FRENCH_Digital_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-2.png", beIN Sports 2 [AR] (r)
+#EXTINF:-1 tvg-id="beIN_SPORTS2_FRENCH_Digital_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-2.png", beIN Sports 2 (for) [AR] (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/659428
 
 
@@ -2061,52 +2033,18 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2953_1gzczbcwx42d.png",07h00 ngày 28/04 Sociedad Deportiva Aucas vs Delfin SC (Lương Sơn) BLV KHỔNG MINH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2953_1gzczbcwx42d.png",07h00 ngày 28/04 Sociedad Deportiva Aucas vs Delfin SC (Lương Sơn) BLV KHỔNG MINH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4500_1gtqkznmt930.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors (Lương Sơn) BLV KENCHU m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4500_1gtqkznmt930.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors (Lương Sơn) BLV KENCHU flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1777311239.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1777311239.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3d36ecc5a26df190a1c5488b3b16c2d7/image/small?v=1768601124",05h00 ngày 28/04 Athletic Club vs Nautico (PE) (Khán Đài A) source
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1777311262.png",08h30 ngày 28/04 Phoenix Suns vs Oklahoma City Thunder (Lương Sơn) BLV VÕ TÒNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/fc136ab201e4fa06a146330dfddca1c5/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2512f96d1f97f9174ae7763763a3f8c5/image/small?v=1768601124",07h30 ngày 28/04 Mount Pleasant FA vs Waterhouse FC (Khán Đài A) source
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1777311262.png",08h30 ngày 28/04 Phoenix Suns vs Oklahoma City Thunder (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e37e0b75107e1bf4ef4eb2810b322329/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/caa38bc35c5f4c7c72cb1b18cb6f0a40/image/small?v=1768601124",08h00 ngày 28/04 International San Carlos vs Pitbulls (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ac626f7d68daff86537ab8f4cb30553b/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/13b0c7e244914f1707717fb286ef8e7c/image/small?v=1768601124",05h00 ngày 28/04 Bogota FC vs Union Magdalena (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7903f499f610b338400af8208554d61a/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ec918263eace08c3d1bad8d37cabd2c0/image/small?v=1768601124",03h00 ngày 28/04 Venezuela Women U17 vs Ecuador U17 Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/08f13218d969085b75fac39ffb896514/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/142b49c0322c369643ff267b96a2f239/image/small?v=1768601124",04h45 ngày 28/04 Velez Sarsfield vs Club Atlético Unión (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a74cab56087cd7d953a58c66f2f84afe/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e6990ebe89abe2d617d9f4d15515c6cd/image/small?v=1768601124",03h00 ngày 28/04 AD Tarma vs Los Chankas (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/aa6cb87c1a61ab7120a3e3dd642893bf/playlist.m3u8
+https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f423502482f910c999463c3297231dbd/image/small?v=1768601124",06h00 ngày 28/04 Ellerton FC vs Bagatelle SS (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2155,14 +2093,26 @@ https://live.alilicloud.com/live/75bec7875f8378f7d6991a008b4875f8/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f8a628593c8c2d1da23a423e23e17c64/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132721_d2eaa045.png",07h00 ngày 28/04 Huracan vs Argentinos JRS (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132721_d2eaa045.png",07h00 ngày 28/04 Huracan vs Argentinos JRS (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3d36ecc5a26df190a1c5488b3b16c2d7/image/small?v=1768601124",05h00 ngày 28/04 Athletic Club vs Nautico (PE) (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/fc136ab201e4fa06a146330dfddca1c5/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2512f96d1f97f9174ae7763763a3f8c5/image/small?v=1768601124",07h30 ngày 28/04 Mount Pleasant FA vs Waterhouse FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e37e0b75107e1bf4ef4eb2810b322329/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/caa38bc35c5f4c7c72cb1b18cb6f0a40/image/small?v=1768601124",08h00 ngày 28/04 International San Carlos vs Pitbulls (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ac626f7d68daff86537ab8f4cb30553b/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/13b0c7e244914f1707717fb286ef8e7c/image/small?v=1768601124",05h00 ngày 28/04 Bogota FC vs Union Magdalena (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/7903f499f610b338400af8208554d61a/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/142b49c0322c369643ff267b96a2f239/image/small?v=1768601124",04h45 ngày 28/04 Velez Sarsfield vs Club Atlético Unión (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a74cab56087cd7d953a58c66f2f84afe/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134615_6b83f5fd.png",15h30 ngày 28/04 Arema FC vs Persebaya Surabaya (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -2323,50 +2273,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a4b51f131cc552ebadedc71910b05d02/image/small?v=1768601124",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9cc9f111c81df5ecdea9a7588afb9f27/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a4b51f131cc552ebadedc71910b05d02/image/small?v=1768601124",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/fef60e7adf0e40ccae5667a080d7b86c/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a4b51f131cc552ebadedc71910b05d02/image/small?v=1768601124",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/fef60e7adf0e40ccae5667a080d7b86c/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a4b51f131cc552ebadedc71910b05d02/image/small?v=1768601124",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc67063175.stream.hdplaylink.com/live/fef60e7adf0e40ccae5667a080d7b86c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a4b51f131cc552ebadedc71910b05d02/image/small?v=1768601124",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc67063175.stream.hdplaylink.com/live/fef60e7adf0e40ccae5667a080d7b86c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a4b51f131cc552ebadedc71910b05d02/image/small?v=1768601124",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc67063175.stream.hdplaylink.com/live/fef60e7adf0e40ccae5667a080d7b86c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a4b51f131cc552ebadedc71910b05d02/image/small?v=1768601124",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc67063175.stream.hdplaylink.com/live/fef60e7adf0e40ccae5667a080d7b86c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3d36ecc5a26df190a1c5488b3b16c2d7/image/small?v=1768601124",05h00 ngày 28/04 Athletic Club vs Nautico (PE) (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/fc136ab201e4fa06a146330dfddca1c5/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2512f96d1f97f9174ae7763763a3f8c5/image/small?v=1768601124",07h30 ngày 28/04 Mount Pleasant FA vs Waterhouse FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/e37e0b75107e1bf4ef4eb2810b322329/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/caa38bc35c5f4c7c72cb1b18cb6f0a40/image/small?v=1768601124",08h00 ngày 28/04 International San Carlos vs Pitbulls (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ac626f7d68daff86537ab8f4cb30553b/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/13b0c7e244914f1707717fb286ef8e7c/image/small?v=1768601124",05h00 ngày 28/04 Bogota FC vs Union Magdalena (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7903f499f610b338400af8208554d61a/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f423502482f910c999463c3297231dbd/image/small?v=1768601124",06h00 ngày 28/04 Ellerton FC vs Bagatelle SS (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -2379,26 +2285,14 @@ https://live.alilicloud.com/live/ecdaf95a9bbd78af778ede1332026781/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/48d361b78daac74c6622a74b4a79a029/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3e985d7cb87aa7b40da60e18f4cad136/image/small?v=1768601124",04h30 ngày 28/04 Manta FC vs CD Universidad Católica (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/3e83a52c86304c9e2699c018186a5cc0/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3939f1bf1c051e39e27f036629ee8de3/image/small?v=1768601124",07h30 ngày 28/04 SV Deportivo Nacional vs SV Caravel (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/426552cc2621d927b66c331979ba7ca8/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/94c3732cb694a24553cea85492e61025/image/small?v=1768601124",04h30 ngày 28/04 CA Talleres de Cordoba Women vs Racing Club Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6fa9788afd8f12affd5cfe802c3dc616/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8f4b2b1c32ac1f68630fb5fa1089a0c9/image/small?v=1768601124",06h00 ngày 28/04 Uruguay Women U17 vs Brazil U17 Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/610dcaa6466e915f938450d6fb2c7873/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/142b49c0322c369643ff267b96a2f239/image/small?v=1768601124",04h45 ngày 28/04 Velez Sarsfield vs Club Atlético Unión (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a74cab56087cd7d953a58c66f2f84afe/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d71bef83bc36480a20cd286cc8415983/image/small?v=1768601124",07h00 ngày 28/04 Deportivo Garcilaso vs FBC Melgar (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -2415,222 +2309,146 @@ https://live.alilicloud.com/live/75bec7875f8378f7d6991a008b4875f8/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/f8a628593c8c2d1da23a423e23e17c64/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/ba58a5c6898a3fb6fb4a37dfc56b5f24.png",07h00 ngày 28/04 Sociedad Deportiva Aucas vs Delfin SC [BLV SATIVA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1777342645-0-0-bd88270b24b78a6828aba844ebbefa02
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/ba58a5c6898a3fb6fb4a37dfc56b5f24.png",07h00 ngày 28/04 Sociedad Deportiva Aucas vs Delfin SC [BLV SATIVA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1777342645-0-0-7a8c221600d6645a33b58afb6643987d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/ba58a5c6898a3fb6fb4a37dfc56b5f24.png",07h00 ngày 28/04 Sociedad Deportiva Aucas vs Delfin SC [BLV SATIVA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1777342645-0-0-c7c1640baef24999b571f182fd98319a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/ba58a5c6898a3fb6fb4a37dfc56b5f24.png",07h00 ngày 28/04 Sociedad Deportiva Aucas vs Delfin SC [BLV SATIVA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1777342645-0-0-1529eb2632fcf5664b754457a51b2875
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/ba58a5c6898a3fb6fb4a37dfc56b5f24.png",07h00 ngày 28/04 Sociedad Deportiva Aucas vs Delfin SC [PINKMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=686c4162842461769f775632915d2c49&txTime=69f05f05
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/ba58a5c6898a3fb6fb4a37dfc56b5f24.png",07h00 ngày 28/04 Sociedad Deportiva Aucas vs Delfin SC [PINKMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=285e95f9de8d6f162982c945d103c968&txTime=69f05f05
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/ba58a5c6898a3fb6fb4a37dfc56b5f24.png",07h00 ngày 28/04 Sociedad Deportiva Aucas vs Delfin SC [PINKMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=686c4162842461769f775632915d2c49&txTime=69f05f05
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/ba58a5c6898a3fb6fb4a37dfc56b5f24.png",07h00 ngày 28/04 Sociedad Deportiva Aucas vs Delfin SC [PINKMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=285e95f9de8d6f162982c945d103c968&txTime=69f05f05
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lsd.flv?txSecret=c67cd6863ab9aff05187de240f6a1a1f&txTime=69f05f05
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lhd.flv?txSecret=30f81789a32fa502bfa8d9a7ab0ac7d1&txTime=69f05f05
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=c67cd6863ab9aff05187de240f6a1a1f&txTime=69f05f05
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=30f81789a32fa502bfa8d9a7ab0ac7d1&txTime=69f05f05
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/8d95a1cad703a4a97ca4eb0923e660a9.png",02h00 ngày 28/04 RCD Espanyol vs Levante [THE KOP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1777342645-0-0-d0563f46fbabf587f837a8e306df311f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/8d95a1cad703a4a97ca4eb0923e660a9.png",02h00 ngày 28/04 RCD Espanyol vs Levante [THE KOP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1777342645-0-0-f59297c1cea5a5a98352dcff1fb01e02
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/8d95a1cad703a4a97ca4eb0923e660a9.png",02h00 ngày 28/04 RCD Espanyol vs Levante [THE KOP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1777342645-0-0-c697dfea6eb701b6db0b438e7a4c2303
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/8d95a1cad703a4a97ca4eb0923e660a9.png",02h00 ngày 28/04 RCD Espanyol vs Levante [THE KOP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1777342645-0-0-11735e994019fa9a32a272211a5aefff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1777343005-0-0-65ce85211462ca6556e271b1428d0fa5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1777343005-0-0-cc7cc7f17cb4a273adc2dd25206f7d53
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1777343005-0-0-33d3f9bea53566319c8c29bed2b642be
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1777343005-0-0-a77ac892b9e3e2af2a6b4d6da4ce1d41
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2512f96d1f97f9174ae7763763a3f8c5/image/small?v=1768601124",07h30 ngày 28/04 Mount Pleasant FA vs Waterhouse FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/e37e0b75107e1bf4ef4eb2810b322329/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/caa38bc35c5f4c7c72cb1b18cb6f0a40/image/small?v=1768601124",08h00 ngày 28/04 International San Carlos vs Pitbulls (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/ac626f7d68daff86537ab8f4cb30553b/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1777343005-0-0-98fb91f3a09dafe635b0076e59439c0e
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1777345165-0-0-2b827fe20f32e2ce1107e2ec815cf44a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1777343005-0-0-d4e77d15fef4e93842a1f31671eef8b7
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1777345165-0-0-f9ad6bdde5a23422be2907ac405b3100
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1777343005-0-0-8c9d89968c42ca6700f9d048f00f97b1
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1777345165-0-0-d96db2e6d61bf2f0d76a306c3938d3eb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1777343005-0-0-c4f2edb5a74ac0ff0253afaef20503c3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/ba58a5c6898a3fb6fb4a37dfc56b5f24.png",07h00 ngày 28/04 Sociedad Deportiva Aucas vs Delfin SC [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-472241_lsd.flv?txSecret=9d58ff974cd434901e0872f4eab1b33e&txTime=69f0606d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/ba58a5c6898a3fb6fb4a37dfc56b5f24.png",07h00 ngày 28/04 Sociedad Deportiva Aucas vs Delfin SC [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-472241_lhd.flv?txSecret=82d02bc421151034713b651c75c35b8c&txTime=69f0606d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/ba58a5c6898a3fb6fb4a37dfc56b5f24.png",07h00 ngày 28/04 Sociedad Deportiva Aucas vs Delfin SC [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=9d58ff974cd434901e0872f4eab1b33e&txTime=69f0606d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/ba58a5c6898a3fb6fb4a37dfc56b5f24.png",07h00 ngày 28/04 Sociedad Deportiva Aucas vs Delfin SC [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=82d02bc421151034713b651c75c35b8c&txTime=69f0606d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/f7c6d24adf395423e1db1ab829a17494.png",07h00 ngày 28/04 Deportivo Garcilaso vs FBC Melgar [VỊT BẠC] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1777343005-0-0-f1f8ee0a4cee415822a8f101aa0d55e4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/f7c6d24adf395423e1db1ab829a17494.png",07h00 ngày 28/04 Deportivo Garcilaso vs FBC Melgar [VỊT BẠC] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1777343005-0-0-5cc5da4f1ff62c7aac0ca8cfc6789d7b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/f7c6d24adf395423e1db1ab829a17494.png",07h00 ngày 28/04 Deportivo Garcilaso vs FBC Melgar [VỊT BẠC] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1777343005-0-0-6176eb823a29f350f851a67eb2ea265a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/f7c6d24adf395423e1db1ab829a17494.png",07h00 ngày 28/04 Deportivo Garcilaso vs FBC Melgar [VỊT BẠC] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1777343005-0-0-3f137a5c69cc25757cbdb0b398ebaf9e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/f7c6d24adf395423e1db1ab829a17494.png",07h00 ngày 28/04 Deportivo Garcilaso vs FBC Melgar [BLV GÔN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1777343005-0-0-6fa901a2578ce4662f6b6bedaa80e7f8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/f7c6d24adf395423e1db1ab829a17494.png",07h00 ngày 28/04 Deportivo Garcilaso vs FBC Melgar [BLV GÔN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1777343005-0-0-78978f695b5ff4a0618bdf786b768aa8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/f7c6d24adf395423e1db1ab829a17494.png",07h00 ngày 28/04 Deportivo Garcilaso vs FBC Melgar [BLV GÔN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1777343005-0-0-c50eff68080fdd2c685178f017b5a9f6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/f7c6d24adf395423e1db1ab829a17494.png",07h00 ngày 28/04 Deportivo Garcilaso vs FBC Melgar [BLV GÔN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1777343005-0-0-0cce1a35784ac1849a37975a2325d6d7
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1777345165-0-0-0ddfc35e8811b7835a192eff77ca73a8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1777343005-0-0-e42fe4e4ccae74552fd725a2f94a6478
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1777345165-0-0-c897030c949e526a12bf8ae340cd6845
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [A CHÈ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1777343005-0-0-c30c7497230863b592a3e947c1d5223d
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1777345165-0-0-65f605e16bd9c30fa895f24b04b2f542
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [A CHÈ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1777343005-0-0-c261020a7d5a01837292aa3a8ce26f86
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1777345165-0-0-ce77a850a74931ecea3600b0b36adcd5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [A CHÈ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1777343005-0-0-33ccd0efc1c55537005d3da68cb84607
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [TYPN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=63e3ae43a760d9b478e9a791d8290abe&txTime=69f061d5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [TYPN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=961d3f77498a90c454dca0b18a37708e&txTime=69f061d5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [TYPN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=63e3ae43a760d9b478e9a791d8290abe&txTime=69f061d5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [TYPN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=961d3f77498a90c454dca0b18a37708e&txTime=69f061d5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1777343365-0-0-f0a72d6e3bc789b2bef02f9afbafca00
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1777343365-0-0-2ccbbaf851c7f95f8c623b90f75e1734
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1777343365-0-0-f24b469a963153f1e6d7f96865d13f5f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1777343365-0-0-b15e32e927358f58a326dfa46416eb90
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [BLV ENZO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1777343365-0-0-d631a5295bb41e5f297da22d72006d69
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [BLV ENZO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1777343365-0-0-bea31b47c2bd46c936521eccb0177514
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [BLV ENZO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1777343365-0-0-c1994cd6c503c511f3763a31d31f500a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [BLV ENZO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1777343365-0-0-f9c085b837d06cf55c7192b5f7c69008
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1777343365-0-0-490ef370f77b8ac4b76b74928c6b5698
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1777343365-0-0-a5e622f46e7ec4c67a3d01cdfe8b0f43
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1777343365-0-0-3f22a7f6a6eb35cb9e845e4488f77327
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1777343365-0-0-a30cfd473a4e2631d24c7cb72c1850f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/f7c6d24adf395423e1db1ab829a17494.png",07h00 ngày 28/04 Deportivo Garcilaso vs FBC Melgar [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1777343365-0-0-8c6f0060ddb03c8ca85ee3f37b0158c7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/f7c6d24adf395423e1db1ab829a17494.png",07h00 ngày 28/04 Deportivo Garcilaso vs FBC Melgar [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1777343365-0-0-8485121c68d974035c239140e7d33283
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/f7c6d24adf395423e1db1ab829a17494.png",07h00 ngày 28/04 Deportivo Garcilaso vs FBC Melgar [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1777343365-0-0-9cd27f9ba282e85c4ae8fdc854bf1d06
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/f7c6d24adf395423e1db1ab829a17494.png",07h00 ngày 28/04 Deportivo Garcilaso vs FBC Melgar [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1777343365-0-0-4d86438b398b0c158de347b29de7cff8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1777343365-0-0-5d56a26149ff9544532ec3160e6123eb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1777343365-0-0-45d0cc99ce3109c4f2b950d0aafb12d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1777343365-0-0-85be0dcbe3940e3f67d26ba09125b410
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/c515e52c3d5e5f91ab9b675cdea1d6ba.png",07h00 ngày 28/04 CA Huracan vs Argentinos Juniors [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1777343365-0-0-0bdadafe5f9f589a76a3308311f586a5
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1777345165-0-0-6abc9fe9119369df6e3963659024858e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1777343365-0-0-c31f68db17d4df52c6418d758e0076aa
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1777345525-0-0-2a6aac4cdb03c420eda91b34408a0bbd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1777343365-0-0-d14373544d2af32e2ca29d64dc454de7
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1777345525-0-0-8d223ce7155039fa453fb93c6338cd20
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1777343365-0-0-ce527874f2fae65786fa04afbb0f8cec
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1777345525-0-0-debdca0aee0366f6ccb33596cc92252d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1777343365-0-0-f098544403f22a984e5352d046010927
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/445.png",07h00 28/04 Huracan vs Argentinos JRS (Hội Quán) FHD 
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1777345525-0-0-e882b098b3a2e9211a84b73a27bd1429
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/8d95a1cad703a4a97ca4eb0923e660a9.png",02h00 ngày 28/04 RCD Espanyol vs Levante [THE KOP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/445.png",07h00 28/04 Huracan vs Argentinos JRS (Hội Quán) HD 
+https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1777345885-0-0-f26cf67222d26dcc1d54adfe514b5439
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/8d95a1cad703a4a97ca4eb0923e660a9.png",02h00 ngày 28/04 RCD Espanyol vs Levante [THE KOP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/445.png",07h00 28/04 Huracan vs Argentinos JRS (Hội Quán) SD 
+https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1777345885-0-0-44fcf1f10534daa213c1ac1dff567dad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/8d95a1cad703a4a97ca4eb0923e660a9.png",02h00 ngày 28/04 RCD Espanyol vs Levante [THE KOP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1777345885-0-0-876f01b583e013a58eebbfcfa7709bb8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260425/8d95a1cad703a4a97ca4eb0923e660a9.png",02h00 ngày 28/04 RCD Espanyol vs Levante [THE KOP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1777345885-0-0-fbd58db721c8da21a1e41a9ba8f8ed9c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912115_lsd.flv?txSecret=e2d2fd8a2036dc4b0bd18259a1db19c0&txTime=69f06bad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912115_lhd.flv?txSecret=59dca576e37891d0c826602765bdea2e&txTime=69f06bad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=e2d2fd8a2036dc4b0bd18259a1db19c0&txTime=69f06bad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260426/c4024639c4d6309578a6e3ded4fbb4ce.png",07h00 ngày 28/04 Orlando Magic vs Detroit Pistons [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=59dca576e37891d0c826602765bdea2e&txTime=69f06bad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ITA D1 - Lazio vs Udinese [Sóc mèo méo meo] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1777345885-0-0-5fd5538d45fa3956bf54c5077ad47247
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ITA D1 - Lazio vs Udinese [Sóc mèo méo meo] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1777345885-0-0-4f068de82fcb7d81678d087dc3371a43
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ITA D1 - Lazio vs Udinese [Sóc mèo méo meo] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1777345885-0-0-2cc9eb1ed2997622c6a3604ad78b21ea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ITA D1 - Lazio vs Udinese [Sóc mèo méo meo] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1777345885-0-0-92897ad5eeb9b625026c9f18830fbb1e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ITA D1 - AC Milan vs Juventus [Sóc đau cổ vai gáy] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1777345885-0-0-8f73639ea79c2d78bb16287910e67f6c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ITA D1 - AC Milan vs Juventus [Sóc đau cổ vai gáy] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1777345885-0-0-9d82305285e0414433791fa97f0f9149
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ITA D1 - AC Milan vs Juventus [Sóc đau cổ vai gáy] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1777345885-0-0-25fda307395ee4ff9171975a7cd29d19
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ITA D1 - AC Milan vs Juventus [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1777345885-0-0-2fe3fff8b59bbe749613f0fb56b8edd4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ENG PR - Manchester United vs Brentford [Sóc trong rừng xà nu] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1777345885-0-0-bdc2cf520452e19da190f3718efe860d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ENG PR - Manchester United vs Brentford [Sóc trong rừng xà nu] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1777345885-0-0-23a424bd207de3665c96b0386bd112a2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ENG PR - Manchester United vs Brentford [Sóc trong rừng xà nu] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1777345885-0-0-cf6ac96841a193418be1967a0ba9b9d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ENG PR - Manchester United vs Brentford [Sóc trong rừng xà nu] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1777345885-0-0-5d4844c0fbf93f606bb2235faa722c4f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ITA D1 - Torino vs Inter Milan [Sóc nhàm nhang nhồ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1777345885-0-0-dbc699f19c8ae57e72f7b9626449f4a5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ITA D1 - Torino vs Inter Milan [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1777345885-0-0-711136d3fc85f082b803ba968c0bca90
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ITA D1 - Torino vs Inter Milan [Sóc nhàm nhang nhồ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1777345885-0-0-5f92e2c2dc3940627ee2716b2c83b012
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ITA D1 - Torino vs Inter Milan [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1777345885-0-0-1e875c04d2410e5b7db14728fe4dcf40
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: SPA D1 - Villarreal CF vs RC Celta [Sóc trèo cây ngô đồng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1777345885-0-0-ab85f76541c5f614625c882162a5efdd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: SPA D1 - Villarreal CF vs RC Celta [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1777345885-0-0-5bfca85e066c24c5718a6400685deb5b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: SPA D1 - Villarreal CF vs RC Celta [Sóc trèo cây ngô đồng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1777345885-0-0-a524ccecc4910d55eb92aff0283d98d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: SPA D1 - Villarreal CF vs RC Celta [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1777345885-0-0-e94f3154331e0af459ff423b0c773fce
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ITA D1 - Cagliari vs Atalanta [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1777345885-0-0-55b017b4cbf3288d00bf02dfc5ab41ab
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ITA D1 - Cagliari vs Atalanta [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1777345885-0-0-5448d8e1294ac1ca75dd4591049452a2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ITA D1 - Cagliari vs Atalanta [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1777345885-0-0-e4cf0bc224630c93528e79cfd8c9c41d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260424/edc9425f1c632abf60674c84a28d1436.png",Tường thuật: ITA D1 - Cagliari vs Atalanta [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1777345885-0-0-f39d837f213f94395e4a724098228f1d
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/1280px-Orlando_Magic_logo.svg.png",07h30 28/04 Orlando Magic vs Detroit Pistons (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2655,15 +2473,24 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Denver-Nuggets-Logo.png",09h30 28/04 Denver Nuggets vs Minnesota Timberwolves (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Denver-Nuggets-Logo.png",09h30 28/04 Denver Nuggets vs Minnesota Timberwolves (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Denver-Nuggets-Logo.png",09h30 28/04 Denver Nuggets vs Minnesota Timberwolves (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png!w80",08h30 28/04 Phoenix suns vs Oklahoma City Thunder
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/82054853.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80",07h00 28/04 Orlando Magic vs Detroit Pistons
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/90865415.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/3de7fff92c61b2ac93b08814386cf85d.png!w80",07h00 28/04 Huracan vs Argentinos Jrs
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/14707124.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/7770d591cd0855fc12e5fbfe80f83221.png!w80",07h00 28/04 CLB Aucas vs CLB Delfin
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/90725470.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Quê Choa",[Primeira Liga] 02h15 28/04 GIL Vicente vs Casa Pia [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -2686,14 +2513,6 @@ https://live5.msrktz.app/live/82054853.m3u8
 https://live5.msrktz.app/live/90865415.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV",[07:00 28/04] Orlando Magic vs Detroit Pistons - BLV BLV 247 (L2) Giải :Hiệp hội Bóng rổ Quốc gia
 https://live5.msrktz.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png!w80" group-title="ColaTV",[07:00 28/04] Huracan vs Argentinos Jrs - BLV BLV STING (L1) Giải :Giải Bóng đá Vô địch Quốc gia Argentina
-https://live5.msrktz.app/live/14707124.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png!w80" group-title="ColaTV",[07:00 28/04] Huracan vs Argentinos Jrs - BLV BLV STING (L2) Giải :Giải Bóng đá Vô địch Quốc gia Argentina
-https://live5.msrktz.app/live/14707124.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0e046e806bd54b6ea05db95101f07401.png!w80" group-title="ColaTV",[07:00 28/04] CLB Aucas vs CLB Delfin - BLV BLV SPRITE (L1) Giải :Giải vô địch quốc gia Ecuador
-https://live5.msrktz.app/live/90725470.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0e046e806bd54b6ea05db95101f07401.png!w80" group-title="ColaTV",[07:00 28/04] CLB Aucas vs CLB Delfin - BLV BLV SPRITE (L2) Giải :Giải vô địch quốc gia Ecuador
-https://live5.msrktz.app/live/90725470.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV",[09:30 28/04] Denver Nuggets vs Minnesota Timberwolves - BLV BLV Cozy (L1) Giải :Hiệp hội Bóng rổ Quốc gia
 https://live5.msrktz.app/live/87379114.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV",[09:30 28/04] Denver Nuggets vs Minnesota Timberwolves - BLV BLV Cozy (L2) Giải :Hiệp hội Bóng rổ Quốc gia
