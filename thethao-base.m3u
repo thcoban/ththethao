@@ -364,6 +364,18 @@ http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/6521/index.m3u8
 #EXTINF:-1 tvg-id="TSN.1.ca2" group-title="TSN 🇨🇦" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tsn-1.png", TSN 1 🇨🇦 (b3)
 http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6521/index.m3u8
 
+
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="TSN 🇨🇦" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tsn-2.png", TSN 2 🇨🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="TSN 🇨🇦" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tsn-2.png", TSN 2 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
+https://qw.live.pv-cdn.net/OTTB/sin-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="TSN 🇨🇦" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tsn-2.png", TSN 2 🇨🇦 (r)
 https://restream-live.realiptv.to/MotherOfPins3/8746645/3145
 #EXTINF:-1 tvg-id="TSN.2.ca2" group-title="TSN 🇨🇦" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tsn-2.png", TSN 2 🇨🇦 (b1)
@@ -2057,7 +2069,7 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inp
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-id="470888" group-title="Uncategorized" tvg-logo="https://mimipipi22.github.io/logo/png/tsn3.png", (TSN3)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2065,15 +2077,4 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-
-#EXTINF:-1 tvg-id="" group-title="Uncategorized",TSN2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-
-#EXTINF:-1 tvg-id="" group-title="Uncategorized" tvg-logo="",TSN2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-https://qw.live.pv-cdn.net/OTTB/sin-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
