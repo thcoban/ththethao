@@ -447,11 +447,21 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
-#EXTINF:-1 tvg-id="FS.Deportes.HD.mx" tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="Fox Sports" ,  FOX DEPORTES
+#EXTINF:-1 tvg-id="FS.Deportes.HD.mx" tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="Fox Sports" , FOX DEPORTES 🇲🇽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd
+
+#EXTINF:-1 tvg-id="FS.Premium.HD.mx" tvg-name="" tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="Fox Sports" ,  FOX PLUS 🇲🇽
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51710c9c227a4637991466ece1b3550e:831bfae1e16f4cc2cda5d620e6d1e96a
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fox_mas_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="FS.Premium.HD.mx" tvg-name="" tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="Fox Sports" , FOX TV Pay HD 🇲🇽
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fox_tvpay_hd/default/index.mpd
 
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="USA Network" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/usa-network.png", USA Network 🇺🇸 (r)
@@ -918,11 +928,19 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv
 http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.mx" group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/espn.png" , ESPN  🇲🇽
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/espn_hd/default/index.mpd
+#EXTINF:-1 tvg-id="ESPN.HD.mx" group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/espn.png" , ESPN  🇲🇽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_hd/default/index.mpd
 
+#EXTINF:-1 tvg-id="ESPN2.HD.mx" group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/espn-2.png", ESPN 2 🇲🇽
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/espn_2_hd/default/index.mpd
 #EXTINF:-1 tvg-id="ESPN2.HD.mx" group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/espn-2.png", ESPN 2 🇲🇽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -930,16 +948,25 @@ https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_hd/default/index.mpd
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_2_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="ESPN3.HD.mx" group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/espn-3.png", ESPN 3 🇲🇽
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/espn_3_hd/default/index.mpd
+#EXTINF:-1 tvg-id="ESPN3.HD.mx" group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/espn-3.png", ESPN 3 🇲🇽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_3_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="ESPN4.HD.mx" group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/espn-4.png", ESPN 4 🇲🇽
+#EXTINF:-1 tvg-id="ESPN.Plus.HD.mx" group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/espn-4.png", ESPN Plus 🇲🇽
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/espn_plus_hd/default/index.mpd
+#EXTINF:-1 tvg-id="ESPN.Plus.HD.mx" group-title="ESPN" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/espn-4.png", ESPN Plus 🇲🇽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_plus_hd/default/index.mpd
+
 
 #EXTINF:-1 tvg-id="beIN_SPORTS1_ENGLISH_Digital_Mono_AR.bein" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png", beIN Sports 1 🇬🇧 (event only) (r)
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
@@ -1700,6 +1727,7 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
 #EXTINF:-1 tvg-id="TVP.Sport.cz" tvg-logo="https://i.imgur.com/sbN5opl.png" group-title="Czech Sports 🇨🇿" , TVP SPORT 🇨🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"95620bdd974041409d4674ab629e22d4":"c6c226ca1689f528a6f91e86da618f64","181c091002d04c5481c3faab18752843":"b081b6169351e0f4bfc40212dfeeed10","1163925b6b37434198130f773bc62841":"e2bdd2b87e1ddb502eb7898daece857f"}
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
@@ -1891,7 +1919,12 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/https://restream-live.realiptv.
 #EXTINF:-1 tvg-id="RDS2.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/rds-2.png", RDS 2 🇨🇦 (r)
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://restream-live.realiptv.to/MotherOfPins3/8746645/92668
 
-#EXTINF:-1  tvg-logo="" group-title="General", NBA TV
+#EXTINF:-1 tvg-id="nbatv" tvg-logo="https://i.imgur.com/RHuKPK0.png" group-title="General" , NBA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/nba_tv_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="nbatv" tvg-logo="https://i.imgur.com/RHuKPK0.png" group-title="General" , NBA TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
@@ -1909,13 +1942,15 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo" tvg-name="MOTO GP CHANNEL" tvg-logo="" group-title="General" , MOTO GP CHANNEL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+#EXTINF:-1 tvg-id="golf" tvg-logo=" group-title="General" , Golf Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/golf_channel_hd/default/index.mpd
 
+#EXTINF:-1 tvg-id="nfl" tvg-logo="" group-title="General" , NFL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="LaLiga.TV.es" group-title="General" tvg-logo="", Laliga TV 🇪🇸
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -1974,11 +2009,12 @@ https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lXsyUI/srxp/hC6dibx1Nw","kid":"vTKtYI6MNTaNuwrL+pTY4A"}],"type":"temporary"}
 https://live.streaming.a2d.tv/asset/20465727.isml/dash.mpd
 
-#EXTINF:-1 group-title="General" , TVP Sport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"95620bdd974041409d4674ab629e22d4":"c6c226ca1689f528a6f91e86da618f64","181c091002d04c5481c3faab18752843":"b081b6169351e0f4bfc40212dfeeed10","1163925b6b37434198130f773bc62841":"e2bdd2b87e1ddb502eb7898daece857f"}
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-
+#EXTINF:-1 tvg-id="primevideo" tvg-name="MOTO GP CHANNEL" tvg-logo="" group-title="General" , MOTO GP CHANNEL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
 #EXTINF:-1 tvg-id="La.chaine.l’Équipe.fr" group-title="General", L`Equipe 🇫🇷  
 http://145.239.5.177:80/549/index.m3u8
@@ -2288,7 +2324,20 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
 
 
+#EXTINF:-1 tvg-id="hbo family" tvg-logo="" group-title="Giải trí", HBO 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/hbo_2_hd/default/index.mpd
 
+#EXTINF:-1 tvg-id="hbo family" tvg-logo="" group-title="Giải trí", HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/hbo_family_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="hbo plus" tvg-logo="" group-title="Giải trí", HBO Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/hbo_plus_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/330px-Cinemax_LA.png" group-title="Giải trí" , Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2356,7 +2405,7 @@ https://mega.z5cable.com/bpk-tv/paramount_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/axn_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/200px-Warner2018LA.png" group-title="Giải trí" , WB TV
+#EXTINF:-1 tvg-id="warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/200px-Warner2018LA.png" group-title="Giải trí" , Warner Bros. TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/warner_channel_hd/default/index.mpd
@@ -2370,6 +2419,88 @@ https://bks400-tol-110.quieroxview.com.mx/bpk-tv/panico_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/studio_universal_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Giải trí", TNT Series HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_series_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Giải trí", TCM HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tcm_hd/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="disney" tvg-logo="" group-title="Giải trí", Disney
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/disney_channel_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="disney" tvg-logo="" group-title="Giải trí", Disney Jr.
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/disney_jr_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Giải trí",  Discovery Kids HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/discovery_kids_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="nick" tvg-logo="" group-title="Giải trí", Nick HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/nick_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="cartoonito" tvg-logo="" group-title="Giải trí", Cartoonito
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/boomerang_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Giải trí",  Tooncast HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tooncast_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="cartoon network" tvg-logo="" group-title="Giải trí", Cartoon Network HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/cartoon_network_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="nick jr" tvg-logo="" group-title="Giải trí", Nick Jr. HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/nick_jr_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="mtv" tvg-logo="" group-title="Giải trí", MTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/mtv_hd/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="discovery" tvg-logo="" group-title="Giải trí", Discovery HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/discovery_channel_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="id" tvg-logo="" group-title="Giải trí", Discovery ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/id_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="discovery turbo" tvg-logo="" group-title="Giải trí", Discovery Turbo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/discovery_turbo_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="animal planet" tvg-logo="" group-title="Giải trí", Animal Planet HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/animal_planet_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="nat geo" tvg-logo="" group-title="Giải trí", Nat Geo HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/nat_geo_hd/default/index.mpd
 
 
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="", DAZN Ringside
