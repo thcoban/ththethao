@@ -1482,6 +1482,11 @@ https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 
 
 #EXTINF:-1 tvg-id="SPOTV.HD.id" group-title="SPOTV" tvg-logo="https://i.imgur.com/b6Vlyys.png" , SPOTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+
+#EXTINF:-1 tvg-id="SPOTV.HD.id" group-title="SPOTV" tvg-logo="https://i.imgur.com/b6Vlyys.png" , SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1495,19 +1500,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
-#EXTINF:-1 tvg-id="SPOTV.HD.id" group-title="SPOTV" tvg-logo="https://i.imgur.com/b6Vlyys.png" , SPOTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
-
-
-#EXTINF:-1 tvg-id="SPOTV.2.HD.id" group-title="SPOTV" tvg-logo="https://i.imgur.com/ZWV6t5x.png" , SPOTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-
 #EXTINF:-1 tvg-id="SPOTV2.(HD).vn"  group-title="SPOTV" tvg-logo="https://i.imgur.com/ZWV6t5x.png" , SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
@@ -1517,6 +1509,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 #EXTINF:-1 tvg-id="SPOTV.2.HD.id" group-title="SPOTV" tvg-logo="https://i.imgur.com/ZWV6t5x.png" , SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
+#EXTINF:-1 tvg-id="SPOTV.2.HD.id" group-title="SPOTV" tvg-logo="https://i.imgur.com/ZWV6t5x.png" , SPOTV 2 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1672,12 +1671,6 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv
 
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="TUDN 🇲🇽" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tudn.png", TUDN 🇲🇽
 http://45.5.119.43:4000/play/a05q/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.us2" group-title="TUDN 🇲🇽" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tudn.png", TUDN (izzi) off
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://nog-live1-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd
 
 
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" group-title="Universo 🇺🇸" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/universo.png", Universo 🇺🇸 (r)
@@ -1911,9 +1904,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mp
 #EXTINF:-1 tvg-id="SCTV.22.-.SSportT1.vn" group-title="General" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sctv-22.png", SCTV 22 - SSPORT 1 🇻🇳
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 
-#EXTINF:-1 tvg-id="truTV.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/trutv.png", TruTV 🇺🇸 (r)
-https://cors-everywhere-wc8b4.ondigitalocean.app/https://restream-live.realiptv.to/MotherOfPins3/8746645/3766
-
 #EXTINF:-1 tvg-id="Réseau.des.Sports.(RDS).ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/rds.png", RDS 🇨🇦 (r)
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://restream-live.realiptv.to/MotherOfPins3/8746645/59887
 #EXTINF:-1 tvg-id="RDS2.ca2" group-title="General" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/rds-2.png", RDS 2 🇨🇦 (r)
@@ -1929,6 +1919,9 @@ https://mega.z5cable.com/bpk-tv/nba_tv_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
+
+#EXTINF:-1 tvg-id="truTV.HD.us2" group-title="General" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/trutv.png", TruTV 🇺🇸 (r)
+https://cors-everywhere-wc8b4.ondigitalocean.app/https://restream-live.realiptv.to/MotherOfPins3/8746645/3766
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/9FRhU0K.png" group-title="General", HBO BOXING
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2323,43 +2316,27 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
 
-
-#EXTINF:-1 tvg-id="hbo family" tvg-logo="" group-title="Giải trí", HBO 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
-https://mega.z5cable.com/bpk-tv/hbo_2_hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="hbo family" tvg-logo="" group-title="Giải trí", HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-https://mega.z5cable.com/bpk-tv/hbo_family_hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="hbo plus" tvg-logo="" group-title="Giải trí", HBO Plus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-https://mega.z5cable.com/bpk-tv/hbo_plus_hd/default/index.mpd
-
 #EXTINF:-1 tvg-id="cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/330px-Cinemax_LA.png" group-title="Giải trí" , Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/cinemax_hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Giải trí" ,  Cinema Platino HD
+#EXTINF:-1 tvg-logo="" group-title="Giải trí" ,  Cinema Platino HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/cinema_platino_hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Giải trí" ,  Europa Europa HD
+#EXTINF:-1 tvg-logo="" group-title="Giải trí" ,  Europa Europa HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/europa_europa_hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Giải trí" ,  Lifetime HD
+#EXTINF:-1 tvg-logo="" group-title="Giải trí" ,  Lifetime HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/lifetime_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="amc" tvg-logo="" group-title="Giải trí" , amc
+#EXTINF:-1 tvg-id="amc" tvg-logo="" group-title="Giải trí" , AMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/amc_hd/default/index.mpd
@@ -2369,7 +2346,7 @@ https://mega.z5cable.com/bpk-tv/amc_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/amc_series_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Giải trí" , USA
+#EXTINF:-1 tvg-id="usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Giải trí" , USA Syfy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/syfy_hd/default/index.mpd
@@ -2399,18 +2376,17 @@ https://mega.z5cable.com/bpk-tv/sony_movies_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/paramount_hd/default/index.mpd
 
-
 #EXTINF:-1 tvg-id="axn" tvg-logo="" group-title="Giải trí" , AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/axn_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/200px-Warner2018LA.png" group-title="Giải trí" , Warner Bros. TV
+#EXTINF:-1 tvg-id="warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/200px-Warner2018LA.png" group-title="Giải trí" , Warner Bros TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/warner_channel_hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Giải trí" ,  Panico HD
+#EXTINF:-1 tvg-logo="" group-title="Giải trí" ,  Panico HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/panico_hd/default/index.mpd
@@ -2420,7 +2396,7 @@ https://bks400-tol-110.quieroxview.com.mx/bpk-tv/panico_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/studio_universal_hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Giải trí", TNT Series HD
+#EXTINF:-1 tvg-logo="" group-title="Giải trí", TNT Series HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_series_hd/default/index.mpd
@@ -2431,22 +2407,22 @@ https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_series_hd/default/index.mpd
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tcm_hd/default/index.mpd
 
 
-#EXTINF:-1 tvg-id="disney" tvg-logo="" group-title="Giải trí", Disney
+#EXTINF:-1 tvg-id="disney" tvg-logo="" group-title="Giải trí", Disney 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/disney_channel_hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="disney" tvg-logo="" group-title="Giải trí", Disney Jr.
+ 
+#EXTINF:-1 tvg-id="disney" tvg-logo="" group-title="Giải trí", Disney Jr. 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/disney_jr_hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Giải trí",  Discovery Kids HD
+#EXTINF:-1 tvg-logo="" group-title="Giải trí",  Discovery Kids HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/discovery_kids_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="nick" tvg-logo="" group-title="Giải trí", Nick HD
+#EXTINF:-1 tvg-id="nick" tvg-logo="" group-title="Giải trí", Nick HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/nick_hd/default/index.mpd
@@ -2477,27 +2453,17 @@ https://mega.z5cable.com/bpk-tv/nick_jr_hd/default/index.mpd
 https://mega.z5cable.com/bpk-tv/mtv_hd/default/index.mpd
 
 
-#EXTINF:-1 tvg-id="discovery" tvg-logo="" group-title="Giải trí", Discovery HD
+#EXTINF:-1 tvg-id="discovery" tvg-logo="" group-title="Giải trí", Discovery HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/discovery_channel_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="id" tvg-logo="" group-title="Giải trí", Discovery ID
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
-https://mega.z5cable.com/bpk-tv/id_hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="discovery turbo" tvg-logo="" group-title="Giải trí", Discovery Turbo
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
-https://mega.z5cable.com/bpk-tv/discovery_turbo_hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="animal planet" tvg-logo="" group-title="Giải trí", Animal Planet HD
+#EXTINF:-1 tvg-id="animal planet" tvg-logo="" group-title="Giải trí", Animal Planet HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/animal_planet_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="nat geo" tvg-logo="" group-title="Giải trí", Nat Geo HD
+#EXTINF:-1 tvg-id="nat geo" tvg-logo="" group-title="Giải trí", Nat Geo HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/nat_geo_hd/default/index.mpd
@@ -2821,7 +2787,7 @@ https://nog-live1-ott.izzigo.tv/12/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
-https://nog-live1-ott.izzigo.tv/12/out/u/dash/SKY-LIVE-EVENT-6-HD/default.mpd
+#https://nog-live1-ott.izzigo.tv/12/out/u/dash/SKY-LIVE-EVENT-6-HD/default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Izzi Go", SKY SPORTS LIVE 7 (off)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
@@ -3773,6 +3739,10 @@ https://live5.msrktz.app/live/88508431.m3u8
 https://live5.msrktz.app/live/14830711.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/9115e93d22380b87e231573b0a796f27.png!w80" group-title="ColaTV",[23:00 30/04] Al-Okhdood vs Al Ettifaq - BLV BLV GIÀ LÀNG (L2) Giải :Giải Vô địch quốc gia Ả-rập Xê-út
 https://live5.msrktz.app/live/14830711.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/9115e93d22380b87e231573b0a796f27.png!w80" group-title="ColaTV",[23:00 30/04] Al-Okhdood vs Al Ettifaq - BLV BLV MONSTER (L1) Giải :Giải Vô địch quốc gia Ả-rập Xê-út
+https://live5.msrktz.app/live/75915087.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/9115e93d22380b87e231573b0a796f27.png!w80" group-title="ColaTV",[23:00 30/04] Al-Okhdood vs Al Ettifaq - BLV BLV MONSTER (L2) Giải :Giải Vô địch quốc gia Ả-rập Xê-út
+https://live5.msrktz.app/live/75915087.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/fef1f81febbe012e11f987726f8fef15.png!w80" group-title="ColaTV",[23:00 30/04] FC Neftci Baku vs Qarabag - BLV BLV MONSTER (L1) Giải :Giải Bóng đá Ngoại hạng Azerbaijan
 https://live5.msrktz.app/live/75915087.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/fef1f81febbe012e11f987726f8fef15.png!w80" group-title="ColaTV",[23:00 30/04] FC Neftci Baku vs Qarabag - BLV BLV MONSTER (L2) Giải :Giải Bóng đá Ngoại hạng Azerbaijan
@@ -3785,10 +3755,6 @@ https://live5.msrktz.app/live/87547578.m3u8
 https://live5.msrktz.app/live/68848594.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/9115e93d22380b87e231573b0a796f27.png!w80" group-title="ColaTV",[01:00 01/05] Al Kholood vs Al Fayha - BLV BLV REDBULL (L2) Giải :Giải Vô địch quốc gia Ả-rập Xê-út
 https://live5.msrktz.app/live/68848594.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/1792ba5a12171fedc6d543bdf173f37c.png!w80" group-title="ColaTV",[02:00 01/05] Nottingham Forest vs Aston Villa - BLV BLV ÔLONG (L1) Giải :Europa League
-https://live5.msrktz.app/live/97312754.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/1792ba5a12171fedc6d543bdf173f37c.png!w80" group-title="ColaTV",[02:00 01/05] Nottingham Forest vs Aston Villa - BLV BLV ÔLONG (L2) Giải :Europa League
-https://live5.msrktz.app/live/97312754.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/1792ba5a12171fedc6d543bdf173f37c.png!w80" group-title="ColaTV",[02:00 01/05] Nottingham Forest vs Aston Villa - BLV BLV COCA (L1) Giải :Europa League
 https://live5.msrktz.app/live/24561735.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/1792ba5a12171fedc6d543bdf173f37c.png!w80" group-title="ColaTV",[02:00 01/05] Nottingham Forest vs Aston Villa - BLV BLV COCA (L2) Giải :Europa League
@@ -3849,10 +3815,10 @@ https://live5.msrktz.app/live/87379114.m3u8
 https://live5.msrktz.app/live/78905744.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/2341037b4e4eff9683c5c15fd188127e.png!w80" group-title="ColaTV",[09:00 01/05] Alianza Atl vs Macara - BLV BLV 7UP (L2) Giải :Siêu Cúp Nam Mỹ
 https://live5.msrktz.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png!w80" group-title="ColaTV",[09:00 01/05] Medellin Independiente vs Cusco - BLV BLV SPRITE (L1) Giải :Giải Vô địch các Câu lạc bộ Nam Mỹ
-https://live5.msrktz.app/live/90725470.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png!w80" group-title="ColaTV",[09:00 01/05] Medellin Independiente vs Cusco - BLV BLV SPRITE (L2) Giải :Giải Vô địch các Câu lạc bộ Nam Mỹ
-https://live5.msrktz.app/live/90725470.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png!w80" group-title="ColaTV",[09:00 01/05] Medellin Independiente vs Cusco - BLV BLV BÍ ĐAO (L1) Giải :Giải Vô địch các Câu lạc bộ Nam Mỹ
+https://live5.msrktz.app/live/99121525.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png!w80" group-title="ColaTV",[09:00 01/05] Medellin Independiente vs Cusco - BLV BLV BÍ ĐAO (L2) Giải :Giải Vô địch các Câu lạc bộ Nam Mỹ
+https://live5.msrktz.app/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/9799edd083ed062593c86f8b0dc2a02a.png!w80" group-title="ColaTV",[12:00 01/05] Gangneung vs Gyeongju KHNP - BLV BLV MONSTER (L1) Giải :Giải K3 Hàn Quốc
 https://live5.msrktz.app/live/75915087.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/9799edd083ed062593c86f8b0dc2a02a.png!w80" group-title="ColaTV",[12:00 01/05] Gangneung vs Gyeongju KHNP - BLV BLV MONSTER (L2) Giải :Giải K3 Hàn Quốc
@@ -3861,10 +3827,10 @@ https://live5.msrktz.app/live/75915087.m3u8
 https://live5.msrktz.app/live/88508431.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/7c47816625ae0772db06ebabb51a2e33.png!w80" group-title="ColaTV",[12:00 01/05] Incheon Hyundai Steel Nữ vs Sejong Sportstoto Nữ - BLV BLV RỒNG ĐỎ (L2) Giải :WK League Nữ
 https://live5.msrktz.app/live/88508431.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/2de8faad8618dac7fc49201518af49e6.png!w80" group-title="ColaTV",[14:30 01/05] Thailand U17 Nữ vs Vietnam U17 Nữ - BLV BLV BÍ ĐAO (L1) Giải :AFC Championship Nữ U16
-https://live5.msrktz.app/live/99121525.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/2de8faad8618dac7fc49201518af49e6.png!w80" group-title="ColaTV",[14:30 01/05] Thailand U17 Nữ vs Vietnam U17 Nữ - BLV BLV BÍ ĐAO (L2) Giải :AFC Championship Nữ U16
-https://live5.msrktz.app/live/99121525.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/2de8faad8618dac7fc49201518af49e6.png!w80" group-title="ColaTV",[14:30 01/05] Thailand U17 Nữ vs Vietnam U17 Nữ - BLV BLV SPRITE (L1) Giải :AFC Championship Nữ U16
+https://live5.msrktz.app/live/90725470.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/2de8faad8618dac7fc49201518af49e6.png!w80" group-title="ColaTV",[14:30 01/05] Thailand U17 Nữ vs Vietnam U17 Nữ - BLV BLV SPRITE (L2) Giải :AFC Championship Nữ U16
+https://live5.msrktz.app/live/90725470.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/competition/6ba16cfbda31aed288c6d50e4b11d710.png!w80" group-title="ColaTV",[14:30 01/05] Otago Nuggets vs Manawatu Jets - BLV BLV Cozy (L1) Giải :Giải Quốc Gia Bóng Rổ New Zealand
 https://live5.msrktz.app/live/87379114.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/competition/6ba16cfbda31aed288c6d50e4b11d710.png!w80" group-title="ColaTV",[14:30 01/05] Otago Nuggets vs Manawatu Jets - BLV BLV Cozy (L2) Giải :Giải Quốc Gia Bóng Rổ New Zealand
@@ -3905,6 +3871,10 @@ https://live5.msrktz.app/live/24561735.m3u8
 https://live5.msrktz.app/live/43612277.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/df4c34bf97b380d1e30b84c509ff0354.png!w80" group-title="ColaTV",[18:00 01/05] Henan Songshan Longmen vs Shenyang Urban FC - BLV BLV PEPSI (L2) Giải :Giải bóng đá ngoại hạng Trung Quốc
 https://live5.msrktz.app/live/43612277.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/70dd3b1e69708842440893f5a8b46632.png!w80" group-title="ColaTV",[18:30 01/05] Kuching City FC vs Terengganu - BLV BLV STING (L1) Giải :Giải vô địch Malaysia
+https://live5.msrktz.app/live/14707124.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/70dd3b1e69708842440893f5a8b46632.png!w80" group-title="ColaTV",[18:30 01/05] Kuching City FC vs Terengganu - BLV BLV STING (L2) Giải :Giải vô địch Malaysia
+https://live5.msrktz.app/live/14707124.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/competition/36660e389d505b7a95c1bf4a3da3e384.png!w80" group-title="ColaTV",[18:35 01/05] Liaoning Bengang vs Shandong Hi-Speed - BLV BLV 247 (L1) Giải :Giải bóng rổ nam Trung Quốc
 https://live5.msrktz.app/live/90865415.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/competition/36660e389d505b7a95c1bf4a3da3e384.png!w80" group-title="ColaTV",[18:35 01/05] Liaoning Bengang vs Shandong Hi-Speed - BLV BLV 247 (L2) Giải :Giải bóng rổ nam Trung Quốc
@@ -3921,22 +3891,18 @@ https://live5.msrktz.app/live/82054853.m3u8
 https://live5.msrktz.app/live/90725470.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/df4c34bf97b380d1e30b84c509ff0354.png!w80" group-title="ColaTV",[18:35 01/05] Shandong Taishan vs Qingdao West Coast - BLV BLV SPRITE (L2) Giải :Giải bóng đá ngoại hạng Trung Quốc
 https://live5.msrktz.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/568f4b544f3d286be88ecffebb132726.png!w80" group-title="ColaTV",[19:00 01/05] Muang Thong Utd vs Pathum United - BLV BLV 7UP (L1) Giải :Thái League 1
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/568f4b544f3d286be88ecffebb132726.png!w80" group-title="ColaTV",[19:00 01/05] Muang Thong Utd vs Pathum United - BLV BLV SAMURAI (L1) Giải :Thái League 1
+https://live5.msrktz.app/live/07808742.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/568f4b544f3d286be88ecffebb132726.png!w80" group-title="ColaTV",[19:00 01/05] Muang Thong Utd vs Pathum United - BLV BLV SAMURAI (L2) Giải :Thái League 1
+https://live5.msrktz.app/live/07808742.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/df4c34bf97b380d1e30b84c509ff0354.png!w80" group-title="ColaTV",[19:00 01/05] Shanghai Shenhua vs Chengdu Rongcheng - BLV BLV 7UP (L1) Giải :Giải bóng đá ngoại hạng Trung Quốc
 https://live5.msrktz.app/live/78905744.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/568f4b544f3d286be88ecffebb132726.png!w80" group-title="ColaTV",[19:00 01/05] Muang Thong Utd vs Pathum United - BLV BLV 7UP (L2) Giải :Thái League 1
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/df4c34bf97b380d1e30b84c509ff0354.png!w80" group-title="ColaTV",[19:00 01/05] Shanghai Shenhua vs Chengdu Rongcheng - BLV BLV 7UP (L2) Giải :Giải bóng đá ngoại hạng Trung Quốc
 https://live5.msrktz.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/df4c34bf97b380d1e30b84c509ff0354.png!w80" group-title="ColaTV",[19:00 01/05] Shanghai Shenhua vs Chengdu Rongcheng - BLV BLV ÔLONG (L1) Giải :Giải bóng đá ngoại hạng Trung Quốc
-https://live5.msrktz.app/live/97312754.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/df4c34bf97b380d1e30b84c509ff0354.png!w80" group-title="ColaTV",[19:00 01/05] Shanghai Shenhua vs Chengdu Rongcheng - BLV BLV ÔLONG (L2) Giải :Giải bóng đá ngoại hạng Trung Quốc
-https://live5.msrktz.app/live/97312754.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png!w80" group-title="ColaTV",[19:15 01/05] Hà Nội vs SHB Đà Nẵng - BLV BLV GIÀ LÀNG (L1) Giải :Giải vô địch quốc gia Việt Nam
 https://live5.msrktz.app/live/14830711.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png!w80" group-title="ColaTV",[19:15 01/05] Hà Nội vs SHB Đà Nẵng - BLV BLV GIÀ LÀNG (L2) Giải :Giải vô địch quốc gia Việt Nam
 https://live5.msrktz.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/70dd3b1e69708842440893f5a8b46632.png!w80" group-title="ColaTV",[19:15 01/05] Kuching City FC vs Terengganu - BLV BLV STING (L1) Giải :Giải vô địch Malaysia
-https://live5.msrktz.app/live/14707124.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/70dd3b1e69708842440893f5a8b46632.png!w80" group-title="ColaTV",[19:15 01/05] Kuching City FC vs Terengganu - BLV BLV STING (L2) Giải :Giải vô địch Malaysia
-https://live5.msrktz.app/live/14707124.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/d4d461679eedfed50374d47d84431ef3.png!w80" group-title="ColaTV",[21:00 01/05] Krylya Sovetov vs Spartak - BLV BLV MOUNTAIN DEW (L1) Giải :Giải Bóng đá Ngoại hạng Nga
 https://live5.msrktz.app/live/87547578.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/d4d461679eedfed50374d47d84431ef3.png!w80" group-title="ColaTV",[21:00 01/05] Krylya Sovetov vs Spartak - BLV BLV MOUNTAIN DEW (L2) Giải :Giải Bóng đá Ngoại hạng Nga
@@ -3945,10 +3911,18 @@ https://live5.msrktz.app/live/87547578.m3u8
 https://live5.msrktz.app/live/33982309.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png!w80" group-title="ColaTV",[21:00 01/05] Jamshedpur vs Goa - BLV BLV REVIVE (L2) Giải :Vô địch bóng đá Ấn Độ
 https://live5.msrktz.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c840aa9f8b4c65b1441bb36459a40642.png!w80" group-title="ColaTV",[21:00 01/05] Pyramids vs Enppi - BLV BLV SPRITE (L1) Giải :Giải Ngoại hạng Ai Cập
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c840aa9f8b4c65b1441bb36459a40642.png!w80" group-title="ColaTV",[21:00 01/05] Pyramids vs Enppi - BLV BLV REVIVE (L1) Giải :Giải Ngoại hạng Ai Cập
+https://live5.msrktz.app/live/33982309.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c840aa9f8b4c65b1441bb36459a40642.png!w80" group-title="ColaTV",[21:00 01/05] Pyramids vs Enppi - BLV BLV REVIVE (L2) Giải :Giải Ngoại hạng Ai Cập
+https://live5.msrktz.app/live/33982309.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/88c3b85732ee112ba91f7868272d1aa1.png!w80" group-title="ColaTV",[21:00 01/05] Rizespor vs Konyaspor - BLV BLV SPRITE (L1) Giải :Giải Ngoại hạng Thổ Nhĩ Kỳ
 https://live5.msrktz.app/live/90725470.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c840aa9f8b4c65b1441bb36459a40642.png!w80" group-title="ColaTV",[21:00 01/05] Pyramids vs Enppi - BLV BLV SPRITE (L2) Giải :Giải Ngoại hạng Ai Cập
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/88c3b85732ee112ba91f7868272d1aa1.png!w80" group-title="ColaTV",[21:00 01/05] Rizespor vs Konyaspor - BLV BLV SPRITE (L2) Giải :Giải Ngoại hạng Thổ Nhĩ Kỳ
 https://live5.msrktz.app/live/90725470.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png!w80" group-title="ColaTV",[21:15 01/05] Andorra vs CLB Albacete - BLV BLV REVIVE (L1) Giải :Giải bóng đá Hạng nhì Tây Ban Nha
+https://live5.msrktz.app/live/33982309.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png!w80" group-title="ColaTV",[21:15 01/05] Andorra vs CLB Albacete - BLV BLV REVIVE (L2) Giải :Giải bóng đá Hạng nhì Tây Ban Nha
+https://live5.msrktz.app/live/33982309.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/3846a13443fce5ec322369d88f642df7.png!w80" group-title="ColaTV",[23:00 01/05] Viking FK vs Rosenborg - BLV BLV COCA (L1) Giải :Giải vô địch quốc gia Na Uy
 https://live5.msrktz.app/live/24561735.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/3846a13443fce5ec322369d88f642df7.png!w80" group-title="ColaTV",[23:00 01/05] Viking FK vs Rosenborg - BLV BLV COCA (L2) Giải :Giải vô địch quốc gia Na Uy
@@ -3977,6 +3951,10 @@ https://live5.msrktz.app/live/97312754.m3u8
 https://live5.msrktz.app/live/24561735.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[02:00 02/05] CLB Leeds United vs CLB Burnley - BLV BLV COCA (L2) Giải :Giải bóng đá Ngoại hạng Anh
 https://live5.msrktz.app/live/24561735.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[02:00 02/05] CLB Leeds United vs CLB Burnley - BLV BLV 7UP (L1) Giải :Giải bóng đá Ngoại hạng Anh
+https://live5.msrktz.app/live/78905744.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[02:00 02/05] CLB Leeds United vs CLB Burnley - BLV BLV 7UP (L2) Giải :Giải bóng đá Ngoại hạng Anh
+https://live5.msrktz.app/live/78905744.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[02:00 02/05] CLB Leeds United vs CLB Burnley - BLV BLV REVIVE (L1) Giải :Giải bóng đá Ngoại hạng Anh
 https://live5.msrktz.app/live/33982309.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[02:00 02/05] CLB Leeds United vs CLB Burnley - BLV BLV REVIVE (L2) Giải :Giải bóng đá Ngoại hạng Anh
@@ -4021,6 +3999,10 @@ https://live5.msrktz.app/live/90865415.m3u8
 https://live5.msrktz.app/live/99121525.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png!w80" group-title="ColaTV",[12:00 02/05] CLB Ulsan Hyundai  vs CLB Pohang Steelers - BLV BLV BÍ ĐAO (L2) Giải :Giải K1 Hàn Quốc
 https://live5.msrktz.app/live/99121525.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png!w80" group-title="ColaTV",[12:00 02/05] CLB Tokyo vs Kawasaki Frontale - BLV BLV 7UP (L1) Giải :Giải vô địch quốc gia Nhật Bản
+https://live5.msrktz.app/live/78905744.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png!w80" group-title="ColaTV",[12:00 02/05] CLB Tokyo vs Kawasaki Frontale - BLV BLV 7UP (L2) Giải :Giải vô địch quốc gia Nhật Bản
+https://live5.msrktz.app/live/78905744.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png!w80" group-title="ColaTV",[12:00 02/05] CLB Tokyo vs Kawasaki Frontale - BLV BLV STING (L1) Giải :Giải vô địch quốc gia Nhật Bản
 https://live5.msrktz.app/live/14707124.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png!w80" group-title="ColaTV",[12:00 02/05] CLB Tokyo vs Kawasaki Frontale - BLV BLV STING (L2) Giải :Giải vô địch quốc gia Nhật Bản
@@ -4073,6 +4055,10 @@ https://live5.msrktz.app/live/02456966.m3u8
 https://live5.msrktz.app/live/99121525.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png!w80" group-title="ColaTV",[18:00 02/05] CLB XM Hai Phong vs Cong An Ha Noi FC - BLV BLV BÍ ĐAO (L2) Giải :Giải vô địch quốc gia Việt Nam
 https://live5.msrktz.app/live/99121525.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png!w80" group-title="ColaTV",[18:00 02/05] Becamex Bình Dương vs Đông Á Thanh Hóa - BLV BLV 7UP (L1) Giải :Giải vô địch quốc gia Việt Nam
+https://live5.msrktz.app/live/78905744.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png!w80" group-title="ColaTV",[18:00 02/05] Becamex Bình Dương vs Đông Á Thanh Hóa - BLV BLV 7UP (L2) Giải :Giải vô địch quốc gia Việt Nam
+https://live5.msrktz.app/live/78905744.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png!w80" group-title="ColaTV",[18:00 02/05] Becamex Bình Dương vs Đông Á Thanh Hóa - BLV BLV STING (L1) Giải :Giải vô địch quốc gia Việt Nam
 https://live5.msrktz.app/live/14707124.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png!w80" group-title="ColaTV",[18:00 02/05] Becamex Bình Dương vs Đông Á Thanh Hóa - BLV BLV STING (L2) Giải :Giải vô địch quốc gia Việt Nam
@@ -4137,28 +4123,4 @@ https://live5.msrktz.app/live/14707124.m3u8
 https://live5.msrktz.app/live/90725470.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0c6a25cd746e802296d9064b4504179d.png!w80" group-title="ColaTV",[20:30 02/05] FC Bayern München vs Heidenheimer - BLV BLV SPRITE (L2) Giải :Giải bóng đá vô địch quốc gia Đức
 https://live5.msrktz.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[21:00 02/05] Câu lạc bộ bóng đá Brentford vs West Ham United - BLV BLV DR THANH (L1) Giải :Giải bóng đá Ngoại hạng Anh
-https://live5.msrktz.app/live/79665343.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[21:00 02/05] Câu lạc bộ bóng đá Brentford vs West Ham United - BLV BLV DR THANH (L2) Giải :Giải bóng đá Ngoại hạng Anh
-https://live5.msrktz.app/live/79665343.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[21:00 02/05] Câu lạc bộ bóng đá Brentford vs West Ham United - BLV BLV REVIVE (L1) Giải :Giải bóng đá Ngoại hạng Anh
-https://live5.msrktz.app/live/33982309.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[21:00 02/05] Câu lạc bộ bóng đá Brentford vs West Ham United - BLV BLV REVIVE (L2) Giải :Giải bóng đá Ngoại hạng Anh
-https://live5.msrktz.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[21:00 02/05] Câu lạc bộ bóng đá Brentford vs West Ham United - BLV BLV Cozy (L1) Giải :Giải bóng đá Ngoại hạng Anh
-https://live5.msrktz.app/live/87379114.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[21:00 02/05] Câu lạc bộ bóng đá Brentford vs West Ham United - BLV BLV Cozy (L2) Giải :Giải bóng đá Ngoại hạng Anh
-https://live5.msrktz.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[21:00 02/05] Câu lạc bộ bóng đá Newcastle United vs Brighton & Hove Albion FC - BLV BLV ÔLONG (L1) Giải :Giải bóng đá Ngoại hạng Anh
-https://live5.msrktz.app/live/97312754.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[21:00 02/05] Câu lạc bộ bóng đá Newcastle United vs Brighton & Hove Albion FC - BLV BLV ÔLONG (L2) Giải :Giải bóng đá Ngoại hạng Anh
-https://live5.msrktz.app/live/97312754.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[21:00 02/05] Câu lạc bộ bóng đá Newcastle United vs Brighton & Hove Albion FC - BLV BLV COCA (L1) Giải :Giải bóng đá Ngoại hạng Anh
-https://live5.msrktz.app/live/24561735.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[21:00 02/05] Câu lạc bộ bóng đá Newcastle United vs Brighton & Hove Albion FC - BLV BLV COCA (L2) Giải :Giải bóng đá Ngoại hạng Anh
-https://live5.msrktz.app/live/24561735.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[21:00 02/05] Câu lạc bộ bóng đá Newcastle United vs Brighton & Hove Albion FC - BLV BLV 247 (L1) Giải :Giải bóng đá Ngoại hạng Anh
-https://live5.msrktz.app/live/90865415.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[21:00 02/05] Câu lạc bộ bóng đá Newcastle United vs Brighton & Hove Albion FC - BLV BLV 247 (L2) Giải :Giải bóng đá Ngoại hạng Anh
-https://live5.msrktz.app/live/90865415.m3u8
 
