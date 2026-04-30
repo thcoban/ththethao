@@ -1673,12 +1673,6 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv
 #EXTINF:-1 tvg-id="TUDN.us2" group-title="TUDN 🇲🇽" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tudn.png", TUDN 🇲🇽
 http://45.5.119.43:4000/play/a05q/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.us2" group-title="TUDN 🇲🇽" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tudn.png", TUDN (izzi) off
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://nog-live1-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd
-
 
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" group-title="Universo 🇺🇸" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/universo.png", Universo 🇺🇸 (r)
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://restream-live.realiptv.to/MotherOfPins3/8746645/3696
@@ -2323,43 +2317,27 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
 
-
-#EXTINF:-1 tvg-id="hbo family" tvg-logo="" group-title="Giải trí", HBO 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
-https://mega.z5cable.com/bpk-tv/hbo_2_hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="hbo family" tvg-logo="" group-title="Giải trí", HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-https://mega.z5cable.com/bpk-tv/hbo_family_hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="hbo plus" tvg-logo="" group-title="Giải trí", HBO Plus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-https://mega.z5cable.com/bpk-tv/hbo_plus_hd/default/index.mpd
-
 #EXTINF:-1 tvg-id="cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/330px-Cinemax_LA.png" group-title="Giải trí" , Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/cinemax_hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Giải trí" ,  Cinema Platino HD
+#EXTINF:-1 tvg-logo="" group-title="Giải trí" ,  Cinema Platino HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/cinema_platino_hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Giải trí" ,  Europa Europa HD
+#EXTINF:-1 tvg-logo="" group-title="Giải trí" ,  Europa Europa HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/europa_europa_hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Giải trí" ,  Lifetime HD
+#EXTINF:-1 tvg-logo="" group-title="Giải trí" ,  Lifetime HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/lifetime_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="amc" tvg-logo="" group-title="Giải trí" , amc
+#EXTINF:-1 tvg-id="amc" tvg-logo="" group-title="Giải trí" , AMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/amc_hd/default/index.mpd
@@ -2369,7 +2347,7 @@ https://mega.z5cable.com/bpk-tv/amc_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/amc_series_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Giải trí" , USA
+#EXTINF:-1 tvg-id="usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Giải trí" , USA Syfy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/syfy_hd/default/index.mpd
@@ -2399,18 +2377,17 @@ https://mega.z5cable.com/bpk-tv/sony_movies_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/paramount_hd/default/index.mpd
 
-
 #EXTINF:-1 tvg-id="axn" tvg-logo="" group-title="Giải trí" , AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/axn_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/200px-Warner2018LA.png" group-title="Giải trí" , Warner Bros. TV
+#EXTINF:-1 tvg-id="warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/200px-Warner2018LA.png" group-title="Giải trí" , Warner Bros TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/warner_channel_hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Giải trí" ,  Panico HD
+#EXTINF:-1 tvg-logo="" group-title="Giải trí" ,  Panico HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/panico_hd/default/index.mpd
@@ -2420,7 +2397,7 @@ https://bks400-tol-110.quieroxview.com.mx/bpk-tv/panico_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/studio_universal_hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Giải trí", TNT Series HD
+#EXTINF:-1 tvg-logo="" group-title="Giải trí", TNT Series HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_series_hd/default/index.mpd
@@ -2431,22 +2408,22 @@ https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_series_hd/default/index.mpd
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tcm_hd/default/index.mpd
 
 
-#EXTINF:-1 tvg-id="disney" tvg-logo="" group-title="Giải trí", Disney
+#EXTINF:-1 tvg-id="disney" tvg-logo="" group-title="Giải trí", Disney 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/disney_channel_hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="disney" tvg-logo="" group-title="Giải trí", Disney Jr.
+ 
+#EXTINF:-1 tvg-id="disney" tvg-logo="" group-title="Giải trí", Disney Jr. 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/disney_jr_hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Giải trí",  Discovery Kids HD
+#EXTINF:-1 tvg-logo="" group-title="Giải trí",  Discovery Kids HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/discovery_kids_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="nick" tvg-logo="" group-title="Giải trí", Nick HD
+#EXTINF:-1 tvg-id="nick" tvg-logo="" group-title="Giải trí", Nick HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/nick_hd/default/index.mpd
@@ -2477,27 +2454,17 @@ https://mega.z5cable.com/bpk-tv/nick_jr_hd/default/index.mpd
 https://mega.z5cable.com/bpk-tv/mtv_hd/default/index.mpd
 
 
-#EXTINF:-1 tvg-id="discovery" tvg-logo="" group-title="Giải trí", Discovery HD
+#EXTINF:-1 tvg-id="discovery" tvg-logo="" group-title="Giải trí", Discovery HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/discovery_channel_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="id" tvg-logo="" group-title="Giải trí", Discovery ID
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
-https://mega.z5cable.com/bpk-tv/id_hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="discovery turbo" tvg-logo="" group-title="Giải trí", Discovery Turbo
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
-https://mega.z5cable.com/bpk-tv/discovery_turbo_hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="animal planet" tvg-logo="" group-title="Giải trí", Animal Planet HD
+#EXTINF:-1 tvg-id="animal planet" tvg-logo="" group-title="Giải trí", Animal Planet HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/animal_planet_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="nat geo" tvg-logo="" group-title="Giải trí", Nat Geo HD
+#EXTINF:-1 tvg-id="nat geo" tvg-logo="" group-title="Giải trí", Nat Geo HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/nat_geo_hd/default/index.mpd
