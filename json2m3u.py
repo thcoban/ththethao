@@ -94,9 +94,9 @@ def save_channel_list(channels_data: str, file_name: str) -> None:
                                     file.write(f'#EXTVLCOPT:http-referrer={request_headers[0]["value"]}\n')
                                     file.write(f'#EXTVLCOPT:http-user-agent={request_headers[1]["value"]}\n')
                         
-                    file.write(f"{channel_url}\n\n")
-                
-                count += 1
+                                file.write(f"{channel_url}\n\n")
+                                count += 1
+                                
         print_colored(f"\nTotal channels found: {count}", "green")
         print_colored(f"Channel list saved to: {file_name}", "blue")
     except IOError as e:
