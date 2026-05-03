@@ -1747,11 +1747,11 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://7dcf4f9b.cbilant.com/ipt
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31120/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" group-title="Premier Sports 🇬🇧" tvg-logo="http://epg.one/img/3553.png" , Premier Sports 1 🇬🇧 (b1)
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" group-title="Premier Sports 🇬🇧" tvg-logo="http://epg.one/img/3553.png" , Premier Sports 1 🇬🇧 (b1)
 http://4os6vafy.ottclub.xyz/iptv/RR3Y4PMCYGBUGRQ2PZNQP64R/2160/index.m3u8
 #EXTINF:-1 tvg-id="3553" group-title="Premier Sports 🇬🇧" tvg-logo="http://epg.one/img/3553.png" , Premier Sports 1 🇬🇧 (b2)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/2160/index.m3u8
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" group-title="Premier Sports 🇬🇧" tvg-logo="http://epg.one/img/3553.png" , Premier Sports 1 🇬🇧 (b3)
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" group-title="Premier Sports 🇬🇧" tvg-logo="http://epg.one/img/3553.png" , Premier Sports 1 🇬🇧 (b3)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/2160/index.m3u8
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" group-title="Premier Sports 🇬🇧" tvg-logo="http://epg.one/img/3553.png" , Premier Sports 1 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1776,6 +1776,20 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="[TV4FOSV].TV4.Fotboll.se" group-title="Sweden Sports 🇸🇪" , TV4 Futbol 🇸🇪
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a518c629bd683a4eba5f2a793bcb48d6:49642d2151ac6c3f8453bbfc4b3fdfc0
+https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd
+
+#EXTINF:-1 tvg-id="[TV4TESV].TV4.Tennis.se" group-title="Sweden Sports 🇸🇪" , TV4 Tennis 🇸🇪
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lXsyUI/srxp/hC6dibx1Nw","kid":"vTKtYI6MNTaNuwrL+pTY4A"}],"type":"temporary"}
+https://live.streaming.a2d.tv/asset/20465727.isml/dash.mpd
 
 
 #EXTINF:-1 tvg-id="TVP.Sport.cz" tvg-logo="https://i.imgur.com/sbN5opl.png" group-title="Czech Sports 🇨🇿" , TVP SPORT 🇨🇿
@@ -2009,25 +2023,10 @@ https://mega.z5cable.com/bpk-tv/golf_channel_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
 
-
 #EXTINF:-1 group-title="General" tvg-logo="", DAZN FAST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
-
-
-#EXTINF:-1 group-title="General" , Tv4Futbol 🇸🇪
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a518c629bd683a4eba5f2a793bcb48d6:49642d2151ac6c3f8453bbfc4b3fdfc0
-https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd
-
-#EXTINF:-1 group-title="General" , TV4 Tennis 🇸🇪
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lXsyUI/srxp/hC6dibx1Nw","kid":"vTKtYI6MNTaNuwrL+pTY4A"}],"type":"temporary"}
-https://live.streaming.a2d.tv/asset/20465727.isml/dash.mpd
 
 #EXTINF:-1 tvg-id="primevideo" tvg-name="MOTO GP CHANNEL" tvg-logo="" group-title="General" , MOTO GP CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2859,421 +2858,391 @@ http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1
 
  
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-8cb14fd0eb11.webp?v=1777839319" group-title="Bún Chả TV" group-logo="https://kaytee1012.github.io/buncha_logo.png" , 23:00 03/05 | ⚽ China vs France (Link 1) [hls]
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-8cb14fd0eb11.webp?v=1777840494" group-title="Bún Chả TV" group-logo="https://kaytee1012.github.io/buncha_logo.png" , 23:00 03/05 | ⚽ China vs France (Link 1) [hls]
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/china-vs-france-2300-03-05-2026/601440958
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.taoxanh.biz/live/69f7689e42283_161152/index.m3u8?expire=1778426654&sign=c3829dff9158e55da38629306607ea5c
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-ef602ea1cad2.webp?v=1777839340" group-title="Bún Chả TV" group-logo="https://kaytee1012.github.io/buncha_logo.png" , 00:10 04/05 | ⚽ Gauthier Onclin vs Michael Mmoh (Link 1) [hls]
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/gauthier-onclin-vs-michael-mmoh-0010-04-05-2026/601422394
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/00049f88651e6fcae27c55eb44c41d6b/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-3848bfbf6f85.webp?v=1777839315" group-title="Bún Chả TV" , 00:30 04/05 | ⚽ FC Ingolstadt vs Erzgebirge Aue (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-3848bfbf6f85.webp?v=1777840491" group-title="Bún Chả TV" group-logo="https://kaytee1012.github.io/buncha_logo.png" , 00:30 04/05 | ⚽ FC Ingolstadt vs Erzgebirge Aue (Link 1) [hls]
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/fc-ingolstadt-vs-erzgebirge-aue-0030-04-05-2026/601434088
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/f587278b4bdc724a538cd60ad6c98174/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-8b54117fa3fe.webp?v=1777839321" group-title="Bún Chả TV" , 01:00 04/05 | ⚽ Wu Yize vs Shaun Murphy (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-8b54117fa3fe.webp?v=1777840492" group-title="Bún Chả TV" , 01:00 04/05 | ⚽ Wu Yize vs Shaun Murphy (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/wu-yize-vs-shaun-murphy-0100-04-05-2026/601442416
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.taoxanh.biz/live/69f737a8203f5_142246/index.m3u8?expire=1778414120&sign=185fce1316a743e8124f151445e47b35
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-8a348412da85.webp?v=1777839319" group-title="Bún Chả TV" , 01:30 04/05 | ⚽ Newells Old Boys (W) vs CA Talleres de Cordoba (W) (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/newells-old-boys-w-vs-ca-talleres-de-cordoba-w-0130-04-05-2026/601434232
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/29fa86b697475c7c29ef69fe2685ba2c/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-5c2362310d20.webp?v=1777839320" group-title="Bún Chả TV" , 01:30 04/05 | ⚽ Gimnasia Jujuy vs Deportivo Maipu (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/gimnasia-jujuy-vs-deportivo-maipu-0130-04-05-2026/601434271
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/32d71e4bb3dff80e1d8af2a44eeb3726/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-9f1a07f6e642.webp?v=1777839320" group-title="Bún Chả TV" , 01:30 04/05 | ⚽ Racing Club Montevideo vs Montevideo City Torque (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/racing-club-montevideo-vs-montevideo-city-torque-0130-04-05-2026/601434223
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/d43380b8aaaf80baeaa304e09d7bb30e/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-7d0337ad7161.webp?v=1777839321" group-title="Bún Chả TV" , 01:30 04/05 | ⚽ Banfield (w) vs Boca Juniors (w) (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/banfield-w-vs-boca-juniors-w-0130-04-05-2026/601434229
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/b927c5012bb34cb10e64014d4fc06887/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-bbbfd9ec819e.webp?v=1777839322" group-title="Bún Chả TV" , 01:30 04/05 | ⚽ Berazategui vs CA Lugano (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/berazategui-vs-ca-lugano-0130-04-05-2026/601434196
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/af7f7c43e5d44f09e0b9fd4f2c0feef5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-dffee10cb7d4.webp?v=1777839322" group-title="Bún Chả TV" , 01:30 04/05 | ⚽ Liniers vs Talleres Rem de Escalada (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/liniers-vs-talleres-rem-de-escalada-0130-04-05-2026/601434193
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/1875fd3e80745320bd09676ba1bf4e24/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-a22eacd95b8e.webp?v=1777839323" group-title="Bún Chả TV" , 01:30 04/05 | ⚽ Almirante Brown vs Chaco For Ever (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/almirante-brown-vs-chaco-for-ever-0130-04-05-2026/601434190
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/dfc996cd2c65a934a230151142b36f46/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-c7045439b355.webp?v=1777839316" group-title="Bún Chả TV" , 01:45 04/05 | ⚽ Inter Milan vs Parma (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/inter-milan-vs-parma-0145-04-05-2026/601434235
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.taoxanh.biz/live/69f7770d42283_88186/index.m3u8?expire=1778430349&sign=0f1f154c7f26443a4b8d8683d0f68719
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-c7045439b355.webp?v=1777839316" group-title="Bún Chả TV" , 01:45 04/05 | ⚽ Inter Milan vs Parma (Link 2) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/inter-milan-vs-parma-0145-04-05-2026/601434235
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/7d0249401f71814078e8319ecbe63650/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-d35a4dfd94c2.webp?v=1777839318" group-title="Bún Chả TV" , 01:45 04/05 | ⚽ Lyon vs Stade Rennais FC (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-d35a4dfd94c2.webp?v=1777840491" group-title="Bún Chả TV" , 01:45 04/05 | ⚽ Lyon vs Stade Rennais FC (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/lyon-vs-stade-rennais-fc-0145-04-05-2026/601434238
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.taoxanh.biz/live/69f793ec203f5_136682/index.m3u8?expire=1778437740&sign=daa0bc1caf1791f57d338e542ecf631a
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-d35a4dfd94c2.webp?v=1777839318" group-title="Bún Chả TV" , 01:45 04/05 | ⚽ Lyon vs Stade Rennais FC (Link 2) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-d35a4dfd94c2.webp?v=1777840491" group-title="Bún Chả TV" , 01:45 04/05 | ⚽ Lyon vs Stade Rennais FC (Link 2) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/lyon-vs-stade-rennais-fc-0145-04-05-2026/601434238
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/2ad3a7459838806a8447c90ea5802c35/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-9fe4633bf344.webp?v=1777839324" group-title="Bún Chả TV" , 01:45 04/05 | ⚽ JuventusU23 vs Vis Pesaro (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-c7045439b355.webp?v=1777840492" group-title="Bún Chả TV" , 01:45 04/05 | ⚽ Inter Milan vs Parma (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/inter-milan-vs-parma-0145-04-05-2026/601434235
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.taoxanh.biz/live/69f7770d42283_88186/index.m3u8?expire=1778430349&sign=0f1f154c7f26443a4b8d8683d0f68719
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-c7045439b355.webp?v=1777840492" group-title="Bún Chả TV" , 01:45 04/05 | ⚽ Inter Milan vs Parma (Link 2) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/inter-milan-vs-parma-0145-04-05-2026/601434235
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/7d0249401f71814078e8319ecbe63650/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-9fe4633bf344.webp?v=1777840494" group-title="Bún Chả TV" , 01:45 04/05 | ⚽ JuventusU23 vs Vis Pesaro (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/juventusu23-vs-vis-pesaro-0145-04-05-2026/601441564
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/27d982902738a6acccddad35b89658a6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-d4a79faf870a.webp?v=1777839317" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ RCD Espanyol de Barcelona vs Real Madrid (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-ed43db7544a9.webp?v=1777840489" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Sao Bernardo vs Ponte Preta (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/sao-bernardo-vs-ponte-preta-0200-04-05-2026/601434283
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/0aae94025d3b21978d4d8e4ff5e224f0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-d4a79faf870a.webp?v=1777840490" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ RCD Espanyol de Barcelona vs Real Madrid (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/rcd-espanyol-de-barcelona-vs-real-madrid-0200-04-05-2026/601434241
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.taoxanh.biz/live/69f794cc42283_162172/index.m3u8?expire=1778437964&sign=55d26ebedc8333605d0d5777d2f06d63
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-d4a79faf870a.webp?v=1777839317" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ RCD Espanyol de Barcelona vs Real Madrid (Link 2) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-d4a79faf870a.webp?v=1777840490" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ RCD Espanyol de Barcelona vs Real Madrid (Link 2) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/rcd-espanyol-de-barcelona-vs-real-madrid-0200-04-05-2026/601434241
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.taoxanh.biz/live/69f78bbe42283_28/index.m3u8?expire=1778435646&sign=480c3ffe9e2220c0ea3ef71695d1a2bb
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-d4a79faf870a.webp?v=1777839317" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ RCD Espanyol de Barcelona vs Real Madrid (Link 3) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-d4a79faf870a.webp?v=1777840490" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ RCD Espanyol de Barcelona vs Real Madrid (Link 3) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/rcd-espanyol-de-barcelona-vs-real-madrid-0200-04-05-2026/601434241
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/e28bf9ef09f1faa7e02304aa1884209f/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-d2adc0f6db95.webp?v=1777839324" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Gimnasia La Plata vs Argentinos Juniors (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/gimnasia-la-plata-vs-argentinos-juniors-0200-04-05-2026/601434250
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/09bdb2cfff3cc727d20b2a71d43d2601/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-e15b6df10804.webp?v=1777839325" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ CR Flamengo vs Clube de Regatas Vasco da Gama (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/cr-flamengo-vs-clube-de-regatas-vasco-da-gama-0200-04-05-2026/601434265
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/bdb1b43c5148dee2bbe4d1e2cd5aab31/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-928cd53a7aca.webp?v=1777839325" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Club Ciudad de Bolivar vs Ferrol Carril Oeste (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-928cd53a7aca.webp?v=1777840493" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Club Ciudad de Bolivar vs Ferrol Carril Oeste (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/club-ciudad-de-bolivar-vs-ferrol-carril-oeste-0200-04-05-2026/601434268
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/4d48f3b3e2edcbbf0434885b567b11b4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-feb61fec8a6e.webp?v=1777839326" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Racing Club de Avellaneda vs CA Huracan (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/racing-club-de-avellaneda-vs-ca-huracan-0200-04-05-2026/601434259
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-e15b6df10804.webp?v=1777840493" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ CR Flamengo vs Clube de Regatas Vasco da Gama (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/cr-flamengo-vs-clube-de-regatas-vasco-da-gama-0200-04-05-2026/601434265
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/7e1460f93188087ff30bf18ea623cf5e/playlist.m3u8
+https://live.alilicloud.com/live/bdb1b43c5148dee2bbe4d1e2cd5aab31/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-68f5d7e44cf0.webp?v=1777839326" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Rosario Central vs Club Atletico Tigre (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/rosario-central-vs-club-atletico-tigre-0200-04-05-2026/601434256
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/e7467b5c6b6fc6c49ebd4c0cf4350e79/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-54a49d5a6939.webp?v=1777839327" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Belgrano vs Sarmiento Junin (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/belgrano-vs-sarmiento-junin-0200-04-05-2026/601434253
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/f502f779834923425e68bb167dad932a/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-11ac01e24044.webp?v=1777839328" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Sao Paulo vs Bahia (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-11ac01e24044.webp?v=1777840495" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Sao Paulo vs Bahia (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/sao-paulo-vs-bahia-0200-04-05-2026/601434262
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/076d3fd7ec5e81139709554ca349ec11/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-8e19b710f266.webp?v=1777839328" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ UD Las Palmas vs Real Valladolid CF (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/ud-las-palmas-vs-real-valladolid-cf-0200-04-05-2026/601434244
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-54a49d5a6939.webp?v=1777840495" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Belgrano vs Sarmiento Junin (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/belgrano-vs-sarmiento-junin-0200-04-05-2026/601434253
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/b56a74811a6dd4820eb6aecae872c613/playlist.m3u8
+https://live.alilicloud.com/live/f502f779834923425e68bb167dad932a/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-7cc00f978092.webp?v=1777839329" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Patronato Parana vs Nueva Chicago (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/patronato-parana-vs-nueva-chicago-0200-04-05-2026/601434274
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/16d72decd2954ed9fa836ead754e5a76/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-0d195ed8a86b.webp?v=1777839330" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Operario Ferroviario PR vs Londrina PR (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/operario-ferroviario-pr-vs-londrina-pr-0200-04-05-2026/601434280
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/35e47210fe6567ef05fb27f1ca383834/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-3d4b7f4bd704.webp?v=1777839331" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Bolívar SC VEN vs Aragua FC (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/bolivar-sc-ven-vs-aragua-fc-0200-04-05-2026/601434331
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/21608313e551b1f863202f9569817126/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-afef5abf5d88.webp?v=1777839331" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Gualberto Villarroel Deportivo San José vs Bolivar (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/gualberto-villarroel-deportivo-san-jose-vs-bolivar-0200-04-05-2026/601434289
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/6df424683835d2240e05aa4f3c981890/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-cb95e7b50b79.webp?v=1777839332" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Boston Legacy W vs Denver Summit W (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-cb95e7b50b79.webp?v=1777840496" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Boston Legacy W vs Denver Summit W (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/boston-legacy-w-vs-denver-summit-w-0200-04-05-2026/601434286
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/ee1a79f68146332c2ef18a774b166434/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-a76ebf4222b9.webp?v=1777839335" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Philadelphia Union II vs New York Red Bulls B (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-feb61fec8a6e.webp?v=1777840496" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Racing Club de Avellaneda vs CA Huracan (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/racing-club-de-avellaneda-vs-ca-huracan-0200-04-05-2026/601434259
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/7e1460f93188087ff30bf18ea623cf5e/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-3d4b7f4bd704.webp?v=1777840497" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Bolívar SC VEN vs Aragua FC (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/bolivar-sc-ven-vs-aragua-fc-0200-04-05-2026/601434331
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/21608313e551b1f863202f9569817126/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-d2adc0f6db95.webp?v=1777840498" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Gimnasia La Plata vs Argentinos Juniors (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/gimnasia-la-plata-vs-argentinos-juniors-0200-04-05-2026/601434250
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/09bdb2cfff3cc727d20b2a71d43d2601/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-a76ebf4222b9.webp?v=1777840498" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Philadelphia Union II vs New York Red Bulls B (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/philadelphia-union-ii-vs-new-york-red-bulls-b-0200-04-05-2026/601434334
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/7627aeee3d5b0785f2564152ace82086/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-94a9754cce99.webp?v=1777839343" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Atlanta Dream vs Washington Mystics (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-0d195ed8a86b.webp?v=1777840499" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Operario Ferroviario PR vs Londrina PR (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/operario-ferroviario-pr-vs-londrina-pr-0200-04-05-2026/601434280
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/35e47210fe6567ef05fb27f1ca383834/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-8e19b710f266.webp?v=1777840499" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ UD Las Palmas vs Real Valladolid CF (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/ud-las-palmas-vs-real-valladolid-cf-0200-04-05-2026/601434244
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/b56a74811a6dd4820eb6aecae872c613/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-7cc00f978092.webp?v=1777840500" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Patronato Parana vs Nueva Chicago (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/patronato-parana-vs-nueva-chicago-0200-04-05-2026/601434274
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/16d72decd2954ed9fa836ead754e5a76/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-afef5abf5d88.webp?v=1777840500" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Gualberto Villarroel Deportivo San José vs Bolivar (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/gualberto-villarroel-deportivo-san-jose-vs-bolivar-0200-04-05-2026/601434289
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/6df424683835d2240e05aa4f3c981890/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-68f5d7e44cf0.webp?v=1777840501" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Rosario Central vs Club Atletico Tigre (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/rosario-central-vs-club-atletico-tigre-0200-04-05-2026/601434256
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/e7467b5c6b6fc6c49ebd4c0cf4350e79/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-94a9754cce99.webp?v=1777840509" group-title="Bún Chả TV" , 02:00 04/05 | ⚽ Atlanta Dream vs Washington Mystics (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/atlanta-dream-vs-washington-mystics-0200-04-05-2026/601424410
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/885618bd20fc9c32389b390562cbcdd2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-f47398b5f1ee.webp?v=1777839318" group-title="Bún Chả TV" , 02:10 04/05 | ⚽ New York City FC vs DC United (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-f47398b5f1ee.webp?v=1777840488" group-title="Bún Chả TV" , 02:10 04/05 | ⚽ New York City FC vs DC United (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/new-york-city-fc-vs-dc-united-0210-04-05-2026/601434247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.taoxanh.biz/live/69f78e1242283_73445/index.m3u8?expire=1778436242&sign=09a8598c03240206c1e25e19429b52ae
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-f47398b5f1ee.webp?v=1777839318" group-title="Bún Chả TV" , 02:10 04/05 | ⚽ New York City FC vs DC United (Link 2) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-f47398b5f1ee.webp?v=1777840488" group-title="Bún Chả TV" , 02:10 04/05 | ⚽ New York City FC vs DC United (Link 2) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/new-york-city-fc-vs-dc-united-0210-04-05-2026/601434247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/9cd5ac3d6e608fd68331c3892e2f493d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-ad2ebcfaec88.webp?v=1777839332" group-title="Bún Chả TV" , 02:10 04/05 | ⚽ Supra Du Quebec vs Cavalry FC (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-ad2ebcfaec88.webp?v=1777840501" group-title="Bún Chả TV" , 02:10 04/05 | ⚽ Supra Du Quebec vs Cavalry FC (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/supra-du-quebec-vs-cavalry-fc-0210-04-05-2026/601434325
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/04297cfffcebaf155c63022c85e1288d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-bad40f0cbcd3.webp?v=1777839317" group-title="Bún Chả TV" , 02:30 04/05 | ⚽ Detroit Pistons vs Orlando Magic (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-bad40f0cbcd3.webp?v=1777840489" group-title="Bún Chả TV" , 02:30 04/05 | ⚽ Detroit Pistons vs Orlando Magic (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/detroit-pistons-vs-orlando-magic-0230-04-05-2026/601438672
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.taoxanh.biz/live/69f79f7a42283_42127/index.m3u8?expire=1778440698&sign=1519474cc9811a3017cf6315f47fe1aa
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-bad40f0cbcd3.webp?v=1777839317" group-title="Bún Chả TV" , 02:30 04/05 | ⚽ Detroit Pistons vs Orlando Magic (Link 2) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-bad40f0cbcd3.webp?v=1777840489" group-title="Bún Chả TV" , 02:30 04/05 | ⚽ Detroit Pistons vs Orlando Magic (Link 2) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/detroit-pistons-vs-orlando-magic-0230-04-05-2026/601438672
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.taoxanh.biz/live/69f79bb4203f5_4733/index.m3u8?expire=1778439732&sign=43d5d06669c70e1939268670c3120fd7
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-bad40f0cbcd3.webp?v=1777839317" group-title="Bún Chả TV" , 02:30 04/05 | ⚽ Detroit Pistons vs Orlando Magic (Link 3) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-bad40f0cbcd3.webp?v=1777840489" group-title="Bún Chả TV" , 02:30 04/05 | ⚽ Detroit Pistons vs Orlando Magic (Link 3) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/detroit-pistons-vs-orlando-magic-0230-04-05-2026/601438672
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/4899cf8e05047224e9bf98584c3fd570/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-c2e10b775c72.webp?v=1777839330" group-title="Bún Chả TV" , 02:30 04/05 | ⚽ Atletico Barinas vs Academia Puerto Cabello B (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/atletico-barinas-vs-academia-puerto-cabello-b-0230-04-05-2026/601434352
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/a816c7354731b2af45679c3d50711922/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-8775750a9626.webp?v=1777839333" group-title="Bún Chả TV" , 02:30 04/05 | ⚽ Godoy Cruz Antonio Tomba vs Deportivo Moron (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/godoy-cruz-antonio-tomba-vs-deportivo-moron-0230-04-05-2026/601434343
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/ab6625e1fb30f99dd03ebbb1c30e8ac7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-d6f91b5c62e5.webp?v=1777839334" group-title="Bún Chả TV" , 02:30 04/05 | ⚽ Atletico El Vigia vs Real Frontera (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/atletico-el-vigia-vs-real-frontera-0230-04-05-2026/601434358
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/8a1f5786d9285f278dd61712eac05725/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-1a33e53d558f.webp?v=1777839334" group-title="Bún Chả TV" , 02:30 04/05 | ⚽ Urena SC vs Zamora FC Barinas B (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-1a33e53d558f.webp?v=1777840502" group-title="Bún Chả TV" , 02:30 04/05 | ⚽ Urena SC vs Zamora FC Barinas B (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/urena-sc-vs-zamora-fc-barinas-b-0230-04-05-2026/601434355
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/9218cc32635903893d39374bda5a07ef/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-1a6376972008.webp?v=1777839336" group-title="Bún Chả TV" , 02:30 04/05 | ⚽ Ferrocarril Midland vs Club Atletico Guemes (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-1a6376972008.webp?v=1777840503" group-title="Bún Chả TV" , 02:30 04/05 | ⚽ Ferrocarril Midland vs Club Atletico Guemes (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/ferrocarril-midland-vs-club-atletico-guemes-0230-04-05-2026/601434346
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/d375a860aeaac1f45fbb29ecfcbde07a/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-606d3ca22396.webp?v=1777839335" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ Salcedo FC vs Delfines Del Este (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/salcedo-fc-vs-delfines-del-este-0300-04-05-2026/601440148
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-d6f91b5c62e5.webp?v=1777840503" group-title="Bún Chả TV" , 02:30 04/05 | ⚽ Atletico El Vigia vs Real Frontera (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/atletico-el-vigia-vs-real-frontera-0230-04-05-2026/601434358
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/88a5bbaec3543d4298ef9ec6e0903430/playlist.m3u8
+https://live.alilicloud.com/live/8a1f5786d9285f278dd61712eac05725/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-bb93b9218de7.webp?v=1777839336" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ Racing de Cordoba vs Deportivo Madryn (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/racing-de-cordoba-vs-deportivo-madryn-0300-04-05-2026/601434361
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-8775750a9626.webp?v=1777840504" group-title="Bún Chả TV" , 02:30 04/05 | ⚽ Godoy Cruz Antonio Tomba vs Deportivo Moron (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/godoy-cruz-antonio-tomba-vs-deportivo-moron-0230-04-05-2026/601434343
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/0dff5f01a94ae8069d271534eed57c8f/playlist.m3u8
+https://live.alilicloud.com/live/ab6625e1fb30f99dd03ebbb1c30e8ac7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-f392a679b321.webp?v=1777839338" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ SV Unistars vs SV Estrella (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/sv-unistars-vs-sv-estrella-0300-04-05-2026/601435036
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-c2e10b775c72.webp?v=1777840508" group-title="Bún Chả TV" , 02:30 04/05 | ⚽ Atletico Barinas vs Academia Puerto Cabello B (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/atletico-barinas-vs-academia-puerto-cabello-b-0230-04-05-2026/601434352
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/897514e52e522c143025506a4fda5a64/playlist.m3u8
+https://live.alilicloud.com/live/a816c7354731b2af45679c3d50711922/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-fa53bea703c6.webp?v=1777839339" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ Pride of Gall Hill FC vs UWI Blackbirds (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-fa53bea703c6.webp?v=1777840504" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ Pride of Gall Hill FC vs UWI Blackbirds (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/pride-of-gall-hill-fc-vs-uwi-blackbirds-0300-04-05-2026/601440151
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/4f447ef6809b534ef62163a9c457d0b3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-66e718e76567.webp?v=1777839340" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ Amazonas FC vs Caxias RS (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-66e718e76567.webp?v=1777840505" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ Amazonas FC vs Caxias RS (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/amazonas-fc-vs-caxias-rs-0300-04-05-2026/601434364
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/9fb36ae7a5eed8e22a0bc7b7c0202516/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-fd165172da60.webp?v=1777839341" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ Volta Redonda vs Brusque FC (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/volta-redonda-vs-brusque-fc-0300-04-05-2026/601434370
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/420012cc1b5740bcae6ad6cea15fa1ba/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-5fb5b9f75637.webp?v=1777839342" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ Dynamo Puerto FC vs Mineros de Guayana (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/dynamo-puerto-fc-vs-mineros-de-guayana-0300-04-05-2026/601434388
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/17c532bccdec641f9d1556e99ee52d44/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-bd5d592d6a16.webp?v=1777839343" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ Ferroviaria SP vs Anapolis FC (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-bd5d592d6a16.webp?v=1777840505" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ Ferroviaria SP vs Anapolis FC (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/ferroviaria-sp-vs-anapolis-fc-0300-04-05-2026/601434367
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/acf85d81463a9dba0a8479946bf5208d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-b6a504afd4a9.webp?v=1777839344" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ Deportivo Miranda vs Atletico Avila FC (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-fd165172da60.webp?v=1777840506" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ Volta Redonda vs Brusque FC (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/volta-redonda-vs-brusque-fc-0300-04-05-2026/601434370
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/420012cc1b5740bcae6ad6cea15fa1ba/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-f392a679b321.webp?v=1777840506" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ SV Unistars vs SV Estrella (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/sv-unistars-vs-sv-estrella-0300-04-05-2026/601435036
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/897514e52e522c143025506a4fda5a64/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-5fb5b9f75637.webp?v=1777840507" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ Dynamo Puerto FC vs Mineros de Guayana (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/dynamo-puerto-fc-vs-mineros-de-guayana-0300-04-05-2026/601434388
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/17c532bccdec641f9d1556e99ee52d44/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-b6a504afd4a9.webp?v=1777840507" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ Deportivo Miranda vs Atletico Avila FC (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/deportivo-miranda-vs-atletico-avila-fc-0300-04-05-2026/601434391
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/ffc111b62823c599b96a6dc89ce9fcde/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-bb93b9218de7.webp?v=1777840509" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ Racing de Cordoba vs Deportivo Madryn (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/racing-de-cordoba-vs-deportivo-madryn-0300-04-05-2026/601434361
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/0dff5f01a94ae8069d271534eed57c8f/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-606d3ca22396.webp?v=1777840509" group-title="Bún Chả TV" , 03:00 04/05 | ⚽ Salcedo FC vs Delfines Del Este (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/salcedo-fc-vs-delfines-del-este-0300-04-05-2026/601440148
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/88a5bbaec3543d4298ef9ec6e0903430/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-735b9fa16737.webp?v=1777840510" group-title="Bún Chả TV" , 03:15 04/05 | ⚽ Stjarnan vs U.M.F. Tindastoll (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/stjarnan-vs-umf-tindastoll-0315-04-05-2026/601441420
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/80595ef30212d614d0363bc1eb3b66a0/playlist.m3u8
+
  
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-8cb14fd0eb11.webp?v=1777839354" group-title="Thập Cẩm Fake" group-logo="https://tctv.pro/10cam-logo-app-light.jpg" , 23:00 03/05 | ⚽ China vs France (Link 1) [hls]
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-8cb14fd0eb11.webp?v=1777840523" group-title="Thập Cẩm Fake" group-logo="https://tctv.pro/10cam-logo-app-light.jpg" , 23:00 03/05 | ⚽ China vs France (Link 1) [hls]
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/china-vs-france-2300-03-05-2026/456927
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.phogatv8.com/live/69f767df51ddc_148/index.m3u8?expire=1778426463&sign=686d62cb5bd85c2a54a2b8d8607f4e98
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-ef602ea1cad2.webp?v=1777839355" group-title="Thập Cẩm Fake" group-logo="https://tctv.pro/10cam-logo-app-light.jpg" , 00:10 04/05 | ⚽ Gauthier Onclin vs Michael Mmoh (Link 1) [hls]
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/gauthier-onclin-vs-michael-mmoh-0010-04-05-2026/441693
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/00049f88651e6fcae27c55eb44c41d6b/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-d35a4dfd94c2.webp?v=1777839352" group-title="Thập Cẩm Fake" , 01:45 04/05 | ⚽ Lyon vs Stade Rennais FC (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-d35a4dfd94c2.webp?v=1777840524" group-title="Thập Cẩm Fake" group-logo="https://tctv.pro/10cam-logo-app-light.jpg" , 01:45 04/05 | ⚽ Lyon vs Stade Rennais FC (Link 1) [hls]
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/lyon-vs-stade-rennais-fc-0145-04-05-2026/450006
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.phogatv8.com/live/69f78ba5137e4_14/index.m3u8?expire=1778435621&sign=6e7ce98c6a19d8a1e8771835cc7a7d12
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-d35a4dfd94c2.webp?v=1777839352" group-title="Thập Cẩm Fake" , 01:45 04/05 | ⚽ Lyon vs Stade Rennais FC (Link 2) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-d35a4dfd94c2.webp?v=1777840524" group-title="Thập Cẩm Fake" , 01:45 04/05 | ⚽ Lyon vs Stade Rennais FC (Link 2) [hls] 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/lyon-vs-stade-rennais-fc-0145-04-05-2026/450006
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/2ad3a7459838806a8447c90ea5802c35/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-c7045439b355.webp?v=1777839353" group-title="Thập Cẩm Fake" , 01:45 04/05 | ⚽ Inter Milan vs Parma (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-c7045439b355.webp?v=1777840526" group-title="Thập Cẩm Fake" , 01:45 04/05 | ⚽ Inter Milan vs Parma (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/inter-milan-vs-parma-0145-04-05-2026/450003
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.phogatv8.com/live/69f7931b51ddc_14559/index.m3u8?expire=1778437531&sign=675bbb7aa7df4ffafde33e0d444e6a78
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-c7045439b355.webp?v=1777839353" group-title="Thập Cẩm Fake" , 01:45 04/05 | ⚽ Inter Milan vs Parma (Link 2) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-c7045439b355.webp?v=1777840526" group-title="Thập Cẩm Fake" , 01:45 04/05 | ⚽ Inter Milan vs Parma (Link 2) [hls] 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/inter-milan-vs-parma-0145-04-05-2026/450003
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.phogatv8.com/live/69f78f72137e4_19533/index.m3u8?expire=1778436594&sign=02519ae903a381dbcbea31788b267bb1
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-c7045439b355.webp?v=1777839353" group-title="Thập Cẩm Fake" , 01:45 04/05 | ⚽ Inter Milan vs Parma (Link 3) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-c7045439b355.webp?v=1777840526" group-title="Thập Cẩm Fake" , 01:45 04/05 | ⚽ Inter Milan vs Parma (Link 3) [hls] 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/inter-milan-vs-parma-0145-04-05-2026/450003
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/7d0249401f71814078e8319ecbe63650/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-d4a79faf870a.webp?v=1777839353" group-title="Thập Cẩm Fake" , 02:00 04/05 | ⚽ RCD Espanyol de Barcelona vs Real Madrid (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/rcd-espanyol-de-barcelona-vs-real-madrid-0200-04-05-2026/450009
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69f7956a137e4_151/index.m3u8?expire=1778438122&sign=6bcff712a342065d91d35361e5a5db1b
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-d4a79faf870a.webp?v=1777839353" group-title="Thập Cẩm Fake" , 02:00 04/05 | ⚽ RCD Espanyol de Barcelona vs Real Madrid (Link 2) [hls] 
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/rcd-espanyol-de-barcelona-vs-real-madrid-0200-04-05-2026/450009
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69f780bc51ddc_35/index.m3u8?expire=1778432828&sign=52c68c4e357fdaa29a3ec7228cac8444
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-d4a79faf870a.webp?v=1777839353" group-title="Thập Cẩm Fake" , 02:00 04/05 | ⚽ RCD Espanyol de Barcelona vs Real Madrid (Link 3) [hls] 
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/rcd-espanyol-de-barcelona-vs-real-madrid-0200-04-05-2026/450009
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69f792f0137e4_1549/index.m3u8?expire=1778437488&sign=4772fd2b5b1c72606691857b60a2695a
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-d4a79faf870a.webp?v=1777839353" group-title="Thập Cẩm Fake" , 02:00 04/05 | ⚽ RCD Espanyol de Barcelona vs Real Madrid (Link 4) [hls] 
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/rcd-espanyol-de-barcelona-vs-real-madrid-0200-04-05-2026/450009
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/e28bf9ef09f1faa7e02304aa1884209f/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-94a9754cce99.webp?v=1777839354" group-title="Thập Cẩm Fake" , 02:00 04/05 | ⚽ Atlanta Dream vs Washington Mystics (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-94a9754cce99.webp?v=1777840524" group-title="Thập Cẩm Fake" , 02:00 04/05 | ⚽ Atlanta Dream vs Washington Mystics (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/atlanta-dream-vs-washington-mystics-0200-04-05-2026/443664
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/885618bd20fc9c32389b390562cbcdd2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-f47398b5f1ee.webp?v=1777839353" group-title="Thập Cẩm Fake" , 02:10 04/05 | ⚽ New York City FC vs DC United (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-d4a79faf870a.webp?v=1777840526" group-title="Thập Cẩm Fake" , 02:00 04/05 | ⚽ RCD Espanyol de Barcelona vs Real Madrid (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/rcd-espanyol-de-barcelona-vs-real-madrid-0200-04-05-2026/450009
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69f7956a137e4_151/index.m3u8?expire=1778438122&sign=6bcff712a342065d91d35361e5a5db1b
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-d4a79faf870a.webp?v=1777840526" group-title="Thập Cẩm Fake" , 02:00 04/05 | ⚽ RCD Espanyol de Barcelona vs Real Madrid (Link 2) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/rcd-espanyol-de-barcelona-vs-real-madrid-0200-04-05-2026/450009
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69f780bc51ddc_35/index.m3u8?expire=1778432828&sign=52c68c4e357fdaa29a3ec7228cac8444
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-d4a79faf870a.webp?v=1777840526" group-title="Thập Cẩm Fake" , 02:00 04/05 | ⚽ RCD Espanyol de Barcelona vs Real Madrid (Link 3) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/rcd-espanyol-de-barcelona-vs-real-madrid-0200-04-05-2026/450009
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69f792f0137e4_1549/index.m3u8?expire=1778437488&sign=4772fd2b5b1c72606691857b60a2695a
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-d4a79faf870a.webp?v=1777840526" group-title="Thập Cẩm Fake" , 02:00 04/05 | ⚽ RCD Espanyol de Barcelona vs Real Madrid (Link 4) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/rcd-espanyol-de-barcelona-vs-real-madrid-0200-04-05-2026/450009
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/e28bf9ef09f1faa7e02304aa1884209f/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-f47398b5f1ee.webp?v=1777840525" group-title="Thập Cẩm Fake" , 02:10 04/05 | ⚽ New York City FC vs DC United (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/new-york-city-fc-vs-dc-united-0210-04-05-2026/450015
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.phogatv8.com/live/69f795cd51ddc_11/index.m3u8?expire=1778438221&sign=c1e3880a6d22002bd1a41cfd55849351
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-f47398b5f1ee.webp?v=1777839353" group-title="Thập Cẩm Fake" , 02:10 04/05 | ⚽ New York City FC vs DC United (Link 2) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-f47398b5f1ee.webp?v=1777840525" group-title="Thập Cẩm Fake" , 02:10 04/05 | ⚽ New York City FC vs DC United (Link 2) [hls] 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/new-york-city-fc-vs-dc-united-0210-04-05-2026/450015
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/9cd5ac3d6e608fd68331c3892e2f493d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-bad40f0cbcd3.webp?v=1777839354" group-title="Thập Cẩm Fake" , 02:30 04/05 | ⚽ Detroit Pistons vs Orlando Magic (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/detroit-pistons-vs-orlando-magic-0230-04-05-2026/454338
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69f79e4051ddc_9657/index.m3u8?expire=1778440384&sign=ad8096cd5b1b47655bb61b3605f83255
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-bad40f0cbcd3.webp?v=1777839354" group-title="Thập Cẩm Fake" , 02:30 04/05 | ⚽ Detroit Pistons vs Orlando Magic (Link 2) [hls] 
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/detroit-pistons-vs-orlando-magic-0230-04-05-2026/454338
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/4899cf8e05047224e9bf98584c3fd570/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-226bb0eb04d2.webp?v=1777839355" group-title="Thập Cẩm Fake" , 02:30 04/05 | ⚽ Rio Ave vs Gil Vicente (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-226bb0eb04d2.webp?v=1777840523" group-title="Thập Cẩm Fake" , 02:30 04/05 | ⚽ Rio Ave vs Gil Vicente (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/rio-ave-vs-gil-vicente-0230-04-05-2026/450108
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn-hls.phogatv8.com/live/69f7a19a137e4_11241/index.m3u8?expire=1778441242&sign=8eda75e4a11378a758c0ea8ff290e29a
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-226bb0eb04d2.webp?v=1777839355" group-title="Thập Cẩm Fake" , 02:30 04/05 | ⚽ Rio Ave vs Gil Vicente (Link 2) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-226bb0eb04d2.webp?v=1777840523" group-title="Thập Cẩm Fake" , 02:30 04/05 | ⚽ Rio Ave vs Gil Vicente (Link 2) [hls] 
 #EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/rio-ave-vs-gil-vicente-0230-04-05-2026/450108
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alilicloud.com/live/2ec431a559c5fb4fa72dad8920b4ab02/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-bad40f0cbcd3.webp?v=1777840525" group-title="Thập Cẩm Fake" , 02:30 04/05 | ⚽ Detroit Pistons vs Orlando Magic (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/detroit-pistons-vs-orlando-magic-0230-04-05-2026/454338
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69f79e4051ddc_9657/index.m3u8?expire=1778440384&sign=ad8096cd5b1b47655bb61b3605f83255
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-bad40f0cbcd3.webp?v=1777840525" group-title="Thập Cẩm Fake" , 02:30 04/05 | ⚽ Detroit Pistons vs Orlando Magic (Link 2) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/detroit-pistons-vs-orlando-magic-0230-04-05-2026/454338
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/4899cf8e05047224e9bf98584c3fd570/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-735b9fa16737.webp?v=1777840524" group-title="Thập Cẩm Fake" , 03:15 04/05 | ⚽ Stjarnan vs U.M.F. Tindastoll (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/stjarnan-vs-umf-tindastoll-0315-04-05-2026/457353
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/80595ef30212d614d0363bc1eb3b66a0/playlist.m3u8
+
  
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-02b885092e74.webp?v=1777839362" group-title="Quê Choa TV" group-logo="https://quechoa6.live/images/header/quechoatv-logo-v2.png" , 02:00 04/05 | ⚽ Espanyol vs Real Madrid (Link 1) [hls]
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-02b885092e74.webp?v=1777840538" group-title="Quê Choa TV" group-logo="https://quechoa6.live/images/header/quechoatv-logo-v2.png" , 02:00 04/05 | ⚽ Espanyol vs Real Madrid (Link 1) [hls]
 #EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/espanyol-vs-real-madrid-jzu-03-05-2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-f2546225b1f2.webp?v=1777839364" group-title="Quê Choa TV" group-logo="https://quechoa6.live/images/header/quechoatv-logo-v2.png" , 15:30 04/05 | ⚽ Persib Bandung vs PSIM Yogyakarta (Link 1) [hls]
-#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/persib-bandung-vs-psim-yogyakarta-jgx-04-05-2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-99d2a773a85d.webp?v=1777839365" group-title="Quê Choa TV" , 15:30 04/05 | ⚽ PSM Makassar vs Bhayangkara FC (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-99d2a773a85d.webp?v=1777840532" group-title="Quê Choa TV" group-logo="https://quechoa6.live/images/header/quechoatv-logo-v2.png" , 15:30 04/05 | ⚽ PSM Makassar vs Bhayangkara FC (Link 1) [hls]
 #EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/psm-makassar-vs-bhayangkara-fc-ghk-04-05-2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-d53f05083ff0.webp?v=1777839367" group-title="Quê Choa TV" , 21:00 04/05 | ⚽ Chelsea vs Nottingham Forest (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-f2546225b1f2.webp?v=1777840536" group-title="Quê Choa TV" , 15:30 04/05 | ⚽ Persib Bandung vs PSIM Yogyakarta (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/persib-bandung-vs-psim-yogyakarta-jgx-04-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-d53f05083ff0.webp?v=1777840534" group-title="Quê Choa TV" , 21:00 04/05 | ⚽ Chelsea vs Nottingham Forest (Link 1) [hls] 
 #EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/chelsea-vs-nottingham-forest-ugh-04-05-2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
 
  
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0c1f89143a32.webp?v=1777839391" group-title="Hội Quán TV" group-logo="https://kaytee1012.github.io/hoiquan_logo.png" , 01:45 | ⚽ Inter vs Parma (Link 1) [hls]
-https://tfvk4gr4nhct1gwzdepjqgrhuqmmeqfsg17uff37ga6mcpf5gkmudp7so.100ycdn.com/hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8?wsSession=1b9d69d23b35b31c75d82a47-177783937859058&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271907035344675
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0c1f89143a32.webp?v=1777840561" group-title="Hội Quán TV" group-logo="https://kaytee1012.github.io/hoiquan_logo.png" , 01:45 | ⚽ Inter vs Parma (Link 1) [hls]
+https://tfvk4gr4nhct1gwzdepjqgrhuqmmeqfsg17uff37ga6mcpf5gkmudp7so.100ycdn.com/hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8?wsSession=1b9d69d23b35b31c75d82a47-177784054935774&wsIPSercert=3ba42c96b21cd327fc2d05adaf200cd3&wsBindIP=2&wsserid=1168271907035344675
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0c1f89143a32.webp?v=1777839391" group-title="Hội Quán TV" group-logo="https://kaytee1012.github.io/hoiquan_logo.png" , 01:45 | ⚽ Inter vs Parma (Link 2) [hls]
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0c1f89143a32.webp?v=1777840561" group-title="Hội Quán TV" group-logo="https://kaytee1012.github.io/hoiquan_logo.png" , 01:45 | ⚽ Inter vs Parma (Link 2) [hls]
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e31cd8f7b86d.webp?v=1777839391" group-title="Hội Quán TV" , 01:45 | ⚽ Lyon vs Rennes (Link 1) [hls] 
-https://tfvk4gr4nhct1gwzdepjqgrhuqmmeqfsg17uff37ga6mcpf5gkmudp7so.100ycdn.com/hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=1b9d69d23b35b31c75d82a47-177783937859086&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271907035344675
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e31cd8f7b86d.webp?v=1777839391" group-title="Hội Quán TV" , 01:45 | ⚽ Lyon vs Rennes (Link 2) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e31cd8f7b86d.webp?v=1777840562" group-title="Hội Quán TV" , 01:45 | ⚽ Lyon vs Rennes (Link 1) [hls] 
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-02b885092e74.webp?v=1777839390" group-title="Hội Quán TV" , 02:00 | ⚽ Espanyol vs Real Madrid (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e31cd8f7b86d.webp?v=1777840562" group-title="Hội Quán TV" , 01:45 | ⚽ Lyon vs Rennes (Link 2) [hls] 
+https://tfvk4gr4nhct1gwzdepjqgrhuqmmeqfsg17uff37ga6mcpf5gkmudp7so.100ycdn.com/hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=1b9d69d23b35b31c75d82a47-177784054935786&wsIPSercert=3ba42c96b21cd327fc2d05adaf200cd3&wsBindIP=2&wsserid=1168271907035344675
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-02b885092e74.webp?v=1777840560" group-title="Hội Quán TV" , 02:00 | ⚽ Espanyol vs Real Madrid (Link 1) [hls] 
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-02b885092e74.webp?v=1777839390" group-title="Hội Quán TV" , 02:00 | ⚽ Espanyol vs Real Madrid (Link 2) [hls] 
-https://tfvk4gr4nhct1gwzdepjqgrhuqmmeqfsg17uff37ga6mcpf5gkmudp7so.100ycdn.com/hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c288958a0de70b7be61e6e47-177783937858984&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276518868027036
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-02b885092e74.webp?v=1777840560" group-title="Hội Quán TV" , 02:00 | ⚽ Espanyol vs Real Madrid (Link 2) [hls] 
+https://tfvk4gr4nhct1gwzdepjqgrhuqmmeqfsg17uff37ga6mcpf5gkmudp7so.100ycdn.com/hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8?wsSession=ce71a6c7aa5549bc4aa0c11a-177784054935854&wsIPSercert=3ba42c96b21cd327fc2d05adaf200cd3&wsBindIP=2&wsserid=1168271556923677902
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bad40f0cbcd3.webp?v=1777839394" group-title="Hội Quán TV" , 02:30 | ⚽ Detroit Pistons vs Orlando Magic (Link 1) [hls] 
-https://tfvk4gr4nhct1gwzdepjqgrhuqmmeqfsg17uff37ga6mcpf5gkmudp7so.100ycdn.com/hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=2d28cbe1e393200576730cf1-177783938609046&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276443747689227
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bad40f0cbcd3.webp?v=1777840564" group-title="Hội Quán TV" , 02:30 | ⚽ Detroit Pistons vs Orlando Magic (Link 1) [hls] 
+https://tfvk4gr4nhct1gwzdepjqgrhuqmmeqfsg17uff37ga6mcpf5gkmudp7so.100ycdn.com/hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=2d28cbe1e393200576730cf1-177784055625930&wsIPSercert=3ba42c96b21cd327fc2d05adaf200cd3&wsBindIP=2&wsserid=1168276443747689227
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bad40f0cbcd3.webp?v=1777839394" group-title="Hội Quán TV" , 02:30 | ⚽ Detroit Pistons vs Orlando Magic (Link 2) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bad40f0cbcd3.webp?v=1777840564" group-title="Hội Quán TV" , 02:30 | ⚽ Detroit Pistons vs Orlando Magic (Link 2) [hls] 
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c8cbffe659be.webp?v=1777839393" group-title="Hội Quán TV" , 03:00 | ⚽ Trung Quốc vs Pháp (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c8cbffe659be.webp?v=1777840564" group-title="Hội Quán TV" , 03:00 | ⚽ Trung Quốc vs Pháp (Link 1) [hls] 
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c8cbffe659be.webp?v=1777839393" group-title="Hội Quán TV" , 03:00 | ⚽ Trung Quốc vs Pháp (Link 2) [hls] 
-https://tfvk4gr4nhct1gwzdepjqgrhuqmmeqfsg17uff37ga6mcpf5gkmudp7so.100ycdn.com/hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8?wsSession=c288958a0de70b7be61e6e47-177783938268405&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276518868027036
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c8cbffe659be.webp?v=1777840564" group-title="Hội Quán TV" , 03:00 | ⚽ Trung Quốc vs Pháp (Link 2) [hls] 
+https://tfvk4gr4nhct1gwzdepjqgrhuqmmeqfsg17uff37ga6mcpf5gkmudp7so.100ycdn.com/hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8?wsSession=ce71a6c7aa5549bc4aa0c11a-177784055337668&wsIPSercert=3ba42c96b21cd327fc2d05adaf200cd3&wsBindIP=2&wsserid=1168271556923677902
 
  
 #EXTM3U
@@ -3286,6 +3255,12 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/432_1hdajkkb221n.png",02h30 ngày 04/05 Rio Ave vs Gil Vicente (Lương Sơn) BLV MAYBACH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/432_1hdajkkb221n.png",02h30 ngày 04/05 Rio Ave vs Gil Vicente (Lương Sơn) BLV MAYBACH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/432_1hdajkkb221n.png",02h30 ngày 04/05 Rio Ave vs Gil Vicente (Lương Sơn) BLV QUAN VŨ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
@@ -3298,36 +3273,30 @@ https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24f
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/432_1hdajkkb221n.png",02h30 ngày 04/05 Rio Ave vs Gil Vicente (Lương Sơn) BLV FERNANDO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/432_1hdajkkb221n.png",02h30 ngày 04/05 Rio Ave vs Gil Vicente (Lương Sơn) BLV MAYBACH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/432_1hdajkkb221n.png",02h30 ngày 04/05 Rio Ave vs Gil Vicente (Lương Sơn) BLV MAYBACH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/91_164871556292.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid (Lương Sơn) BLV TẦN CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/91_164871556292.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid (Lương Sơn) BLV TẦN CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/91_164871556292.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid (Lương Sơn) BLV A TỦA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/91_164871556292.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid (Lương Sơn) BLV A TỦA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/91_164871556292.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid (Lương Sơn) BLV MÃ SIÊU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/91_164871556292.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid (Lương Sơn) BLV MÃ SIÊU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/91_164871556292.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid (Lương Sơn) BLV A TỦA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/91_164871556292.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid (Lương Sơn) BLV A TỦA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/91_164871556292.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid (Lương Sơn) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/91_164871556292.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid (Lương Sơn) BLV TRIỆU TỬ LONG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/91_164871556292.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid (Lương Sơn) BLV TẦN CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/91_164871556292.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid (Lương Sơn) BLV TẦN CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/140_1jgj8z3paw1g.png",01h45 ngày 04/05 Inter Milan vs Parma (Lương Sơn) BLV VƯƠNG LUÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
@@ -3444,34 +3413,14 @@ https://live.alilicloud.com/live/43726759cc34211b9d744a21eaa57bf1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/2d879ebd62dc4ee8469a4433ee47b4db/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/77fb6ef7ac494dae8ed0cfed790d0951/image/small?v=1768601124",21h30 ngày 03/05 Tromso B vs Bossekop (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/48f6bea1abfa8b94fea2388bafb6671e/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/7dae2aacccf4a382ff1753a471ff3449/image/small?v=1768601124",21h30 ngày 03/05 Zira FK vs FK Gilan Gabala (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/638f16efbcd74ff4a9dc72546692e7d0/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ed62b40a3884a9b2319d296e68c81b3f/image/small?v=1768601124",00h30 ngày 04/05 Radnicki 1923 Kragujevac vs Backa Topola (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/b08cc779dd975aa9150cff9207c40699/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9823db7430f53289b2e6c862d89cc3e8/image/small?v=1768601124",21h30 ngày 03/05 Grasshopper vs Servette (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/2f916a94ca53bc0c7e620427b2ae9f37/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/66703baba7d387e45bf912e09ef16e4b/image/small?v=1768601124",23h00 ngày 03/05 CFFEB vs Vitesse Delft (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/74396e19396b02b6088a8299ff4c9541/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e818b11142003220f90413066a74d91c/image/small?v=1768601124",21h30 ngày 03/05 Elfsborg vs AIK (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9d3782d329d74fd9ace4a2eba9a0e414/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d90097f25222b1757bee609300d3fdaf/image/small?v=1768601124",21h30 ngày 03/05 SV Wehen Wiesbaden vs VfL Osnabrück (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1f246ceacf421b6994a20ed3f85a051a/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/551e023562bef9317af57655d20d582b/image/small?v=1768601124",23h45 ngày 03/05 Hajduk Split vs NK Varteks Varazdin (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -3484,14 +3433,38 @@ https://live.alilicloud.com/live/d43380b8aaaf80baeaa304e09d7bb30e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/707beb405921af51ae6c64e22f7634c4/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2da2c98704ab4975289b7785dcd0f174/image/small?v=1768601124",21h30 ngày 03/05 Uniao Leiria vs SC Farense (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e5eda17decd955c300c44ad41f5d5857/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/14cb5d274fed29d6623485f2735b922b/image/small?v=1768601124",00h30 ngày 04/05 Sarajevo vs Borac Banja Luka (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/b2e73263d2c933d0d2989856619cbf75/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5d194c4b3308f12962b7a8a239725bcb/image/small?v=1768601124",01h00 ngày 04/05 Asd Pineto Calcio vs Gubbio (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e722dbac3853d83be62174efcd98880e/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/58f6d81108feaeb339db698b59a67909/image/small?v=1768601124",03h00 ngày 04/05 Ferroviaria SP vs Anapolis FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/acf85d81463a9dba0a8479946bf5208d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/efce8f226c72b1781dbc4a1fb07db1dc/image/small?v=1768601124",00h00 ngày 04/05 Antalyaspor vs Alanyaspor (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9b1783ae8d67b696bf4f948b6d64c5e3/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0db5b508770b39aa6b6a890274e47b75/image/small?v=1768601124",00h00 ngày 04/05 Kayserispor vs Eyupspor (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ebab851943567f5ff764a2e1a9d1508c/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e4c33b2b174af4cd4c3915f58f45d382/image/small?v=1768601124",22h30 ngày 03/05 Radomlje vs Maribor (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/95f2f036d237da52cd869992e495cef1/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/89e575a151c1694d670b2d8676d1bb35/image/small?v=1768601124",22h30 ngày 03/05 Tambo FC vs FC Espoir Tsevie (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/caae4662f60e851ab9957878ae5fd43f/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/57fd28a03c62c6f073d632f566deaab6/image/small?v=1768601124",01h00 ngày 04/05 US Pianese vs Ternana (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/d1018700f207c05c0692190a0ff909a7/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1169d4648128ddc8ddd23450ae62bb17/image/small?v=1768601124",22h30 ngày 03/05 Cittadella vs Arzignano Valchiampo (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -3532,10 +3505,6 @@ https://live.alilicloud.com/live/11c6c4b4251b8e51d5f2ea4cb354414e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/cd0a0650969ec5230fc6c1d26294acaf/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/4e2377165231bf91f209dec6a860be7a/image/small?v=1768601124",21h30 ngày 03/05 Nita FA (W) vs Garhwal Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e79ac72e1373db54003dcb07f56e6c29/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fd22710db6cf847ef6890861da1ff225/image/small?v=1768601124",03h00 ngày 04/05 Belgrano vs Sarmiento Junin (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -4032,174 +4001,174 @@ https://live.alilicloud.com/live/bdb1b43c5148dee2bbe4d1e2cd5aab31/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/4d48f3b3e2edcbbf0434885b567b11b4/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1777842325-0-0-dec6d6184177faba043daff10711a396
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1777842325-0-0-1131f7adc2ae5d4b49d4f658b4f073e2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1777842325-0-0-f5757f69ba1043d1dd6c73796ec8b850
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1777842325-0-0-a236f80a5bc14ca07ef80d3a86b4008b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [QUỐC KHÁNH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=07b5c713c544018ed761851a4b13d4d5&txTime=69f7fee5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [QUỐC KHÁNH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=c054736d7fc775f7dd0111842125e1f6&txTime=69f7fee5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [QUỐC KHÁNH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=07b5c713c544018ed761851a4b13d4d5&txTime=69f7fee5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [QUỐC KHÁNH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=c054736d7fc775f7dd0111842125e1f6&txTime=69f7fee5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [MR BÍCH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1777842325-0-0-0d7a81822e0e9750ed5cd9d894c27b01
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [MR BÍCH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1777842325-0-0-4d6b46f1cfe2e31f2a65868b51d717d2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [MR BÍCH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1777842325-0-0-f4ddcde62c5d46b1658ca4333a556e82
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [MR BÍCH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1777842325-0-0-9fdb9c5c1b4c8a9437534b47344e0961
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/6f50906d6ae63f5e090ac5fd2f523be1.png",01h45 ngày 04/05 Lyon vs Stade Rennais FC [NGƯỜI CÁ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1777842325-0-0-482df2cf05333a50a9ea01a92b91b035
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1777843405-0-0-afcdb15b79015bb92b6d871e9fe7c8d0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/6f50906d6ae63f5e090ac5fd2f523be1.png",01h45 ngày 04/05 Lyon vs Stade Rennais FC [NGƯỜI CÁ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1777842325-0-0-e7de7a529f888029f4985cda046a6f03
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1777843405-0-0-6597c15404da89e9f0c18519450341d6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/6f50906d6ae63f5e090ac5fd2f523be1.png",01h45 ngày 04/05 Lyon vs Stade Rennais FC [NGƯỜI CÁ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1777842325-0-0-fed65383970a3abe83307327ba62b405
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1777843405-0-0-958586cbc01e0a4a07cc4d37ae432417
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/6f50906d6ae63f5e090ac5fd2f523be1.png",01h45 ngày 04/05 Lyon vs Stade Rennais FC [NGƯỜI CÁ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1777842325-0-0-f3d7bddbdab916c4a572053350ca4356
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [A BỆU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1777842325-0-0-37c30d4aa66b7363fed6572526f4b7fd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [A BỆU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1777842325-0-0-7992803fb4130f3317528c9fa8e65b3c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [A BỆU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1777842325-0-0-dec85c42cbe18bcbe0e3aa556d472e31
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [A BỆU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1777842325-0-0-5da63e26c7168e3910ca0263ca400d82
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1777843405-0-0-2f30bcde759510e2d96bb04dde68b011
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [Đình Bắc] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1777842325-0-0-9b80ad829cd04b0896fa323e39f2fecd
+https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1777843405-0-0-7d86b3bd5eaead2ec141403ac956e451
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [Đình Bắc] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1777842325-0-0-9ac96a675a321ef272dfc062de515d25
+https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1777843405-0-0-2b3b956669970dccafeeb51e9a992731
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [Đình Bắc] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1777842325-0-0-be73c6256ffe7f6d7ff1dceaf2e8b9c7
+https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1777843405-0-0-2bba94b77da48a0b8ed8c10c3221db73
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [Đình Bắc] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1777842325-0-0-02417bfb4f0b14783ac790a7fe62ce9a
+https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1777843405-0-0-38cf5d177459c119af81f7f79028348d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [CÔNG CHẤT] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1777842325-0-0-295d4d332be9bfc80d7f58acbfb01a56
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1777843405-0-0-bc476e6d22b926bda63e5d21b150ad50
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [CÔNG CHẤT] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1777842325-0-0-3c9a978869bab81a7dc3f895f6ac25e7
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1777843405-0-0-7fc0aa1f0f7393bb70b7cfd4224f0ae5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [CÔNG CHẤT] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1777842325-0-0-00566190b772fd8efc7a326e309584fe
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1777843405-0-0-fe29cac0e157fe2ebac8d95e648f3de5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [CÔNG CHẤT] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1777842325-0-0-26fa4fb9edffd49065f40430b53a1c5c
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1777843405-0-0-3fd755ef62c5c9574635ebf66c915778
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [BLV WUKONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1777843405-0-0-da238b0d20fbef72ee478a368cc9c0ed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [BLV WUKONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1777843405-0-0-a2b5f223c179cbdec14d7ec89e024b66
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [BLV WUKONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1777843405-0-0-64246212084719d8525dc7592cf85401
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [BLV WUKONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1777843405-0-0-2e38272742eff0b68312277eeee490a6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [MR BÍCH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1777843405-0-0-6646b00f79721859891fbe5a80d05911
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [MR BÍCH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1777843405-0-0-ef0a22139b57351a2066b406e0c3568e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [MR BÍCH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1777843405-0-0-5f26b5288622261028b24778ba2cff11
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [MR BÍCH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1777843405-0-0-036dc7815699b6d766726e2ea25478c6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1777843405-0-0-c6d885524c477dcbe017c5b1943d15db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1777843405-0-0-9f0ca6e363964452eb6c914eebdee7cc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1777843405-0-0-e14341255fabddf0bc8338eadd3d5b55
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1777843405-0-0-87988bc1b6317a9b74aedc6ddabff35f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [QUỐC KHÁNH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=d73ed1f47fe44db56aee46d5c00be625&txTime=69f8031d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [QUỐC KHÁNH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=996f455cefad8b5fb312d9c9dc918259&txTime=69f8031d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [QUỐC KHÁNH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=d73ed1f47fe44db56aee46d5c00be625&txTime=69f8031d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [QUỐC KHÁNH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=996f455cefad8b5fb312d9c9dc918259&txTime=69f8031d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [BLV MIXI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1777842325-0-0-b52b3d8481108d0f2ed94aa325c03b73
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1777843405-0-0-8acca3bf0ad363e90065707927c20e86
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [BLV MIXI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1777842325-0-0-0acec9421f4d574c353faa2cccf40642
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1777843405-0-0-2acc34cbfa31192b729d203a6658dccb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [BLV MIXI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1777842325-0-0-7ae2c49a94f80adf88f0534673928d47
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1777843405-0-0-d3604496728b92a5984179bccafba584
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [BLV MIXI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1777842325-0-0-bdc56253f8e75e0dae10a760bf0d72c3
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1777843405-0-0-09d906fdcbce4ce6b038055a5881b77f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [BLV PEWPEW] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1777842685-0-0-06d7a9439d28be9f13d6effa00cd009f
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1777843765-0-0-2de0348c97a75fcf4fd0dc9bd76ab6ae
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [BLV PEWPEW] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1777842685-0-0-9e7dfa880114af2f8ca732cb2fa092c8
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1777843765-0-0-ccd0cabe9ab040b2d7efc3c161ee0db7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [BLV PEWPEW] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1777842685-0-0-f1f7bd68bfbb5598571bed09ce2f4b4c
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1777843765-0-0-365c6f823cd92dfd930e2e3799ad0fac
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [BLV PEWPEW] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1777842685-0-0-4b55c7c41755cc5e5cbe22e91bc9cf69
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1777843765-0-0-a13e4c85b77bf41e63bc91ad6d376dee
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [BLV LONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=98535dd948d6a695e74542c5a9b8d636&txTime=69f8004d
+https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=d2cf9e201b5ed2081533e52ccbf7985d&txTime=69f80485
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [BLV LONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=32403db11abf52e847f038c3223eab46&txTime=69f8004d
+https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=32e8b52c1f7f2b51a0f694d1ec414a9d&txTime=69f80485
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [BLV LONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=98535dd948d6a695e74542c5a9b8d636&txTime=69f8004d
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=d2cf9e201b5ed2081533e52ccbf7985d&txTime=69f80485
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [BLV LONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=32403db11abf52e847f038c3223eab46&txTime=69f8004d
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=32e8b52c1f7f2b51a0f694d1ec414a9d&txTime=69f80485
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [BLV RYO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1777842685-0-0-400f7c7f2e42b9235b6eee9b6a090f5b
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1777843765-0-0-4663edfaddadd5e7b9e3a635cbb64a0d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [BLV RYO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1777842685-0-0-6db761bb3a1c4c2c7948be9b0fa46d06
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1777843765-0-0-7d4b69c84fb1d9119440411e0613f837
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [BLV RYO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1777842685-0-0-a1592d9ce189058cb78ea9c3d5fd9248
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1777843765-0-0-4953571363f13c45da8d86f16ff26c89
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [BLV RYO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1777842685-0-0-ba709b5951e0375b7060b6570b4bc9fb
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1777843765-0-0-3ddcca214251548a842fc1ad77157dbb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [VƯƠNG ANH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=97a0c94e6437c117a87b2ac0df560074&txTime=69f801b5
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=22cf31cacbb71fa0dd463c3506f9528f&txTime=69f805ed
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [VƯƠNG ANH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=12f648bb5adfb052c62067c9c5fbd64e&txTime=69f801b5
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=abbe7722d893f4cbd99b56553de38b5c&txTime=69f805ed
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [VƯƠNG ANH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=97a0c94e6437c117a87b2ac0df560074&txTime=69f801b5
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=22cf31cacbb71fa0dd463c3506f9528f&txTime=69f805ed
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/5de0280973fe5f87b07c9f539287607f.png",02h00 ngày 04/05 RCD Espanyol vs Real Madrid [VƯƠNG ANH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=12f648bb5adfb052c62067c9c5fbd64e&txTime=69f801b5
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=abbe7722d893f4cbd99b56553de38b5c&txTime=69f805ed
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/2f82865b5e16c5aa12a24262a6cbba01.png",02h30 ngày 04/05 Detroit Pistons vs Orlando Magic [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1777843045-0-0-0dcb85d30c363d296064bc51f7ba6e0c
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1777844125-0-0-08e9ea82928be7d6949d84be39efeb61
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/2f82865b5e16c5aa12a24262a6cbba01.png",02h30 ngày 04/05 Detroit Pistons vs Orlando Magic [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1777843045-0-0-f4077d9c85f5b718df80fdb1b2e1c1fd
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1777844125-0-0-ebcf0d259924b0b88b77d678fadecaff
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/2f82865b5e16c5aa12a24262a6cbba01.png",02h30 ngày 04/05 Detroit Pistons vs Orlando Magic [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1777843045-0-0-564362445409901ed76500688899a6ed
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1777844125-0-0-2dc753d9ecc13f671198c3725c59e6f0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/2f82865b5e16c5aa12a24262a6cbba01.png",02h30 ngày 04/05 Detroit Pistons vs Orlando Magic [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1777843045-0-0-d6cf95883b9c265c8c6d2b72de4da5dd
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1777844125-0-0-b64aba0585a87f03a6fd15c9fc352148
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [KÉP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1777843045-0-0-f0407144549fe09ecf788ac7c672053a
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1777844125-0-0-445226214eed0e8d52e907e376bc1dfe
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [KÉP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1777843045-0-0-18c83eac3fb2086b334eb38edace2e33
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1777844125-0-0-4460c4b9897e81e8c98a0bc61b8701d3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [KÉP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1777843045-0-0-1c4d570ae91d5ff2754fce10fd1b689c
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1777844125-0-0-e3b05355eca373c41fb74fa8e4d2c72c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/24bc0845882fa10ca6886edf75ae8011.png",01h45 ngày 04/05 Inter Milan vs Parma [KÉP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1777843045-0-0-0b6e4108f6426fec994f70178a4ca9a6
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1777844125-0-0-96acf88ec569d6ad3151e4994796be53
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_of_the_Detroit_Pistons_%282017%E2%80%93present%29.png/250px-Logo_of_the_Detroit_Pistons_%282017%E2%80%93present%29.png",02h30 04/05 Detroit Pistons vs Orlando Magic (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -4303,14 +4272,6 @@ https://live5.msrktz.app/live/24561735.m3u8
 https://live5.msrktz.app/live/90865415.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png!w80" group-title="ColaTV",[02:00 04/05] Espanyol vs Real Madrid CF - BLV BLV 247 (L2) Giải :Giải Bóng đá Vô địch Quốc gia Tây Ban Nha
 https://live5.msrktz.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png!w80" group-title="ColaTV",[01:45 04/05] Inter Milan vs Parma - BLV BLV PEPSI (L1) Giải :Giải bóng đá Serie A Italia
-https://live5.msrktz.app/live/43612277.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png!w80" group-title="ColaTV",[01:45 04/05] Inter Milan vs Parma - BLV BLV PEPSI (L2) Giải :Giải bóng đá Serie A Italia
-https://live5.msrktz.app/live/43612277.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png!w80" group-title="ColaTV",[01:45 04/05] Inter Milan vs Parma - BLV BLV REDBULL (L1) Giải :Giải bóng đá Serie A Italia
-https://live5.msrktz.app/live/68848594.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png!w80" group-title="ColaTV",[01:45 04/05] Inter Milan vs Parma - BLV BLV REDBULL (L2) Giải :Giải bóng đá Serie A Italia
-https://live5.msrktz.app/live/68848594.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/6e13222836235b121c1af3bc3055e76b.png!w80" group-title="ColaTV",[01:45 04/05] Olympique Lyonnais vs Stade Rennais - BLV BLV MOUNTAIN DEW (L1) Giải :Ligue 1
 https://live5.msrktz.app/live/87547578.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/6e13222836235b121c1af3bc3055e76b.png!w80" group-title="ColaTV",[01:45 04/05] Olympique Lyonnais vs Stade Rennais - BLV BLV MOUNTAIN DEW (L2) Giải :Ligue 1
