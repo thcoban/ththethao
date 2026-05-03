@@ -1747,11 +1747,11 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://7dcf4f9b.cbilant.com/ipt
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/31120/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" group-title="Premier Sports 🇬🇧" tvg-logo="http://epg.one/img/3553.png" , Premier Sports 1 🇬🇧 (b1)
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" group-title="Premier Sports 🇬🇧" tvg-logo="http://epg.one/img/3553.png" , Premier Sports 1 🇬🇧 (b1)
 http://4os6vafy.ottclub.xyz/iptv/RR3Y4PMCYGBUGRQ2PZNQP64R/2160/index.m3u8
 #EXTINF:-1 tvg-id="3553" group-title="Premier Sports 🇬🇧" tvg-logo="http://epg.one/img/3553.png" , Premier Sports 1 🇬🇧 (b2)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/2160/index.m3u8
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" group-title="Premier Sports 🇬🇧" tvg-logo="http://epg.one/img/3553.png" , Premier Sports 1 🇬🇧 (b3)
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" group-title="Premier Sports 🇬🇧" tvg-logo="http://epg.one/img/3553.png" , Premier Sports 1 🇬🇧 (b3)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/2160/index.m3u8
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" group-title="Premier Sports 🇬🇧" tvg-logo="http://epg.one/img/3553.png" , Premier Sports 1 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1776,6 +1776,20 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="[TV4FOSV].TV4.Fotboll.se" group-title="Sweden Sports 🇸🇪" , TV4 Futbol 🇸🇪
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a518c629bd683a4eba5f2a793bcb48d6:49642d2151ac6c3f8453bbfc4b3fdfc0
+https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd
+
+#EXTINF:-1 tvg-id="[TV4TESV].TV4.Tennis.se" group-title="Sweden Sports 🇸🇪" , TV4 Tennis 🇸🇪
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lXsyUI/srxp/hC6dibx1Nw","kid":"vTKtYI6MNTaNuwrL+pTY4A"}],"type":"temporary"}
+https://live.streaming.a2d.tv/asset/20465727.isml/dash.mpd
 
 
 #EXTINF:-1 tvg-id="TVP.Sport.cz" tvg-logo="https://i.imgur.com/sbN5opl.png" group-title="Czech Sports 🇨🇿" , TVP SPORT 🇨🇿
@@ -2009,25 +2023,10 @@ https://mega.z5cable.com/bpk-tv/golf_channel_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
 
-
 #EXTINF:-1 group-title="General" tvg-logo="", DAZN FAST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
-
-
-#EXTINF:-1 group-title="General" , Tv4Futbol 🇸🇪
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a518c629bd683a4eba5f2a793bcb48d6:49642d2151ac6c3f8453bbfc4b3fdfc0
-https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd
-
-#EXTINF:-1 group-title="General" , TV4 Tennis 🇸🇪
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lXsyUI/srxp/hC6dibx1Nw","kid":"vTKtYI6MNTaNuwrL+pTY4A"}],"type":"temporary"}
-https://live.streaming.a2d.tv/asset/20465727.isml/dash.mpd
 
 #EXTINF:-1 tvg-id="primevideo" tvg-name="MOTO GP CHANNEL" tvg-logo="" group-title="General" , MOTO GP CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
