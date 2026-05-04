@@ -3036,3 +3036,46 @@ https://livesport.io.vn/ott/rus.php?id=eu1de
 
 #EXTINF:-1  group-logo="https://flagicons.lipis.dev/flags/4x3/de.svg" tvg-logo="http://cdam.work/logo/sport/eu2de.png" group-title="GERMANY SPORTS", EUROSPORTS 2
 https://livesport.io.vn/ott/rus.php?id=eu2de
+
+
+#EXTINF:-1 group-logo="https://flagicons.lipis.dev/flags/4x3/gb.svg" tvg-logo="http://livesport.io.vn/logo/sport/tn1.png" group-title="UK SPORTS ",TNT SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://proxy.manchesterunitedfanclubvietnam.workers.dev/ch/tnt1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://livesport.io.vn/logo/sport/tn2.png" group-title="UK SPORTS ",TNT SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://proxy.manchesterunitedfanclubvietnam.workers.dev/ch/tnt2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://livesport.io.vn/logo/sport/tn3.png" group-title="UK SPORTS",TNT SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://proxy.manchesterunitedfanclubvietnam.workers.dev/ch/tnt3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://livesport.io.vn/logo/sport/tn4.png" group-title="UK SPORTS",TNT SPORTS 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://proxy.manchesterunitedfanclubvietnam.workers.dev/ch/tnt4/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://livesport.io.vn/logo/sport/pr1.png" group-title="UK SPORTS",PREMIER SPORT 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://proxy.manchesterunitedfanclubvietnam.workers.dev/ch/pre1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://livesport.io.vn/logo/sport/pr2.png" group-title="UK SPORTS",PREMIER SPORT 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://proxy.manchesterunitedfanclubvietnam.workers.dev/ch/pre2/manifest.mpd
