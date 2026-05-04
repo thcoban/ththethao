@@ -2513,6 +2513,9 @@ https://mega.z5cable.com/bpk-tv/animal_planet_hd/default/index.mpd
 https://mega.z5cable.com/bpk-tv/nat_geo_hd/default/index.mpd
 
 
+#EXTINF:-1 tvg-id="Canal.AYM.Sports.mx" group-title="Uncategorized" , AYM SPORT 🇲🇽
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="", DAZN Ringside
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 
@@ -2537,24 +2540,29 @@ http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 group-title="Uncategorized" , Sportdigital 🇩🇪
 https://jmp2.uk/stvp-ATAJ0500433A
 
-#EXTINF:-1 group-title="Uncategorized" , 2TV Sport 🇳🇴
+#EXTINF:-1 tvg-id="2TV.lt" group-title="Uncategorized" , 2TV Sport 🇳🇴
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 
-#EXTINF:-1 group-title="Uncategorized" ,  ORF+ 🇦🇹
+#EXTINF:-1 tvg-id="ORF.1.HD.at" group-title="Uncategorized" ,  ORF+ 🇦🇹
 http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
 
 #EXTINF:-1 group-title="Uncategorized" , CAZE TV 1 🇧🇷
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 group-title="Uncategorized" , WIN SPORT 🇨🇴
+#EXTINF:-1 tvg-id="Win.Sports.co" group-title="Uncategorized" , WIN SPORT 🇨🇴
 http://190.0.247.38:8000/play/a068
-#EXTINF:-1 group-title="Uncategorized" , WIN SPORT 🇨🇴
+#EXTINF:-1 tvg-id="Win.Sports.co" group-title="Uncategorized" , WIN SPORT 🇨🇴
 http://181.205.205.173:8888/play/a0h0/index.m3u8
 
-#EXTINF:-1 group-title="Uncategorized" , AYM SPORT 🇺🇸
-https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" group-title="Uncategorized" tvg-logo="https://i.imgur.com/byetnZw.png", Willow Sports 🇺🇸
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 group-title="Uncategorized" , MTR Sports-1 🇬🇧
+
+#EXTINF:-1 tvg-id="MTRSPT1.distro" group-title="Uncategorized" , MTR Sports-1 🇬🇧
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 
 #EXTINF:-1 group-title="Uncategorized" , Turkmenistan Sport 🇹🇲
@@ -2592,14 +2600,8 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 group-title="Uncategorized" , TELETRAK 🇨🇱
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTMK05" tvg-logo=""  group-title="Uncategorized", SUKAN RTM
+#EXTINF:-1 tvg-id="RTMK05" tvg-logo="https://i.imgur.com/d0t0VbW.png"  group-title="Uncategorized", SUKAN RTM 🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Uncategorized" , SPORTS TV (cubmu)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd 
 
 
 #EXTINF:-1 tvg-id="Fancode1" tvg-name="Fancode 1" tvg-logo="" group-title="Uncategorized",Fancode 1
@@ -2629,14 +2631,6 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="470888" group-title="Uncategorized" tvg-logo="", Willow Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s" channel-number="1" group-title="Pilipinas Live" , Pilipinas Live 1
