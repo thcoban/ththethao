@@ -14,9 +14,9 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/https://restream-live.realiptv.
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://restream-live.realiptv.to/MotherOfPins3/8746645/3762
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tennis-channel.png", Tennis Channel 🇺🇸 (r)
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://restream-live.realiptv.to/MotherOfPins3/8746645/3685
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.de" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tennis-channel.png", Tennis Channel 🇩🇪 (r)
+#EXTINF:-1 tvg-id="DE:.Tennis.Channel.be" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tennis-channel.png", Tennis Channel 🇩🇪 (r)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.de" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tennis-channel.png", Tennis Channel 🇩🇪 (r)
+#EXTINF:-1 tvg-id="DE:.Tennis.Channel.be" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tennis-channel.png", Tennis Channel 🇩🇪 (r)
 http://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.Tennis.Channel.2.plex" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tennis-channel.png", Tennis Channel 2 🇺🇸
@@ -33,6 +33,8 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://7dcf4f9b.cbilant.com/ipt
 #EXTINF:-1 tvg-id="SuperTennis.HD.it" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/super-tennis.png", Super Tennis 🇮🇹 (b3)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6079/index.m3u8
 
+#EXTINF:-1 tvg-id="UK:.Tennis+.be" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tennis-plus.png", Tennis+
+https://jmp2.uk/rok-c938a72f44eca56206b4b585ab01cad5.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="Sky Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-main-event.png", Sky Sports Main Event 🇬🇧 (r)
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://restream-live.realiptv.to/MotherOfPins3/8746645/2184
@@ -1114,6 +1116,8 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/https://restream-live.realiptv.
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.Xtra.en.Español.distro" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-extra.png",  beIN Sports EXTRA Ñ 🇪🇸
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.Xtra.en.Español.distro" group-title="beIN Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-extra.png",  beIN Sports EXTRA Ñ 🇪🇸
+https://jmp2.uk/rok-909b135136a1567eaf3f65fb64988323.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsXtra.au" group-title="beIN Sports" tvg-logo="https://i.imgur.com/aK9W2gY.png" , beIN Sports XTRA 🇦🇺
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
@@ -1609,13 +1613,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-
-#EXTINF:-1 tvg-id="SPOTV.2.HD.id" group-title="SPOTV" tvg-logo="https://i.imgur.com/ZWV6t5x.png" , SPOTV 2
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a47994d99d44eeaba5e015a41dc3085:4aa9da8d82cb4edfc3f558857453d6ed
-https://cdn08jtedge.indihometv.com/dassdvr/130/beib2/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Sportstars.HD.id" group-title="Sportstars 🇮🇩" tvg-logo="https://i.imgur.com/IubAQB4.png" , Sportstars
@@ -2727,6 +2724,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
 https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
 
+#EXTINF:-1 tvg-id="Fancode1" tvg-name="Fancode 1" tvg-logo="" group-title="Uncategorized", Billiard TV
+https://jmp2.uk/rok-0b4814b9a5e53029e2b9aba64ddc1df0.m3u8
 
 #EXTINF:-1 tvg-id="Fancode1" tvg-name="Fancode 1" tvg-logo="" group-title="Uncategorized",Fancode 1
 #KODIPROP:inputstream=inputstream.adaptive
