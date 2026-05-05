@@ -3050,38 +3050,237 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 
-#EXTINF:-1  group-logo="https://flagicons.lipis.dev/flags/4x3/de.svg" tvg-logo="http://cdam.work/logo/sport/skepl.png" group-title="GERMANY SPORTS", SKY EPL
-https://livesport.io.vn/ott/test.php?id=skyeplde
+#EXTINF:-1 tvg-chno="72" tvg-name="FR | beIN SPORTS 1" group-title="BEiN Sport France" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" ,BEIN SPORTS 1 FRA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 
-#EXTINF:-1  group-logo="https://flagicons.lipis.dev/flags/4x3/de.svg" tvg-logo="http://cdam.work/logo/sport/sktop.png" group-title="GERMANY SPORTS", SKY TOP EVENT
-https://livesport.io.vn/ott/test.php?id=skytopde
+#EXTINF:-1 tvg-chno="72.1" tvg-name="FR | beIN SPORTS 2" group-title="BEiN Sport France" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" ,BEIN SPORTS 2 FRA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"85ac9362e89354ef5341fe4dbee0dd6a": "e556276599c55bdee169f39eab8e56bc", "71fcdcfd58c608662db317fcf4411c19": "eaf76e97b969a7d124a720a109acda61", "6c976caa628fde89aacedbd47059967e": "0d1e54565950c1e2f58d45c561a47187", "7a62a516c5d980553f497c6bfc469b19": "a0eeb97b4d14d6bb7a5c39755dd7c41c", "f81df5cf72bd43c3da84d04dc8691fcb": "4a60e4e009560c40766a0fa38770ef4e"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 
-#EXTINF:-1  group-logo="https://flagicons.lipis.dev/flags/4x3/de.svg" tvg-logo="http://cdam.work/logo/sport/skgolf.png" group-title="GERMANY SPORTS", SKY GOLF
-https://livesport.io.vn/ott/test.php?id=skygolfde
+#EXTINF:-1 tvg-chno="72.2" tvg-name="FR | beIN SPORTS 3" group-title="BEiN Sport France" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" ,BEIN SPORTS 3 FRA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4281ee112555097325058cb7355035b4": "1a88899547f7fd4a5c22ee8150d89208", "b4023d3a71316ed3cd06af7e43988d31": "91a96d592dd6e946b0f0074d15ac1168", "441100b7de65d7c582a9c71140e46f79": "ef37dadc14bdade17224ef4bc9f87ce6", "43faba2da98eeeeb42481dca873d3460": "f8b58939398e5a5574c18408d304d44e", "92e8cc9527c7f56a10777278cb801027": "4ce3f3e2234f00b21ba77006f197832a"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
-#EXTINF:-1  group-logo="https://flagicons.lipis.dev/flags/4x3/de.svg" tvg-logo="http://cdam.work/logo/sport/sf1de.png" group-title="GERMANY SPORTS", SKY F1
-https://livesport.io.vn/ott/test.php?id=skyf1de
+#EXTINF:-1 tvg-chno="72.3" tvg-name="FR | beIN SPORTS MAX 4" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png" ,BEIN SPORTS MAX 4 FRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"m8E22NbIYLYuCtrAA+TT2Q","k":"rlyanlBKT+JzdgyA5/4erg"},{"kty":"oct","kid":"Aq2Nj/2AtQVneW5pS3opJw","k":"B86CeVN+0m/oMbU0OqVZaQ"},{"kty":"oct","kid":"0RQPC4dyMpf8Gjgg2YlTfw","k":"N8eLX7vZcha0gT4TWrLB6g"},{"kty":"oct","kid":"ttC2IXxwsPcFACoHB3GwhA","k":"dGwC0eaIT+LkQRYkugVVKA"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
 
-#EXTINF:-1  group-logo="https://flagicons.lipis.dev/flags/4x3/de.svg" tvg-logo="http://cdam.work/logo/sport/sktennis.png" group-title="GERMANY SPORTS", SKY NEWS
-https://livesport.io.vn/ott/test.php?id=skynewsde
+#EXTINF:-1 tvg-chno="72.4" tvg-name="FR | beIN SPORTS MAX 5" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-5.png" ,BEIN SPORTS MAX 5 FRA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={b0478fd26424e88fa1e6478ee35d7f08:f5044242d8d224cae4087fd8ef654023,2275129f285677145e34eb8be249ae4a:75055c6051d650c529627b1e626f530a,2eb72cb8d525719cdda3e1f5cc43b342:e0797e22865754872052015dda2905f7,0ad2dbd3aefe207034f24050ebc98cd1:0b121fe769d0b1b45a3a6bb8c40e3405}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
 
-#EXTINF:-1  group-logo="https://flagicons.lipis.dev/flags/4x3/de.svg" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-mix-2766.png" group-title="GERMANY SPORTS", SKY MIX
-https://livesport.io.vn/ott/rus.php?id=skymixde
+#EXTINF:-1 tvg-chno="72.5" tvg-name="FR | beIN SPORTS MAX 6" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-6.png" ,BEIN SPORTS MAX 6 FRA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={c98631345149436c3778caeab57d97c5:6125590eb9a0cb8c9a17dd2680000292,9f899ca412e180776f885c0c214b02a0:3f357dd3dfaf92623903ca91b88b05f4,03ee66e926f6a34a1815f117bc12799c:1dc895a43e207f02bd2fce62de5fbd3a,257180b06ff9cbcdbaabc1ae37650f9e:a00768d01bc82c2dd7e211c59addc9a6}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
 
-#EXTINF:-1  group-logo="https://flagicons.lipis.dev/flags/4x3/de.svg" tvg-logo="http://cdam.work/logo/sport/skybun1.png" group-title="GERMANY SPORTS", SKU BUNDESLIGA
-https://livesport.io.vn/ott/rus.php?id=skybun
+#EXTINF:-1 tvg-chno="72.6" tvg-name="FR | beIN SPORTS MAX 7" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-7.png" ,BEIN SPORTS MAX 7 FRA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={3fabbf841767a645ad2d85c1e099e94d:bde635aa3028aab38d680672f88a0c7c,c4c64f1414958cde07fe40cd85f2238c:ce2887b843b7590a5ee083a4d8f667c2,6de1fab48d825b39a63746d89e90a848:2435a1110e892b7da94e79a7bd49b49c,337348892caabbb14763548ccb1a6ac7:7445c17d6da33a64ea8238a433f9cbe3}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
 
-#EXTINF:-1  group-logo="https://flagicons.lipis.dev/flags/4x3/de.svg" tvg-logo="http://cdam.work/logo/sport/dazn1de.png" group-title="GERMANY SPORTS", DAZN 1
-https://livesport.io.vn/ott/test.php?id=dazn1de
+#EXTINF:-1 tvg-chno="72.7" tvg-name="FR | beIN SPORTS MAX 8" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-8.png" ,BEIN SPORTS MAX 8 FRA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={9f2c98006a33bbc83f7c03ef3530403b:546b1d34b1be111c513d38fecaea99e4,eb4949796839b08918bc4ebc25aceba6:9b53a7fc07fa9051aacf8bc693b187b0,d0525914e6c3e6be6fe85dcdb8a3be2f:da1c96b903c0c252f1b1d82f2517c07e,4b09dd7a5aff601212f3d498309e467c:7ed57d36a85bba88b737693ab368330e}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
 
-#EXTINF:-1  group-logo="https://flagicons.lipis.dev/flags/4x3/de.svg" tvg-logo="http://cdam.work/logo/sport/dazn2de.png" group-title="GERMANY SPORTS", DAZN 2
-https://livesport.io.vn/ott/test.php?id=dazn2de
+#EXTINF:-1 tvg-chno="72.8" tvg-name="FR | beIN SPORTS MAX 9" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-9.png" ,BEIN SPORTS MAX 9 FRA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={4526ccd7d499b0b24011ce5adce18656:3d2ed80cf1f5a9a4b9a7621b9e6c4e2a,e2006d8a33025cd7943a5f02001781ec:35c7b2ec27f2b37492707a8b4cd37154,1a31894f0c41a0fe0c508784d0d1569b:121164311f7b308a37e5504b717ae3d5,a8d5f0e00214e3777d75b89b05daf64d:f0371e88f6c2bf7844d69d9b9e0a52af}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
 
-#EXTINF:-1  group-logo="https://flagicons.lipis.dev/flags/4x3/de.svg" tvg-logo="http://cdam.work/logo/sport/eu1de.png" group-title="GERMANY SPORTS", EUROSPORTS 1
-https://livesport.io.vn/ott/rus.php?id=eu1de
+#EXTINF:-1 tvg-chno="72.9" tvg-name="FR | beIN SPORTS MAX 10" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-10.png" ,BEIN SPORTS MAX 10 FRA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ca1d0a53a606f8ffeb028f6b2477baa3:388a61759de362dfcadef721b936d69a,15dabcf1eabc8717842feb65f7152107:7380f61795caebec26b0713bce2a4e3d,f9c2a25bbabc8d3804df46418069ef07:27ca457a2bb9751a5c1eb158474346a0,c41b8b295c08307ddc1e3a22ea912772:d925fe683ed91e5837aaa4e5147ad885}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 
-#EXTINF:-1  group-logo="https://flagicons.lipis.dev/flags/4x3/de.svg" tvg-logo="http://cdam.work/logo/sport/eu2de.png" group-title="GERMANY SPORTS", EUROSPORTS 2
-https://livesport.io.vn/ott/rus.php?id=eu2de
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIER Y LA LIGA", 3SAT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bef45d69a359c3c5ab265b807b0b11ee":"3572bdc32850a0d0e4a95bffd000383c","d8958c9208065f25a365a66a49ad44bd":"5bd96fa145739a44a876668b77c44693","21b3c2f352325ac4ab820c83578e87a8":"6264dbb0644b7de9a96ad479d86a963c","a9532ab91cf15348a20e7d0c235e0987":"2b2bfa0bfe707eab164686c7b797a6fb"}
+https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
+
+
+
+#EXTINF:-1 group-logo="https://flagicons.lipis.dev/flags/4x3/no.svg" tvg-logo="https://i.ibb.co.com/WsDcpQq/vsport1.png" group-title="NORWAY SPORTS", V Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport1_hd_live/sm_viasport1_hd_live.isml/playlist.mpd   
+
+#EXTINF:-1 tvg-id="V sport 2 HD (N) (T)" tvg-logo="https://i.ibb.co.com/fxPGRt7/vsport2.png" group-title="NORWAY SPORTS",  V Sport 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport2_hd_live/sm_viasport2_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="V sport 3 HD (N) (T)" tvg-logo="https://i.ibb.co.com/X55jLTZ/vsport3.png" group-title="NORWAY SPORTS",  V Sport 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/crWgv5z/vsportplus.png" group-title="NORWAY SPORTS",  V Sport +
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport_pluss_hd_live/sm_viasport_pluss_hd_live.isml/playlist.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/HTw8QzTp/tv2sportdk.png" group-title="NORWAY SPORTS", TV2 SPORT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sporthd_dk_live/sm_tv2sporthd_dk_live.isml//playlist.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/84c9tCC/tv2sportx.png" group-title="NORWAY SPORTS", TV2 SPORT X
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2_sport_x_live/sm_tv2_sport_x_live.isml/playlist.mpd
+
+
+
+#EXTINF:-1 tvg-id="TV 2 Sport 1.no" tvg-logo="https://i.ibb.co.com/bW9whWg/tv2sport1.png" group-title="NORWAY SPORTS", TV2 SPORT1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sport1_live/sm_tv2sport1_live.isml/playlist.mpd
+
+
+
+#EXTINF:-1 tvg-id="TV 2 Sport 2.no" tvg-logo="https://i.ibb.co.com/SX1Yvf4/tv2sport2.png" group-title="NORWAY SPORTS", TV2 SPORT2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportskanalen_live/sm_tv2sportskanalen_live.isml/playlist.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/RNwxw23/tv2sportpremium.png" group-title="NORWAY SPORTS", TV2 Sport Premium 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportpremium1_live/sm_tv2sportpremium1_live.isml/playlist.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/RNwxw23/tv2sportpremium.png" group-title="NORWAY SPORTS", TV2 Sport Premium 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/license.php
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportpremium2_live/sm_tv2sportpremium2_live.isml/playlist.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-id="v-sport-1-no" tvg-logo="https://i.ibb.co.com/WsDcpQq/vsport1.png" group-title="SPORTS 🇳🇴",  V Sport 1 [NO]
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a0e68f01a5428cbdb8cfac2080c66b20":"556d72c812df452fad9bed66292bfc63","a0e68f01a5428cbdb8cfac2080c66b10":"be7f9d1a00bbd0478335a4a48379157d"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport1_hd_live/sm_viasport1_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="v-sport-2-no" tvg-logo="https://i.ibb.co.com/fxPGRt7/vsport2.png" group-title="SPORTS 🇳🇴",  V Sport 2 [NO]
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b62aca5b566dc3ded74233192b28a120":"e8c5369c9c4aa58c1c8489c7db52db8c","b62aca5b566dc3ded74233192b28a110":"143bfe648cc9d14917d41e0662452771"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport2_hd_live/sm_viasport2_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="v-sport-3-no" tvg-logo="https://i.ibb.co.com/X55jLTZ/vsport3.png" group-title="SPORTS 🇳🇴",  V Sport 3 [NO]
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20":"3f73e8c9b64b2972bd25859efef7e5ac","10827657b810ae957f6adc178eca9c10":"ca8605499cbdc8e0d2f12898258f8f6e"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="v-sport-plus-no" tvg-logo="https://i.ibb.co.com/crWgv5z/vsportplus.png" group-title="SPORTS 🇳🇴",  V Sport 3 [NO]
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5ac608b8804cec0453314a751cdf5f20":"2bfed47e32b19e4ecf3f0692876e4ce5","5ac608b8804cec0453314a751cdf5f10":"a01e1090ee4a41d57dff74a8703e17cf"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport_pluss_hd_live/sm_viasport_pluss_hd_live.isml/playlist.mpd
+
+
+
+#EXTINF:-1 tvg-id="Sport Live (D) (T).dk" tvg-logo="https://i.ibb.co.com/Y7180vYJ/sprotlive.png" group-title="SPORTS🏅",  SPORTLIVE 🇩🇰
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"99a4b11ecd0def97aca1ecef9ee15420":"8399d4f59726f514b7665bb5ff66a9e1","99a4b11ecd0def97aca1ecef9ee15410":"5593fc645a7432cb88954bae345b9b03"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_sportlive_dk_live/sm_sportlive_dk_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="TV 2 Sport HD (D) (T).dk" tvg-logo="https://i.ibb.co.com/HTw8QzTp/tv2sportdk.png" group-title="SPORTS🏅", TV2 SPORT 🇩🇰
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"34dc0e5f6da90237bf6a70fc50786920":"3afd582714c118e21d83ac8be40d17bb","34dc0e5f6da90237bf6a70fc50786910":"d80d384de9f8daa996762c4df98afaf5"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sporthd_dk_live/sm_tv2sporthd_dk_live.isml//playlist.mpd
+
+#EXTINF:-1 tvg-id="TV 2 Sport X HD (D) (T).dk" tvg-logo="https://i.ibb.co.com/84c9tCC/tv2sportx.png" group-title="SPORTS🏅", TV2 SPORT X 🇩🇰
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6529e289d61a7d467c7a6a8d80189b20":"4f82fb1d198a249b50fe7cb093f3705b","6529e289d61a7d467c7a6a8d80189b10":"8df6584244a3a3303ac9b3fb689e2e19"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2_sport_x_live/sm_tv2_sport_x_live.isml/playlist.mpd
+
+
+#EXTINF:-1 tvg-id="TV 2 Sport 1 HD (N) (T).no" tvg-logo="https://i.ibb.co.com/bW9whWg/tv2sport1.png" group-title="SPORTS🏅", TV2 SPORT1 🇳🇴
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b56466b2ebc728cc1ddd7e4a84eeb220":"14d539488ce818a55862d61a68a7df03","b56466b2ebc728cc1ddd7e4a84eeb210":"c7cccb521aa5bcde0608d95183ecccd7"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sport1_live/sm_tv2sport1_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="TV 2 Sport 2 HD (N) (T).no" tvg-logo="https://i.ibb.co.com/SX1Yvf4/tv2sport2.png" group-title="SPORTS🏅", TV2 SPORT2 🇳🇴
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1b129c0dbe948d4dfa5ed80db4f3bc20":"2017f15fb60a08d12e4989071a14a636","1b129c0dbe948d4dfa5ed80db4f3bc10":"bccb0cd2d2191c5a2e1528140651db29"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportskanalen_live/sm_tv2sportskanalen_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="TV 2 Sport Premium HD (N) (T).no" tvg-logo="https://i.ibb.co.com/RNwxw23/tv2sportpremium.png" group-title="SPORTS🏅", TV2 Sport Premium 1 🇳🇴
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"009c35875ff000418c39f05622cf6b20":"88d5b1a639ebad6112c6447290169599","009c35875ff000418c39f05622cf6b10":"fb5e26e27925056e76885711cbf3ac1c"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportpremium1_live/sm_tv2sportpremium1_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="TV 2 Sport Premium 2 HD (N) (T).no" tvg-logo="https://i.ibb.co.com/RNwxw23/tv2sportpremium.png" group-title="SPORTS🏅", TV2 Sport Premium 2 🇳🇴
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8bcb911fa8af2f5b6d7211a7a80e0d20":"c37e1743b2f4b98360b0b19698edb194","8bcb911fa8af2f5b6d7211a7a80e0d10":"fd192fb86701ab096fc58ebbc8c3f112"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportpremium2_live/sm_tv2sportpremium2_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="TV3+ HD (N) (T).no" tvg-logo="https://i.ibb.co.com/k3ML0XR/tv3plus.png" group-title="SPORTS🏅", TV3+ 🇳🇴
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"757dc8b42a29ccaf41186c9082c63020":"fe30cc6ba34beb2a91a82f248900fa5d","757dc8b42a29ccaf41186c9082c63010":"55492446a392d36a131af153dea9c17e"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat4_hd_no_live/sm_viasat4_hd_no_live.isml/playlist.mpd
 
 
 #EXTINF:-1 group-logo="https://flagicons.lipis.dev/flags/4x3/gb.svg" tvg-logo="http://livesport.io.vn/logo/sport/tn1.png" group-title="UK SPORTS ",TNT SPORTS 1
@@ -3127,158 +3326,338 @@ https://proxy.manchesterunitedfanclubvietnam.workers.dev/ch/pre1/manifest.mpd
 https://proxy.manchesterunitedfanclubvietnam.workers.dev/ch/pre2/manifest.mpd
  
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-e3f708b1b0e6.webp?v=1777962258" group-title="Bún Chả TV" group-logo="https://kaytee1012.github.io/buncha_logo.png" , 11:50 05/05 | ⚽ Lanlana Tararudee vs Sofya Lansere (Link 1) [hls]
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/lanlana-tararudee-vs-sofya-lansere-1150-05-05-2026/601441468
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-b54080c79cd2.webp?v=1777975457" group-title="Bún Chả TV" group-logo="https://kaytee1012.github.io/buncha_logo.png" , 15:00 05/05 | ⚽ Mia Ristic vs Sofia Costoulas (Link 1) [hls]
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/mia-ristic-vs-sofia-costoulas-1500-05-05-2026/601448281
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/501b77a6e3f1fc97502adf972e5861f6/playlist.m3u8
+https://live.alilicloud.com/live/c4092c7647a5c9496f4bb8299f3990ac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-1737ece59509.webp?v=1777962250" group-title="Bún Chả TV" group-logo="https://kaytee1012.github.io/buncha_logo.png" , 12:00 05/05 | ⚽ Bucheon FC 1995 vs Jeju SK FC (Link 1) [hls]
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/bucheon-fc-1995-vs-jeju-sk-fc-1200-05-05-2026/601435528
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-b26fad47ac1a.webp?v=1777975458" group-title="Bún Chả TV" group-logo="https://kaytee1012.github.io/buncha_logo.png" , 15:00 05/05 | ⚽ Tianjin Kaiser vs Tongliao Tongda (Link 1) [hls]
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/tianjin-kaiser-vs-tongliao-tongda-1500-05-05-2026/601435600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.taoxanh.biz/live/69f971e342283_79/index.m3u8?expire=1778560099&sign=cca8f7a0d07e7357fe784a413152ed8f
+https://live.alilicloud.com/live/7ea43e8014a2b3044d34adbd99186b4f/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-1737ece59509.webp?v=1777962250" group-title="Bún Chả TV" , 12:00 05/05 | ⚽ Bucheon FC 1995 vs Jeju SK FC (Link 2) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/bucheon-fc-1995-vs-jeju-sk-fc-1200-05-05-2026/601435528
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-ec4c17f14028.webp?v=1777975459" group-title="Bún Chả TV" , 15:00 05/05 | ⚽ Elena-Gabriela Ruse vs Sinja Kraus (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/elenagabriela-ruse-vs-sinja-kraus-1500-05-05-2026/601443877
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/f15669cdbf0a35dfc2b0b8aba91e13ce/playlist.m3u8
+https://live.alilicloud.com/live/83003236a243f0e6b99cd362df46a1ec/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-437bdb1b19f7.webp?v=1777962251" group-title="Bún Chả TV" , 12:00 05/05 | ⚽ Gyeongju FC (w) vs Seoul Amazones (w) (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/gyeongju-fc-w-vs-seoul-amazones-w-1200-05-05-2026/601435540
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-6857cc861c3b.webp?v=1777975460" group-title="Bún Chả TV" , 15:00 05/05 | ⚽ Ajla Tomljanovic vs Leolia Jeanjean (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/ajla-tomljanovic-vs-leolia-jeanjean-1500-05-05-2026/601443709
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/9c0a4da156acd4a6da8644dc0d2412d1/playlist.m3u8
+https://live.alilicloud.com/live/d794081b2bd9432fe34d18921319fce2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-9615f7a00f88.webp?v=1777962251" group-title="Bún Chả TV" , 12:00 05/05 | ⚽ Yushu Tibetan vs Hohhot Guiding Star (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/yushu-tibetan-vs-hohhot-guiding-star-1200-05-05-2026/601435543
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-9aa8eb40d305.webp?v=1777975460" group-title="Bún Chả TV" , 15:00 05/05 | ⚽ Anastasia Gasanova vs Guo Hanyu (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/anastasia-gasanova-vs-guo-hanyu-1500-05-05-2026/601442398
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/4183118feae855e400978160c2175fb1/playlist.m3u8
+https://live.alilicloud.com/live/59f724904b1ce6359efc2e93e651ccc7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-0bf675cd6baf.webp?v=1777962252" group-title="Bún Chả TV" , 12:00 05/05 | ⚽ Changnyeong (w) vs Incheon Hyundai Steel Red Angels (w) (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/changnyeong-w-vs-incheon-hyundai-steel-red-angels-w-1200-05-05-2026/601435531
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-3fab73f9413d.webp?v=1777975461" group-title="Bún Chả TV" , 15:25 05/05 | ⚽ Anastasia Potapova vs Nikola Bartunkova (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/anastasia-potapova-vs-nikola-bartunkova-1525-05-05-2026/601443706
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/e38823fbd016d8d80527cc1ba99d292a/playlist.m3u8
+https://live.alilicloud.com/live/e6777dd8dc701a534d32dadfa14212ae/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-e26e31c1c878.webp?v=1777962253" group-title="Bún Chả TV" , 12:00 05/05 | ⚽ Boeun Sangmu (w) vs Suwon FMC (w) (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/boeun-sangmu-w-vs-suwon-fmc-w-1200-05-05-2026/601435534
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-ee725abfb9c6.webp?v=1777975456" group-title="Bún Chả TV" , 15:30 05/05 | ⚽ Shanghai Jiading Huilong(w) vs Yongchuan Chashan Bamboo Sea(W) (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/shanghai-jiading-huilongw-vs-yongchuan-chashan-bamboo-seaw-1530-05-05-2026/601443493
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/c8ecdc6a557d8cf1bbcb5d68a5f14962/playlist.m3u8
+https://live.alilicloud.com/live/ed3387071b9fe31e5fb043cbccd05283/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-279137e90145.webp?v=1777962254" group-title="Bún Chả TV" , 12:00 05/05 | ⚽ Chuncheon Citizen vs Mokpo City (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/chuncheon-citizen-vs-mokpo-city-1200-05-05-2026/601448011
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-76a85478c9b5.webp?v=1777975457" group-title="Bún Chả TV" , 15:30 05/05 | ⚽ Madura United vs Bali United (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/madura-united-vs-bali-united-1530-05-05-2026/601435603
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/bb1cd3580386310a47b8f0104942f12d/playlist.m3u8
+https://cdn-hls.taoxanh.biz/live/69f99cd6203f5_74012/index.m3u8?expire=1778571094&sign=4b2e39ac0be555d5d1719c517d861bce
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-35e1a925e59e.webp?v=1777962254" group-title="Bún Chả TV" , 12:00 05/05 | ⚽ Jeonbuk Hyundai Motors vs Gwangju Football Club (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/jeonbuk-hyundai-motors-vs-gwangju-football-club-1200-05-05-2026/601435525
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-76a85478c9b5.webp?v=1777975457" group-title="Bún Chả TV" , 15:30 05/05 | ⚽ Madura United vs Bali United (Link 2) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/madura-united-vs-bali-united-1530-05-05-2026/601435603
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.taoxanh.biz/live/69f97085203f5_88642/index.m3u8?expire=1778559749&sign=0dcd78779a06fa314006d1cdfa644346
+https://live.alilicloud.com/live/c2fb14084673abde281830b021ae946e/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-35e1a925e59e.webp?v=1777962254" group-title="Bún Chả TV" , 12:00 05/05 | ⚽ Jeonbuk Hyundai Motors vs Gwangju Football Club (Link 2) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/jeonbuk-hyundai-motors-vs-gwangju-football-club-1200-05-05-2026/601435525
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-ac546722e34c.webp?v=1777975458" group-title="Bún Chả TV" , 15:30 05/05 | ⚽ Pingyong Village vs Tap Seac Party Prime Minister Village Football Team (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/pingyong-village-vs-tap-seac-party-prime-minister-village-football-team-1530-05-05-2026/601435606
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/0df0d5d9717e6941579e440ef15ce0ee/playlist.m3u8
+https://live.alilicloud.com/live/66115e929f7149c66e6d6333eea6560f/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-5f3132d6b532.webp?v=1777962255" group-title="Bún Chả TV" , 12:00 05/05 | ⚽ Xinjiang Jindun vs Qinghai Xining Kunlun (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/xinjiang-jindun-vs-qinghai-xining-kunlun-1200-05-05-2026/601435546
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-66cbe189c433.webp?v=1777975456" group-title="Bún Chả TV" , 15:45 05/05 | ⚽ Rahmatgonj MFS vs Mohammedan Dhaka (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/rahmatgonj-mfs-vs-mohammedan-dhaka-1545-05-05-2026/601447960
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/6d622965f442de38a91537b252394d70/playlist.m3u8
+https://live.alilicloud.com/live/ee1d3cd0aa434c40d587a65bc81b2af3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-f87e83d4b757.webp?v=1777962256" group-title="Bún Chả TV" , 12:00 05/05 | ⚽ Jeonbuk Hyundai Motors II vs Yeoju Citizen (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/jeonbuk-hyundai-motors-ii-vs-yeoju-citizen-1200-05-05-2026/601448014
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-a2dccf3328b1.webp?v=1777975459" group-title="Bún Chả TV" , 15:45 05/05 | ⚽ Brothers Union vs Bashundara Kings (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/brothers-union-vs-bashundara-kings-1545-05-05-2026/601447963
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/2e068b104ab48fac31fbc126257b25e4/playlist.m3u8
+https://live.alilicloud.com/live/551dc8db09e6e9bb6c14407569cdfadc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-c7162731b578.webp?v=1777962257" group-title="Bún Chả TV" , 12:00 05/05 | ⚽ Sejong Gumi Sportstoto (w) vs KSPO FC (w) (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/sejong-gumi-sportstoto-w-vs-kspo-fc-w-1200-05-05-2026/601435537
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-eaed9cd71c50.webp?v=1777975462" group-title="Bún Chả TV" , 15:50 05/05 | ⚽ Yuan Yue vs Simona Waltert (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/yuan-yue-vs-simona-waltert-1550-05-05-2026/601444075
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/fc2a9b326ad3c61cd7e3ca17a0ef6933/playlist.m3u8
+https://live.alilicloud.com/live/d79060d09145f13fa0b15c33b4ab20b3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-1f66b433eab9.webp?v=1777962260" group-title="Bún Chả TV" , 12:00 05/05 | ⚽ Goyang Sono Skygunners vs Busan KCC Egis (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/goyang-sono-skygunners-vs-busan-kcc-egis-1200-05-05-2026/601437988
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-9753b607792e.webp?v=1777975461" group-title="Bún Chả TV" , 16:00 05/05 | ⚽ Gustavo Heide vs Lilian Marmousez (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/gustavo-heide-vs-lilian-marmousez-1600-05-05-2026/601444072
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/9e4541b1dc01d0b0924196f84dc96389/playlist.m3u8
+https://live.alilicloud.com/live/152b0eaab7ec2e59ed3ed0ca8d299a88/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-aabaeeee8492.webp?v=1777962259" group-title="Bún Chả TV" , 12:35 05/05 | ⚽ Mananchaya Sawangkaew vs Heather Watson (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/mananchaya-sawangkaew-vs-heather-watson-1235-05-05-2026/601441471
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-ef4524d42f2d.webp?v=1777975463" group-title="Bún Chả TV" , 16:00 05/05 | ⚽ Kawaguchi N / Kuwata H vs Da Silva Fick G / Mcgiffin T (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/kawaguchi-n--kuwata-h-vs-da-silva-fick-g--mcgiffin-t-1600-05-05-2026/601441588
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/8db6ab0a8df5d3a6680864aa106aced7/playlist.m3u8
+https://live.alilicloud.com/live/b99fc8a8d547b1f689dc316886b9df10/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-7aad049df0e6.webp?v=1777962259" group-title="Bún Chả TV" , 12:40 05/05 | ⚽ Aoi Ito vs Lizette Cabrera (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/aoi-ito-vs-lizette-cabrera-1240-05-05-2026/601441456
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-44fd6ac4caa7.webp?v=1777975464" group-title="Bún Chả TV" , 16:00 05/05 | ⚽ Toby Samuel vs Stefanos Sakellaridis (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/toby-samuel-vs-stefanos-sakellaridis-1600-05-05-2026/601440967
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/560e2dca5cc9f91d243619855b73f67e/playlist.m3u8
+https://live.alilicloud.com/live/fbff0c397716cca6d9950057f96d6f07/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-23de6cbfda76.webp?v=1777962253" group-title="Bún Chả TV" , 13:00 05/05 | ⚽ Siheung City vs Jincheon HR FC (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/siheung-city-vs-jincheon-hr-fc-1300-05-05-2026/601448020
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-f3c6fd6f736f.webp?v=1777975465" group-title="Bún Chả TV" , 16:00 05/05 | ⚽ Alex Barrena vs August Holmgren (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/alex-barrena-vs-august-holmgren-1600-05-05-2026/601440991
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/80f01b368023ec1dd75d3cb83c5a40d7/playlist.m3u8
+https://live.alilicloud.com/live/71940bfb2c81096788d32e206e19e161/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-23eb4f377443.webp?v=1777962255" group-title="Bún Chả TV" , 13:00 05/05 | ⚽ Jinju Citizen vs Haman FC (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/jinju-citizen-vs-haman-fc-1300-05-05-2026/601448017
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-2ec3a897b603.webp?v=1777975462" group-title="Bún Chả TV" , 16:10 05/05 | ⚽ Barbora Krejcikova vs Elsa Jacquemot (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/barbora-krejcikova-vs-elsa-jacquemot-1610-05-05-2026/601443859
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/dd01e2b776dbcffb93e277ea7bae74b2/playlist.m3u8
+https://live.alilicloud.com/live/fb51425c4af2c79e4f580ab011523919/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-7ab0bbd62898.webp?v=1777962258" group-title="Bún Chả TV" , 13:00 05/05 | ⚽ Fujian Nanan (w) vs Shanghai Shenhua (w) (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/fujian-nanan-w-vs-shanghai-shenhua-w-1300-05-05-2026/601443475
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-a23023274998.webp?v=1777975467" group-title="Bún Chả TV" , 16:10 05/05 | ⚽ Katherine Sebov vs Berfu Cengiz (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/katherine-sebov-vs-berfu-cengiz-1610-05-05-2026/601443895
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/dc0bb1d9a319b8940a014e52dc622afe/playlist.m3u8
+https://live.alilicloud.com/live/2d1c02ad034a378559bbfca26754c55f/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-6bd66d1be140.webp?v=1777975465" group-title="Bún Chả TV" , 16:15 05/05 | ⚽ NLEX Road Warriors vs Titan Ultra Giant Risers (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/nlex-road-warriors-vs-titan-ultra-giant-risers-1615-05-05-2026/601425163
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/36609765328e5b35a29dc356804aa134/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-955ce638aa50.webp?v=1777975453" group-title="Bún Chả TV" , 16:30 05/05 | ⚽ AC Carina vs Mudgeeraba (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/ac-carina-vs-mudgeeraba-1630-05-05-2026/601448284
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/8cdbe653ba01f92d59b8db8a6798e91a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-bde59659571f.webp?v=1777975455" group-title="Bún Chả TV" , 16:30 05/05 | ⚽ Mawlai SC vs FC Raengdai (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/mawlai-sc-vs-fc-raengdai-1630-05-05-2026/601447966
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/43c96a24c769cfa32b9bedc6a0945eeb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-4145ed92e05e.webp?v=1777975466" group-title="Bún Chả TV" , 16:30 05/05 | ⚽ Zamboanga Familys Brand Sardines vs Ilagan Isabela Cowboys (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/zamboanga-familys-brand-sardines-vs-ilagan-isabela-cowboys-1630-05-05-2026/601425166
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/e9c1877c6c6a34864a109bd1b46711ef/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-0185e71ab7d9.webp?v=1777975463" group-title="Bún Chả TV" , 16:40 05/05 | ⚽ Wang Jiaqi vs You Xiaodi (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/wang-jiaqi-vs-you-xiaodi-1640-05-05-2026/601441459
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/f52be12521d2e5d056ae9dc21c4d8054/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-a04a442ab458.webp?v=1777975464" group-title="Bún Chả TV" , 16:40 05/05 | ⚽ Lee Y / Ye Q Y vs Nugroho P M / Plipuech P (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/lee-y--ye-q-y-vs-nugroho-p-m--plipuech-p-1640-05-05-2026/601441582
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/10b3f8c4f7d211a2d37bcf629448ed27/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-d35279552382.webp?v=1777975468" group-title="Bún Chả TV" , 16:50 05/05 | ⚽ Danka Kovinic vs Adelina Lachinova (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/danka-kovinic-vs-adelina-lachinova-1650-05-05-2026/601442368
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/a7a9c8ec03ca598466733a585f5ae10f/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-bf044c1e86cc.webp?v=1777975455" group-title="Bún Chả TV" , 17:00 05/05 | ⚽ Football Club Seoul vs FC Anyang (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/football-club-seoul-vs-fc-anyang-1700-05-05-2026/601435615
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.taoxanh.biz/live/69f9acc842283_28/index.m3u8?expire=1778575176&sign=bcd450d21af6e364eedc7328ddd22568
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs/kaytee-bf044c1e86cc.webp?v=1777975455" group-title="Bún Chả TV" , 17:00 05/05 | ⚽ Football Club Seoul vs FC Anyang (Link 2) [hls] 
+#EXTVLCOPT:http-referrer=https://bunchatv4.net/truc-tiep/football-club-seoul-vs-fc-anyang-1700-05-05-2026/601435615
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/bd1eae2d9c1ca9a803e52524fb97a194/playlist.m3u8
 
  
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-e3f708b1b0e6.webp?v=1777962269" group-title="Thập Cẩm Fake" group-logo="https://tctv.pro/10cam-logo-app-light.jpg" , 11:50 05/05 | ⚽ Lanlana Tararudee vs Sofya Lansere (Link 1) [hls]
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/lanlana-tararudee-vs-sofya-lansere-1150-05-05-2026/457860
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-6857cc861c3b.webp?v=1777975479" group-title="Thập Cẩm Fake" group-logo="https://tctv.pro/10cam-logo-app-light.jpg" , 15:00 05/05 | ⚽ Ajla Tomljanovic vs Leolia Jeanjean (Link 1) [hls]
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/ajla-tomljanovic-vs-leolia-jeanjean-1500-05-05-2026/459546
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/501b77a6e3f1fc97502adf972e5861f6/playlist.m3u8
+https://live.alilicloud.com/live/d794081b2bd9432fe34d18921319fce2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-1737ece59509.webp?v=1777962267" group-title="Thập Cẩm Fake" group-logo="https://tctv.pro/10cam-logo-app-light.jpg" , 12:00 05/05 | ⚽ Bucheon FC 1995 vs Jeju SK FC (Link 1) [hls]
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/bucheon-fc-1995-vs-jeju-sk-fc-1200-05-05-2026/451524
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-b54080c79cd2.webp?v=1777975481" group-title="Thập Cẩm Fake" group-logo="https://tctv.pro/10cam-logo-app-light.jpg" , 15:00 05/05 | ⚽ Mia Ristic vs Sofia Costoulas (Link 1) [hls]
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/mia-ristic-vs-sofia-costoulas-1500-05-05-2026/463935
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69f9737e137e4_145/index.m3u8?expire=1778560510&sign=924859fdd4a88a9d6a00eca478ee4fb3
+https://live.alilicloud.com/live/c4092c7647a5c9496f4bb8299f3990ac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-1737ece59509.webp?v=1777962267" group-title="Thập Cẩm Fake" , 12:00 05/05 | ⚽ Bucheon FC 1995 vs Jeju SK FC (Link 2) [hls] 
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/bucheon-fc-1995-vs-jeju-sk-fc-1200-05-05-2026/451524
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-ec4c17f14028.webp?v=1777975482" group-title="Thập Cẩm Fake" , 15:00 05/05 | ⚽ Elena-Gabriela Ruse vs Sinja Kraus (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/elenagabriela-ruse-vs-sinja-kraus-1500-05-05-2026/459705
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/f15669cdbf0a35dfc2b0b8aba91e13ce/playlist.m3u8
+https://live.alilicloud.com/live/83003236a243f0e6b99cd362df46a1ec/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-1f66b433eab9.webp?v=1777962268" group-title="Thập Cẩm Fake" , 12:00 05/05 | ⚽ Goyang Sono Skygunners vs Busan KCC Egis (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/goyang-sono-skygunners-vs-busan-kcc-egis-1200-05-05-2026/454506
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-9aa8eb40d305.webp?v=1777975483" group-title="Thập Cẩm Fake" , 15:00 05/05 | ⚽ Anastasia Gasanova vs Guo Hanyu (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/anastasia-gasanova-vs-guo-hanyu-1500-05-05-2026/458280
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/9e4541b1dc01d0b0924196f84dc96389/playlist.m3u8
+https://live.alilicloud.com/live/59f724904b1ce6359efc2e93e651ccc7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-35e1a925e59e.webp?v=1777962269" group-title="Thập Cẩm Fake" , 12:00 05/05 | ⚽ Jeonbuk Hyundai Motors vs Gwangju Football Club (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/jeonbuk-hyundai-motors-vs-gwangju-football-club-1200-05-05-2026/451521
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-3fab73f9413d.webp?v=1777975482" group-title="Thập Cẩm Fake" , 15:25 05/05 | ⚽ Anastasia Potapova vs Nikola Bartunkova (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/anastasia-potapova-vs-nikola-bartunkova-1525-05-05-2026/459543
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn-hls.phogatv8.com/live/69f97109137e4_26/index.m3u8?expire=1778559881&sign=f6bbfd2a735dab42aa33cb77397b003a
+https://live.alilicloud.com/live/e6777dd8dc701a534d32dadfa14212ae/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-35e1a925e59e.webp?v=1777962269" group-title="Thập Cẩm Fake" , 12:00 05/05 | ⚽ Jeonbuk Hyundai Motors vs Gwangju Football Club (Link 2) [hls] 
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/jeonbuk-hyundai-motors-vs-gwangju-football-club-1200-05-05-2026/451521
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-76a85478c9b5.webp?v=1777975481" group-title="Thập Cẩm Fake" , 15:30 05/05 | ⚽ Madura United vs Bali United (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/madura-united-vs-bali-united-1530-05-05-2026/451596
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/0df0d5d9717e6941579e440ef15ce0ee/playlist.m3u8
+https://cdn-hls.phogatv8.com/live/69f9ad97137e4_793/index.m3u8?expire=1778575383&sign=bc0f33283acbd646337bfba9ecfa0a18
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-aabaeeee8492.webp?v=1777962268" group-title="Thập Cẩm Fake" , 12:35 05/05 | ⚽ Mananchaya Sawangkaew vs Heather Watson (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/mananchaya-sawangkaew-vs-heather-watson-1235-05-05-2026/457863
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-76a85478c9b5.webp?v=1777975481" group-title="Thập Cẩm Fake" , 15:30 05/05 | ⚽ Madura United vs Bali United (Link 2) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/madura-united-vs-bali-united-1530-05-05-2026/451596
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/8db6ab0a8df5d3a6680864aa106aced7/playlist.m3u8
+https://live.alilicloud.com/live/c2fb14084673abde281830b021ae946e/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-7aad049df0e6.webp?v=1777962269" group-title="Thập Cẩm Fake" , 12:40 05/05 | ⚽ Aoi Ito vs Lizette Cabrera (Link 1) [hls] 
-#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/aoi-ito-vs-lizette-cabrera-1240-05-05-2026/457848
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-eaed9cd71c50.webp?v=1777975480" group-title="Thập Cẩm Fake" , 15:50 05/05 | ⚽ Yuan Yue vs Simona Waltert (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/yuan-yue-vs-simona-waltert-1550-05-05-2026/459948
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.alilicloud.com/live/560e2dca5cc9f91d243619855b73f67e/playlist.m3u8
+https://live.alilicloud.com/live/d79060d09145f13fa0b15c33b4ab20b3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-44fd6ac4caa7.webp?v=1777975479" group-title="Thập Cẩm Fake" , 16:00 05/05 | ⚽ Toby Samuel vs Stefanos Sakellaridis (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/toby-samuel-vs-stefanos-sakellaridis-1600-05-05-2026/456936
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/fbff0c397716cca6d9950057f96d6f07/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-f3c6fd6f736f.webp?v=1777975483" group-title="Thập Cẩm Fake" , 16:00 05/05 | ⚽ Alex Barrena vs August Holmgren (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/alex-barrena-vs-august-holmgren-1600-05-05-2026/456960
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/71940bfb2c81096788d32e206e19e161/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-6bd66d1be140.webp?v=1777975479" group-title="Thập Cẩm Fake" , 16:15 05/05 | ⚽ NLEX Road Warriors vs Titan Ultra Giant Risers (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/nlex-road-warriors-vs-titan-ultra-giant-risers-1615-05-05-2026/445434
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/36609765328e5b35a29dc356804aa134/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-4145ed92e05e.webp?v=1777975480" group-title="Thập Cẩm Fake" , 16:30 05/05 | ⚽ Zamboanga Familys Brand Sardines vs Ilagan Isabela Cowboys (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/zamboanga-familys-brand-sardines-vs-ilagan-isabela-cowboys-1630-05-05-2026/445437
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/e9c1877c6c6a34864a109bd1b46711ef/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-bf044c1e86cc.webp?v=1777975480" group-title="Thập Cẩm Fake" , 17:00 05/05 | ⚽ Football Club Seoul vs FC Anyang (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/football-club-seoul-vs-fc-anyang-1700-05-05-2026/451608
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-hls.phogatv8.com/live/69f9b81c137e4_1549/index.m3u8?expire=1778578076&sign=af3d193889181cf50f7d7e623dea43e9
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-bf044c1e86cc.webp?v=1777975480" group-title="Thập Cẩm Fake" , 17:00 05/05 | ⚽ Football Club Seoul vs FC Anyang (Link 2) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/football-club-seoul-vs-fc-anyang-1700-05-05-2026/451608
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alilicloud.com/live/bd1eae2d9c1ca9a803e52524fb97a194/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-cb17176b22a2.webp?v=1777975482" group-title="Thập Cẩm Fake" , 18:00 05/05 | ⚽ Qingdao West Coast FC vs Tianjin Jinmen Tiger FC (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://thapcamtvbc.mobi/truc-tiep/qingdao-west-coast-fc-vs-tianjin-jinmen-tiger-fc-1800-05-05-2026/451623
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8
 
  
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-74446fa042f5.webp?v=1777975498" group-title="Quê Choa TV" group-logo="https://quechoa6.live/images/header/quechoatv-logo-v2.png" , 15:30 05/05 | ⚽ Persepam Madura Utd vs Bali United (Link 1) [hls]
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/persepam-madura-utd-vs-bali-united-tdf-05-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-74446fa042f5.webp?v=1777975498" group-title="Quê Choa TV" group-logo="https://quechoa6.live/images/header/quechoatv-logo-v2.png" , 15:30 05/05 | ⚽ Persepam Madura Utd vs Bali United (Link 2) [hls]
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/persepam-madura-utd-vs-bali-united-tdf-05-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-c4dd5336ad73.webp?v=1777975508" group-title="Quê Choa TV" , 16:00 05/05 | ⚽ Krejcikova B vs Jacquemot E (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/krejcikova-b-vs-jacquemot-e-grl-05-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-c4dd5336ad73.webp?v=1777975508" group-title="Quê Choa TV" , 16:00 05/05 | ⚽ Krejcikova B vs Jacquemot E (Link 2) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/krejcikova-b-vs-jacquemot-e-grl-05-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-6fa5b7d6a39e.webp?v=1777975503" group-title="Quê Choa TV" , 17:30 05/05 | ⚽ Kenin S vs Andreescu B (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/kenin-s-vs-andreescu-b-szh-05-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-6fa5b7d6a39e.webp?v=1777975503" group-title="Quê Choa TV" , 17:30 05/05 | ⚽ Kenin S vs Andreescu B (Link 2) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/kenin-s-vs-andreescu-b-szh-05-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-d443708b48de.webp?v=1777975491" group-title="Quê Choa TV" , 19:00 05/05 | ⚽ Pusamania Borneo vs Persita (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/pusamania-borneo-vs-persita-lch-05-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-d443708b48de.webp?v=1777975491" group-title="Quê Choa TV" , 19:00 05/05 | ⚽ Pusamania Borneo vs Persita (Link 2) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/pusamania-borneo-vs-persita-lch-05-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-7c143ae90630.webp?v=1777975509" group-title="Quê Choa TV" , 21:00 05/05 | ⚽ Li A vs Zhang S (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/li-a-vs-zhang-s-yck-05-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-7c143ae90630.webp?v=1777975509" group-title="Quê Choa TV" , 21:00 05/05 | ⚽ Li A vs Zhang S (Link 2) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/li-a-vs-zhang-s-yck-05-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-71238b78ef2f.webp?v=1777975496" group-title="Quê Choa TV" , 00:30 06/05 | ⚽ Beşiktaş vs Konyaspor (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/besiktas-vs-konyaspor-pkz-05-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-71238b78ef2f.webp?v=1777975496" group-title="Quê Choa TV" , 00:30 06/05 | ⚽ Beşiktaş vs Konyaspor (Link 2) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/besiktas-vs-konyaspor-pkz-05-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-ee64a160ca47.webp?v=1777975506" group-title="Quê Choa TV" , 07:30 06/05 | ⚽ Oklahoma City Thunder vs Los Angeles Lakers (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/oklahoma-city-thunder-vs-los-angeles-lakers-zdg-06-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-ee64a160ca47.webp?v=1777975506" group-title="Quê Choa TV" , 07:30 06/05 | ⚽ Oklahoma City Thunder vs Los Angeles Lakers (Link 2) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/oklahoma-city-thunder-vs-los-angeles-lakers-zdg-06-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-055cbaab5499.webp?v=1777975493" group-title="Quê Choa TV" , 08:30 06/05 | ⚽ Tigres UANL vs Nashville SC (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/tigres-uanl-vs-nashville-sc-bnu-06-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-055cbaab5499.webp?v=1777975493" group-title="Quê Choa TV" , 08:30 06/05 | ⚽ Tigres UANL vs Nashville SC (Link 2) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/tigres-uanl-vs-nashville-sc-bnu-06-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-1d1720c2e68d.webp?v=1777975499" group-title="Quê Choa TV" , 12:00 06/05 | ⚽ Nagoya Grampus vs Gamba Osaka (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/nagoya-grampus-vs-gamba-osaka-olu-06-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-1d1720c2e68d.webp?v=1777975499" group-title="Quê Choa TV" , 12:00 06/05 | ⚽ Nagoya Grampus vs Gamba Osaka (Link 2) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/nagoya-grampus-vs-gamba-osaka-olu-06-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-3c0b2faf7ddb.webp?v=1777975501" group-title="Quê Choa TV" , 15:00 06/05 | ⚽ GEN G vs Nongshim RedForce (Link 1) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/gen-g-vs-nongshim-redforce-nid-06-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/quechoa_thumbs/kaytee-3c0b2faf7ddb.webp?v=1777975501" group-title="Quê Choa TV" , 15:00 06/05 | ⚽ GEN G vs Nongshim RedForce (Link 2) [hls] 
+#EXTVLCOPT:http-referrer=https://quechoa9.live/truc-tiep/gen-g-vs-nongshim-redforce-nid-06-05-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+
  
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c42dbf4f5b63.webp?v=1777961742" group-title="Hội Quán TV" group-logo="https://kaytee1012.github.io/hoiquan_logo.png" , 12:00 | ⚽ Goyang Sono vs KCC Egis (Link 1) [hls]
-https://tfvm4gr3dgmtugrzdgpbqgrhdommeqfsg17uff37ga6mcpf5gkmudp7so.100ycdn.com/hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=917b3eb59fab720619101bec-177796172687882&wsIPSercert=acd39b28ee0b67f1ba264e5555867d3e&wsBindIP=2&wsserid=1168239032764520582
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-05bbbdf7b38f.webp?v=1777975533" group-title="Hội Quán TV" group-logo="https://kaytee1012.github.io/hoiquan_logo.png" , 16:30 | ⚽ Trung Quốc vs Úc (Link 1) [hls]
+https://tfvm4gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff37ga6mcpf5gkmudp7so.100ycdn.com/hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8?wsSession=0d518c39b6f3cb7e08ae61a1-177797551972370&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c42dbf4f5b63.webp?v=1777961742" group-title="Hội Quán TV" group-logo="https://kaytee1012.github.io/hoiquan_logo.png" , 12:00 | ⚽ Goyang Sono vs KCC Egis (Link 2) [hls]
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-443bf06f5282.webp?v=1777961743" group-title="Hội Quán TV" , 12:00 | ⚽ Jeonbuk Motors vs Gwangju FC (Link 1) [hls] 
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-05bbbdf7b38f.webp?v=1777975533" group-title="Hội Quán TV" group-logo="https://kaytee1012.github.io/hoiquan_logo.png" , 16:30 | ⚽ Trung Quốc vs Úc (Link 2) [hls]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-443bf06f5282.webp?v=1777961743" group-title="Hội Quán TV" , 12:00 | ⚽ Jeonbuk Motors vs Gwangju FC (Link 2) [hls] 
-https://tfvm4gr3dgmtugrzdgpbqgrhdommeqfsg17uff37ga6mcpf5gkmudp7so.100ycdn.com/hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7cbc343716daafb071284be1-177796172687637&wsIPSercert=acd39b28ee0b67f1ba264e5555867d3e&wsBindIP=2&wsserid=1168239032784443754
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-76b55bbb12c4.webp?v=1777975534" group-title="Hội Quán TV" , 16:30 | ⚽ Croatia vs Nhật Bản (Link 1) [hls] 
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-76b55bbb12c4.webp?v=1777975534" group-title="Hội Quán TV" , 16:30 | ⚽ Croatia vs Nhật Bản (Link 2) [hls] 
+https://tfvm4gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff37ga6mcpf5gkmudp7so.100ycdn.com/hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8?wsSession=a885d779c47bcd2de9d2cc7a-177797551972647&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097225556910
 
  
 #EXTM3U
@@ -3291,58 +3670,44 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/440_1h1jgrf3gr2k.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju Football Club (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/23947_164941043896.png",15h30 ngày 05/05 Madura United vs Bali United (Lương Sơn) BLV A TỦA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/440_1h1jgrf3gr2k.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju Football Club (Lương Sơn) BLV VÕ TÒNG flv
+https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/23947_164941043896.png",15h30 ngày 05/05 Madura United vs Bali United (Lương Sơn) BLV A TỦA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/440_1h1jgrf3gr2k.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju Football Club (Lương Sơn) BLV KAKA m3u
+https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/23947_164941043896.png",15h30 ngày 05/05 Madura United vs Bali United (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/440_1h1jgrf3gr2k.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju Football Club (Lương Sơn) BLV KAKA flv
+https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/23947_164941043896.png",15h30 ngày 05/05 Madura United vs Bali United (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6806_1ht90z022j0.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC (Lương Sơn) BLV KHỔNG MINH m3u
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/23947_164941043896.png",15h30 ngày 05/05 Madura United vs Bali United (Lương Sơn) BLV FALCON m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6806_1ht90z022j0.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC (Lương Sơn) BLV KHỔNG MINH flv
+https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/23947_164941043896.png",15h30 ngày 05/05 Madura United vs Bali United (Lương Sơn) BLV FALCON flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6806_1ht90z022j0.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC (Lương Sơn) BLV TIỂU LANG m3u
+https://flv.cdnok9.com/live/falcon.flv?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/23947_164941043896.png",15h30 ngày 05/05 Madura United vs Bali United (Lương Sơn) BLV KENCHU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/AJUN/index.m3u8?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6806_1ht90z022j0.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC (Lương Sơn) BLV TIỂU LANG flv
+https://hls-ls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/23947_164941043896.png",15h30 ngày 05/05 Madura United vs Bali United (Lương Sơn) BLV KENCHU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/AJUN.flv?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6806_1ht90z022j0.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC (Lương Sơn) BLV TỐNG GIANG m3u
+https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/26020_1h2s8p8qeg23.png",16h30 ngày 05/05 Mawlai SC vs FC Raengdai (Lương Sơn) BLV LÝ ỨNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://hls-ls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6806_1ht90z022j0.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC (Lương Sơn) BLV TỐNG GIANG flv
+https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/26020_1h2s8p8qeg23.png",16h30 ngày 05/05 Mawlai SC vs FC Raengdai (Lương Sơn) BLV LÝ ỨNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/440_1h1jgrf3gr2k.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju Football Club (Lương Sơn) BLV KEVILL m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/440_1h1jgrf3gr2k.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju Football Club (Lương Sơn) BLV KEVILL flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/440_1h1jgrf3gr2k.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju Football Club (Lương Sơn) BLV TÔN LẬP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/440_1h1jgrf3gr2k.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju Football Club (Lương Sơn) BLV TÔN LẬP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1777920040.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis (Lương Sơn) BLV YẾN THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1777920040.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis (Lương Sơn) BLV YẾN THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d3976c3dc694f6a214deb45940de5360/image/small?v=1768601124",12h00 ngày 05/05 Chuncheon Citizen vs Mokpo City (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/bb1cd3580386310a47b8f0104942f12d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ee302e143f1494865b5023901aeca34f/image/small?v=1768601124",15h15 ngày 05/05 Shanghai Jiading Huilong Women vs Chongqing Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ed3387071b9fe31e5fb043cbccd05283/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/10ff70307c49666ae2f56327c718257b/image/small?v=1768601124",12h00 ngày 05/05 Gangjin Swans Women vs Incheon Hyundai Steel Red Angels Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -3351,30 +3716,62 @@ https://live.alilicloud.com/live/e38823fbd016d8d80527cc1ba99d292a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/0df0d5d9717e6941579e440ef15ce0ee/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c2a1a707c10fc9f2b3f846a9308004eb/image/small?v=1768601124",07h30 ngày 05/05 Gimnasia yTiro vs Agropecuario de Carlos Casares (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/bbadc9637be010ba794373656cbee7e0/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cb27e7e39e51675a8d5e67a986932192/image/small?v=1768601124",12h00 ngày 05/05 Jeonbuk Hyundai Motors II vs Yeoju Citizen (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/2e068b104ab48fac31fbc126257b25e4/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d74638396be3a37c7f33aa5044f959d5/image/small?v=1768601124",07h30 ngày 05/05 SV Jong Aruba vs SV Brazil Juniors (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/541c982fbb159c2ec7cb16d30e80222b/image/small?v=1768601124",15h00 ngày 05/05 Shenzhen 2028 vs Jiangxi Lushan (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1968555b032ee67745f1f17a914adbf0/playlist.m3u8
+https://live.alilicloud.com/live/c72d408db4e210ad47f15abfba0ac7f4/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2f8a2f0cb268ac531b894e1574154002/image/small?v=1768601124",15h30 ngày 05/05 Madura United vs Bali United (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c2fb14084673abde281830b021ae946e/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2f8a2f0cb268ac531b894e1574154002/image/small?v=1768601124",15h30 ngày 05/05 Madura United vs Bali United (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-kda.fastestcdn-global.com/live/629c9e41091e4abc8b00355628a642d9/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2f8a2f0cb268ac531b894e1574154002/image/small?v=1768601124",15h30 ngày 05/05 Madura United vs Bali United (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-kda.fastestcdn-global.com/live/629c9e41091e4abc8b00355628a642d9/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2f8a2f0cb268ac531b894e1574154002/image/small?v=1768601124",15h30 ngày 05/05 Madura United vs Bali United (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-kda.fastestcdn-global.com/live/629c9e41091e4abc8b00355628a642d9/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ece0e98bf7867615a0f9f3c3c91aa767/image/small?v=1768601124",14h00 ngày 05/05 Pyeongchang United FC vs Busan Transportation Corporation (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/14ad9fa898431874b0f4629807779f95/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9c1f69dd016362a1265acf2c89fe7691/image/small?v=1768601124",16h30 ngày 05/05 Sunshine Coast Wanderers Women vs Brisbane City Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e4aad6d02e50da4900d85d4d7f64455c/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/bb939a0983695d0979f7dcb076786e6c/image/small?v=1768601124",15h00 ngày 05/05 Tianjin Dihua vs Tongliao Tongda (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/7ea43e8014a2b3044d34adbd99186b4f/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0c41fa6e91e6264e62bf24d3ffd7eb85/image/small?v=1768601124",12h00 ngày 05/05 Yushu Yak vs Hohhot Green (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/4183118feae855e400978160c2175fb1/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ee0265d01f2bf3729c9537333d743664/image/small?v=1768601124",13h30 ngày 05/05 Renji Village vs Bidiaocen Village (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/0d6c2f9374b73956beb5726c428d3f4e/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/526fc13dae593f38dafb7d5fbdbd187c/image/small?v=1768601124",15h00 ngày 05/05 Xinjiang Bingchao vs Ningxia Pingluo Hengli (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e484c41410013c0b679a7a25cd1a45e3/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/defd245b9984913bd3cb1bea8d68b273/image/small?v=1768601124",12h00 ngày 05/05 Xinjiang Jindun vs Qinghai Kunlun (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/6d622965f442de38a91537b252394d70/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f4bffda599decf38e8ad73a8c6a0e87b/image/small?v=1768601124",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/128283670861107a6710f819e27a69f2/image/small?v=1768601124",15h00 ngày 05/05 Changchun Xidu vs Shandong Taishan B (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b8dc43f469951298c477ac5d8d4f2d16/playlist.m3u8
+https://live.alilicloud.com/live/4381af0fe7cf0203eee6ec4a5e5fefe7/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/48822595c072103d81ac553c202bd5dc/image/small?v=1768601124",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -3387,6 +3784,22 @@ https://live.alilicloud.com/live/c8ecdc6a557d8cf1bbcb5d68a5f14962/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/fc2a9b326ad3c61cd7e3ca17a0ef6933/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8025366f71405fc519181aebf1bb4ceb/image/small?v=1768601124",14h30 ngày 05/05 Gimcheon Sangmu Football Club vs Ulsan HD FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/1a6c080e584d92ca8ec9176dc0c83f0d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/490b7fba3c9f4c62adb3061f149dd2ef/image/small?v=1768601124",16h30 ngày 05/05 AC Carina vs Mudgeeraba (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/8cdbe653ba01f92d59b8db8a6798e91a/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3dbdc6856f03bddb765525bcb2184899/image/small?v=1768601124",14h30 ngày 05/05 Lebanon U17 Women vs Australia Women U17 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/fa484514058ab50045103f07e31e5346/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/089fc2121336eb6ae287ddcd5c682378/image/small?v=1768601124",14h30 ngày 05/05 Chinese Taipei U17 Women vs South Korea U17 Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/7e0328535a511826c9197d98f073c00e/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/37f792fed1b1aa7b27bc79f37d213c49/image/small?v=1768601124",13h00 ngày 05/05 Fujian Nanan Women vs Shanghai Shenhua Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -3395,34 +3808,86 @@ https://live.alilicloud.com/live/dc0bb1d9a319b8940a014e52dc622afe/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/dd01e2b776dbcffb93e277ea7bae74b2/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b86f8470d9a01302b73883cdac7b9aab/image/small?v=1768601124",15h45 ngày 05/05 Brothers Union vs Bashundhara Kings (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/551dc8db09e6e9bb6c14407569cdfadc/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c2d33d8e8c82543293adb56a6297c2c9/image/small?v=1768601124",14h30 ngày 05/05 Gangwon Football Club vs Pohang Steelers (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3d275704f0682306fae2cfa56d1467bc/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9c24889e35d64bb057e262edaac04673/image/small?v=1768601124",15h45 ngày 05/05 Rahmatgonj MFS vs Mohammedan Dhaka (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ee1d3cd0aa434c40d587a65bc81b2af3/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/25c697eefddd230651e9502912458072/image/small?v=1768601124",14h30 ngày 05/05 Daejeon Citizen vs Incheon United Club (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f1d80a0cd657e1cc2e85012e7cb70de3/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b6421e1a628e2028f36125c6870be759/image/small?v=1768601124",14h00 ngày 05/05 Zaozhuang Team vs Weifang Team (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/30f817c0093f62128c31f96af65b2dea/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b47e01b8811fd0ead4ff85d50584b84e/image/small?v=1768601124",13h00 ngày 05/05 Siheung City vs Jincheon HR FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/80f01b368023ec1dd75d3cb83c5a40d7/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/caa38bc35c5f4c7c72cb1b18cb6f0a40/image/small?v=1768601124",08h00 ngày 05/05 International San Carlos vs Escorpiones Belen (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/566803d4be6a7a16a5778c3a1938475a/image/small?v=1768601124",16h00 ngày 05/05 MFK Karvina U19 vs Slovacko U19 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/bc35d8905df609dde9b4a03e5652168e/playlist.m3u8
+https://live.alilicloud.com/live/6d5cf353362ca6b95f151d8ab8100138/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 ngày 05/05 Football Club Seoul vs FC Anyang (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/bd1eae2d9c1ca9a803e52524fb97a194/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 ngày 05/05 Football Club Seoul vs FC Anyang (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-kda.fastestcdn-global.com/live/0415e5130bd7456282415c07b0e6407a/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 ngày 05/05 Football Club Seoul vs FC Anyang (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-kda.fastestcdn-global.com/live/0415e5130bd7456282415c07b0e6407a/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 ngày 05/05 Football Club Seoul vs FC Anyang (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-kda.fastestcdn-global.com/live/0415e5130bd7456282415c07b0e6407a/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ea579eb886e2ce1e841746a42bcd4776/image/small?v=1768601124",14h00 ngày 05/05 Dalian Yingbo B vs Dalian Kewei (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/7be3d83e72ba2476f7b87e54f44d4f9f/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/802c5da44ae84d71dae0f300f3a2f24c/image/small?v=1768601124",16h30 ngày 05/05 Mawlai SC vs FC Raengdai (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/43c96a24c769cfa32b9bedc6a0945eeb/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0c9a973fe57f534ec1f37e5a08ea4356/image/small?v=1768601124",14h00 ngày 05/05 Seosan Pioneer FC vs Daejeon Korail (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/cf8cab214deac0096ef903fd39c8cad2/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a7310022b3bb408b1633a74e4156e502/image/small?v=1768601124",12h00 ngày 05/05 Gyeongju Korea Hydro & Nuclear Power WFC vs Seoul Amazones Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/9c0a4da156acd4a6da8644dc0d2412d1/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133957_d2e52bb4.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju United FC (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m3x1/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133957_d2e52bb4.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju United FC (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m3x1.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133955_c8eda616.png",12h00 ngày 05/05 Jeonbuk Motors vs Gwangju FC (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m6x1/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133955_c8eda616.png",12h00 ngày 05/05 Jeonbuk Motors vs Gwangju FC (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m6x1.flv
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/abcff6e788c9e471338c0f0d175645be/image/small?v=1768601124",14h00 ngày 05/05 Lishui Team vs Jiaxing Team (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6489a2eaa7bec7bba735555d299fd134/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5779206c9510030657bc23f9405cb216/image/small?v=1768601124",14h00 ngày 05/05 Taizhou Team vs Hangzhou Team (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c2b37f346a20fdbd96b43749cf9aa029/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/314e62c9359f5c358872eb57110855f0/image/small?v=1768601124",14h00 ngày 05/05 Shaoxing Team vs Huzhou Team (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c2393eb7419a42d31976b92126ecfdc4/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8de86e0acc5cf4f54df219eb4179a540/image/small?v=1768601124",14h00 ngày 05/05 Zhoushan Team vs Ningbo Team (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/df755e4a3c341094ceca495f64264458/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/bd14b66f415160b6c7aabb7c388dd5b3/image/small?v=1768601124",15h30 ngày 05/05 Pingyong Village vs Dangxiang Village (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/66115e929f7149c66e6d6333eea6560f/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134616_ea998238.png",15h30 ngày 05/05 Persepam Madura Utd vs Bali United (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -3567,42 +4032,110 @@ https://gckc0525.edgemaxcdn.org/live/chanhhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chanhhd.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d3976c3dc694f6a214deb45940de5360/image/small?v=1768601124",12h00 ngày 05/05 Chuncheon Citizen vs Mokpo City (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ee302e143f1494865b5023901aeca34f/image/small?v=1768601124",15h15 ngày 05/05 Shanghai Jiading Huilong Women vs Chongqing Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/bb1cd3580386310a47b8f0104942f12d/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/10ff70307c49666ae2f56327c718257b/image/small?v=1768601124",12h00 ngày 05/05 Gangjin Swans Women vs Incheon Hyundai Steel Red Angels Women (Gà Vàng) source
+https://live.alilicloud.com/live/ed3387071b9fe31e5fb043cbccd05283/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/541c982fbb159c2ec7cb16d30e80222b/image/small?v=1768601124",15h00 ngày 05/05 Shenzhen 2028 vs Jiangxi Lushan (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/e38823fbd016d8d80527cc1ba99d292a/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/dbbaec096006ba186a4b9931da9f889a/image/small?v=1768601124",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju Football Club (Gà Vàng) source
+https://live.alilicloud.com/live/c72d408db4e210ad47f15abfba0ac7f4/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2f8a2f0cb268ac531b894e1574154002/image/small?v=1768601124",15h30 ngày 05/05 Madura United vs Bali United (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0df0d5d9717e6941579e440ef15ce0ee/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/cb27e7e39e51675a8d5e67a986932192/image/small?v=1768601124",12h00 ngày 05/05 Jeonbuk Hyundai Motors II vs Yeoju Citizen (Gà Vàng) source
+https://live.alilicloud.com/live/c2fb14084673abde281830b021ae946e/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2f8a2f0cb268ac531b894e1574154002/image/small?v=1768601124",15h30 ngày 05/05 Madura United vs Bali United (Gà Vàng) sd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/2e068b104ab48fac31fbc126257b25e4/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0c41fa6e91e6264e62bf24d3ffd7eb85/image/small?v=1768601124",12h00 ngày 05/05 Yushu Yak vs Hohhot Green (Gà Vàng) source
+https://pull-gv.fastestcdn-global.com/live/74debfab91be49499667d0151783177e/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2f8a2f0cb268ac531b894e1574154002/image/small?v=1768601124",15h30 ngày 05/05 Madura United vs Bali United (Gà Vàng) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4183118feae855e400978160c2175fb1/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/defd245b9984913bd3cb1bea8d68b273/image/small?v=1768601124",12h00 ngày 05/05 Xinjiang Jindun vs Qinghai Kunlun (Gà Vàng) source
+https://pull-gv.fastestcdn-global.com/live/74debfab91be49499667d0151783177e/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2f8a2f0cb268ac531b894e1574154002/image/small?v=1768601124",15h30 ngày 05/05 Madura United vs Bali United (Gà Vàng) sd_2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6d622965f442de38a91537b252394d70/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/48822595c072103d81ac553c202bd5dc/image/small?v=1768601124",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC (Gà Vàng) source
+https://stm02bc67063175.stream.hdplaylink.com/live/74debfab91be49499667d0151783177e/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2f8a2f0cb268ac531b894e1574154002/image/small?v=1768601124",15h30 ngày 05/05 Madura United vs Bali United (Gà Vàng) hd_2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f15669cdbf0a35dfc2b0b8aba91e13ce/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a83b812a3789bbcabcc7408abc7b73ee/image/small?v=1768601124",12h00 ngày 05/05 Mungyeong Sangmu WFC vs Suwon FC Women (Gà Vàng) source
+https://stm02bc67063175.stream.hdplaylink.com/live/74debfab91be49499667d0151783177e/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2f8a2f0cb268ac531b894e1574154002/image/small?v=1768601124",15h30 ngày 05/05 Madura United vs Bali United (Gà Vàng) sd_3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c8ecdc6a557d8cf1bbcb5d68a5f14962/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1c186707c637d240a6a24cc5f621e1a1/image/small?v=1768601124",12h00 ngày 05/05 Sejong Sportstoto WFC vs Hwacheon KSPO WFC (Gà Vàng) source
+https://stm02bc67063175.stream.hdplaylink.com/live/74debfab91be49499667d0151783177e/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2f8a2f0cb268ac531b894e1574154002/image/small?v=1768601124",15h30 ngày 05/05 Madura United vs Bali United (Gà Vàng) hd_3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/fc2a9b326ad3c61cd7e3ca17a0ef6933/playlist.m3u8
+https://stm02bc67063175.stream.hdplaylink.com/live/74debfab91be49499667d0151783177e/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ece0e98bf7867615a0f9f3c3c91aa767/image/small?v=1768601124",14h00 ngày 05/05 Pyeongchang United FC vs Busan Transportation Corporation (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/14ad9fa898431874b0f4629807779f95/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9c1f69dd016362a1265acf2c89fe7691/image/small?v=1768601124",16h30 ngày 05/05 Sunshine Coast Wanderers Women vs Brisbane City Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/e4aad6d02e50da4900d85d4d7f64455c/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/bb939a0983695d0979f7dcb076786e6c/image/small?v=1768601124",15h00 ngày 05/05 Tianjin Dihua vs Tongliao Tongda (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/7ea43e8014a2b3044d34adbd99186b4f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ee0265d01f2bf3729c9537333d743664/image/small?v=1768601124",13h30 ngày 05/05 Renji Village vs Bidiaocen Village (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/0d6c2f9374b73956beb5726c428d3f4e/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/526fc13dae593f38dafb7d5fbdbd187c/image/small?v=1768601124",15h00 ngày 05/05 Xinjiang Bingchao vs Ningxia Pingluo Hengli (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/e484c41410013c0b679a7a25cd1a45e3/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/128283670861107a6710f819e27a69f2/image/small?v=1768601124",15h00 ngày 05/05 Changchun Xidu vs Shandong Taishan B (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/4381af0fe7cf0203eee6ec4a5e5fefe7/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8025366f71405fc519181aebf1bb4ceb/image/small?v=1768601124",14h30 ngày 05/05 Gimcheon Sangmu Football Club vs Ulsan HD FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/1a6c080e584d92ca8ec9176dc0c83f0d/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 ngày 05/05 Football Club Seoul vs FC Anyang (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/bd1eae2d9c1ca9a803e52524fb97a194/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 ngày 05/05 Football Club Seoul vs FC Anyang (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/8bbd5e70489345be89336c2dc9cf5044/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 ngày 05/05 Football Club Seoul vs FC Anyang (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/8bbd5e70489345be89336c2dc9cf5044/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 ngày 05/05 Football Club Seoul vs FC Anyang (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc67063175.stream.hdplaylink.com/live/8bbd5e70489345be89336c2dc9cf5044/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 ngày 05/05 Football Club Seoul vs FC Anyang (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc67063175.stream.hdplaylink.com/live/8bbd5e70489345be89336c2dc9cf5044/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 ngày 05/05 Football Club Seoul vs FC Anyang (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc67063175.stream.hdplaylink.com/live/8bbd5e70489345be89336c2dc9cf5044/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",17h00 ngày 05/05 Football Club Seoul vs FC Anyang (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc67063175.stream.hdplaylink.com/live/8bbd5e70489345be89336c2dc9cf5044/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/490b7fba3c9f4c62adb3061f149dd2ef/image/small?v=1768601124",16h30 ngày 05/05 AC Carina vs Mudgeeraba (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8cdbe653ba01f92d59b8db8a6798e91a/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3dbdc6856f03bddb765525bcb2184899/image/small?v=1768601124",14h30 ngày 05/05 Lebanon U17 Women vs Australia Women U17 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/fa484514058ab50045103f07e31e5346/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/089fc2121336eb6ae287ddcd5c682378/image/small?v=1768601124",14h30 ngày 05/05 Chinese Taipei U17 Women vs South Korea U17 Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/7e0328535a511826c9197d98f073c00e/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/37f792fed1b1aa7b27bc79f37d213c49/image/small?v=1768601124",13h00 ngày 05/05 Fujian Nanan Women vs Shanghai Shenhua Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -3611,266 +4144,258 @@ https://live.alilicloud.com/live/dc0bb1d9a319b8940a014e52dc622afe/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/dd01e2b776dbcffb93e277ea7bae74b2/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b86f8470d9a01302b73883cdac7b9aab/image/small?v=1768601124",15h45 ngày 05/05 Brothers Union vs Bashundhara Kings (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/551dc8db09e6e9bb6c14407569cdfadc/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c2d33d8e8c82543293adb56a6297c2c9/image/small?v=1768601124",14h30 ngày 05/05 Gangwon Football Club vs Pohang Steelers (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/3d275704f0682306fae2cfa56d1467bc/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9c24889e35d64bb057e262edaac04673/image/small?v=1768601124",15h45 ngày 05/05 Rahmatgonj MFS vs Mohammedan Dhaka (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/ee1d3cd0aa434c40d587a65bc81b2af3/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/25c697eefddd230651e9502912458072/image/small?v=1768601124",14h30 ngày 05/05 Daejeon Citizen vs Incheon United Club (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/f1d80a0cd657e1cc2e85012e7cb70de3/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b6421e1a628e2028f36125c6870be759/image/small?v=1768601124",14h00 ngày 05/05 Zaozhuang Team vs Weifang Team (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/30f817c0093f62128c31f96af65b2dea/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b47e01b8811fd0ead4ff85d50584b84e/image/small?v=1768601124",13h00 ngày 05/05 Siheung City vs Jincheon HR FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/80f01b368023ec1dd75d3cb83c5a40d7/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a7310022b3bb408b1633a74e4156e502/image/small?v=1768601124",12h00 ngày 05/05 Gyeongju Korea Hydro & Nuclear Power WFC vs Seoul Amazones Women (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/566803d4be6a7a16a5778c3a1938475a/image/small?v=1768601124",16h00 ngày 05/05 MFK Karvina U19 vs Slovacko U19 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9c0a4da156acd4a6da8644dc0d2412d1/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TẠ BIÊN GIỚI] (Socolive) flv
+https://live.alilicloud.com/live/6d5cf353362ca6b95f151d8ab8100138/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ea579eb886e2ce1e841746a42bcd4776/image/small?v=1768601124",14h00 ngày 05/05 Dalian Yingbo B vs Dalian Kewei (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/7be3d83e72ba2476f7b87e54f44d4f9f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/802c5da44ae84d71dae0f300f3a2f24c/image/small?v=1768601124",16h30 ngày 05/05 Mawlai SC vs FC Raengdai (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/43c96a24c769cfa32b9bedc6a0945eeb/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0c9a973fe57f534ec1f37e5a08ea4356/image/small?v=1768601124",14h00 ngày 05/05 Seosan Pioneer FC vs Daejeon Korail (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/cf8cab214deac0096ef903fd39c8cad2/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/abcff6e788c9e471338c0f0d175645be/image/small?v=1768601124",14h00 ngày 05/05 Lishui Team vs Jiaxing Team (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/6489a2eaa7bec7bba735555d299fd134/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5779206c9510030657bc23f9405cb216/image/small?v=1768601124",14h00 ngày 05/05 Taizhou Team vs Hangzhou Team (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/c2b37f346a20fdbd96b43749cf9aa029/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/314e62c9359f5c358872eb57110855f0/image/small?v=1768601124",14h00 ngày 05/05 Shaoxing Team vs Huzhou Team (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/c2393eb7419a42d31976b92126ecfdc4/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8de86e0acc5cf4f54df219eb4179a540/image/small?v=1768601124",14h00 ngày 05/05 Zhoushan Team vs Ningbo Team (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/df755e4a3c341094ceca495f64264458/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/bd14b66f415160b6c7aabb7c388dd5b3/image/small?v=1768601124",15h30 ngày 05/05 Pingyong Village vs Dangxiang Village (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/66115e929f7149c66e6d6333eea6560f/playlist.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [BLV CUỘI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1777965085-0-0-ed29b0e21ba6fe548f5937844be584e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1777978045-0-0-e2a115df561ca426bdeaed58fa119df2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [BLV CUỘI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1777965085-0-0-0d0aba2d85005db82dd175c78b8934a0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1777978045-0-0-64bbed7bb566e35dbf69aaa97023a6c2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [BLV CUỘI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1777965085-0-0-6f3e54bb0ff50e6a49c1fe90c3bb662b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1777978045-0-0-8de9453641bf8ed3af93ba1b1c9abf64
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [BLV CUỘI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1777965085-0-0-c35e3f595394808a4497d080c68c2fb9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV COCA] (Socolive) flv
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1777978045-0-0-f378e1ffcb86569796c8472e520ef3a0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1777965085-0-0-dd10eee1945785fbc1b233954bf1da46
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV COCA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1777978045-0-0-01b6f639e98aeed2b1b95a60082af528
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [TẠ BIÊN GIỚI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1777965085-0-0-9dfad8e2fe2b82fe00765c6798c9f456
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV COCA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1777978045-0-0-b7e55111619344b02788b72d54660756
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1777965085-0-0-6aad9ddce255cb544144245e92b18500
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1777978045-0-0-f508d36284983810920a2c07af8b4425
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1777965085-0-0-35d2b6536a99c14d89bdb4aeb7581d03
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ENZO] (Socolive) flv
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1777978045-0-0-001c07da1a9dce3594fe7855725a0337
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [BLV TAP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1777965085-0-0-0e044c9ca808971e81a663706b5cc453
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ENZO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=c712147b8256382873fb33a556d43729&txTime=69fa110d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [BLV TAP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1777965085-0-0-a16c6a90871072efcae616df4925be2f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ENZO] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=53c14cc4307d2867820125ca48b4f459&txTime=69fa110d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [BLV TAP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1777965085-0-0-510bde450ad69c77b7b6a049265777c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ENZO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=c712147b8256382873fb33a556d43729&txTime=69fa110d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [BLV TAP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1777965085-0-0-3ad5ecba378d55cea0e6d8707065cf1a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [BRIAN] (Socolive) flv
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=53c14cc4307d2867820125ca48b4f459&txTime=69fa110d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1777965085-0-0-b8f0b569abe045498ff971247d900408
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1777978045-0-0-107ce53c44a76245c4f46959fa0fa476
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [BLV Củ Cải] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1777965085-0-0-ab4ff5dbddc2bdac4942664a51fa16fe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [BRIAN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1777978045-0-0-d67790748af5ba02b46ec2ae79ae3d9b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [BLV Củ Cải] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1777965085-0-0-8ffcb6f3477fb4847c14ebecbafc381e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1777978045-0-0-fc691db8b12567728af35bf4ccc99e4f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1777965085-0-0-36784db5316c04e73ef0f9a075a581db
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [KING] (Socolive) flv
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1777978045-0-0-02fa4be4ea6eb0cc705807e23373e3eb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [BLV BÉO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1777965085-0-0-3e8b3eadd56527ee8f08249edb2489a1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [KING] (Socolive) hdFlv
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=43daa8ac282a421cef07a488b1937409&txTime=69fa110d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [BLV BÉO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1777965085-0-0-7876b0f577d79d8e62b4bffebff683dd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [KING] (Socolive) m3u8
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=10a2aeb6617563c31dd7fa449d51b819&txTime=69fa110d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [BLV BÉO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1777965085-0-0-4d2c6a1b8826b6ba21b9d291018b1b85
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [KING] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=43daa8ac282a421cef07a488b1937409&txTime=69fa110d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [BLV BÉO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1777965085-0-0-5a0c572b9d26f47c2a9da5245f6fcafe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [BLV HENRY] (Socolive) flv
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=10a2aeb6617563c31dd7fa449d51b819&txTime=69fa110d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/79901f14060ca7fbaaa26b13458e2146.png",17h00 ngày 05/05 Zamboanga Sikat vs Ilagan Isabela Cowboys [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1777965085-0-0-82629e53ac26ae4a0ac5d02455eae6c6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [BLV HENRY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1777978057-0-0-308065d99e542e3bbb9e72e0d2622c96
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/79901f14060ca7fbaaa26b13458e2146.png",17h00 ngày 05/05 Zamboanga Sikat vs Ilagan Isabela Cowboys [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1777965085-0-0-93772574a71ac275ec0be1294bd61dc8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [BLV HENRY] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1777978057-0-0-52289af1c319ef21c303b90a9a76586e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/79901f14060ca7fbaaa26b13458e2146.png",17h00 ngày 05/05 Zamboanga Sikat vs Ilagan Isabela Cowboys [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1777965085-0-0-3ddc19235da14561491fa40c416c6ee3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1777978057-0-0-eb287bd1f98d6457e8f1b22fe073a67e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/79901f14060ca7fbaaa26b13458e2146.png",17h00 ngày 05/05 Zamboanga Sikat vs Ilagan Isabela Cowboys [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1777965085-0-0-411341de15e50cdf64391ac0a31f9c5d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [A CHÈ] (Socolive) flv
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1777978057-0-0-8d00558e6bef7654c16ddc3032e13553
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1777965085-0-0-fdc4ffd16ac3c9d61882ea8dbd20b59f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [A CHÈ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1777978405-0-0-9f7c27bd8c5a555b32d010fa2b3be89a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [BLV TOMMY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1777965085-0-0-12c83ad2feaedf7214d1d0f5e0c1d33f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [A CHÈ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1777978405-0-0-f59f6f1e2a9d33766edcee8b241fea38
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1777965085-0-0-13bef32757d5bdf9b915a1bb8e2f95e7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1777978405-0-0-d5d3e8c7caf50af1a177cc3fd08162d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1777965085-0-0-025240eb78b232559e884bbcd295a536
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [HUNTER] (Socolive) flv
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1777978405-0-0-fe6dc7548c276da5b51a32a5c5bd4d4d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [A PÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1777965085-0-0-9fbf6464e267cb729d7676eefaf8090e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1777978405-0-0-3f4cbdf90b24d0b5da4314c4564ef636
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [A PÁO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1777965085-0-0-22351dace5934ae72800e65b32d76590
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [HUNTER] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1777978405-0-0-5d745388b5c4c78f99997eca1fb964a2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [A PÁO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1777965085-0-0-e53c5771ffc113c01f9060e0ade2f4b3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1777978405-0-0-1a22f52208409165a81b2b688ea0111f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [A PÁO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1777965085-0-0-d96fef05a19b89066b760bd42439b6d4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV MIXI] (Socolive) flv
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1777978405-0-0-9ae07a11b92a219ae90b61e1ae89812f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [BLV VIP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1777965445-0-0-15e00ffb4f4befe16cce2a2ea0e20a5f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV MIXI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-491873_lsd.flv?auth_key=1777978405-0-0-8b4b38f275c05268d80594dce1ae0ae9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [BLV VIP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1777965445-0-0-fcd0a5a1404dc31db63545dca31bd53f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV MIXI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-491873_lhd.flv?auth_key=1777978405-0-0-225f52636da83f0e455ea66209ba7f27
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [BLV VIP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1777965445-0-0-5f484b00191514a786defbd9d9f8fa27
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV MIXI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1777978405-0-0-10f71a166d3d30427649d7f9944f876e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [BLV VIP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1777965445-0-0-bd08c3b8a58894b10d4331b4a3bc8b97
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ROBBEN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1777965445-0-0-105a1f443f5527a530d733e3d2c6dad7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ROBBEN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1777965445-0-0-382e6781824c8d3584fe9665a16fd7ec
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ROBBEN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1777965445-0-0-ea7f7eca26ea8e04cbfc75cbc0697448
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ROBBEN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1777965445-0-0-3bdb0683d3496f055a151cb085f70a92
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TAM MAO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=908346e00bbe14e196a90a532e360acf&txTime=69f9dfd5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TAM MAO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=81e3e18a7d401e037fd6f4c8db7ef133&txTime=69f9dfd5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TAM MAO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=908346e00bbe14e196a90a532e360acf&txTime=69f9dfd5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TAM MAO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=81e3e18a7d401e037fd6f4c8db7ef133&txTime=69f9dfd5
+https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1777978405-0-0-18c10546955e64350b62943e3f32bde4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/1162223182a0b09838841952d10e28d3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1777965445-0-0-28997d80b21eb1470fde9ab69044c246
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1777978405-0-0-297e6a3ed9fe0106b04350ee706d2e49
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/1162223182a0b09838841952d10e28d3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1777965445-0-0-7e283be1a7b5b133cade83a994c8ed6f
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1777978405-0-0-a0b6719e3e4d7042821cd4c28d6c8772
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/1162223182a0b09838841952d10e28d3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1777965445-0-0-001f145f6f0fb55f7414c9d7c998077a
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1777978405-0-0-1baa26d7f1eabc4cc0b84b2c4e27155a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260430/1162223182a0b09838841952d10e28d3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1777965445-0-0-18640f6e1a4d116f0f15c0a4fb28f7e5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV BÉO] (Socolive) flv
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1777978405-0-0-3d19a2feaf1dd3da9716ae83571e887a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [DECO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=c92bef2c5a13096069b9f693f239af66&txTime=69f9e13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV BÉO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1777978765-0-0-b93870f5d49cff3eb617de080588f143
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [DECO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=ed436bfdf63cec33595b6bd44e0752b4&txTime=69f9e13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV BÉO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1777978765-0-0-252a3e46d587937428df863398d613e6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [DECO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=c92bef2c5a13096069b9f693f239af66&txTime=69f9e13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV BÉO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1777978765-0-0-21af1f1ac5fcaa44a64f97f63c2f964c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [DECO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ed436bfdf63cec33595b6bd44e0752b4&txTime=69f9e13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [RICKHANTER] (Socolive) flv
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1777978765-0-0-772e7d9cd22ba5be5f9366da744b7888
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=ef6db78b911b03e87637a405c3fb6543&txTime=69f9e13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [RICKHANTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1777978765-0-0-b8b5f3be4a0a869206e541011bfef6ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=f63f02597e0d72471f096ee5100c45b2&txTime=69f9e13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [RICKHANTER] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1777978765-0-0-be5aa9075c37216c1fe0fc10e91a9c45
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=ef6db78b911b03e87637a405c3fb6543&txTime=69f9e13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [RICKHANTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1777978765-0-0-5d9b6a0846cb2dc15b611c36cc50243d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/8b9dfe21adc0f9e650baceabd72fce21.png",17h00 ngày 05/05 FC Seoul vs FC Anyang [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=f63f02597e0d72471f096ee5100c45b2&txTime=69f9e13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV KAN] (Socolive) flv
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1777978765-0-0-9f6063cb3d27967c767768e06ca38be9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/263b7575ce9622bd469bec2a3c184042.png",16h15 ngày 05/05 NLEX Road Warriors vs Titan Ultra Giant Risers [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=35d0db9ad563d3019a042472e0e1e31a&txTime=69f9e13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV KAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1777978765-0-0-4421d9ec7a57bb880b8b9aef2c9d5789
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/263b7575ce9622bd469bec2a3c184042.png",16h15 ngày 05/05 NLEX Road Warriors vs Titan Ultra Giant Risers [A CHÈ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=96a08d363963c18104e06621ef09ec6e&txTime=69f9e13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV KAN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1777978765-0-0-422c74c4afe18c5b06c73d834f4c28ea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/263b7575ce9622bd469bec2a3c184042.png",16h15 ngày 05/05 NLEX Road Warriors vs Titan Ultra Giant Risers [A CHÈ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=35d0db9ad563d3019a042472e0e1e31a&txTime=69f9e13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV KAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1777978765-0-0-45e8fbe424436e485ab70dab45805aac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/263b7575ce9622bd469bec2a3c184042.png",16h15 ngày 05/05 NLEX Road Warriors vs Titan Ultra Giant Risers [A CHÈ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=96a08d363963c18104e06621ef09ec6e&txTime=69f9e13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV TAP] (Socolive) flv
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1777978765-0-0-e7a7356d335833057ae32ff478ccc2f6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=2c815036ab6514e2714ad8a5796270f9&txTime=69f9e13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV TAP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1777978765-0-0-f8afa1e0f2ec8082999efb70bad3cb1e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [BLV ĐỐM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=16b1637035a1bb29d4333227a077054b&txTime=69f9e13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV TAP] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1777978765-0-0-ca570ee8429007f7c1c05624bf379742
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=2c815036ab6514e2714ad8a5796270f9&txTime=69f9e13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV TAP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1777978765-0-0-69c9a36ea8bf489dd32590d49c8817bb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/b61627f3e53f70ff125d6424fe2d6bf3.png",15h30 ngày 05/05 Madura United vs Bali United [BLV ĐỐM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=16b1637035a1bb29d4333227a077054b&txTime=69f9e13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV PIRLO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1777965805-0-0-e63e8989b8bb91e48a8d16b334e79e13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV PIRLO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1777965805-0-0-aad32dd5d594d73b939d225ef789c689
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV PIRLO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1777965805-0-0-5265c42386eb488ecfd6e72b2a1cc496
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12h00 ngày 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV PIRLO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1777965805-0-0-1e59d4feb480b819a272a8ec3867750e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [A BỆU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1777965805-0-0-43f0570280c5bd7b280d9e161cd843ad
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [A BỆU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1777965805-0-0-6f04a25b6808849ace44881e4f8a2896
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [A BỆU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1777965805-0-0-3f2f3bead8b8b2fb4fa40d519ca084ee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12h00 ngày 05/05 Bucheon FC 1995 vs Jeju SK FC [A BỆU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1777965805-0-0-547b7c485852e06b427ad15deff31527
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1777965805-0-0-1637fd625c5f7b8019d030e3a2473f9c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1777965805-0-0-27ca9900aabf76d44420eb00e1b9b9ac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1777965805-0-0-b4d59a0dfb9776fca6c9b16c4a91da44
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12h00 ngày 05/05 Goyang Sono vs KCC Egis [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1777965805-0-0-ed86c6f3644bfdb83b67f7c7981e2ab2
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://i.pinimg.com/474x/a2/15/26/a215265c058c137f372492e73f02beaf.jpg",12h00 05/05 Goyang Sono vs KCC Egis (Hội Quán) FHD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://i.pinimg.com/474x/a2/15/26/a215265c058c137f372492e73f02beaf.jpg",12h00 05/05 Goyang Sono vs KCC Egis (Hội Quán) HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://i.pinimg.com/474x/a2/15/26/a215265c058c137f372492e73f02beaf.jpg",12h00 05/05 Goyang Sono vs KCC Egis (Hội Quán) SD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/2762.png",12h00 05/05 Jeonbuk Motors vs Gwangju FC (Hội Quán) FHD 
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1777978765-0-0-2ae48090164749ad9a08e5e6e097970b
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png",16h30 05/05 Trung Quốc vs Úc (Nam) (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/2762.png",12h00 05/05 Jeonbuk Motors vs Gwangju FC (Hội Quán) HD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png",16h30 05/05 Trung Quốc vs Úc (Nam) (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/2762.png",12h00 05/05 Jeonbuk Motors vs Gwangju FC (Hội Quán) SD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png",16h30 05/05 Trung Quốc vs Úc (Nam) (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",16h30 05/05 Croatia vs Nhật (Nữ) (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",16h30 05/05 Croatia vs Nhật (Nữ) (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",16h30 05/05 Croatia vs Nhật (Nữ) (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/dc0e43b95c6676c54415bac168472aa4.png!w80",23h00 03/05 Juventus F.C. vs Hellas Verona F.C.
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/14830711.m3u8
@@ -3894,30 +4419,6 @@ https://live5.msrktz.app/live/90725470.m3u8
 https://live5.msrktz.app/live/88508431.m3u8
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png!w80" group-title="ColaTV",[12:00 05/05] Bucheon FC 1995 vs Jeju Utd - BLV BLV C2 (L1) Giải :Giải K1 Hàn Quốc
-https://live5.msrktz.app/live/08552895.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png!w80" group-title="ColaTV",[12:00 05/05] Bucheon FC 1995 vs Jeju Utd - BLV BLV C2 (L2) Giải :Giải K1 Hàn Quốc
-https://live5.msrktz.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png!w80" group-title="ColaTV",[12:00 05/05] Goyang Carrot Jumpers vs KCC Egis - BLV BLV Cozy (L1) Giải :Giải bóng rổ nam Hàn Quốc
-https://live5.msrktz.app/live/87379114.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png!w80" group-title="ColaTV",[12:00 05/05] Goyang Carrot Jumpers vs KCC Egis - BLV BLV Cozy (L2) Giải :Giải bóng rổ nam Hàn Quốc
-https://live5.msrktz.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png!w80" group-title="ColaTV",[12:00 05/05] Jeonbuk Hyundai Motors vs Gwangju FC - BLV BLV SODA (L1) Giải :Giải K1 Hàn Quốc
-https://live5.msrktz.app/live/02456966.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png!w80" group-title="ColaTV",[12:00 05/05] Jeonbuk Hyundai Motors vs Gwangju FC - BLV BLV SODA (L2) Giải :Giải K1 Hàn Quốc
-https://live5.msrktz.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png!w80" group-title="ColaTV",[14:30 05/05] Daejeon vs Incheon United - BLV BLV SAMURAI (L1) Giải :Giải K1 Hàn Quốc
-https://live5.msrktz.app/live/07808742.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png!w80" group-title="ColaTV",[14:30 05/05] Daejeon vs Incheon United - BLV BLV SAMURAI (L2) Giải :Giải K1 Hàn Quốc
-https://live5.msrktz.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png!w80" group-title="ColaTV",[14:30 05/05] Gangwon vs Pohang Steelers - BLV BLV SPRITE (L1) Giải :Giải K1 Hàn Quốc
-https://live5.msrktz.app/live/90725470.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png!w80" group-title="ColaTV",[14:30 05/05] Gangwon vs Pohang Steelers - BLV BLV SPRITE (L2) Giải :Giải K1 Hàn Quốc
-https://live5.msrktz.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png!w80" group-title="ColaTV",[14:30 05/05] Gimcheon Sangmu FC vs Ulsan Hyundai - BLV BLV 7UP (L1) Giải :Giải K1 Hàn Quốc
-https://live5.msrktz.app/live/78905744.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png!w80" group-title="ColaTV",[14:30 05/05] Gimcheon Sangmu FC vs Ulsan Hyundai - BLV BLV 7UP (L2) Giải :Giải K1 Hàn Quốc
-https://live5.msrktz.app/live/78905744.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png!w80" group-title="ColaTV",[15:30 05/05] Madura United vs Bali United - BLV BLV MOUNTAIN DEW (L1) Giải :Giải bóng đá Liga 1 Indonesia
 https://live5.msrktz.app/live/87547578.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png!w80" group-title="ColaTV",[15:30 05/05] Madura United vs Bali United - BLV BLV MOUNTAIN DEW (L2) Giải :Giải bóng đá Liga 1 Indonesia
