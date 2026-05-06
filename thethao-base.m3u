@@ -1697,6 +1697,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
+#EXTINF:-1 tvg-id="Eurosport.in" group-title="Eurosport" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/eurosport-india.png", Eurosport IN 🇮🇳
+http://103.157.248.140:8000/play/a013/index.m3u8
+
 #EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK 🇬🇧 (r)
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://restream-live.realiptv.to/MotherOfPins3/8746645/2286
 #EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/eurosport-1-uk.png", Eurosport 1 UK 🇬🇧 (b1)
@@ -2490,6 +2493,12 @@ http://103.253.18.58:8000/play/a00m
 #EXTINF:-1 group-title="India Sports 🇮🇳" , Star Sports 2 Hindi 🇮🇳
 http://103.157.248.140:8000/play/a01m/index.m3u8
 
+#EXTINF:-1 group-title="India Sports 🇮🇳" , Sony Sports Ten 2 🇮🇳
+http://103.157.248.140:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 group-title="India Sports 🇮🇳" , & FLIX 🇮🇳
+http://103.157.248.140:8000/play/a01u/index.m3u8
+
 #EXTINF:-1 group-title="India Sports 🇮🇳" , Fox Sports 501 🇮🇳 (b1)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://cwx6kmfd.otttv.pw/iptv/SZZ2LTTQ7Y9KPGCDB2G4ENGH/19146/index.m3u8
 #EXTINF:-1 group-title="India Sports 🇮🇳" , Fox Sports 501 🇮🇳 (b2)
@@ -2729,7 +2738,6 @@ https://mega.z5cable.com/bpk-tv/nick_jr_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/mtv_hd/default/index.mpd
 
-
 #EXTINF:-1 tvg-id="discovery" tvg-logo="" group-title="Giải trí", Discovery HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
@@ -2744,6 +2752,27 @@ https://mega.z5cable.com/bpk-tv/animal_planet_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/nat_geo_hd/default/index.mpd
+
+#EXTINF:-1 group-title="Giải trí" , Nat Geo Wild 🇮🇳
+http://103.157.248.140:8000/play/a010/index.m3u8
+
+#EXTINF:-1 group-title="Giải trí" , Nat Geo 🇮🇳
+http://103.157.248.140:8000/play/a012/index.m3u8
+
+#EXTINF:-1 group-title="Giải trí" , Discovery 🇮🇳
+http://103.157.248.140:8000/play/a017/index.m3u8 
+
+#EXTINF:-1 group-title="Giải trí" , MTV 🇮🇳
+http://103.157.248.140:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 group-title="Giải trí" , Sony PIX 🇮🇳
+http://103.157.248.140:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 group-title="Giải trí" , Star Movies Select 🇮🇳
+http://103.157.248.140:8000/play/a01s/index.m3u8
+
+#EXTINF:-1 group-title="Giải trí" , Star Movies 🇮🇳
+http://103.157.248.140:8000/play/a01t/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Canal.AYM.Sports.mx" group-title="Uncategorized" , AYM SPORT 🇲🇽
