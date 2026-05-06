@@ -253,12 +253,13 @@ http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.LaLiga.mx" group-title="Sky Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/sky-sports-LaLiga.png", Sky Sports LaLiga 🇲🇽
 http://181.78.109.48:9998/play/a06r/index.m3u8
 
+
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" group-title="Now Sports 🇭🇰" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_960_540", Now Sport EPL 1 🇭🇰 [off]
-https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+#https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" group-title="Now Sports 🇭🇰" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_960_540", Now Sport EPL 2 🇭🇰 [off]
-https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+#https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" group-title="Now Sports 🇭🇰" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_960_540", Now Sport EPL 3 🇭🇰 
-https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
+#https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="TNT Sports" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tnt-sports-1.png", TNT Sports 1 🇬🇧
@@ -1048,11 +1049,11 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/
 https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-2.png" group-title="beIN Sports", beIN Sports 1 🇶🇦
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-2.png" group-title="beIN Sports", beIN Sports 1 🇶🇦 [off]
 http://77.137.40.221:8000/play/a01e
-#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-2.png" group-title="beIN Sports", beIN Sports 2 🇶🇦
+#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-2.png" group-title="beIN Sports", beIN Sports 2 🇶🇦 [off]
 http://77.137.40.221:8000/play/a01g
-#EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-3.png" group-title="beIN Sports", beIN Sports 3 🇶🇦
+#EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-3.png" group-title="beIN Sports", beIN Sports 3 🇶🇦 [off]
 http://77.137.40.221:8000/play/a01h
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/bein-sports-1.png" group-title="beIN Sports", beIN Sports 1 🇫🇷
@@ -1162,50 +1163,6 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://restream-live.realiptv.to/MotherOfPins3/8746645/434356
 
 
-#EXTINF:-1 tvg-id="LALIGA.Inside.es" group-title="LaLiga 🇪🇸" tvg-logo="", LaLiga TV 🇪🇸
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-
-#EXTINF:-1 tvg-id="DAZN.LALIGA.es" group-title="LaLiga 🇪🇸" tvg-logo="", LaLiga TV 🇪🇸
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-https://a122aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
- 
-#EXTINF:-1 tvg-id="" group-title="LaLiga 🇪🇸" tvg-logo="", LaLiga TV 🇪🇸
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-
-#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.es" group-title="LaLiga 🇪🇸" tvg-logo="", LaLiga Hypermotion 1 🇪🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-
-#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.es" group-title="LaLiga 🇪🇸" tvg-logo="", LaLiga Hypermotion 1 🇪🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
-https://a172aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-
-#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.2.es" group-title="LaLiga 🇪🇸" tvg-logo="", LaLiga Hypermotion 2 🇪🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
-
-#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.2.es" group-title="LaLiga 🇪🇸" tvg-logo="", LaLiga Hypermotion 2 🇪🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-https://a172aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
-
-#EXTINF:-1 group-title="LaLiga 🇪🇸" , LaLiga 🇪🇸
-http://200.115.120.1:8000/play/ca124/index.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="Sport.1.al" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/art-sport-1.png" group-title="Art Sports 🇽🇰", Art Sport 1 HD
 http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport.1.al" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/art-sport-1.png" group-title="Art Sports 🇽🇰", Art Sport 1 HD
@@ -1310,9 +1267,9 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv
 
 #EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" group-title="Polsat Sports 🇵🇱" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 🇵🇱 (b1)
 http://4os6vafy.ottclub.xyz/iptv/RR3Y4PMCYGBUGRQ2PZNQP64R/7305/index.m3u8
-#EXTINF:-1 tvg-id="4551" group-title="Polsat Sports 🇵🇱" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 🇵🇱 (b2)
+#EXTINF:-1 tvg-id="4551" group-title="Polsat Sports 🇵🇱" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 🇵🇱 (b2)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/7305/index.m3u8
-#EXTINF:-1 tvg-id="4551" group-title="Polsat Sports 🇵🇱" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 🇵🇱 (b3)
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" group-title="Polsat Sports 🇵🇱" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cipaa91730504620.png", Polsat Sport Premium 2 🇵🇱 (b3)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/7305/index.m3u8
 
 #EXTINF:-1 tvg-id="Polsat.Sport.pl" group-title="Polsat Sports 🇵🇱" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png", Polsat Sport 1 🇵🇱 (b1)
@@ -1490,6 +1447,48 @@ http://4os6vafy.ottclub.xyz/iptv/RR3Y4PMCYGBUGRQ2PZNQP64R/7268/index.m3u8
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/7268/index.m3u8
 #EXTINF:-1 group-title="Arena Sports 🇭🇷" tvg-id="Arena.Sport.6.HD.hr" tvg-logo="http://epg.one/img/4568.png" , Arena Sport 6 🇭🇷 (b3)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/7268/index.m3u8
+
+
+#EXTINF:-1 tvg-id="LALIGA.Inside.es" group-title="LaLiga 🇪🇸" tvg-logo="", LaLiga TV 🇪🇸
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="DAZN.LALIGA.es" group-title="LaLiga 🇪🇸" tvg-logo="", LaLiga TV 🇪🇸
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://a122aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+ 
+#EXTINF:-1 tvg-id="" group-title="LaLiga 🇪🇸" tvg-logo="", LaLiga TV 🇪🇸
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.es" group-title="LaLiga 🇪🇸" tvg-logo="", LaLiga Hypermotion 1 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.es" group-title="LaLiga 🇪🇸" tvg-logo="", LaLiga Hypermotion 1 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://a172aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.2.es" group-title="LaLiga 🇪🇸" tvg-logo="", LaLiga Hypermotion 2 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.2.es" group-title="LaLiga 🇪🇸" tvg-logo="", LaLiga Hypermotion 2 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://a172aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+#EXTINF:-1 group-title="LaLiga 🇪🇸" , LaLiga 🇪🇸
+http://200.115.120.1:8000/play/ca124/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Premiere.Clubes.br" group-title="Premiere Sports 🇧🇷" tvg-logo="https://i.imgur.com/dTrx7OV.png" , Premiere Sports 1 🇧🇷
@@ -2139,8 +2138,13 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="General" , NBC Sports NOW 🇺🇸
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General" , NFL Channel 🇺🇸
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General" , NFL 🇺🇸
 https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
+
+#EXTINF:-1 tvg-id="nfl" tvg-logo="" group-title="General" , NFL 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/9FRhU0K.png" group-title="General", HBO BOXING
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2159,22 +2163,10 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/golf_channel_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="nfl" tvg-logo="" group-title="General" , NFL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
-
 #EXTINF:-1 group-title="General" tvg-logo="", DAZN FAST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
-
-#EXTINF:-1 tvg-id="primevideo" tvg-name="MOTO GP CHANNEL" tvg-logo="" group-title="General" , MOTO GP CHANNEL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
 #EXTINF:-1 tvg-id="La.chaine.l’Équipe.fr" group-title="General", L`Equipe 🇫🇷  
 http://145.239.5.177:80/549/index.m3u8
@@ -2297,29 +2289,26 @@ https://video.beeline.tv/live/d/channel423.isml/manifest-stb.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Russia Sports 🇷🇺" , X SPORT 🇷🇺
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 
-
-#EXTINF:-1 tvg-id="1SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssjl1j1627494247.png" group-title="Israel Sports 🇮🇱" , 1 SPORT 🇮🇱
-http://77.137.40.221:8000/play/a016
 #EXTINF:-1 tvg-id="1SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssjl1j1627494247.png" group-title="Israel Sports 🇮🇱" , 1 SPORT 🇮🇱
 http://185.132.134.159:80/sport1/index.m3u8
+#EXTINF:-1 tvg-id="1SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssjl1j1627494247.png" group-title="Israel Sports 🇮🇱" , 1 SPORT 🇮🇱 [off]
+http://77.137.40.221:8000/play/a016
 
-#EXTINF:-1 tvg-id="2SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/27uvm51627494269.png" group-title="Israel Sports 🇮🇱" , 2 SPORT 🇮🇱
-http://77.137.40.221:8000/play/a019
 #EXTINF:-1 tvg-id="2SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/27uvm51627494269.png" group-title="Israel Sports 🇮🇱" , 2 SPORT 🇮🇱
 http://185.132.134.159:80/sport2/index.m3u8
+#EXTINF:-1 tvg-id="2SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/27uvm51627494269.png" group-title="Israel Sports 🇮🇱" , 2 SPORT 🇮🇱 [off]
+http://77.137.40.221:8000/play/a019
 
-#EXTINF:-1 tvg-id="3SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/irxvmy1627494303.png" group-title="Israel Sports 🇮🇱" , 3 SPORT 🇮🇱
-http://77.137.40.221:8000/play/a01a
 #EXTINF:-1 tvg-id="3SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/irxvmy1627494303.png" group-title="Israel Sports 🇮🇱" , 3 SPORT 🇮🇱
 http://185.132.134.159:80/sport3/index.m3u8
+#EXTINF:-1 tvg-id="3SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/irxvmy1627494303.png" group-title="Israel Sports 🇮🇱" , 3 SPORT 🇮🇱 [off]
+http://77.137.40.221:8000/play/a01a
 
-#EXTINF:-1 tvg-id="4SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/km8o4f1627494329.png" group-title="Israel Sports 🇮🇱" , 4 SPORT 🇮🇱
-http://77.137.40.221:8000/play/a01b
 #EXTINF:-1 tvg-id="4SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/km8o4f1627494329.png" group-title="Israel Sports 🇮🇱" , 4 SPORT 🇮🇱
 http://185.132.134.159:80/sport4/index.m3u8
+#EXTINF:-1 tvg-id="4SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/km8o4f1627494329.png" group-title="Israel Sports 🇮🇱" , 4 SPORT 🇮🇱 [off]
+http://77.137.40.221:8000/play/a01b
 
-#EXTINF:-1 tvg-id="5SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png" group-title="Israel Sports 🇮🇱" , 5 SPORT 🇮🇱
-http://77.137.40.221:8000/play/a01c
 #EXTINF:-1 tvg-id="5SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png" group-title="Israel Sports 🇮🇱" , 5 SPORT 🇮🇱
 http://185.132.134.159:80/sport5/index.m3u8
 #EXTINF:-1 tvg-id="5SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png" group-title="Israel Sports 🇮🇱" , 5 SPORT 🇮🇱 (b1)
@@ -2330,25 +2319,29 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://7dcf4f9b.cbilant.com/ipt
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/2558/index.m3u8
 #EXTINF:-1 tvg-id="5SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png" group-title="Israel Sports 🇮🇱" , 5 SPORT 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="5SPORT.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pdf6941640101453.png" group-title="Israel Sports 🇮🇱" , 5 SPORT 🇮🇱 [off]
+http://77.137.40.221:8000/play/a01c
 
 #EXTINF:-1 tvg-id="6SPORT.HD.il" tvg-logo="" group-title="Israel Sports 🇮🇱" , 6 SPORT 🇮🇱
 http://185.132.134.159:80/sport6/index.m3u8
 
-#EXTINF:-1 tvg-id="ONE.HD.il" tvg-logo="" group-title="Israel Sports 🇮🇱" , SPORT ONE HD 🇮🇱
+#EXTINF:-1 tvg-id="ONE.HD.il" tvg-logo="" group-title="Israel Sports 🇮🇱" , SPORT ONE HD 🇮🇱 [off]
 http://77.137.40.221:8000/play/a01d
-#EXTINF:-1 tvg-id="ONE2.HD.il" tvg-logo="" group-title="Israel Sports 🇮🇱" , SPORT ONE 2 HD 🇮🇱
+#EXTINF:-1 tvg-id="ONE2.HD.il" tvg-logo="" group-title="Israel Sports 🇮🇱" , SPORT ONE 2 HD 🇮🇱 [off]
 http://77.137.40.221:8000/play/a01f
-#EXTINF:-1 tvg-id="5LIVE.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vrqrqx1446172472.png" group-title="Israel Sports 🇮🇱" ,  SPORT 5 LIVE HD 🇮🇱
+#EXTINF:-1 tvg-id="5LIVE.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vrqrqx1446172472.png" group-title="Israel Sports 🇮🇱" ,  SPORT 5 LIVE HD 🇮🇱 [off]
 http://77.137.40.221:8000/play/a00i
-#EXTINF:-1 tvg-id="5PLUS.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vrqrqx1446172472.png" group-title="Israel Sports 🇮🇱" , SPORT 5 PLUS HD 🇮🇱
+#EXTINF:-1 tvg-id="5PLUS.HD.il" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vrqrqx1446172472.png" group-title="Israel Sports 🇮🇱" , SPORT 5 PLUS HD 🇮🇱 [off]
 http://77.137.40.221:8000/play/a001
 
 
 #EXTINF:-1 tvg-id="S.SPORT.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1u01u91643201009.png" group-title="Turkey Sports 🇹🇷" , S SPORT 🇹🇷
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 tvg-id="SSport.2.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1u01u91643201009.png" group-title="Turkey Sports 🇹🇷" , S SPORT 2 🇹🇷
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess2.m3u8
 
 #EXTINF:-1 tvg-id="ID.tr" tvg-logo="" group-title="Turkey Sports 🇹🇷" , IDMANTV 🇹🇷
-https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
+#https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ID.tr" tvg-logo="" group-title="Turkey Sports 🇹🇷" , IDMANTV 🇹🇷
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=7b2231548857bf0a078bb6387e8830040aa18cee-1ee342667d60c2ac2e8f0c594cf33331-1753218237000000-1753207437000
 
@@ -2375,11 +2368,11 @@ http://65.108.239.207/smart1/index.m3u8
 http://65.108.239.207/smart2/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Turkey Sports 🇹🇷" , S Sport 🇹🇷
+#EXTINF:-1 tvg-logo="SSport.tr" group-title="Turkey Sports 🇹🇷" , S Sport 🇹🇷
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
 https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sssport/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Turkey Sports 🇹🇷" , S Sport 2 🇹🇷
+#EXTINF:-1 tvg-logo="SSport.2.tr" group-title="Turkey Sports 🇹🇷" , S Sport 2 🇹🇷
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
 https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sssport2/playlist.m3u8
 
@@ -2427,25 +2420,66 @@ https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/stabiispor-4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
 https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/stabiispor-5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Turkey Sports 🇹🇷" , Tivibu Spor 1 🇹🇷
+#EXTINF:-1 tvg-logo="TİVİBU.SPOR.1.tr" group-title="Turkey Sports 🇹🇷" , Tivibu Spor 1 🇹🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
 https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/stivibuspor-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Turkey Sports 🇹🇷" , Tivibu Spor 2 🇹🇷
+#EXTINF:-1 tvg-logo="TİVİBU.SPOR.2.tr" group-title="Turkey Sports 🇹🇷" , Tivibu Spor 2 🇹🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
 https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/stivibuspor-2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Turkey Sports 🇹🇷" , Tivibu Spor 3 🇹🇷
+#EXTINF:-1 tvg-logo="TİVİBU.SPOR.3.tr" group-title="Turkey Sports 🇹🇷" , Tivibu Spor 3 🇹🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
 https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/stivibuspor-3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Turkey Sports 🇹🇷" , Tivibu Spor 4 🇹🇷
+#EXTINF:-1 tvg-logo="TİVİBU.SPOR.4.tr" group-title="Turkey Sports 🇹🇷" , Tivibu Spor 4 🇹🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
 https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/stivibuspor-4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="A.SPOR.HD.tr" group-title="Turkey Sports 🇹🇷" , A Spor 🇹🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
+https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/saspor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="ATV.HD.tr" group-title="Turkey Sports 🇹🇷" , ATV 🇹🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
+https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/satv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="TV8.HD.tr" group-title="Turkey Sports 🇹🇷" , TV8 🇹🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
+https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/stv8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="beIN.SPORTS.1.tr" group-title="Turkey Sports 🇹🇷" , beIN Sports 1 🇹🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
+https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="beIN.SPORTS.2.tr" group-title="Turkey Sports 🇹🇷" , beIN Sports 2 🇹🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
+https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="beIN.SPORTS.3.tr" group-title="Turkey Sports 🇹🇷" , beIN Sports 3 🇹🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
+https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="beIN.SPORTS.4.tr" group-title="Turkey Sports 🇹🇷" , beIN Sports 4 🇹🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
+https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="beIN.SPORTS.5.tr" group-title="Turkey Sports 🇹🇷" , beIN Sports 5 🇹🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
+https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-5/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Argentina Sports 🇦🇷" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f8fyyg1642114077.png" , DirecTV Sports 1 🇦🇷
@@ -2525,6 +2559,13 @@ http://49.0.64.96:8007/NBA
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="Thailand Sports 🇹🇭", GOLF HD
 http://49.0.64.96:8007/GOLF
 
+
+#EXTINF:-1 tvg-id="primevideo" tvg-name="MOTO GP CHANNEL" tvg-logo="" group-title="Racer" , MOTO GP CHANNEL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Racer" , NHRA TV
 https://d265y4sk8257lt.cloudfront.net/nh.m3u8
@@ -2743,7 +2784,7 @@ https://mega.z5cable.com/bpk-tv/nick_jr_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/mtv_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="discovery" tvg-logo="" group-title="Giải trí", Discovery HD 🇲🇽
+#EXTINF:-1 tvg-id="discovery.HD.mx" tvg-logo="" group-title="Giải trí", Discovery HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/discovery_channel_hd/default/index.mpd
@@ -2976,58 +3017,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
 
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="", ONESPORT [off]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f9bd29c066a700e8b282c4a9dccf8eb":"6e3314a39d06af5553a16b8550f0691e
-https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_1/live.livx?indexMode&dvr=7200000
-
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="", ONESPORT 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key={"6f09c99d572d9c6d4d616521ee785460":"12893b12e80c3c5dbaf6b4994c8432c0"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_2/live.livx?indexMode&dvr=7200000
-
-#EXTINF:-1 tvg-logo="" group-title="Turkey Sports 🇹🇷" , A Spor 🇹🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/saspor/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Turkey Sports 🇹🇷" , ATV 🇹🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/satv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Turkey Sports 🇹🇷" , TV8 🇹🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/stv8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Turkey Sports 🇹🇷" , beIN Sports 1 🇹🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Turkey Sports 🇹🇷" , beIN Sports 2 🇹🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Turkey Sports 🇹🇷" , beIN Sports 3 🇹🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Turkey Sports 🇹🇷" , beIN Sports 4 🇹🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Turkey Sports 🇹🇷" , beIN Sports 5 🇹🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-5/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pdX3T4f/bhsports1.png" group-title="WORLD SPORTS",BAHRAIN SPORTS 1 🇧🇭
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
@@ -3059,6 +3048,19 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0
 https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?DVR
+
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="", ONESPORT [off]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f9bd29c066a700e8b282c4a9dccf8eb":"6e3314a39d06af5553a16b8550f0691e
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_1/live.livx?indexMode&dvr=7200000
+
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="", ONESPORT 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"6f09c99d572d9c6d4d616521ee785460":"12893b12e80c3c5dbaf6b4994c8432c0"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_2/live.livx?indexMode&dvr=7200000
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/cctv5.png" group-title="CCTV" , CCTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
