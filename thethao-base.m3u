@@ -4,8 +4,8 @@
 
 # Disclaimer: Links were collected on the internet. For legal issues, please contact appropriate media file owners/hosters.
 
-
-
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tennis-channel.png", Tennis Channel 🇺🇸
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tennis-channel.png", Tennis Channel 🇺🇸 (r)
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://restream-live.realiptv.to/MotherOfPins3/8746645/2386
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Tennis" tvg-logo="https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/logos/tennis-channel.png", Tennis Channel 🇺🇸 (r)
@@ -1171,10 +1171,11 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://jmp2.uk/rok-909b135136a1567eaf3f65fb64988323.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsXtra.au" group-title="beIN Sports" tvg-logo="https://i.imgur.com/aK9W2gY.png" , beIN Sports XTRA 🇦🇺
+https://d9ssxzmclhfo4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t7en7ol3kq3sp/f881b29a-280a-4416-be20-40db0fcc0f07/3.m3u8
+#EXTINF:-1 tvg-id="beINSportsXtra.au" group-title="beIN Sports" tvg-logo="https://i.imgur.com/aK9W2gY.png" , beIN Sports XTRA 🇦🇺
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSportsXtra.au" group-title="beIN Sports" tvg-logo="https://i.imgur.com/aK9W2gY.png" , beIN Sports XTRA 🇦🇺
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://restream-live.realiptv.to/MotherOfPins3/8746645/434356
-
 
 
 #EXTINF:-1 tvg-id="LALIGA.Inside.es" group-title="LaLiga 🇪🇸" tvg-logo="", LaLiga TV 🇪🇸
@@ -2548,16 +2549,21 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Giải trí" , HBO 2 🇺🇸
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/500px-MTV_2021_%28brand_version%29.svg.png" group-title="Giải trí" , MTV 🇺🇸
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/500px-ACC_Network_ESPN_logo.svg.png" group-title="Giải trí" , ACC Network 🇺🇸
+http://23.237.104.106:8080/USA_ACCN/mpegts
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" group-title="Giải trí" , Animal Planet 🇺🇸
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" group-title="Giải trí" , Cooking Channel 🇺🇸
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+
 #EXTINF:-1 group-title="Giải trí" , AMC
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 group-title="Giải trí" , Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Giải trí" , Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="Giải trí" , Animal Planet 🇺🇸
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 group-title="Giải trí" , Fashion Channel
-http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Giải trí" , Action Hollywood
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Giải trí" , Mytime Movie
@@ -2566,15 +2572,10 @@ https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Giải trí" , BBC Earth
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
-#EXTINF:-1 group-title="Giải trí" , The First
-https://thefirst-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Giải trí" , Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Giải trí" , Kartoon Channel
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Giải trí" , Cooking Channel 🇺🇸
-http://23.237.104.106:8080/USA_COOKING/index.m3u8
-
 
 #EXTINF:-1 tvg-id="cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/330px-Cinemax_LA.png" group-title="Giải trí" , Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
