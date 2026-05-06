@@ -2488,22 +2488,27 @@ https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/premiersports2hd/default/index.mpd
 
 
-#EXTINF:-1 group-title="India Sports 🇮🇳" , Star Sports 1 🇮🇳
+#EXTINF:-1 tvg-id="Star.Sports.Select.1.in" group-title="India Sports 🇮🇳" , Star Sports Select 1 🇮🇳
+http://103.157.248.140:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="Star.Sports.Select.2.in" group-title="India Sports 🇮🇳" , Star Sports Select 2 🇮🇳
+http://103.157.248.140:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-id="Star.Sports.1.in" group-title="India Sports 🇮🇳" , Star Sports 1 🇮🇳
 http://103.253.18.58:8000/play/a00m
-#EXTINF:-1 group-title="India Sports 🇮🇳" , Star Sports 2 Hindi 🇮🇳
+#EXTINF:-1 tvg-id="Star.Sports.2.Hindi.HD.in" group-title="India Sports 🇮🇳" , Star Sports 2 Hindi 🇮🇳
 http://103.157.248.140:8000/play/a01m/index.m3u8
 
-#EXTINF:-1 group-title="India Sports 🇮🇳" , Sony Sports Ten 2 🇮🇳
+#EXTINF:-1 tvg-id="Sony.Sports.Ten.2.HD.in" group-title="India Sports 🇮🇳" , Sony Sports Ten 2 🇮🇳
 http://103.157.248.140:8000/play/a01q/index.m3u8
 
-#EXTINF:-1 group-title="India Sports 🇮🇳" , & FLIX 🇮🇳
+#EXTINF:-1 tvg-id="AndFlix.HD.in" group-title="India Sports 🇮🇳" , & FLIX 🇮🇳
 http://103.157.248.140:8000/play/a01u/index.m3u8
 
-#EXTINF:-1 group-title="India Sports 🇮🇳" , Fox Sports 501 🇮🇳 (b1)
+#EXTINF:-1 tvg-id="" group-title="India Sports 🇮🇳" , Fox Sports 501 🇮🇳 (b1)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://cwx6kmfd.otttv.pw/iptv/SZZ2LTTQ7Y9KPGCDB2G4ENGH/19146/index.m3u8
-#EXTINF:-1 group-title="India Sports 🇮🇳" , Fox Sports 501 🇮🇳 (b2)
+#EXTINF:-1 tvg-id="" group-title="India Sports 🇮🇳" , Fox Sports 501 🇮🇳 (b2)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://7dcf4f9b.cbilant.com/iptv/9DBTL545SLHFHKACT8RS7P4R/19146/index.m3u8
-#EXTINF:-1 group-title="India Sports 🇮🇳" , Fox Sports 501 🇮🇳 (b3)
+#EXTINF:-1 tvg-id="" group-title="India Sports 🇮🇳" , Fox Sports 501 🇮🇳 (b3)
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19146/index.m3u8
 
 
@@ -2743,35 +2748,47 @@ https://mega.z5cable.com/bpk-tv/mtv_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/discovery_channel_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="animal planet" tvg-logo="" group-title="Giải trí", Animal Planet HD 🇲🇽
+#EXTINF:-1 tvg-id="Animal.Planet.HD.mx" tvg-logo="" group-title="Giải trí", Animal Planet HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/animal_planet_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="nat geo" tvg-logo="" group-title="Giải trí", Nat Geo HD 🇲🇽
+#EXTINF:-1 tvg-id="National.Geographic.HD.mx" tvg-logo="" group-title="Giải trí", Nat Geo HD 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://mega.z5cable.com/bpk-tv/nat_geo_hd/default/index.mpd
 
-#EXTINF:-1 group-title="Giải trí" , Nat Geo Wild 🇮🇳
+#EXTINF:-1 tvg-id="Sony.SAB.HD.in" group-title="Giải trí" , Sony SAB 🇮🇳
+http://103.157.248.140:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-id="Movies.Now.HD.in" group-title="Giải trí" , Movies NOW 🇮🇳
+http://103.157.248.140:8000/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.English.in" group-title="Giải trí" , TLC 🇮🇳
+http://103.157.248.140:8000/play/a00z/index.m3u
+
+#EXTINF:-1 tvg-id="Nat.Geo.Wild.HD.in" group-title="Giải trí" , Nat Geo Wild 🇮🇳
 http://103.157.248.140:8000/play/a010/index.m3u8
 
-#EXTINF:-1 group-title="Giải trí" , Nat Geo 🇮🇳
+#EXTINF:-1 tvg-id="National.Geographic.HD.in" group-title="Giải trí" , National Geographic 🇮🇳
 http://103.157.248.140:8000/play/a012/index.m3u8
 
-#EXTINF:-1 group-title="Giải trí" , Discovery 🇮🇳
+#EXTINF:-1 tvg-id="Discovery.in" group-title="Giải trí" , Discovery 🇮🇳
 http://103.157.248.140:8000/play/a017/index.m3u8 
 
-#EXTINF:-1 group-title="Giải trí" , MTV 🇮🇳
+#EXTINF:-1 tvg-id="SONY.BBC.Earth.in" group-title="Giải trí" , Sony BBC Earth 🇮🇳
+http://103.157.248.140:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV.HD.in" group-title="Giải trí" , MTV 🇮🇳
 http://103.157.248.140:8000/play/a01p/index.m3u8
 
-#EXTINF:-1 group-title="Giải trí" , Sony PIX 🇮🇳
+#EXTINF:-1 tvg-id="Sony.Pix.HD.in" group-title="Giải trí" , Sony PIX 🇮🇳
 http://103.157.248.140:8000/play/a01r/index.m3u8
 
-#EXTINF:-1 group-title="Giải trí" , Star Movies Select 🇮🇳
+#EXTINF:-1 tvg-id="Star.Movies.Select.HD.in" group-title="Giải trí" , Star Movies Select 🇮🇳
 http://103.157.248.140:8000/play/a01s/index.m3u8
 
-#EXTINF:-1 group-title="Giải trí" , Star Movies 🇮🇳
+#EXTINF:-1 tvg-id="Star.Movies.in" group-title="Giải trí" , Star Movies 🇮🇳
 http://103.157.248.140:8000/play/a01t/index.m3u8
 
 
