@@ -2556,17 +2556,69 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://7dcf4f9b.cbilant.com/ipt
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/19146/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="Thailand Sports 🇹🇭", HI Fight HD
+#EXTINF:-1 group-title="Japan Sports 🇯🇵" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1 (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 group-title="Japan Sports 🇯🇵" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2 (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 group-title="Japan Sports 🇯🇵" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3 (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 group-title="Japan Sports 🇯🇵" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4 (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
+
+#EXTINF:-1 tvg-logo="" group-title="Thailand Sports 🇹🇭", ESPN
+http://49.0.64.96:8007/ESPN
+#EXTINF:-1 tvg-logo="" group-title="Thailand Sports 🇹🇭", ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Thailand Sports 🇹🇭", ESPN 2
+http://41.223.30.230/ESPN2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Thailand Sports 🇹🇭", Fox Sports 1
+http://41.223.30.230/FOXSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Thailand Sports 🇹🇭", True beIN Sports 1
+https://love.uh6wzyncw9.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="T.Sports.1.th" tvg-logo="" group-title="Thailand Sports 🇹🇭", True Sports 1
+#EXTVLCOPT:http-referrer=https://streamx-web.cc/
+https://love.pifipa2974.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
+#EXTINF:-1 tvg-id="T.Sports.1.th" tvg-logo="" group-title="Thailand Sports 🇹🇭", True Sports 1
+#EXTVLCOPT:http-referrer=https://streamx-web.cc/
+https://love.uh6wzyncw9.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
+#EXTINF:-1 tvg-id="T.Sports.2.th" tvg-logo="" group-title="Thailand Sports 🇹🇭", True Sports 2
+#EXTVLCOPT:http-referrer=https://streamx-web.cc/
+https://love.pifipa2974.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
+#EXTINF:-1 tvg-id="T.Sports.3.th" tvg-logo="" group-title="Thailand Sports 🇹🇭", True Sports 3
+#EXTVLCOPT:http-referrer=https://streamx-web.cc/
+https://love.uh6wzyncw9.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
+#EXTINF:-1 tvg-id="T.Sports.5.th" tvg-logo="" group-title="Thailand Sports 🇹🇭", True Sports 5
+#EXTVLCOPT:http-referrer=https://streamx-web.cc/
+https://love.pifipa2974.workers.dev/lx-origin/sd-tsport5bkp_720/chunks.m3u8
+#EXTINF:-1 tvg-id="T.Sports.7.th" tvg-logo="" group-title="Thailand Sports 🇹🇭", True Sports 7
+#EXTVLCOPT:http-referrer=https://streamx-web.cc/
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
+#EXTINF:-1 tvg-id="T.Sports.7.th" tvg-logo="" group-title="Thailand Sports 🇹🇭", True Sports 7
+#EXTVLCOPT:http-referrer=https://streamx-web.cc/
+https://love.uh6wzyncw9.workers.dev/lx-origin/sd-tsport7bkp_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Thailand Sports 🇹🇭", True Premier Football 3
+https://love.uh6wzyncw9.workers.dev/vx-origin/epl-3_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV.(HD).sg" tvg-logo="" group-title="Thailand Sports 🇹🇭", True SPOTV
+https://love.pifipa2974.workers.dev/lx-origin/hd-spotvbkp_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV.2.(HD).sg" tvg-logo="" group-title="Thailand Sports 🇹🇭", True SPOTV 2
+https://love.pifipa2974.workers.dev/lx-origin/hd-spotv2bkp_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Thailand Sports 🇹🇭", HI Fight HD
 http://49.0.64.96:8007/HIFIGHT 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="Thailand Sports 🇹🇭", HI Sport HD
-http://49.0.64.96:8007/HiSports
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="Thailand Sports 🇹🇭", DTV2 Tennis HD
+#EXTINF:-1 tvg-logo="" group-title="Thailand Sports 🇹🇭", DTV2 Tennis HD
 http://49.0.64.96:8007/TENNIS 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="Thailand Sports 🇹🇭", Top Fight HD
+#EXTINF:-1 tvg-logo="" group-title="Thailand Sports 🇹🇭", Top Fight HD
 http://49.0.64.96:8007/TOPFIGHT
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="Thailand Sports 🇹🇭", NBA One HD
+#EXTINF:-1 tvg-logo="" group-title="Thailand Sports 🇹🇭", NBA One HD
 http://49.0.64.96:8007/NBA
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="Thailand Sports 🇹🇭", GOLF HD
+#EXTINF:-1 tvg-logo="" group-title="Thailand Sports 🇹🇭", GOLF HD
 http://49.0.64.96:8007/GOLF
 
 
@@ -2932,7 +2984,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
 https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
 
-#EXTINF:-1 tvg-id="Fancode1" tvg-name="Fancode 1" tvg-logo="" group-title="Uncategorized", Billiard TV
+#EXTINF:-1 tvg-id="Billiard.TV" tvg-name="Fancode 1" tvg-logo="" group-title="Uncategorized", Billiard TV
 https://jmp2.uk/rok-0b4814b9a5e53029e2b9aba64ddc1df0.m3u8
 
 #EXTINF:-1 tvg-id="Fancode1" tvg-name="Fancode 1" tvg-logo="" group-title="Uncategorized",Fancode 1
@@ -2942,27 +2994,12 @@ https://jmp2.uk/rok-0b4814b9a5e53029e2b9aba64ddc1df0.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="Fancode1" tvg-name="Fancode 1" tvg-logo="" group-title="Uncategorized",Fancode 1
+#EXTINF:-1 tvg-id="Fancode1" tvg-name="Fancode 1" tvg-logo="" group-title="Uncategorized",Fancode 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#EXTINF:-1 tvg-id="Fancode2" tvg-name="Fancode 2" tvg-logo="" group-title="Uncategorized",Fancode 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-id="Fancode3" tvg-name="Fancode 3" tvg-logo="" group-title="Uncategorized",Fancode 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiiG3ZPyLZX6J76rRUx8o6grf1IYkCLVcow&s" channel-number="1" group-title="Pilipinas Live" , Pilipinas Live 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
