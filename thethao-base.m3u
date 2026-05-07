@@ -1866,6 +1866,11 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/http://7dcf4f9b.cbilant.com/ipt
 https://cors-everywhere-wc8b4.ondigitalocean.app/http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/2069/index.m3u8
 
 
+#EXTINF:0 group-title="Sweden Sports 🇸🇪" tvg-id="TV4.HD.(T).se" tvg-logo="https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/300/20004-4.png" ,TV4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=260972e4a068240d9bf431f8c1900d20:6a72e12067d5d4e3a821d8a836887ae0
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv4_hdp50_se_ad_live/sm_tv4_hdp50_se_ad_live.isml/playlist.mpd
+
 #EXTINF:-1 tvg-id="[TV4FOSV].TV4.Fotboll.se" group-title="Sweden Sports 🇸🇪" , TV4 Futbol 🇸🇪
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3353,6 +3358,81 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://livesport.io.vn/ott/key.php
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportpremium2_live/sm_tv2sportpremium2_live.isml/playlist.mpd
+
+
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-sport-pl.png" tvg-id="TVP.Sport.pl (src05)",TVP Sport HD
+http://91.146.94.234:10001/play/a07f
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-1-pl.png" tvg-id="Polsat.Sport.HD.pl (src05)",Polsat Sport 1 HD
+http://91.146.94.234:10001/play/a06y
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-2-pl.png" tvg-id="Polsat.Sport.Extra.pl (src05)",Polsat Sport 2 HD
+http://91.146.94.234:10001/play/a06z
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-3-pl.png" tvg-id="Polsat.Sport.News.HD.pl (src05)",Polsat Sport 3 HD
+http://91.146.94.234:10001/play/a071
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-fight-pl.png" tvg-id="Polsat.Sport.Fight.HD.pl (src05)",Polsat Sport Fight HD
+http://91.146.94.234:10001/play/a070
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-premium-1-pl.png" tvg-id="Polsat.Sport.Premium.1.pl (src05)",Polsat Sport Premium 1 HD
+http://91.146.94.234:10001/play/a05a
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-premium-2-pl.png" tvg-id="Polsat.Sport.Premium.2.pl (src05)",Polsat Sport Premium 2 HD
+http://91.146.94.234:10001/play/a05b
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-extra-1-pl.png" tvg-id="Polsat.Sport.Premium.3.pl (src05)",Polsat Sport Extra 1 HD
+http://91.146.94.234:10001/play/a07r
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-extra-2-pl.png" tvg-id="Polsat.Sport.Premium.4.pl (src05)",Polsat Sport Extra 2 HD
+http://91.146.94.234:10001/play/a07s
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-extra-3-pl.png" tvg-id="Polsat.Sport.Premium.5.pl (src05)",Polsat Sport Extra 3 HD
+http://91.146.94.234:10001/play/a07a
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-extra-4-pl.png" tvg-id="Polsat.Sport.Premium.6.pl (src05)",Polsat Sport Extra 4 HD
+http://91.146.94.234:10001/play/a07b
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/elevensports1.png" tvg-id="Eleven.Sports.1.pl (src05)",Eleven Sports 1 HD
+http://91.146.94.234:10001/play/ase1
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/elevensports2.png" tvg-id="Eleven.Sports.2.pl (src05)",Eleven Sports 2 HD
+http://91.146.94.234:10001/play/ase2
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/elevensports3.png" tvg-id="Eleven.Sports.3.pl (src05)",Eleven Sports 3 HD
+http://91.146.94.234:10001/play/ase3
+
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-pl.png" tvg-id="CANAL+.Sport.pl (src05)",Canal+ Sport HD [PL]
+http://91.146.94.234:10001/play/a07d
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-2-pl.png" tvg-id="CANAL+.Sport.2.pl (src05)",Canal+ Sport 2 HD
+http://91.146.94.234:10001/play/a075
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-3-pl.png" tvg-id="CANAL+.Sport.3.pl (src05)",Canal+ Sport 3 HD
+http://91.146.94.234:10001/play/a072
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-4-pl.png" tvg-id="CANAL+.Sport.4.pl (src05)",Canal+ Sport 4 HD
+http://91.146.94.234:10001/play/a073
+#EXTINF:-1 group-title="PL | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-5-pl.png" tvg-id="CANAL+.Sport.5.pl (src05)",Canal+ Sport 5 HD
+http://91.146.94.234:10001/play/a074
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3YgKhAMGlkn_9DFUR74KdIPl4oi-qpXTaiLrOa_630grs2jqRjkRd9BI&s=10" group-title="LIGA JERMAN",BUNDESLIGA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+
+
+#EXTINF:-1 tvg-id="V sport 1 HD (N) (T)" tvg-logo="https://i.ibb.co.com/WsDcpQq/vsport1.png" group-title="LIGA JERMAN",  V Sport 1 🇳🇴
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a0e68f01a5428cbdb8cfac2080c66b20":"556d72c812df452fad9bed66292bfc63","a0e68f01a5428cbdb8cfac2080c66b10":"be7f9d1a00bbd0478335a4a48379157d"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport1_hd_live/sm_viasport1_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="V sport 2 HD (N) (T)" tvg-logo="https://i.ibb.co.com/fxPGRt7/vsport2.png" group-title="LIGA JERMAN",  V Sport 2 🇳🇴
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b62aca5b566dc3ded74233192b28a120":"e8c5369c9c4aa58c1c8489c7db52db8c","b62aca5b566dc3ded74233192b28a110":"143bfe648cc9d14917d41e0662452771"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport2_hd_live/sm_viasport2_hd_live.isml/playlist.mpd
+
+
+#EXTINF:-1 tvg-id="SkySportBundesliga" group-title="LIGA JERMAN" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/sky-sports-bundesliga-1-hd.png",SKY SPORTS Bundesliga 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2
+#https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/aUrEAaS.png?v=1.0.0.1" group-title="LIGA JERMAN" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="SoccerChannel.id" tvg-name="Soccer Channel", Soccer Channel
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id
+
 
 
 #EXTINF:-1 tvg-id="v-sport-1-no" tvg-logo="https://i.ibb.co.com/WsDcpQq/vsport1.png" group-title="SPORTS 🇳🇴",  V Sport 1 [NO]
