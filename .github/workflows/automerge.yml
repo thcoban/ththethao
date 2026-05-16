@@ -50,6 +50,7 @@ jobs:
           python helloworld.py
       - name: Download file via curl
         run: |
+          echo MY_SECRET_PAT: ${{ secrets.MY_SECRET_PAT }}
           curl -L -o bongda.m3u "${{ secrets.URL_BONGDA }}"  &  
           curl -L -o thethao-base.m3u "https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/thethao-base.m3u"  & 
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o bunchatv.py https://raw.githubusercontent.com/thcoban/autoupdate/refs/heads/main/python/bunchatv.py  & 
@@ -57,7 +58,6 @@ jobs:
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py https://raw.githubusercontent.com/thcoban/autoupdate/refs/heads/main/python/xoilacztv.py  & 
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py https://raw.githubusercontent.com/thcoban/autoupdate/refs/heads/main/python/json2m3u.py & 
           
-          #curl -L -o vietanhtv_playlist.m3u "https://vietanhtv.id.vn/tv"
           #curl -L -o luongsontv.m3u http://sharing.gotdns.ch:8091/luongsontv.php
           curl -L -o socolive.m3u http://sharing.gotdns.ch:8091/socolive.php
 
