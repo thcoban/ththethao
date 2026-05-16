@@ -34,7 +34,14 @@ jobs:
     - name: Test with pytest
       run: |
         echo "BONGDA: " + ${{ secrets.URL_BONGDA }}
+        
         curl -L -o bongda.m3u "${{ secrets.URL_BONGDA }}"
+        curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o bunchatv.py ${{ secrets.URL_BONGDA }}/bunchatv.py  & 
+        curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thapcam24htv.py ${{ secrets.URL_BONGDA }}/thapcam24htv.py  & 
+        curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_BONGDA }}/xoilacztv.py  & 
+        curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py ${{ secrets.URL_BONGDA }}/json2m3u.py &  
+        wait 
+        
         ls -lh
         
         
