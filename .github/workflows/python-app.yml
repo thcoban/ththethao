@@ -27,13 +27,20 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Test
       run: |
-        echo "BONGDA: " + ${{ secrets.URL_BONGDA }}
+        echo BONGDA: ${{ secrets.URL_BONGDA }}
         
         curl -L -o bongda.m3u "${{ secrets.URL_BONGDA }}"
         curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o bunchatv.py ${{ secrets.URL_REPO }}/bunchatv.py  & 
         curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thapcam24htv.py ${{ secrets.URL_REPO }}/thapcam24htv.py  & 
         curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_REPO }}/xoilacztv.py  & 
         curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py ${{ secrets.URL_REPO }}/json2m3u.py &  
+        wait 
+        ls -lh
+
+        curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o bunchatv.py https://raw.githubusercontent.com/thcoban/autoupdate/refs/heads/main/python/bunchatv.py  & 
+        curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thapcam24htv.py https://raw.githubusercontent.com/thcoban/autoupdate/refs/heads/main/python/thapcam24htv.py  & 
+        curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py https://raw.githubusercontent.com/thcoban/autoupdate/refs/heads/main/python/xoilacztv.py  & 
+        curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py https://raw.githubusercontent.com/thcoban/autoupdate/refs/heads/main/python/json2m3u.py &        
         wait 
         
         ls -lh
