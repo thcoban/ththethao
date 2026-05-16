@@ -75,7 +75,7 @@ jobs:
             python thapcam24htv.py https://thapcam24h.net thapcam24htv.m3u  & 
           fi
           if [ -f "json2m3u.py" ]; then
-            python json2m3u.py https://tinyurl.com/hoiquantv8 hoiquantv.m3u  1   & 
+            python json2m3u.py ${{ secrets.URL_HOIQUANTV }}  hoiquantv.m3u  1   & 
           fi
           
           #python json2m3u.py https://tinyurl.com/buncha2 bunchatv.m3u  1
