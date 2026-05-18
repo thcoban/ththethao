@@ -4,7 +4,7 @@ name: Auto merge files by schedule
 
 # Controls when the workflow will run
 on:
-  push:
+  # push:
   workflow_call:
   schedule:
     # Runs every hour 0, 1, 2 ...
