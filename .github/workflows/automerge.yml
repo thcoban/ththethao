@@ -4,7 +4,7 @@ name: Auto merge files by schedule
 
 # Controls when the workflow will run
 on:
-  # push:
+  push:
   workflow_call:
   schedule:
     # Runs every hour 0, 1, 2 ...
@@ -182,5 +182,5 @@ jobs:
           git config --local user.name "thcoban [bot]"
           git add thethao.m3u
           git add ttthethao.m3u
-          git commit -m "Merge files to thethao.m3u, ttthethao.m3u"
+          git commit -m "[no ci] Merge files to thethao.m3u, ttthethao.m3u"
           git push
