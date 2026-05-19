@@ -9,6 +9,15 @@ on:
   workflow_dispatch: # Allows you to run the action manually for testing
   
 jobs:
+  check-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 
+        run: |
+          echo Hello, world!
+          gh run list --limit 1 --json status,conclusion,createdAt,updatedAt
+          gh run list --workflow=automerge.yml --limit 1 --json status,conclusion,createdAt,updatedAt
+          
   call-child:
     permissions:
       contents: write # Required to push changes back to the repo
