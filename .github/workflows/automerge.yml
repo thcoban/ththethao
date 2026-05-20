@@ -50,8 +50,8 @@ jobs:
           python helloworld.py
       - name: Download file via curl
         run: |
-          curl -L -o bongda.m3u "${{ secrets.URL_BONGDA }}"  &  
-          # curl -L -o thethao-base.m3u "https://raw.githubusercontent.com/thcoban/ththethao/refs/heads/main/thethao-base.m3u"  & 
+          curl -L -o bongda.m3u ${{ secrets.URL_BONGDA }}  &  
+          curl -L -o vietanhtv_playlist ${{ secrets.URL_VIETANHTV }}  & 
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o bunchatv.py ${{ secrets.URL_REPO }}/bunchatv.py  & 
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thapcam24htv.py ${{ secrets.URL_REPO }}/thapcam24htv.py  & 
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_REPO }}/xoilacztv.py  & 
@@ -170,37 +170,37 @@ jobs:
           fi
           
           # merge bottom of vietanhtv_playlist into ttthethao.m3u:
-          # file_name=vietanhtv_playlist.m3u
-          # line_num=$(awk '/group-title="ColaTV"/ {print NR; exit}' $file_name)
-          # echo "'$file_name'. Found on line: $line_num"
+          file_name=vietanhtv_playlist.m3u
+          line_num=$(awk '/group-title="ColaTV"/ {print NR; exit}' $file_name)
+          echo "'$file_name'. Found on line: $line_num"
 
-          # if [ -z "$line_num" ]; then
-          #     echo "Pattern not found"
-          # else
-          #   echo "Found on line: $line_num"
+          if [ -z "$line_num" ]; then
+              echo "Pattern not found"
+          else
+            echo "Found on line: $line_num"
             
-          #   # set first K lines:
-          #   K=$(( $line_num - 1 ))
-          #   echo "line_num - 1: $K"
+            # set first K lines:
+            K=$(( $line_num - 1 ))
+            echo "line_num - 1: $K"
             
-          #   # line count (N):
-          #   N=$(wc -l < $file_name)
-          #   echo "'$file_name'. Total lines: $N"
+            # line count (N):
+            N=$(wc -l < $file_name)
+            echo "'$file_name'. Total lines: $N"
             
-          #   # length of the bottom file:
-          #   L=$(( $N - $K ))
-          #   echo "length of the bottom file: $L"
+            # length of the bottom file:
+            L=$(( $N - $K ))
+            echo "length of the bottom file: $L"
             
-          #   # create bottom of file: 
-          #   tail -n $L $file_name > bottom_$file_name
+            # create bottom of file: 
+            tail -n $L $file_name > bottom_$file_name
 
-          #   if [ -f bottom_$file_name ]; then
-          #     echo " " >> ttthethao.m3u
-          #     echo "Merge $bottom_$file_name into main file"
-          #     cat bottom_$file_name >> ttthethao.m3u
-          #     echo " " >> ttthethao.m3u
-          #   fi
-          # fi
+            if [ -f bottom_$file_name ]; then
+              echo " " >> ttthethao.m3u
+              echo "Merge $bottom_$file_name into main file"
+              cat bottom_$file_name >> ttthethao.m3u
+              echo " " >> ttthethao.m3u
+            fi
+          fi
 
           cat thethao-base.m3u > thethao.m3u
           echo " " >> thethao.m3u
