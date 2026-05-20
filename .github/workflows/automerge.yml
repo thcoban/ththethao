@@ -51,7 +51,7 @@ jobs:
       - name: Download file via curl
         run: |
           curl -L -o bongda.m3u ${{ secrets.URL_BONGDA }}  &  
-          curl -L -o vietanhtv_playlist ${{ secrets.URL_VIETANHTV }}  & 
+          curl -L -o vietanhtv_playlist.m3u ${{ secrets.URL_VIETANHTV }}  & 
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o bunchatv.py ${{ secrets.URL_REPO }}/bunchatv.py  & 
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thapcam24htv.py ${{ secrets.URL_REPO }}/thapcam24htv.py  & 
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_REPO }}/xoilacztv.py  & 
