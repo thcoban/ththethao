@@ -76,12 +76,12 @@ jobs:
           fi
           if [ -f "json2m3u.py" ]; then
             python json2m3u.py ${{ secrets.URL_HOIQUANTV }}  hoiquantv.m3u & 
-            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/thiendinhtv.php  thiendinhtv.m3u  1   & 
-            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/quechoatv.php  quechoatv.m3u  1   & 
-            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/luongsontv.php  luongsontv.m3u  1   & 
-            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/colatv.php  colatv.m3u  1   & 
-            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/gavangtv.php  gavangtv.m3u  1   & 
-            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/cumeotv.php  cumeotv.m3u  1 
+            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/thiendinhtv  thiendinhtv.m3u  1   & 
+            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/quechoatv  quechoatv.m3u  1   & 
+            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/luongsontv  luongsontv.m3u  1   & 
+            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/colatv  colatv.m3u  1   & 
+            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/gavangtv  gavangtv.m3u  1   & 
+            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/cumeotv  cumeotv.m3u  1 
 
             #python json2m3u.py https://tinyurl.com/buncha2 bunchatv.m3u  1  & 
             #python json2m3u.py https://tinyurl.com/thapcam2 thapcamfaketv.m3u  1  & 
