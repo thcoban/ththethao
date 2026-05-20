@@ -56,10 +56,10 @@ jobs:
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thapcam24htv.py ${{ secrets.URL_REPO }}/thapcam24htv.py  & 
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_REPO }}/xoilacztv.py  & 
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py ${{ secrets.URL_REPO }}/json2m3u.py & 
-          
-          #curl -L -o luongsontv.m3u http://sharing.gotdns.ch:8091/luongsontv.php
+         
           curl -L -o socolive.m3u http://sharing.gotdns.ch:8091/socolive.php
-
+          #curl -L -o luongsontv.m3u http://sharing.gotdns.ch:8091/luongsontv.php
+          
           wait
           ls -lh
 
@@ -75,12 +75,18 @@ jobs:
             python thapcam24htv.py https://thapcam24h.net thapcam24htv.m3u  & 
           fi
           if [ -f "json2m3u.py" ]; then
-            python json2m3u.py ${{ secrets.URL_HOIQUANTV }}  hoiquantv.m3u  1   & 
+            python json2m3u.py ${{ secrets.URL_HOIQUANTV }}  hoiquantv.m3u & 
+            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/thiendinhtv.php  thiendinhtv.m3u  1   & 
+            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/quechoatv.php  quechoatv.m3u  1   & 
+            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/luongsontv.php  luongsontv.m3u  1   & 
+            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/colatv.php  colatv.m3u  1   & 
+            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/gavangtv.php  gavangtv.m3u  1   & 
+            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/cumeotv.php  cumeotv.m3u  1 
+
+            #python json2m3u.py https://tinyurl.com/buncha2 bunchatv.m3u  1  & 
+            #python json2m3u.py https://tinyurl.com/thapcam2 thapcamfaketv.m3u  1  & 
+            #python json2m3u.py https://tinyurl.com/quechoa quechoatv.m3u  1 
           fi
-          
-          #python json2m3u.py https://tinyurl.com/buncha2 bunchatv.m3u  1
-          #python json2m3u.py https://tinyurl.com/thapcam2 thapcamfaketv.m3u  1
-          #python json2m3u.py https://tinyurl.com/quechoa quechoatv.m3u  1
 
           wait
       
@@ -114,9 +120,34 @@ jobs:
             cat xoilacztv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
+          if [ -f "thiendinhtv.m3u" ]; then
+            echo " " >> ttthethao.m3u
+            cat thiendinhtv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
           if [ -f "quechoatv.m3u" ]; then
             echo " " >> ttthethao.m3u
             cat quechoatv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+          if [ -f "luongsontv.m3u" ]; then
+            echo " " >> ttthethao.m3u
+            cat luongsontv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+          if [ -f "colatv.m3u" ]; then
+            echo " " >> ttthethao.m3u
+            cat colatv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+          if [ -f "gavangtv.m3u" ]; then
+            echo " " >> ttthethao.m3u
+            cat gavangtv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+          if [ -f "cumeotv.m3u" ]; then
+            echo " " >> ttthethao.m3u
+            cat cumeotv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
           
