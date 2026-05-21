@@ -15,10 +15,10 @@ jobs:
       - name: 
         run: |
           echo Hello, world!
-          gh run list --limit 1 --json status,conclusion,createdAt,updatedAt
-          gh run list --workflow=automerge.yml --limit 1 --json status,conclusion,createdAt,updatedAt
-        env:
-          GH_TOKEN: ${{ secrets.MY_SECRET_PAT }}
+          # gh run list --limit 1 --json status,conclusion,createdAt,updatedAt
+          # gh run list --workflow=automerge.yml --limit 1 --json status,conclusion,createdAt,updatedAt
+        # env:
+          # GH_TOKEN: ${{ secrets.MY_SECRET_PAT }}
           
   call-child:
     permissions:
