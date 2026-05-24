@@ -1,0 +1,33 @@
+name: Auto merge trigger no.2
+
+# Controls when the workflow will run
+on:
+  schedule:
+    # Runs every hour 0, 1, 2 ...
+    # Use https://crontab.guru to customize your schedule.
+    - cron: "27 * * * *"
+  workflow_dispatch: # Allows you to run the action manually for testing
+  
+# Sets permissions of the GITHUB_TOKEN
+permissions:
+  contents: read
+  id-token: write
+  
+jobs:
+  check-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 
+        run: |
+          echo Hello, world!
+        #   gh run list --limit 1 --json status,conclusion,createdAt,updatedAt
+        #   gh run list --workflow=automerge.yml --limit 1 --json status,conclusion,createdAt,updatedAt
+        # env:
+        #   GH_TOKEN: ${{ github.token }}
+
+  call-child:
+    permissions:
+      contents: write # Required to push changes back to the repo
+    # trigger automerge.yml
+    uses: ./.github/workflows/merge-deploy.yml
+    secrets: inherit # pass all secrets
