@@ -59,9 +59,10 @@ jobs:
           # curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thapcam24htv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/thapcam24htv.py  & 
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/xoilacztv.py  & 
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/json2m3u.py & 
+          curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o updatem3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/updatem3u.py & 
          
-          curl -L -o socolive.m3u http://sharing.gotdns.ch:8091/socolive.php
-          #curl -L -o luongsontv2.m3u http://sharing.gotdns.ch:8091/luongsontv.php
+          curl -L -o socolive.m3u ${{ secrets.URL_DTT }}/socolive.php 
+          #curl -L -o luongsontv2.m3u ${{ secrets.URL_DTT }}/luongsontv.php
           
           wait
           ls -lh
@@ -89,6 +90,11 @@ jobs:
             #python json2m3u.py https://tinyurl.com/buncha2 bunchatv.m3u  1  & 
             #python json2m3u.py https://tinyurl.com/thapcam2 thapcamfaketv.m3u  1  & 
             #python json2m3u.py https://tinyurl.com/quechoa quechoatv.m3u  1 
+          fi
+          
+          if [ -f updatem3u.py ]; then
+            python updatem3u.py socolive.m3u  & 
+            python updatem3u.py luongsontv2.m3u  & 
           fi
 
           wait
