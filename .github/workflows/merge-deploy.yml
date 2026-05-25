@@ -3,7 +3,7 @@ name: Merge and deploy files by schedules
 
 # Controls when the workflow will run
 on:
-  # push:
+  # push:  
   workflow_call:
   schedule:
     # Runs every hour 0, 1, 2 ...
@@ -34,15 +34,9 @@ jobs:
           echo Hello, world! 
 
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Checkout code ththethao (other repo)
+      - name: Checkout code
         uses: actions/checkout@v4
-        # with:
-        #   repository: thcoban/ththethao
-        #   token: ${{ secrets.MY_SECRET_PAT }}
           
-      #- name: Checkout code autoupdate (current repo)
-      #  uses: actions/checkout@v4
-
       - name: Set up Python 3.11
         uses: actions/setup-python@v3
         with:
