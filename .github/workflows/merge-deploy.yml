@@ -218,13 +218,13 @@ jobs:
           echo " " >> thethao.m3u
           cat ttthethao.m3u >> thethao.m3u
           echo " " >> thethao.m3u
-          ls -lh
+          # ls -lh
 
           cp bongda.m3u m3ufiles/
           cp thethao.m3u m3ufiles/
           cp thethao-base.m3u m3ufiles/
           cp ttthethao.m3u m3ufiles/
-          ls -lh m3ufiles/
+          # ls -lh m3ufiles/
           
       - name: Setup Pages
         uses: actions/configure-pages@v5
