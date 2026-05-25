@@ -55,8 +55,8 @@ jobs:
           curl -L -o vietanhtv_playlist.m3u ${{ secrets.URL_VIETANHTV }}  & 
           curl -L -o autonomous.m3u https://autonomous-lime-os2knxzlw8.edgeone.app/  & 
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thethao-base.m3u ${{ secrets.URL_PRIVATE_FILES_REPO }}/thethao-base.m3u  & 
-          curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o bunchatv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/bunchatv.py  & 
-          curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thapcam24htv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/thapcam24htv.py  & 
+          # curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o bunchatv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/bunchatv.py  & 
+          # curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thapcam24htv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/thapcam24htv.py  & 
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/xoilacztv.py  & 
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/json2m3u.py & 
          
@@ -104,9 +104,50 @@ jobs:
          
           ls -lh
 
+          # merge bottom of vietanhtv_playlist into ttthethao.m3u:
+          if [ -f vietanhtv_playlist.m3u ]; then
+            file_name=vietanhtv_playlist.m3u
+            line_num=$(awk '/group-title="ColaTV"/ {print NR; exit}' $file_name)
+            echo "'$file_name'. Found on line: $line_num"
+  
+            if [ -z "$line_num" ]; then
+                echo "Pattern not found"
+            else
+              echo "Found on line: $line_num"
+              
+              # set first K lines:
+              K=$(( $line_num - 1 ))
+              echo "line_num - 1: $K"
+              
+              # line count (N):
+              N=$(wc -l < $file_name)
+              echo "'$file_name'. Total lines: $N"
+              
+              # length of the bottom file:
+              L=$(( $N - $K ))
+              echo "length of the bottom file: $L"
+              
+              # create bottom of file: 
+              tail -n $L $file_name > bottom_$file_name
+  
+              if [ -f bottom_$file_name ]; then
+                echo " " >> ttthethao.m3u
+                echo "Merge $bottom_$file_name into main file"
+                cat bottom_$file_name >> ttthethao.m3u
+                echo " " >> ttthethao.m3u
+              fi
+            fi
+          fi
+
           if [ -f hoiquantv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat hoiquantv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+
+          if [ -f xoilacztv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat xoilacztv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
           
@@ -120,11 +161,7 @@ jobs:
             cat thapcam24htv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u          
           fi
-          if [ -f xoilacztv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat xoilacztv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
+          
           if [ -f thiendinhtv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat thiendinhtv.m3u >> ttthethao.m3u
@@ -172,41 +209,6 @@ jobs:
             echo " " >> ttthethao.m3u
             cat socolive.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
-          fi
-
-          # merge bottom of vietanhtv_playlist into ttthethao.m3u:
-          if [ -f vietanhtv_playlist.m3u ]; then
-            file_name=vietanhtv_playlist.m3u
-            line_num=$(awk '/group-title="ColaTV"/ {print NR; exit}' $file_name)
-            echo "'$file_name'. Found on line: $line_num"
-  
-            if [ -z "$line_num" ]; then
-                echo "Pattern not found"
-            else
-              echo "Found on line: $line_num"
-              
-              # set first K lines:
-              K=$(( $line_num - 1 ))
-              echo "line_num - 1: $K"
-              
-              # line count (N):
-              N=$(wc -l < $file_name)
-              echo "'$file_name'. Total lines: $N"
-              
-              # length of the bottom file:
-              L=$(( $N - $K ))
-              echo "length of the bottom file: $L"
-              
-              # create bottom of file: 
-              tail -n $L $file_name > bottom_$file_name
-  
-              if [ -f bottom_$file_name ]; then
-                echo " " >> ttthethao.m3u
-                echo "Merge $bottom_$file_name into main file"
-                cat bottom_$file_name >> ttthethao.m3u
-                echo " " >> ttthethao.m3u
-              fi
-            fi
           fi
 
           if [ -f autonomous.m3u ]; then
