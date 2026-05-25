@@ -52,7 +52,7 @@ jobs:
       - name: Download file via curl
         run: |
           curl -L -o bongda.m3u ${{ secrets.URL_BONGDA }}  &  
-          curl -L -o vietanhtv_playlist.m3u ${{ secrets.URL_VIETANHTV }}  & 
+          curl -L -o vatv.m3u ${{ secrets.URL_VATV }}  & 
           curl -L -o autonomous.m3u https://autonomous-lime-os2knxzlw8.edgeone.app/  & 
           curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thethao-base.m3u ${{ secrets.URL_PRIVATE_FILES_REPO }}/thethao-base.m3u  & 
           # curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o bunchatv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/bunchatv.py  & 
@@ -104,9 +104,9 @@ jobs:
          
           ls -lh
 
-          # merge bottom of vietanhtv_playlist into ttthethao.m3u:
-          if [ -f vietanhtv_playlist.m3u ]; then
-            file_name=vietanhtv_playlist.m3u
+          # merge bottom of vatv.m3u into ttthethao.m3u:
+          if [ -f vatv.m3u ]; then
+            file_name=vatv.m3u
             line_num=$(awk '/group-title="ColaTV"/ {print NR; exit}' $file_name)
             echo "'$file_name'. Found on line: $line_num"
   
