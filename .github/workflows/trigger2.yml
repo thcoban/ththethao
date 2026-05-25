@@ -3,8 +3,6 @@ name: Auto merge trigger no.2
 # Controls when the workflow will run
 on:
   schedule:
-    # Runs every hour 0, 1, 2 ...
-    # Use https://crontab.guru to customize your schedule.
     - cron: "45 * * * *"
   workflow_dispatch: # Allows you to run the action manually for testing
   
