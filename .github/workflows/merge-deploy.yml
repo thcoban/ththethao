@@ -225,14 +225,6 @@ jobs:
           cp thethao-base.m3u m3ufiles/
           cp ttthethao.m3u m3ufiles/
           ls -lh m3ufiles/
-      - name: Commit and push changes
-        run: |
-          git config --local user.name "thcoban [bot]"
-          git add m3ufiles/ttthethao.m3u
-          # git add thethao.m3u
-          # git add ttthethao.m3u
-          git commit -m "[no ci] Update ttthethao.m3u"
-          git push
           
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -244,3 +236,10 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5        
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "thcoban [bot]"
+          git add m3ufiles/ttthethao.m3u
+          git commit -m "[no ci] Update ttthethao.m3u"
+          git push
