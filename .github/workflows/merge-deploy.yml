@@ -6,7 +6,6 @@ on:
   # push:  
   workflow_call:
   schedule:
-    # Runs every hour 0, 1, 2 ...
     # Use https://crontab.guru to customize your schedule.
     - cron: "9 * * * *"
     
