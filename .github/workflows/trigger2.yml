@@ -9,7 +9,6 @@ on:
 # Sets permissions of the GITHUB_TOKEN
 permissions:
   contents: read
-  id-token: write
   
 jobs:
   check-status:
