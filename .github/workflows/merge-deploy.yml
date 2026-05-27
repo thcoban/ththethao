@@ -50,18 +50,16 @@ jobs:
           python helloworld.py
       - name: Download file via curl
         run: |
-          curl -s -L -o bongda.m3u ${{ secrets.URL_BONGDA }}  &  
-          curl -s -L -o vatv.m3u ${{ secrets.URL_VATV }}  & 
-          curl -s -L -o autonomous.m3u https://autonomous-lime-os2knxzlw8.edgeone.app/  & 
-          curl -s -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thethao-base.m3u ${{ secrets.URL_PRIVATE_FILES_REPO }}/thethao-base.m3u  & 
-          # curl -s -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o bunchatv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/bunchatv.py  & 
-          # curl -s -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thapcam24htv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/thapcam24htv.py  & 
-          curl -s -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/xoilacztv.py  & 
-          curl -s -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/json2m3u.py & 
-          curl -s -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o updatem3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/updatem3u.py & 
+          curl -s -k -f -o bongda.m3u ${{ secrets.URL_BONGDA }}  &  
+          curl -s -k -f -L -o vatv.m3u ${{ secrets.URL_VATV }}  & 
+          curl -s -k -f -L -o autonomous.m3u https://autonomous-lime-os2knxzlw8.edgeone.app/  & 
+          curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thethao-base.m3u ${{ secrets.URL_PRIVATE_FILES_REPO }}/thethao-base.m3u  & 
+          curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/xoilacztv.py  & 
+          curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/json2m3u.py & 
+          curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o updatem3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/updatem3u.py & 
          
-          curl -s -k -f -o socolive_dtt.m3u ${{ secrets.URL_DTT }}/socolive.php  &
-          curl -s -k -f -o luongsontv_dtt.m3u ${{ secrets.URL_DTT }}/luongsontv.php  &
+          # curl -s -k -f -o socolive_dtt.m3u ${{ secrets.URL_DTT }}/socolive.php  &
+          # curl -s -k -f -o luongsontv_dtt.m3u ${{ secrets.URL_DTT }}/luongsontv.php  &
           
           wait
           ls -lh
