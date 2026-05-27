@@ -60,8 +60,8 @@ jobs:
           curl -s -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/json2m3u.py & 
           curl -s -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o updatem3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/updatem3u.py & 
          
-          # curl -s -f -L -o socolive_dtt.m3u ${{ secrets.URL_DTT }}/socolive.php 
-          # curl -s -f -L -o luongsontv_dtt.m3u ${{ secrets.URL_DTT }}/luongsontv.php
+          curl -s -k -f -o socolive_dtt.m3u ${{ secrets.URL_DTT }}/socolive.php  &
+          curl -s -k -f -o luongsontv_dtt.m3u ${{ secrets.URL_DTT }}/luongsontv.php  &
           
           wait
           ls -lh
