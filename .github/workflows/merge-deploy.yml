@@ -50,18 +50,18 @@ jobs:
           python helloworld.py
       - name: Download file via curl
         run: |
-          curl -L -o bongda.m3u ${{ secrets.URL_BONGDA }}  &  
-          curl -L -o vatv.m3u ${{ secrets.URL_VATV }}  & 
-          curl -L -o autonomous.m3u https://autonomous-lime-os2knxzlw8.edgeone.app/  & 
-          curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thethao-base.m3u ${{ secrets.URL_PRIVATE_FILES_REPO }}/thethao-base.m3u  & 
-          # curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o bunchatv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/bunchatv.py  & 
-          # curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thapcam24htv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/thapcam24htv.py  & 
-          curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/xoilacztv.py  & 
-          curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/json2m3u.py & 
-          curl -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o updatem3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/updatem3u.py & 
+          curl -f -L -o bongda.m3u ${{ secrets.URL_BONGDA }}  &  
+          curl -f -L -o vatv.m3u ${{ secrets.URL_VATV }}  & 
+          curl -f -L -o autonomous.m3u https://autonomous-lime-os2knxzlw8.edgeone.app/  & 
+          curl -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thethao-base.m3u ${{ secrets.URL_PRIVATE_FILES_REPO }}/thethao-base.m3u  & 
+          # curl -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o bunchatv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/bunchatv.py  & 
+          # curl -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thapcam24htv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/thapcam24htv.py  & 
+          curl -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/xoilacztv.py  & 
+          curl -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/json2m3u.py & 
+          curl -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o updatem3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/updatem3u.py & 
          
-          curl -L -o socolive_dtt.m3u ${{ secrets.URL_DTT }}/socolive.php 
-          curl -L -o luongsontv_dtt.m3u ${{ secrets.URL_DTT }}/luongsontv.php
+          curl -f -L -o socolive_dtt.m3u ${{ secrets.URL_DTT }}/socolive.php 
+          curl -f -L -o luongsontv_dtt.m3u ${{ secrets.URL_DTT }}/luongsontv.php
           
           wait
           ls -lh
