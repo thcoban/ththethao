@@ -67,6 +67,7 @@ jobs:
       - name: Download, get & convert links to M3U files
         run: |
           if [ -f xoilacztv.py ]; then
+            # python xoilacztv.py https://xoilacz.vip xoilacztv.m3u  & 
             python xoilacztv.py https://xoilacz.io xoilacztv.m3u  & 
           fi
           if [ -f bunchatv.py ]; then
