@@ -7,7 +7,7 @@ on:
   workflow_call:
   schedule:
     # Use https://crontab.guru to customize your schedule.
-    - cron: "9 * * * *"
+    - cron: "3 * * * *"
     
   workflow_dispatch: # Allows you to run the action manually for testing
   
