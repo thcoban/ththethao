@@ -71,10 +71,10 @@ jobs:
             python xoilacztv.py https://xoilacz.io xoilacztv.m3u  & 
           fi
           if [ -f bunchatv.py ]; then
-            # python bunchatv.py https://bit.ly/bunchatv bunchatv.m3u  & 
+            python bunchatv.py https://bit.ly/bunchatv bunchatv.m3u  & 
           fi
           if [ -f thapcam24htv.py ]; then
-            # python thapcam24htv.py https://thapcam24h.net thapcam24htv.m3u  & 
+            python thapcam24htv.py https://thapcam24h.net thapcam24htv.m3u  & 
           fi
           if [ -f json2m3u.py ]; then
             python json2m3u.py ${{ secrets.URL_HOIQUANTV }}  hoiquantv.m3u  1  & 
