@@ -77,7 +77,7 @@ jobs:
             # python thapcam24htv.py https://thapcam24h.net thapcam24htv.m3u  & 
           fi
           if [ -f json2m3u.py ]; then
-            python json2m3u.py ${{ secrets.URL_HOIQUANTV }}  hoiquantv.m3u & 
+            python json2m3u.py ${{ secrets.URL_HOIQUANTV }}  hoiquantv.m3u  1  & 
             python json2m3u.py ${{ secrets.URL_APITHETHAO }}/thiendinhtv  thiendinhtv.m3u  1   & 
             python json2m3u.py ${{ secrets.URL_APITHETHAO }}/quechoatv  quechoatv.m3u  1   & 
             python json2m3u.py ${{ secrets.URL_APITHETHAO }}/luongsontv  luongsontv.m3u  1   & 
@@ -107,6 +107,18 @@ jobs:
           mkdir -p m3ufiles
          
           ls -lh
+
+          if [ -f hoiquantv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat hoiquantv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+
+          if [ -f xoilacztv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat xoilacztv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
 
           # merge bottom of vatv.m3u into ttthethao.m3u:
           if [ -f vatv.m3u ]; then
@@ -143,18 +155,6 @@ jobs:
             fi
           fi
 
-          if [ -f hoiquantv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat hoiquantv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
-
-          if [ -f xoilacztv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat xoilacztv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
-          
           if [ -f bunchatv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat bunchatv.m3u >> ttthethao.m3u
