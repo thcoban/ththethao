@@ -4,7 +4,7 @@ name: Auto merge trigger no.4
 on:
   schedule:
     # Use https://crontab.guru to customize your schedule.
-    - cron: "45 1-15 * * *"
+    - cron: "54 1-15 * * *"
   
   workflow_dispatch: # Allows you to run the action manually for testing
   
