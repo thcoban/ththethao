@@ -1,10 +1,16 @@
  
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-759b1a51d3fa.webp?v=1780413278" group-title="Hội Quán TV" group-logo="https://kaytee1012.github.io/hoiquan_logo.png" , 22:00 | ⚽ Al Kahrabaa vs Al-Karma (Link 1) [hls]
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0e29f1d95302.webp?v=1780415079" group-title="Hội Quán TV" group-logo="https://kaytee1012.github.io/hoiquan_logo.png" , 23:00 | ⚽ Croatia vs Belgium (Link 1) [hls]
+https://tfwe3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=f9f898b069a340cef8e6c5cc-178041505766460&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239032757180434
 
-#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-759b1a51d3fa.webp?v=1780413278" group-title="Hội Quán TV" group-logo="https://kaytee1012.github.io/hoiquan_logo.png" , 22:00 | ⚽ Al Kahrabaa vs Al-Karma (Link 2) [hls]
-https://tfwe3gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2daf61c146200dcb0d30cbde-178041325826522&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097222411122
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0e29f1d95302.webp?v=1780415079" group-title="Hội Quán TV" group-logo="https://kaytee1012.github.io/hoiquan_logo.png" , 23:00 | ⚽ Croatia vs Belgium (Link 2) [hls]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0e29f1d95302.webp?v=1780415079" group-title="Hội Quán TV" , 23:00 | ⚽ Croatia vs Belgium (Link 3) [hls] 
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0e29f1d95302.webp?v=1780415079" group-title="Hội Quán TV" , 23:00 | ⚽ Croatia vs Belgium (Link 4) [hls] 
+https://tfwe3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=475a233a1f259eb4ebf38dc5-178041505767281&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032784443754
 
  
  
@@ -59,6 +65,16 @@ https://live2.pro2cdnlive.com/live/channel16.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel16.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nh9nzmd7o/image/small" group-title="Xôi LạcZ TV" , 00:00h 03/06/2026 ⚽ Ma Rốc vs Madagascar (HIRO) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel14.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nh9nzmd7o/image/small" group-title="Xôi LạcZ TV" , 00:00h 03/06/2026 ⚽ Ma Rốc vs Madagascar (HD HIRO) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel14.flv
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/4zp5rzkteg7r82w/image/small" group-title="Xôi LạcZ TV" , 23:30h 02/06/2026 🏀 CSKA Moscow vs Unics Kazan (ALAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -160,16 +176,6 @@ https://live2.pro2cdnlive.com/live/channel25.flv
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel25.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/pxwrxjf8wg8myk0/image/small" group-title="Xôi LạcZ TV" , 18:20h 02/06/2026 🥎 Rafael Jodar vs Alexander Zverev (VIC) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live2.pro2cdnlive.com/live/channel32.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/pxwrxjf8wg8myk0/image/small" group-title="Xôi LạcZ TV" , 18:20h 02/06/2026 🥎 Rafael Jodar vs Alexander Zverev (HD VIC) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live2.pro2cdnlive.com/live/channel32.flv
-
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/zp5rz3f3xk1m82w/image/small" group-title="Xôi LạcZ TV" , 01:15h 03/06/2026 🥎 Jakub Mensik vs Joao Fonseca (LUCAS) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
@@ -179,6 +185,26 @@ https://live2.pro2cdnlive.com/live/channel31.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel31.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/1l4rjwfe5l9m7vx/image/small" group-title="Xôi LạcZ TV" , 16:00h 03/06/2026 🥎 Anna Kalinskaya vs Maja Chwalinska (VIC) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel32.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/1l4rjwfe5l9m7vx/image/small" group-title="Xôi LạcZ TV" , 16:00h 03/06/2026 🥎 Anna Kalinskaya vs Maja Chwalinska (HD VIC) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel32.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/y39mpyf98vemojx/image/small" group-title="Xôi LạcZ TV" , 18:20h 03/06/2026 🥎 Felix Auger Aliassime vs Flavio Cobolli (VIC) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel32.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/y39mpyf98vemojx/image/small" group-title="Xôi LạcZ TV" , 18:20h 03/06/2026 🥎 Felix Auger Aliassime vs Flavio Cobolli (HD VIC) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel32.flv
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/dn1m1eku452jqoe/image/small" group-title="Xôi LạcZ TV" , 21:00h 02/06/2026 [lol] NightBirds vs eSuba (MARTY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -192,10 +218,6 @@ https://live2.pro2cdnlive.com/live/channel30.flv
 
  
  
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0504b24f98f8c083439816864fcf485c.png!w80" group-title="ColaTV",[22:00 02/06] Al Kahraba vs Al Karma - BLV BLV MOUNTAIN DEW (L1) Giải :Giải Ngoại hạng Iraq
-https://live05.msdht.app/live/87547578.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0504b24f98f8c083439816864fcf485c.png!w80" group-title="ColaTV",[22:00 02/06] Al Kahraba vs Al Karma - BLV BLV MOUNTAIN DEW (L2) Giải :Giải Ngoại hạng Iraq
-https://live05.msdht.app/live/87547578.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV",[23:00 02/06] Croatia vs Bỉ - BLV BLV GIÀ LÀNG (L1) Giải :Giao hữu Quốc tế
 https://live05.msdht.app/live/14830711.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV",[23:00 02/06] Croatia vs Bỉ - BLV BLV GIÀ LÀNG (L2) Giải :Giao hữu Quốc tế
@@ -204,9 +226,9 @@ https://live05.msdht.app/live/14830711.m3u8
 https://live05.msdht.app/live/14707124.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV",[23:00 02/06] Croatia vs Bỉ - BLV BLV STING (L2) Giải :Giao hữu Quốc tế
 https://live05.msdht.app/live/14707124.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV",[23:30 02/06] Saudi Arabia U21 vs Colombia U19 - BLV BLV REDBULL (L1) Giải :Giao hữu Quốc tế
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png!w80" group-title="ColaTV",[23:30 02/06] Saudi Arabia U21 vs Colombia U19 - BLV BLV REDBULL (L1) Giải :Toulon Tournament
 https://live05.msdht.app/live/68848594.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV",[23:30 02/06] Saudi Arabia U21 vs Colombia U19 - BLV BLV REDBULL (L2) Giải :Giao hữu Quốc tế
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png!w80" group-title="ColaTV",[23:30 02/06] Saudi Arabia U21 vs Colombia U19 - BLV BLV REDBULL (L2) Giải :Toulon Tournament
 https://live05.msdht.app/live/68848594.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV",[00:00 03/06] Georgia vs Romania - BLV BLV COCA (L1) Giải :Giao hữu Quốc tế
 https://live05.msdht.app/live/24561735.flv
@@ -422,12 +444,6 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" group-title="Hội Quán TV",[23:00 02/06] Croatia vs Belgium - BLV THẦN THÔNG (SD)
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11064.png" group-title="Hội Quán TV",[22:00 02/06] Al Kahrabaa vs Al-Karma - BLV TÁO GIÀ (FHD)
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11064.png" group-title="Hội Quán TV",[22:00 02/06] Al Kahrabaa vs Al-Karma - BLV TÁO GIÀ (HD)
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11064.png" group-title="Hội Quán TV",[22:00 02/06] Al Kahrabaa vs Al-Karma - BLV TÁO GIÀ (SD)
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/250px-Flag_of_Georgia.svg.png" group-title="Hội Quán TV",[00:00 03/06] Georgia vs Romania  - BLV TÁO KINH TẾ  (FHD)
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/250px-Flag_of_Georgia.svg.png" group-title="Hội Quán TV",[00:00 03/06] Georgia vs Romania  - BLV TÁO KINH TẾ  (HD)
@@ -512,12 +528,6 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/16746.png" group-title="Hội Quán TV",[23:30 03/06] Viken vs Utsikten - BLV TÁO KINH TẾ  (SD)
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Rafa_J%C3%B3dar_Espinar_2025.jpg" group-title="Hội Quán TV",[19:30 02/06] Rafael Jodar vs Alexandet Zverev - BLV PHAN TỪ (FHD)
-https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Rafa_J%C3%B3dar_Espinar_2025.jpg" group-title="Hội Quán TV",[19:30 02/06] Rafael Jodar vs Alexandet Zverev - BLV PHAN TỪ (HD)
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Rafa_J%C3%B3dar_Espinar_2025.jpg" group-title="Hội Quán TV",[19:30 02/06] Rafael Jodar vs Alexandet Zverev - BLV PHAN TỪ (SD)
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Jo%C3%A3o_Fonseca_%282024_Cary%29_09_%28cropped%29.jpg" group-title="Hội Quán TV",[01:30 03/06] Joao Fonseca vs Jakub Mensik  - BLV PHAN TỪ (FHD)
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Jo%C3%A3o_Fonseca_%282024_Cary%29_09_%28cropped%29.jpg" group-title="Hội Quán TV",[01:30 03/06] Joao Fonseca vs Jakub Mensik  - BLV PHAN TỪ (HD)
@@ -861,6 +871,18 @@ https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e00
 #EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Olimpia+Grudziadz&away=Sandecja+Nowy+Sacz&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F9672_1jeasd5bdm14.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5613_1grwfmbpvb6.png&time=21%3A00&league=Poland+Division+2&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" group-logo="https://apithethao1.vercel.app/banner.png" , 21:00 | ⚽ Olimpia Grudziadz vs Sandecja Nowy Sacz (FLV) [flv]
 https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Arbil&away=Baghdad&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3236_1h6nn5z7q3z.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F11466_1jcwqsav8a25.png&time=22%3A00&league=Iraqi+Premier+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 22:00 | ⚽ Arbil vs Baghdad (HLS) [hls] 
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Arbil&away=Baghdad&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3236_1h6nn5z7q3z.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F11466_1jcwqsav8a25.png&time=22%3A00&league=Iraqi+Premier+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 22:00 | ⚽ Arbil vs Baghdad (FLV) [flv] 
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Arbil&away=Baghdad&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3236_1h6nn5z7q3z.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F11466_1jcwqsav8a25.png&time=22%3A00&league=Iraqi+Premier+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 22:00 | ⚽ Arbil vs Baghdad (HLS) [hls] 
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Arbil&away=Baghdad&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3236_1h6nn5z7q3z.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F11466_1jcwqsav8a25.png&time=22%3A00&league=Iraqi+Premier+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 22:00 | ⚽ Arbil vs Baghdad (FLV) [flv] 
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
 #EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Al+Gharraf&away=Naft+Misan&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68393_1jganf8nxw1m.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F11419_1gr5e3ny6ar.png&time=22%3A00&league=Iraqi+Premier+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 22:00 | ⚽ Al Gharraf vs Naft Misan (HLS) [hls] 
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
@@ -882,14 +904,17 @@ https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc
  
  
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Al+Kahraba&away=Al+Karma&homeLogo=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fteam%2F80e44a97384b61801716ab030c10bfd1.png%21w80&awayLogo=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fteam%2F0aacd83d44fdd8d10edd99a4d1202af6.png%21w80&time=22%3A00&league=Gi%E1%BA%A3i+Ngo%E1%BA%A1i+h%E1%BA%A1ng+Iraq&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Cola TV" group-logo="https://cdn.colatvz.top/wp-content/uploads/2025/07/logo_colatv_square.jpg" , 22:00 | ⚽ Al Kahraba vs Al Karma (HLS) [hls]
-https://live3.egmdispatch.com/live/34kgmio4oo5heko_6c0d60eedbf814b88d831c5eb44a0743_autoChange.m3u8?auth_key=1780426783-0-0-f6a6150c462a8c1d96b4a67c5cfad0e5
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Croatia&away=B%E1%BB%89&homeLogo=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fteam%2F0c383e8deecbd58d5cbdfd324132b91f.png%21w80&awayLogo=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fteam%2Ff40723ed94042ea9ea36bfb5ad4157b2.png%21w80&time=23%3A00&league=Giao+h%E1%BB%AFu+Qu%E1%BB%91c+t%E1%BA%BF&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Cola TV" group-logo="https://cdn.colatvz.top/wp-content/uploads/2025/07/logo_colatv_square.jpg" , 23:00 | ⚽ Croatia vs Bỉ (HLS) [hls]
+https://live05.msdht.app/live/14830711.m3u8
 
-#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Al+Kahraba&away=Al+Karma&homeLogo=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fteam%2F80e44a97384b61801716ab030c10bfd1.png%21w80&awayLogo=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fteam%2F0aacd83d44fdd8d10edd99a4d1202af6.png%21w80&time=22%3A00&league=Gi%E1%BA%A3i+Ngo%E1%BA%A1i+h%E1%BA%A1ng+Iraq&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Cola TV" group-logo="https://cdn.colatvz.top/wp-content/uploads/2025/07/logo_colatv_square.jpg" , 22:00 | ⚽ Al Kahraba vs Al Karma (HLS) [hls]
-https://live05.msdht.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Croatia&away=B%E1%BB%89&homeLogo=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fteam%2F0c383e8deecbd58d5cbdfd324132b91f.png%21w80&awayLogo=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fteam%2Ff40723ed94042ea9ea36bfb5ad4157b2.png%21w80&time=23%3A00&league=Giao+h%E1%BB%AFu+Qu%E1%BB%91c+t%E1%BA%BF&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Cola TV" group-logo="https://cdn.colatvz.top/wp-content/uploads/2025/07/logo_colatv_square.jpg" , 23:00 | ⚽ Croatia vs Bỉ (FLV) [flv]
+https://live05.msdht.app/live/14830711.flv
 
-#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Al+Kahraba&away=Al+Karma&homeLogo=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fteam%2F80e44a97384b61801716ab030c10bfd1.png%21w80&awayLogo=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fteam%2F0aacd83d44fdd8d10edd99a4d1202af6.png%21w80&time=22%3A00&league=Gi%E1%BA%A3i+Ngo%E1%BA%A1i+h%E1%BA%A1ng+Iraq&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Cola TV" , 22:00 | ⚽ Al Kahraba vs Al Karma (FLV) [flv] 
-https://live05.msdht.app/live/87547578.flv
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Croatia&away=B%E1%BB%89&homeLogo=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fteam%2F0c383e8deecbd58d5cbdfd324132b91f.png%21w80&awayLogo=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fteam%2Ff40723ed94042ea9ea36bfb5ad4157b2.png%21w80&time=23%3A00&league=Giao+h%E1%BB%AFu+Qu%E1%BB%91c+t%E1%BA%BF&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Cola TV" , 23:00 | ⚽ Croatia vs Bỉ (HLS) [hls] 
+https://live05.msdht.app/live/14707124.m3u8
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Croatia&away=B%E1%BB%89&homeLogo=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fteam%2F0c383e8deecbd58d5cbdfd324132b91f.png%21w80&awayLogo=https%3A%2F%2Fimg.colatv88xd.cc%2Ffootball%2Fteam%2Ff40723ed94042ea9ea36bfb5ad4157b2.png%21w80&time=23%3A00&league=Giao+h%E1%BB%AFu+Qu%E1%BB%91c+t%E1%BA%BF&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Cola TV" , 23:00 | ⚽ Croatia vs Bỉ (FLV) [flv] 
+https://live05.msdht.app/live/14707124.flv
 
  
  
@@ -900,12 +925,6 @@ https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e00
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9672_1jeasd5bdm14.png",21h00 ngày 02/06 Olimpia Grudziadz vs Sandecja Nowy Sacz (Lương Sơn) BLV LÃO HẠC flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68393_1jganf8nxw1m.png",22h00 ngày 02/06 Al Gharraf vs Naft Misan (Lương Sơn) BLV DƯƠNG CHÍ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68393_1jganf8nxw1m.png",22h00 ngày 02/06 Al Gharraf vs Naft Misan (Lương Sơn) BLV DƯƠNG CHÍ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3121_1gqrkgvmwk1z.png",22h00 ngày 02/06 Al Quwa Al Jawiya vs Zakho (Lương Sơn) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
@@ -918,18 +937,24 @@ https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68393_1jganf8nxw1m.png",22h00 ngày 02/06 Al Gharraf vs Naft Misan (Lương Sơn) BLV VƯƠNG LUÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3236_1h6nn5z7q3z.png",22h00 ngày 02/06 Arbil vs Baghdad (Lương Sơn) BLV HÀN TÍN m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68393_1jganf8nxw1m.png",22h00 ngày 02/06 Al Gharraf vs Naft Misan (Lương Sơn) BLV DƯƠNG CHÍ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3236_1h6nn5z7q3z.png",22h00 ngày 02/06 Arbil vs Baghdad (Lương Sơn) BLV HÀN TÍN flv
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68393_1jganf8nxw1m.png",22h00 ngày 02/06 Al Gharraf vs Naft Misan (Lương Sơn) BLV DƯƠNG CHÍ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3236_1h6nn5z7q3z.png",22h00 ngày 02/06 Arbil vs Baghdad (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3236_1h6nn5z7q3z.png",22h00 ngày 02/06 Arbil vs Baghdad (Lương Sơn) BLV TÂY MÔN KHÁNH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3236_1h6nn5z7q3z.png",22h00 ngày 02/06 Arbil vs Baghdad (Lương Sơn) BLV HÀN TÍN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3236_1h6nn5z7q3z.png",22h00 ngày 02/06 Arbil vs Baghdad (Lương Sơn) BLV HÀN TÍN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -1070,225 +1095,252 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/6fe4d052399b6c2fb995aad8b2bf7ead.png",20h00 ngày 02/06 Malaysia U19 vs Singapore U19 [BLV RÔSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=5f5b923ed842ebf68fca822897fdcb5b&txTime=6a1f4427
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/6fe4d052399b6c2fb995aad8b2bf7ead.png",20h00 ngày 02/06 Malaysia U19 vs Singapore U19 [BLV RÔSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=fbc7591f6e9c44ca5ce64f5b44a18aea&txTime=6a1f4427
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/6fe4d052399b6c2fb995aad8b2bf7ead.png",20h00 ngày 02/06 Malaysia U19 vs Singapore U19 [BLV RÔSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=5f5b923ed842ebf68fca822897fdcb5b&txTime=6a1f4427
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/6fe4d052399b6c2fb995aad8b2bf7ead.png",20h00 ngày 02/06 Malaysia U19 vs Singapore U19 [BLV RÔSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=fbc7591f6e9c44ca5ce64f5b44a18aea&txTime=6a1f4427
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/bc1973af92a8ded23f7e2ee26276c2d1.png",22h00 ngày 02/06 Al Gharraf vs Naft Missan [XUÂN SON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=95983484939bbf2d767486df428932a4&txTime=6a1f458f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/bc1973af92a8ded23f7e2ee26276c2d1.png",22h00 ngày 02/06 Al Gharraf vs Naft Missan [XUÂN SON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=717c080b9938f7f3600c93db28926c5a&txTime=6a1f458f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/bc1973af92a8ded23f7e2ee26276c2d1.png",22h00 ngày 02/06 Al Gharraf vs Naft Missan [XUÂN SON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=95983484939bbf2d767486df428932a4&txTime=6a1f458f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/bc1973af92a8ded23f7e2ee26276c2d1.png",22h00 ngày 02/06 Al Gharraf vs Naft Missan [XUÂN SON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=717c080b9938f7f3600c93db28926c5a&txTime=6a1f458f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=5289bfdf58d13e1646e713f5b6ee94fe&txTime=6a1f458f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=97a889ff207d9c2720fd136ab03aa2dc&txTime=6a1f458f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=5289bfdf58d13e1646e713f5b6ee94fe&txTime=6a1f458f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=97a889ff207d9c2720fd136ab03aa2dc&txTime=6a1f458f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/67d48a3909849c223822ef4ebe521fb0.png",22h00 ngày 02/06 Erbil SC vs Amanat Baghdad [PINKMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=9e44097640b448927c472b2900becf68&txTime=6a1f458f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/67d48a3909849c223822ef4ebe521fb0.png",22h00 ngày 02/06 Erbil SC vs Amanat Baghdad [PINKMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=aa5aea52616fadcd523f15dad74650d8&txTime=6a1f458f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/67d48a3909849c223822ef4ebe521fb0.png",22h00 ngày 02/06 Erbil SC vs Amanat Baghdad [PINKMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=9e44097640b448927c472b2900becf68&txTime=6a1f458f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/67d48a3909849c223822ef4ebe521fb0.png",22h00 ngày 02/06 Erbil SC vs Amanat Baghdad [PINKMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=aa5aea52616fadcd523f15dad74650d8&txTime=6a1f458f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/67d48a3909849c223822ef4ebe521fb0.png",22h00 ngày 02/06 Erbil SC vs Amanat Baghdad [BLV ANH TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1780416319-0-0-d818ff131d2342128d00dbaff01ae478
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/67d48a3909849c223822ef4ebe521fb0.png",22h00 ngày 02/06 Erbil SC vs Amanat Baghdad [BLV ANH TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780416319-0-0-3bff8052cdb4a7f4d4536d1fc6e3007f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/67d48a3909849c223822ef4ebe521fb0.png",22h00 ngày 02/06 Erbil SC vs Amanat Baghdad [BLV ANH TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780416319-0-0-9946eba6b418305ee7bc1be24a59c1d6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/67d48a3909849c223822ef4ebe521fb0.png",22h00 ngày 02/06 Erbil SC vs Amanat Baghdad [BLV ANH TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780416319-0-0-aa53bbd0a9a25a1c9a03df5660d32d01
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [BLV THÓC] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1780416319-0-0-62d520c7a342d29dcc3a145f92fadfac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [BLV THÓC] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1780416319-0-0-d16aaafb1f856919c974b0c4426fbe63
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [BLV THÓC] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1780416319-0-0-ac09ddc6b135f3f4d6124b2c33e7f92b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [BLV THÓC] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1780416319-0-0-8debe0a7f5483d1170e2da568d8ec02b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/00eaf8f7d9dce486b95f77e44a87b08d.png",22h35 ngày 02/06 Hapoel HaEmek vs Hapoel Jerusalem [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780416319-0-0-29d13286cf02a2f965e8d54657b0954a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/00eaf8f7d9dce486b95f77e44a87b08d.png",22h35 ngày 02/06 Hapoel HaEmek vs Hapoel Jerusalem [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780416319-0-0-eeb85e5c8dbca1da1a3d137cf6d7bb2b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/00eaf8f7d9dce486b95f77e44a87b08d.png",22h35 ngày 02/06 Hapoel HaEmek vs Hapoel Jerusalem [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780416319-0-0-f4a0685c751f2dd46cb663686339d68b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/00eaf8f7d9dce486b95f77e44a87b08d.png",22h35 ngày 02/06 Hapoel HaEmek vs Hapoel Jerusalem [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780416319-0-0-d932e93f5d49e62267d12f714663922c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/df525761574c0134a3d80d0496a5bf7b.png",22h00 ngày 02/06 Al-Kahraba Club vs Al Karma [NGƯỜI CÁ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780416679-0-0-0ecb4a8c09c8e701576f459e432bc736
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/df525761574c0134a3d80d0496a5bf7b.png",22h00 ngày 02/06 Al-Kahraba Club vs Al Karma [NGƯỜI CÁ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780416679-0-0-91da76c47bf9fd3627014c71f9d78c3e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/df525761574c0134a3d80d0496a5bf7b.png",22h00 ngày 02/06 Al-Kahraba Club vs Al Karma [NGƯỜI CÁ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780416679-0-0-07fc7b16e10ab1168ab2ffb36d8ee47f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/df525761574c0134a3d80d0496a5bf7b.png",22h00 ngày 02/06 Al-Kahraba Club vs Al Karma [NGƯỜI CÁ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780416679-0-0-913d0947b87f8d080344dc74e627dce2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Quwa Al Jawiya vs Zakho SC [BLV BÉO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=e68bdaaa151da36f4eaedf0d698b944a&txTime=6a1f46f7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Quwa Al Jawiya vs Zakho SC [BLV BÉO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=981ba05164c3f848e64cdc57fed51804&txTime=6a1f46f7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Quwa Al Jawiya vs Zakho SC [BLV BÉO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=e68bdaaa151da36f4eaedf0d698b944a&txTime=6a1f46f7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Quwa Al Jawiya vs Zakho SC [BLV BÉO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=981ba05164c3f848e64cdc57fed51804&txTime=6a1f46f7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [BLV LION] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1780416679-0-0-a462f22e940529601e80af494e8ffe7b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [BLV LION] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780416679-0-0-d395c6a1bc6053d7130c312eee23c676
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [BLV LION] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780416679-0-0-54ce338dc6e42c45da2e7142d18f182e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [BLV LION] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780416679-0-0-609e55b60a8389269cfdf275cd2f6819
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Quwa Al Jawiya vs Zakho SC [BLV PICK] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1780416679-0-0-2bb3772ccbdb3923a0764e2ae828501d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Quwa Al Jawiya vs Zakho SC [BLV PICK] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780416679-0-0-1461846a59c3c8c4599a2cfadc2184ac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Quwa Al Jawiya vs Zakho SC [BLV PICK] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780416679-0-0-a38c73e34db0a4db5cd32a88c85caa6e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Quwa Al Jawiya vs Zakho SC [BLV PICK] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780416679-0-0-3f0653dd854b209f91e875856dec5868
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/00eaf8f7d9dce486b95f77e44a87b08d.png",22h35 ngày 02/06 Hapoel HaEmek vs Hapoel Jerusalem [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780416679-0-0-4f49cc103fa9dc5d478a9d32d0d42d79
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/00eaf8f7d9dce486b95f77e44a87b08d.png",22h35 ngày 02/06 Hapoel HaEmek vs Hapoel Jerusalem [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780416679-0-0-f05603b991bb2613afd7640142515aa9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/00eaf8f7d9dce486b95f77e44a87b08d.png",22h35 ngày 02/06 Hapoel HaEmek vs Hapoel Jerusalem [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780416679-0-0-6d77c874fab1297f8d42ccf429a42db2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/00eaf8f7d9dce486b95f77e44a87b08d.png",22h35 ngày 02/06 Hapoel HaEmek vs Hapoel Jerusalem [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780416679-0-0-3396f07aeac0f316c81c9422948c63b4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/df525761574c0134a3d80d0496a5bf7b.png",22h00 ngày 02/06 Al-Kahraba Club vs Al Karma [ĐỖ TÚ TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1780416679-0-0-eb8c07f8f6be18cec0939ffe6e22781c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/df525761574c0134a3d80d0496a5bf7b.png",22h00 ngày 02/06 Al-Kahraba Club vs Al Karma [ĐỖ TÚ TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1780416679-0-0-0ce85d35a8aeb106175dbb633d939862
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/df525761574c0134a3d80d0496a5bf7b.png",22h00 ngày 02/06 Al-Kahraba Club vs Al Karma [ĐỖ TÚ TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780416679-0-0-526202ee56069dca1ac05d1cb0171147
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/df525761574c0134a3d80d0496a5bf7b.png",22h00 ngày 02/06 Al-Kahraba Club vs Al Karma [ĐỖ TÚ TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780416679-0-0-e09a2b99a3d93456e047dc98da87995d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/bc1973af92a8ded23f7e2ee26276c2d1.png",22h00 ngày 02/06 Al Gharraf vs Naft Missan [BLV A TINH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=c1f5516853310d60b0012ce0e5720f3f&txTime=6a1f46f7
+https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=1c0c6e97fee3266ed30008ea55a1287f&txTime=6a1f4b2f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/bc1973af92a8ded23f7e2ee26276c2d1.png",22h00 ngày 02/06 Al Gharraf vs Naft Missan [BLV A TINH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=68bdb89bb8a650800c8e8fc97e69138d&txTime=6a1f46f7
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=41a3f8edfe46b97c23a9a341b964aade&txTime=6a1f4b2f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/bc1973af92a8ded23f7e2ee26276c2d1.png",22h00 ngày 02/06 Al Gharraf vs Naft Missan [BLV A TINH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=c1f5516853310d60b0012ce0e5720f3f&txTime=6a1f46f7
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=1c0c6e97fee3266ed30008ea55a1287f&txTime=6a1f4b2f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/bc1973af92a8ded23f7e2ee26276c2d1.png",22h00 ngày 02/06 Al Gharraf vs Naft Missan [BLV A TINH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=68bdb89bb8a650800c8e8fc97e69138d&txTime=6a1f46f7
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=41a3f8edfe46b97c23a9a341b964aade&txTime=6a1f4b2f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=67a342c7f21c8be1079dd2827f85ab7e&txTime=6a1f4b2f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=4ba8d8bc9a59cdca84166d0d9544e5da&txTime=6a1f4b2f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=67a342c7f21c8be1079dd2827f85ab7e&txTime=6a1f4b2f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=4ba8d8bc9a59cdca84166d0d9544e5da&txTime=6a1f4b2f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Quwa Al Jawiya vs Zakho SC [BLV PICK] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1780417759-0-0-e4ec3a027485a30eb5c6818129dbbe5b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Quwa Al Jawiya vs Zakho SC [BLV PICK] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780417759-0-0-bac4b2a7bfa11b6b3f0a4c1311e080c4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Quwa Al Jawiya vs Zakho SC [BLV PICK] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780417759-0-0-2b7827cc5e259d0b2651053f8a48af77
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Quwa Al Jawiya vs Zakho SC [BLV PICK] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780417759-0-0-42084e79fa2d1f72ad91ab79d68bce33
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Quwa Al Jawiya vs Zakho SC [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=56c525fad90515ff7ec0741ba623ac37&txTime=6a1f4b2f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Quwa Al Jawiya vs Zakho SC [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=f014bf5fde0ad336c745fcce09d2545a&txTime=6a1f4b2f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Quwa Al Jawiya vs Zakho SC [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=56c525fad90515ff7ec0741ba623ac37&txTime=6a1f4b2f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Quwa Al Jawiya vs Zakho SC [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=f014bf5fde0ad336c745fcce09d2545a&txTime=6a1f4b2f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [BLV LION] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1780417759-0-0-4653d0ed3f43d600ed9a3fafb52fc52b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [BLV LION] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780417759-0-0-207c0abafedc0ec8f8b4ffb0cdcfde55
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [BLV LION] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780417759-0-0-d1dbaad788acc13357df94ea0485fb7d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [BLV LION] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780417759-0-0-f9b2f0ecc870ca25b5faa7deb943bc02
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [QUÂN JK] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1780416679-0-0-92b85a911906d5b29cc0a177bbc3ac9c
+https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1780417759-0-0-5c660a60da61aede15f5436142e69d9c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [QUÂN JK] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1780416679-0-0-cce20b79d42e62d54462441e699e2c58
+https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1780417759-0-0-4a9fc0b1de5c406504ccdaf20e5039f8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [QUÂN JK] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1780416679-0-0-bda1ad7abe209bf1376ce8d021a07e6f
+https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1780417759-0-0-e1ee61b9f482363db219a9854164cde3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [QUÂN JK] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1780416679-0-0-5bd80034bef8279088f7fedcd2ac753c
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1780417759-0-0-bd2adfe593a8fb9c651e3b0ae83cab0a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/00eaf8f7d9dce486b95f77e44a87b08d.png",22h35 ngày 02/06 Hapoel HaEmek vs Hapoel Jerusalem [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780417759-0-0-7fef418285736ddd0ddce79623334444
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/00eaf8f7d9dce486b95f77e44a87b08d.png",22h35 ngày 02/06 Hapoel HaEmek vs Hapoel Jerusalem [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780417759-0-0-0ae66be7030d51f7856015a441d05923
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/00eaf8f7d9dce486b95f77e44a87b08d.png",22h35 ngày 02/06 Hapoel HaEmek vs Hapoel Jerusalem [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780417759-0-0-00647e42adadf83984a9f6711809fa34
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/00eaf8f7d9dce486b95f77e44a87b08d.png",22h35 ngày 02/06 Hapoel HaEmek vs Hapoel Jerusalem [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780417759-0-0-0d390431f232d8e53ec8288e3b38bcfc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [BLV LONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912117_lsd.flv?auth_key=1780417759-0-0-ee88985b9279fdb002d8f4acd5a8e4ac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [BLV LONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912117_lhd.flv?auth_key=1780417759-0-0-9f13b322696ca7143703464f806ab40d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [BLV LONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1780417759-0-0-2e1f661109fa0fd2ac274166c1f59d71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [BLV LONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780417759-0-0-7409ee03564ccfac5e897a2058753fa2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780416679-0-0-dd2ef40c0bc28165e7577ae045a44c04
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780417759-0-0-316bcff6c6897d3a2f3848b46b2893cf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780416679-0-0-a83f204cc4dc1978c214cbd90bc7f5e2
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780417759-0-0-a6a9461b15310e542844d2a62b7cd19b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780416679-0-0-d50febc1f8e264720da8d092cc86f68e
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780417759-0-0-769c835c3a78d545ec999eaa7faca330
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780416679-0-0-3f8e0d03db51d1ca98f8a2f4c64a2dba
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/11064.png",22h00 02/06 Al Kahrabaa vs Al-Karma (Hội Quán) FHD 
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780417759-0-0-d21e32a94a2eec4508d8380521610dc6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [BLV CUỘI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780418119-0-0-9cb0b9f30e595f17313debf5eaf05831
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [BLV CUỘI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780418119-0-0-365fb7c0174dcb9550dfed5a9cf5b023
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [BLV CUỘI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780418119-0-0-46175c941354ee421e69b47536bbebcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [BLV CUỘI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780418119-0-0-67b18a27dae8a1c70f863424dcb2817c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1780418119-0-0-af94d2ed73013ee2cbdb47a5a3f14c9e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1780418119-0-0-94e4bb71f205fa033b1b9a00057bcec0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780418119-0-0-34a446149c70b3e7f421068484f7f6a6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780418119-0-0-d739a50345e4f7a617d76a773451bf3c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780418479-0-0-23f8f546c388de7e4c1c69fcd53f652d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780418479-0-0-fc2de0d9351def8dc200fa6c519152eb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780418479-0-0-11c7a51e87f274cd7d156c68e1d54cd3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780418479-0-0-dc56e19f9d88d6e332a0f4c114c750bf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/bc1973af92a8ded23f7e2ee26276c2d1.png",22h00 ngày 02/06 Al Gharraf vs Naft Missan [XUÂN SON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=b9ddf1d3b52b96fa5b549f4b5a0db5aa&txTime=6a1f4dff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/bc1973af92a8ded23f7e2ee26276c2d1.png",22h00 ngày 02/06 Al Gharraf vs Naft Missan [XUÂN SON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=8a9ffebcec31bc839576600f73c12f00&txTime=6a1f4dff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/bc1973af92a8ded23f7e2ee26276c2d1.png",22h00 ngày 02/06 Al Gharraf vs Naft Missan [XUÂN SON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=b9ddf1d3b52b96fa5b549f4b5a0db5aa&txTime=6a1f4dff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/bc1973af92a8ded23f7e2ee26276c2d1.png",22h00 ngày 02/06 Al Gharraf vs Naft Missan [XUÂN SON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=8a9ffebcec31bc839576600f73c12f00&txTime=6a1f4dff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/67d48a3909849c223822ef4ebe521fb0.png",22h00 ngày 02/06 Erbil SC vs Amanat Baghdad [PINKMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=b523f7c52a4855c424941ba894fd0bc1&txTime=6a1f4dff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/67d48a3909849c223822ef4ebe521fb0.png",22h00 ngày 02/06 Erbil SC vs Amanat Baghdad [PINKMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=b82803f1c9e5208b5fea07c4d2193871&txTime=6a1f4dff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/67d48a3909849c223822ef4ebe521fb0.png",22h00 ngày 02/06 Erbil SC vs Amanat Baghdad [PINKMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=b523f7c52a4855c424941ba894fd0bc1&txTime=6a1f4dff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/67d48a3909849c223822ef4ebe521fb0.png",22h00 ngày 02/06 Erbil SC vs Amanat Baghdad [PINKMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=b82803f1c9e5208b5fea07c4d2193871&txTime=6a1f4dff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=f26ef9cb4bb8f987359e2257fdcc0ccb&txTime=6a1f4dff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=1416b42c0725b63a018d0f5f619795cb&txTime=6a1f4dff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=f26ef9cb4bb8f987359e2257fdcc0ccb&txTime=6a1f4dff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",INTERF: Croatia vs Belgium [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=1416b42c0725b63a018d0f5f619795cb&txTime=6a1f4dff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [BLV THÓC] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1780418479-0-0-5a3c2ff758c90b9c9277d9c3e3f42788
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [BLV THÓC] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1780418479-0-0-6eafd0ee5f9507bea4951d467f7f1e9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [BLV THÓC] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1780418479-0-0-54cfe92b0b909e8cc767de514b090170
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/30f7363263ee8c7e228d5e303e988762.png",IRQ D1: Al Shorta vs Al-Mina'a SC [BLV THÓC] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1780418479-0-0-2d6a0b8d6527d5dce5ce6708bb8bc038
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/67d48a3909849c223822ef4ebe521fb0.png",22h00 ngày 02/06 Erbil SC vs Amanat Baghdad [BLV ANH TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1780418479-0-0-00feb56119f5b2fdbad49ea98e6d4376
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/67d48a3909849c223822ef4ebe521fb0.png",22h00 ngày 02/06 Erbil SC vs Amanat Baghdad [BLV ANH TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780418479-0-0-064db6dd9aca682743c9ea0cfd074b4d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/67d48a3909849c223822ef4ebe521fb0.png",22h00 ngày 02/06 Erbil SC vs Amanat Baghdad [BLV ANH TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780418479-0-0-5a101c74665eb4defd1a4a817c537f33
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/67d48a3909849c223822ef4ebe521fb0.png",22h00 ngày 02/06 Erbil SC vs Amanat Baghdad [BLV ANH TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780418479-0-0-4095a2d59eeb74c967ae918d9bf446ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/00eaf8f7d9dce486b95f77e44a87b08d.png",22h35 ngày 02/06 Hapoel HaEmek vs Hapoel Jerusalem [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780418479-0-0-b1d935e003a6cb052fa216d62606f3a4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/00eaf8f7d9dce486b95f77e44a87b08d.png",22h35 ngày 02/06 Hapoel HaEmek vs Hapoel Jerusalem [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780418479-0-0-0b8dd66d262c0cba704f59da6cb32c64
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/00eaf8f7d9dce486b95f77e44a87b08d.png",22h35 ngày 02/06 Hapoel HaEmek vs Hapoel Jerusalem [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780418479-0-0-9d00a99fd7d23636aca3cab62604001e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/00eaf8f7d9dce486b95f77e44a87b08d.png",22h35 ngày 02/06 Hapoel HaEmek vs Hapoel Jerusalem [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780418479-0-0-7f0f6093785f3e9a60632cf3bbd28bb2
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",23h00 02/06 Croatia vs Belgium (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/11064.png",22h00 02/06 Al Kahrabaa vs Al-Karma (Hội Quán) HD 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",23h00 02/06 Croatia vs Belgium (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/11064.png",22h00 02/06 Al Kahrabaa vs Al-Karma (Hội Quán) SD 
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",23h00 02/06 Croatia vs Belgium (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Rafa_J%C3%B3dar_Espinar_2025.jpg",19h30 02/06 Rafael Jodar vs Alexander Zverev (Hội Quán) FHD 
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",23h00 02/06 Croatia vs Belgium (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Rafa_J%C3%B3dar_Espinar_2025.jpg",19h30 02/06 Rafael Jodar vs Alexander Zverev (Hội Quán) HD 
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",23h00 02/06 Croatia vs Belgium (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Rafa_J%C3%B3dar_Espinar_2025.jpg",19h30 02/06 Rafael Jodar vs Alexander Zverev (Hội Quán) SD 
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",23h00 02/06 Croatia vs Belgium (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/80e44a97384b61801716ab030c10bfd1.png!w80",22h00 02/06 Al Kahraba vs Al Karma
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/87547578.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80",23h00 02/06 Croatia vs Bỉ
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/14830711.m3u8
  
  
 #EXTM3U
