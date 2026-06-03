@@ -246,6 +246,10 @@ jobs:
       - name: Commit and push changes
         run: |
           git config --local user.name "thcoban [bot]"
-          git add m3ufiles/ttthethao.m3u
-          git commit -m "[no ci] Update ttthethao.m3u"
-          git push
+          if git diff --quiet; then
+            echo "No changes detected."
+          else
+            git add m3ufiles/ttthethao.m3u
+            git commit -m "[no ci] Update ttthethao.m3u"
+            git push
+          fi
