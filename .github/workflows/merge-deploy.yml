@@ -52,7 +52,7 @@ jobs:
         run: |
           curl -s -k -f -o bongda.m3u ${{ secrets.URL_BONGDA }}  &  
           curl -s -k -f -L -o vatv.m3u ${{ secrets.URL_VATV }}  & 
-          curl -s -k -f -L -o autonomous.m3u https://autonomous-lime-os2knxzlw8.edgeone.app/  & 
+          # curl -s -k -f -L -o autonomous.m3u https://autonomous-lime-os2knxzlw8.edgeone.app/  & 
           curl -s -k -f -L -o pktv.m3u ${{ secrets.URL_PK_TV }}  & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thethao-base.m3u ${{ secrets.URL_PRIVATE_FILES_REPO }}/thethao-base.m3u  & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/xoilacztv.py  & 
