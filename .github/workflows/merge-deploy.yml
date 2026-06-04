@@ -86,10 +86,13 @@ jobs:
           fi
           
           if [ -f extractm3u.py ]; then
-            python updatem3u.py socolive_dtt.m3u  & 
-            python updatem3u.py luongsontv_dtt.m3u  https://ls10.site/  & 
             python extractm3u.py pktv.m3u new_pktv.m3u 
           fi
+          
+          # if [ -f updatem3u.py ]; then
+          #   python updatem3u.py socolive_dtt.m3u  & 
+          #   python updatem3u.py luongsontv_dtt.m3u  https://ls10.site/  & 
+          # fi
 
           wait
       
