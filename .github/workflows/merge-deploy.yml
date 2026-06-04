@@ -58,6 +58,7 @@ jobs:
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/xoilacztv.py  & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/json2m3u.py & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o extractm3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/extractm3u.py & 
+          curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o keys.json ${{ secrets.URL_PRIVATE_FILES_REPO }}/jsonfiles/keys.json & 
          
           # curl -s -k -f -o socolive_dtt.m3u ${{ secrets.URL_DTT }}/socolive.php  &
           # curl -s -k -f -o luongsontv_dtt.m3u ${{ secrets.URL_DTT }}/luongsontv.php  &
@@ -223,6 +224,7 @@ jobs:
           cp thethao.m3u m3ufiles/
           cp thethao-base.m3u m3ufiles/
           cp ttthethao.m3u m3ufiles/
+          cp keys.json m3ufiles/
           # ls -lh m3ufiles/
           
       - name: Setup Pages
