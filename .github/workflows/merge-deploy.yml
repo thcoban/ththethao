@@ -58,6 +58,7 @@ jobs:
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/xoilacztv.py  & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/json2m3u.py & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o extractm3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/extractm3u.py & 
+          curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o khandaiatv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/khandaiatv.py & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o keys.json ${{ secrets.URL_PRIVATE_FILES_REPO }}/jsonfiles/keys.json & 
          
           # curl -s -k -f -o socolive_dtt.m3u ${{ secrets.URL_DTT }}/socolive.php  &
@@ -72,6 +73,11 @@ jobs:
             # python xoilacztv.py https://xoilacz.vip xoilacztv.m3u  & 
             python xoilacztv.py https://xoilacz.io xoilacztv.m3u  & 
           fi
+          
+          if [ -f khandaiatv.py ]; then
+            python khandaiatv.py
+          fi
+          
           if [ -f json2m3u.py ]; then
             python json2m3u.py ${{ secrets.URL_HOIQUANTV }}  hoiquantv.m3u  1  & 
             python json2m3u.py ${{ secrets.URL_APITHETHAO }}/thiendinhtv  thiendinhtv.m3u  1   & 
@@ -117,6 +123,12 @@ jobs:
           if [ -f xoilacztv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat xoilacztv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+          
+          if [ -f khandaiatv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat khandaiatv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
 
