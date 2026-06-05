@@ -93,7 +93,8 @@ jobs:
           fi
           
           if [ -f extractm3u.py ]; then
-            python extractm3u.py pktv.m3u new_pktv.m3u 
+            python extractm3u.py pktv.m3u new_pktv.m3u & 
+            python extractm3u.py vatv.m3u new_vatv.m3u "Hội Quán, colatv"
           fi
           
           # if [ -f updatem3u.py ]; then
@@ -132,46 +133,53 @@ jobs:
             echo " " >> ttthethao.m3u
           fi
 
-          # merge bottom of vatv.m3u into ttthethao.m3u:
-          if [ -f vatv.m3u ]; then
-            file_name=vatv.m3u
-            line_num=$(awk '/group-title="ColaTV"/ {print NR; exit}' $file_name)
-            echo "'$file_name'. Found on line: $line_num"
+          # # merge bottom of vatv.m3u into ttthethao.m3u:
+          # if [ -f vatv.m3u ]; then
+          #   file_name=vatv.m3u
+          #   line_num=$(awk '/group-title="ColaTV"/ {print NR; exit}' $file_name)
+          #   echo "'$file_name'. Found on line: $line_num"
   
-            if [ -z "$line_num" ]; then
-                echo "Pattern not found"
-            else
-              echo "Found on line: $line_num"
+          #   if [ -z "$line_num" ]; then
+          #       echo "Pattern not found"
+          #   else
+          #     echo "Found on line: $line_num"
               
-              # set first K lines:
-              K=$(( $line_num - 1 ))
-              echo "line_num - 1: $K"
+          #     # set first K lines:
+          #     K=$(( $line_num - 1 ))
+          #     echo "line_num - 1: $K"
               
-              # line count (N):
-              N=$(wc -l < $file_name)
-              echo "'$file_name'. Total lines: $N"
+          #     # line count (N):
+          #     N=$(wc -l < $file_name)
+          #     echo "'$file_name'. Total lines: $N"
               
-              # length of the bottom file:
-              L=$(( $N - $K ))
-              echo "length of the bottom file: $L"
+          #     # length of the bottom file:
+          #     L=$(( $N - $K ))
+          #     echo "length of the bottom file: $L"
               
-              # create bottom of file: 
-              tail -n $L $file_name > bottom_$file_name
+          #     # create bottom of file: 
+          #     tail -n $L $file_name > bottom_$file_name
   
-              if [ -f bottom_$file_name ]; then
-                echo " " >> ttthethao.m3u
-                echo "Merge $bottom_$file_name into main file"
-                cat bottom_$file_name >> ttthethao.m3u
-                echo " " >> ttthethao.m3u
-              fi
-            fi
+          #     if [ -f bottom_$file_name ]; then
+          #       echo " " >> ttthethao.m3u
+          #       echo "Merge $bottom_$file_name into main file"
+          #       cat bottom_$file_name >> ttthethao.m3u
+          #       echo " " >> ttthethao.m3u
+          #     fi
+          #   fi
+          # fi
+
+          if [ -f new_vatv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat new_vatv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
           fi
+
           if [ -f new_pktv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat new_pktv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
-          
+
           if [ -f thiendinhtv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat thiendinhtv.m3u >> ttthethao.m3u
