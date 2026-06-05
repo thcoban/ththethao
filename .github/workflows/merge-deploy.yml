@@ -80,7 +80,7 @@ jobs:
           
           if [ -f json2m3u.py ]; then
             python json2m3u.py ${{ secrets.URL_HOIQUANTV }}  hoiquantv.m3u  1  & 
-            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/thiendinhtv  thiendinhtv.m3u  1   & 
+            # python json2m3u.py ${{ secrets.URL_APITHETHAO }}/thiendinhtv  thiendinhtv.m3u  1   & 
             python json2m3u.py ${{ secrets.URL_APITHETHAO }}/quechoatv  quechoatv.m3u  1   & 
             python json2m3u.py ${{ secrets.URL_APITHETHAO }}/luongsontv  luongsontv.m3u  1   & 
             python json2m3u.py ${{ secrets.URL_APITHETHAO }}/colatv  colatv.m3u  1   & 
