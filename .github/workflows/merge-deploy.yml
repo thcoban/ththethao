@@ -3,11 +3,8 @@ name: Merge and deploy files by schedules
 
 # Controls when the workflow will run
 on:
-  # push:  
-  workflow_call:
-  schedule:
-    # Use https://crontab.guru to customize your schedule.
-    - cron: "3 * * * *"
+  repository_dispatch:
+    types: [trigger-ththethao-from-cronjob]
     
   workflow_dispatch: # Allows you to run the action manually for testing
   
