@@ -51,12 +51,16 @@ jobs:
           curl -s -k -f -L -o vatv.m3u ${{ secrets.URL_VATV }}  & 
           # curl -s -k -f -L -o autonomous.m3u https://autonomous-lime-os2knxzlw8.edgeone.app/  & 
           curl -s -k -f -L -o pktv.m3u ${{ secrets.URL_PK_TV }}  & 
+          curl -s -k -f -L -o linhtv.json ${{ secrets.URL_LINH_REPO }}/channels.json  & 
+          curl -s -k -f -L -o linhtv.m3u ${{ secrets.URL_LINH_REPO }}/full.m3u  & 
+          
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thethao-base.m3u ${{ secrets.URL_PRIVATE_FILES_REPO }}/thethao-base.m3u  & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/xoilacztv.py  & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/json2m3u.py & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o extractm3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/extractm3u.py & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o removem3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/removem3u.py & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o khandaiatv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/khandaiatv.py & 
+          curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o fixjson.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/fixjson.py & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o keys.json ${{ secrets.URL_PRIVATE_FILES_REPO }}/jsonfiles/keys.json & 
          
           # curl -s -k -f -o socolive_dtt.m3u ${{ secrets.URL_DTT }}/socolive.php  &
@@ -97,6 +101,10 @@ jobs:
           
           if [ -f removem3u.py ]; then
             python removem3u.py bongda.m3u new_bongda.m3u & 
+          fi
+          
+          if [ -f fixjson.py ]; then
+            python fixjson.py linhtv.json thethaotv.json
           fi
           
           # if [ -f updatem3u.py ]; then
@@ -241,6 +249,7 @@ jobs:
           cp thethao-base.m3u m3ufiles/
           cp ttthethao.m3u m3ufiles/
           cp keys.json m3ufiles/
+          cp thethaotv.json m3ufiles/
           # ls -lh m3ufiles/
           
       - name: Setup Pages
