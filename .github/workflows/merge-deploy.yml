@@ -217,8 +217,8 @@ jobs:
           cp keys.json m3ufiles/
           cp ttthethao.json m3ufiles/
           
-          # keep xoilacztv.m3u for next use
-          # cp xoilacztv.m3u m3ufiles/
+          # keep current xoilacztv.m3u for next use
+          cp xoilacztv.m3u m3ufiles/
           
           # ls -lh m3ufiles/
           
