@@ -11,6 +11,7 @@ on:
 permissions:
   contents: write # Required to push changes back to the repo
   pages: write # Required to deploy github pages
+  id-token: write # Required to deploy github pages
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
