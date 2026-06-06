@@ -58,6 +58,7 @@ jobs:
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/xoilacztv.py  & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/json2m3u.py & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o extractm3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/extractm3u.py & 
+          curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o removem3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/removem3u.py & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o khandaiatv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/khandaiatv.py & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o keys.json ${{ secrets.URL_PRIVATE_FILES_REPO }}/jsonfiles/keys.json & 
          
@@ -97,6 +98,10 @@ jobs:
             python extractm3u.py vatv.m3u new_vatv.m3u "Hội Quán, ColaTV"
           fi
           
+          if [ -f removem3u.py ]; then
+            python removem3u.py bongda.m3u new_bongda.m3u & 
+          fi
+          
           # if [ -f updatem3u.py ]; then
           #   python updatem3u.py socolive_dtt.m3u  & 
           #   python updatem3u.py luongsontv_dtt.m3u  https://ls10.site/  & 
@@ -115,12 +120,6 @@ jobs:
          
           ls -lh
 
-          if [ -f hoiquantv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat hoiquantv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
-
           if [ -f xoilacztv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat xoilacztv.m3u >> ttthethao.m3u
@@ -130,6 +129,12 @@ jobs:
           if [ -f khandaiatv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat khandaiatv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+
+          if [ -f hoiquantv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat hoiquantv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
 
@@ -222,15 +227,9 @@ jobs:
             echo " " >> ttthethao.m3u
           fi
          
-          if [ -f bongda.m3u ]; then
+          if [ -f new_bongda.m3u ]; then
             echo " " >> ttthethao.m3u
-            cat bongda.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
-
-          if [ -f autonomous.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat autonomous.m3u >> ttthethao.m3u
+            cat new_bongda.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
 
