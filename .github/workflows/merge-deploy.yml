@@ -104,7 +104,7 @@ jobs:
           fi
           
           if [ -f fixjson.py ]; then
-            python fixjson.py linhtv.json thethaotv.json
+            python fixjson.py linhtv.json ttthethao.json
           fi
           
           # if [ -f updatem3u.py ]; then
@@ -249,7 +249,7 @@ jobs:
           cp thethao-base.m3u m3ufiles/
           cp ttthethao.m3u m3ufiles/
           cp keys.json m3ufiles/
-          cp thethaotv.json m3ufiles/
+          cp ttthethao.json m3ufiles/
           # ls -lh m3ufiles/
           
       - name: Setup Pages
