@@ -260,6 +260,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git config --local user.name "thcoban [bot]"
+          git add ttthethao.m3u
           git add m3ufiles/ttthethao.m3u
           if git diff --quiet; then
             echo "No changes detected."
