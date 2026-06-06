@@ -2,9 +2,11 @@ name: Auto merge trigger no.4
 
 # Controls when the workflow will run
 on:
-  schedule:
-    # Use https://crontab.guru to customize your schedule.
-    - cron: "54 6-20 * * *"
+  repository_dispatch:
+    types: [trigger-football-crawl]   # Lắng nghe tín hiệu từ Cron-job.org
+  # schedule:
+  #   # Use https://crontab.guru to customize your schedule.
+  #   - cron: "54 6-20 * * *"
   
   workflow_dispatch: # Allows you to run the action manually for testing
   
