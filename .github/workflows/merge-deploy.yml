@@ -62,9 +62,7 @@ jobs:
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o khandaiatv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/khandaiatv.py & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o fixjson.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/fixjson.py & 
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o keys.json ${{ secrets.URL_PRIVATE_FILES_REPO }}/jsonfiles/keys.json & 
-         
-          # curl -s -k -f -o socolive_dtt.m3u ${{ secrets.URL_DTT }}/socolive.php  &
-          # curl -s -k -f -o luongsontv_dtt.m3u ${{ secrets.URL_DTT }}/luongsontv.php  &
+          curl -s -k -f -L -o xoilacztv.m3u https://thcoban.github.io/ththethao/xoilacztv.m3u  
           
           wait
           ls -lh
@@ -250,6 +248,10 @@ jobs:
           cp ttthethao.m3u m3ufiles/
           cp keys.json m3ufiles/
           cp ttthethao.json m3ufiles/
+          
+          # keep xoilacztv.m3u for next use
+          cp xoilacztv.m3u m3ufiles/
+          
           # ls -lh m3ufiles/
           
       - name: Setup Pages
