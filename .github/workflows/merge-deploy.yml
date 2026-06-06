@@ -64,7 +64,7 @@ jobs:
           curl -s -k -f -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o keys.json ${{ secrets.URL_PRIVATE_FILES_REPO }}/jsonfiles/keys.json & 
           
           # download previous xoilacztv, for next use
-          curl -s -k -f -L -o xoilacztv.m3u https://thcoban.github.io/ththethao/xoilacztv.m3u  
+          # curl -s -k -f -L -o xoilacztv.m3u https://thcoban.github.io/ththethao/xoilacztv.m3u  
           
           wait
           ls -lh
