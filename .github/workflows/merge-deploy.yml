@@ -60,6 +60,7 @@ jobs:
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o extractm3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/extractm3u.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o removem3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/removem3u.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o khandaiatv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/khandaiatv.py & 
+          curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o hoiquantv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/hoiquantv.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o fixjson.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/fixjson.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o keys.json ${{ secrets.URL_PRIVATE_FILES_REPO }}/jsonfiles/keys.json & 
           
@@ -80,24 +81,23 @@ jobs:
           if [ -f khandaiatv.py ]; then
             python khandaiatv.py
           fi
+          if [ -f hoiquantv.py ]; then
+            python hoiquantv.py
+          fi
           
           if [ -f json2m3u.py ]; then
-            python json2m3u.py ${{ secrets.URL_HOIQUANTV }}  hoiquantv.m3u  1  & 
+            # python json2m3u.py ${{ secrets.URL_HOIQUANTV }}  hoiquantv.m3u  1  & 
             # python json2m3u.py ${{ secrets.URL_APITHETHAO }}/thiendinhtv  thiendinhtv.m3u  1   & 
             python json2m3u.py ${{ secrets.URL_APITHETHAO }}/quechoatv  quechoatv.m3u  1   & 
             python json2m3u.py ${{ secrets.URL_APITHETHAO }}/luongsontv  luongsontv.m3u  1   & 
             python json2m3u.py ${{ secrets.URL_APITHETHAO }}/colatv  colatv.m3u  1   & 
             python json2m3u.py ${{ secrets.URL_APITHETHAO }}/gavangtv  gavangtv.m3u  1   & 
             python json2m3u.py ${{ secrets.URL_APITHETHAO }}/cumeotv  cumeotv.m3u  1 
-
-            #python json2m3u.py https://tinyurl.com/buncha2 bunchatv.m3u  1  & 
-            #python json2m3u.py https://tinyurl.com/thapcam2 thapcamfaketv.m3u  1  & 
-            #python json2m3u.py https://tinyurl.com/quechoa quechoatv.m3u  1 
           fi
           
           if [ -f extractm3u.py ]; then
-            python extractm3u.py pktv.m3u new_pktv.m3u & 
-            python extractm3u.py vatv.m3u new_vatv.m3u "Hội Quán, ColaTV"
+            python extractm3u.py pktv.m3u new_pktv.m3u "Cháo Gà, ColaTV" & 
+            python extractm3u.py vatv.m3u new_vatv.m3u "ColaTV"
           fi
           
           if [ -f removem3u.py ]; then
@@ -108,11 +108,6 @@ jobs:
             python fixjson.py linhtv.json ttthethao.json
           fi
           
-          # if [ -f updatem3u.py ]; then
-          #   python updatem3u.py socolive_dtt.m3u  & 
-          #   python updatem3u.py luongsontv_dtt.m3u  https://ls10.site/  & 
-          # fi
-
           wait
       
       # Runs a set of commands using the runners shell
@@ -132,15 +127,15 @@ jobs:
             echo " " >> ttthethao.m3u
           fi
           
-          if [ -f khandaiatv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat khandaiatv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
-
           if [ -f hoiquantv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat hoiquantv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+
+          if [ -f khandaiatv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat khandaiatv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
 
