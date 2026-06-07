@@ -187,17 +187,6 @@ jobs:
             echo " " >> ttthethao.m3u
           fi
 
-          if [ -f socolive_dtt.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat socolive_dtt.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi       
-          if [ -f luongsontv_dtt.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat luongsontv_dtt.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
-         
           if [ -f new_bongda.m3u ]; then
             echo " " >> ttthethao.m3u
             cat new_bongda.m3u >> ttthethao.m3u
@@ -216,7 +205,9 @@ jobs:
           cp ttthethao.m3u m3ufiles/
           cp keys.json m3ufiles/
           cp ttthethao.json m3ufiles/
-          
+          cp hoiquantv.m3u m3ufiles/
+          cp khandaiatv.m3u m3ufiles/
+
           # keep current xoilacztv.m3u for next use
           cp xoilacztv.m3u m3ufiles/
           
