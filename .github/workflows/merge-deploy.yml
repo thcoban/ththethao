@@ -80,7 +80,7 @@ jobs:
           fi
           
           if [ -f testproxies.py ]; then
-            testproxies.py etc/proxies.txt & 
+            python testproxies.py etc/proxies.txt & 
           fi
           
           if [ -f khandaiatv.py ]; then
