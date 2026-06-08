@@ -59,8 +59,7 @@ jobs:
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/json2m3u.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o extractm3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/extractm3u.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o removem3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/removem3u.py & 
-          curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o khandaiatv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/khandaiatv.py & 
-          curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o hoiquantv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/hoiquantv.py & 
+          curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o apisports.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/apisports.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o fixjson.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/fixjson.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o testproxies.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/testproxies.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o keys.json ${{ secrets.URL_PRIVATE_FILES_REPO }}/jsonfiles/keys.json & 
@@ -83,11 +82,9 @@ jobs:
             python testproxies.py etc/proxies.txt & 
           fi
           
-          if [ -f khandaiatv.py ]; then
-            python khandaiatv.py  &
-          fi
-          if [ -f hoiquantv.py ]; then
-            python hoiquantv.py  &
+          if [ -f apisports.py ]; then
+            python apisports.py khandaia khandaiatv.m3u &
+            python apisports.py hoiquan hoiquantv.m3u &
           fi
           
           if [ -f json2m3u.py ]; then
