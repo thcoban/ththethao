@@ -194,18 +194,18 @@ jobs:
           echo " " >> thethao.m3u
           # ls -lh
 
-          cp bongda.m3u m3ufiles/
-          cp thethao.m3u m3ufiles/
-          cp thethao-base.m3u m3ufiles/
-          cp ttthethao.m3u m3ufiles/
-          cp keys.json m3ufiles/
-          cp ttthethao.json m3ufiles/
-          cp hoiquantv.m3u m3ufiles/
-          cp khandaiatv.m3u m3ufiles/
-          cp colatv.m3u m3ufiles/
+          [ -f bongda.m3u ] && cp bongda.m3u m3ufiles/
+          [ -f thethao.m3u ] && cp thethao.m3u m3ufiles/
+          [ -f thethao-base.m3u ] && cp thethao-base.m3u m3ufiles/
+          [ -f ttthethao.m3u ] && cp ttthethao.m3u m3ufiles/
+          [ -f hoiquantv.m3u ] && cp hoiquantv.m3u m3ufiles/
+          [ -f khandaiatv.m3u ] && cp khandaiatv.m3u m3ufiles/
+          [ -f colatv.m3u ] && cp colatv.m3u m3ufiles/
+          [ -f keys.json ] && cp keys.json m3ufiles/
+          [ -f ttthethao.json ] && cp ttthethao.json m3ufiles/
 
           # keep current xoilacztv.m3u for next use
-          cp xoilacztv.m3u m3ufiles/
+          [ -f xoilacztv.m3u ] && cp xoilacztv.m3u m3ufiles/
           
           # ls -lh m3ufiles/
           
@@ -224,14 +224,10 @@ jobs:
         run: |
           git config --local user.name "thcoban [bot]"
           git add ttthethao.m3u
-          # git add m3ufiles/ttthethao.m3u
+
+          if [ git diff --quiet ]; then
+            echo "[test only] No changes detected."
+          fi
           
           git commit -m "[no ci] Update ttthethao.m3u"
-          git push
-          
-          # if git diff --quiet; then
-          #   echo "No changes detected."
-          # else
-          #   git commit -m "[no ci] Update ttthethao.m3u"
-          #   git push
-          # fi
+          git push      
