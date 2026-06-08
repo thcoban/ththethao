@@ -52,7 +52,7 @@ jobs:
           # curl -s -k -L -o autonomous.m3u https://autonomous-lime-os2knxzlw8.edgeone.app/  & 
           curl -s -k -L -o pktv.m3u ${{ secrets.URL_PK_TV }}  & 
           curl -s -k -L -o linhtv.json ${{ secrets.URL_LINH_REPO }}/channels.json  & 
-          curl -s -k -L -o linhtv.m3u ${{ secrets.URL_LINH_REPO }}/full.m3u  & 
+          # curl -s -k -L -o linhtv.m3u ${{ secrets.URL_LINH_REPO }}/full.m3u  & 
           
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thethao-base.m3u ${{ secrets.URL_PRIVATE_FILES_REPO }}/thethao-base.m3u  & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/xoilacztv.py  & 
@@ -88,8 +88,6 @@ jobs:
           fi
           
           if [ -f json2m3u.py ]; then
-            # python json2m3u.py ${{ secrets.URL_HOIQUANTV }}  hoiquantv.m3u  1  & 
-            # python json2m3u.py ${{ secrets.URL_APITHETHAO }}/thiendinhtv  thiendinhtv.m3u  1   & 
             python json2m3u.py ${{ secrets.URL_APITHETHAO }}/quechoatv  quechoatv.m3u  1   & 
             python json2m3u.py ${{ secrets.URL_APITHETHAO }}/luongsontv  luongsontv.m3u  1   & 
             python json2m3u.py ${{ secrets.URL_APITHETHAO }}/colatv  colatv.m3u  1   & 
