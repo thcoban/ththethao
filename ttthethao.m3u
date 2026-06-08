@@ -209,10 +209,16 @@ https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001780911180-0-0
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Anyones_Legend_logo.png/250px-Anyones_Legend_logo.png" group-title="Hội Quán TV" group-logo="https://sv2.hoiquan4.live/logo.png" , 🟢 16:00 08/06 🎮 AL vs. BLG (BLV PHAN CA) [FHD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV" group-logo="https://sv2.hoiquan4.live/logo.png" , 🟢 17:00 08/06 🏐 Việt Nam vs. Indonesia (BLV LƯƠNG BỔNG) [FHD]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV" group-logo="https://sv2.hoiquan4.live/logo.png" , 🟢 17:00 08/06 🏐 Việt Nam vs. Indonesia (BLV LƯƠNG BỔNG) [HD]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Anyones_Legend_logo.png/250px-Anyones_Legend_logo.png" group-title="Hội Quán TV" , 🟢 16:00 08/06 🎮 AL vs. BLG (BLV PHAN CA) [FHD] 
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Anyones_Legend_logo.png/250px-Anyones_Legend_logo.png" group-title="Hội Quán TV" group-logo="https://sv2.hoiquan4.live/logo.png" , 🟢 16:00 08/06 🎮 AL vs. BLG (BLV PHAN CA) [HD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Anyones_Legend_logo.png/250px-Anyones_Legend_logo.png" group-title="Hội Quán TV" , 🟢 16:00 08/06 🎮 AL vs. BLG (BLV PHAN CA) [HD] 
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZijO-GYztHiRRgiq3ga20ca0BlAgufds08Q&s" group-title="Hội Quán TV" , 🟢 16:00 08/06 🥎 Alejandro Davidovich Fokina vs. Mattia Bellucci (BLV PHAN TỪ) [FHD] 
@@ -220,12 +226,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZijO-GYztHiRRgiq3ga20ca0BlAgufds08Q&s" group-title="Hội Quán TV" , 🟢 16:00 08/06 🥎 Alejandro Davidovich Fokina vs. Mattia Bellucci (BLV PHAN TỪ) [HD] 
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV" , 🟡 17:00 08/06 🏐 Việt Nam vs. Indonesia (BLV LƯƠNG BỔNG) [FHD] 
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV" , 🟡 17:00 08/06 🏐 Việt Nam vs. Indonesia (BLV LƯƠNG BỔNG) [HD] 
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png" group-title="Hội Quán TV" , 07:30 09/06 🏀 San Antonio Spurs vs. New York Knicks (BLV PHAN TỪ) [FHD] 
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
@@ -425,12 +425,84 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Flag_of_Belarus_%28variant%29.svg/250px-Flag_of_Belarus_%28variant%29.svg.png" group-title="Hội Quán TV" , 23:30 09/06 ⚽ Belarus vs. Burkina Faso (BLV LƯƠNG BỔNG) [HD] 
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1742.png" group-title="Hội Quán TV" , 00:00 10/06 ⚽ Hungary W vs. Andorra W (BLV THẦN THÔNG) [FHD] 
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1742.png" group-title="Hội Quán TV" , 00:00 10/06 ⚽ Hungary W vs. Andorra W (BLV THẦN THÔNG) [HD] 
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/250px-Flag_of_Azerbaijan.svg.png" group-title="Hội Quán TV" , 01:00 10/06 ⚽ Azerbaijan vs. San Marino (BLV TÁO KINH TẾ ) [FHD] 
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/250px-Flag_of_Azerbaijan.svg.png" group-title="Hội Quán TV" , 01:00 10/06 ⚽ Azerbaijan vs. San Marino (BLV TÁO KINH TẾ ) [HD] 
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1920px-Flag_of_Togo.svg.png" group-title="Hội Quán TV" , 19:00 09/06 ⚽ Togo vs. Benin (BLV PHAN BÁCH) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1920px-Flag_of_Togo.svg.png" group-title="Hội Quán TV" , 19:00 09/06 ⚽ Togo vs. Benin (BLV PHAN BÁCH) [HD] 
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png" group-title="Hội Quán TV" , 06:00 10/06 ⚽ Saudi Arabia vs. Senegal (BLV PHAN QUẨY) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/330px-Flag_of_Saudi_Arabia.svg.png" group-title="Hội Quán TV" , 06:00 10/06 ⚽ Saudi Arabia vs. Senegal (BLV PHAN QUẨY) [HD] 
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="Hội Quán TV" , 08:00 10/06 ⚽ Argentina vs. Iceland (BLV LƯƠNG BỔNG) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="Hội Quán TV" , 08:00 10/06 ⚽ Argentina vs. Iceland (BLV LƯƠNG BỔNG) [HD] 
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1567.png" group-title="Hội Quán TV" , 08:00 10/06 ⚽ Iraq vs. Venezuela (BLV PHAN CA) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1567.png" group-title="Hội Quán TV" , 08:00 10/06 ⚽ Iraq vs. Venezuela (BLV PHAN CA) [HD] 
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/755.png" group-title="Hội Quán TV" , 05:00 10/06 ⚽ Nautico Recife vs. Fortaleza EC (BLV PHAN ANH) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/755.png" group-title="Hội Quán TV" , 05:00 10/06 ⚽ Nautico Recife vs. Fortaleza EC (BLV PHAN ANH) [HD] 
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3989.png" group-title="Hội Quán TV" , 07:00 10/06 ⚽ Birmingham Legion vs. Corpus Christi (BLV PHAN ANH) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3989.png" group-title="Hội Quán TV" , 07:00 10/06 ⚽ Birmingham Legion vs. Corpus Christi (BLV PHAN ANH) [HD] 
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2697.png" group-title="Hội Quán TV" , 20:00 10/06 ⚽ Cape Town City vs. Magesi (BLV PHAN CA) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2697.png" group-title="Hội Quán TV" , 20:00 10/06 ⚽ Cape Town City vs. Magesi (BLV PHAN CA) [HD] 
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/{urlparts[-4]}/thumb/b/bd/250-pxKuPS_logo.svg.png" group-title="Hội Quán TV" , 21:00 10/06 ⚽ KuPS vs. VPS (BLV LƯƠNG BỔNG) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/{urlparts[-4]}/thumb/b/bd/250-pxKuPS_logo.svg.png" group-title="Hội Quán TV" , 21:00 10/06 ⚽ KuPS vs. VPS (BLV LƯƠNG BỔNG) [HD] 
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5535.png" group-title="Hội Quán TV" , 23:00 10/06 ⚽ Pakistan vs. Afghanistan (BLV PHAN QUẨY) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5535.png" group-title="Hội Quán TV" , 23:00 10/06 ⚽ Pakistan vs. Afghanistan (BLV PHAN QUẨY) [HD] 
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/22932.png" group-title="Hội Quán TV" , 23:00 10/06 ⚽ Falu BS vs. Gefle IF (BLV THẦN THÔNG) [FHD] 
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/22932.png" group-title="Hội Quán TV" , 23:00 10/06 ⚽ Falu BS vs. Gefle IF (BLV THẦN THÔNG) [HD] 
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
  
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1280px-Flag_of_Vietnam.svg.png" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 🟡 17:00 08/06 🏐 Việt Nam W vs. Indonesia W (BLV Kaka) [HD]
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1280px-Flag_of_Vietnam.svg.png" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 🟢 17:00 08/06 🏐 Việt Nam W vs. Indonesia W (BLV Núi) [HD]
+https://q9kh24w2ba.yarncdn.live/live/kda-blv-nui/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/G8TPGWBr-pWJEuGxm.png" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 19:00 08/06 ⚽ North Macedonia U21 vs. USA U20 (BLV Rex) [HD]
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
@@ -526,10 +598,10 @@ https://q9kh24w2ba.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e1cb64d87c630dfeebd887026bf5ec2c.png!w80" group-title="Cola TV" group-logo="https://colatv99.live/assets/images/logo.png" , 17:15 08/06 ⚽ Melbourne Victory U21 vs. Juventus Brunswick (BLV MOUNTAIN DEW) [flv]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e1cb64d87c630dfeebd887026bf5ec2c.png!w80" group-title="Cola TV" group-logo="https://colatv99.live/assets/images/logo.png" , 🟡 17:15 08/06 ⚽ Melbourne Victory U21 vs. Juventus Brunswick (BLV MOUNTAIN DEW) [flv]
 https://live05.msdht.app/live/87547578.flv
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e1cb64d87c630dfeebd887026bf5ec2c.png!w80" group-title="Cola TV" , 17:15 08/06 ⚽ Melbourne Victory U21 vs. Juventus Brunswick (BLV MOUNTAIN DEW) [hls]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e1cb64d87c630dfeebd887026bf5ec2c.png!w80" group-title="Cola TV" , 🟡 17:15 08/06 ⚽ Melbourne Victory U21 vs. Juventus Brunswick (BLV MOUNTAIN DEW) [hls]
 https://live05.msdht.app/live/87547578.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0658f58acb5f49f6ac98258f6ab10bdf.png!w80" group-title="Cola TV" group-logo="https://colatv99.live/assets/images/logo.png" , 19:00 08/06 🏀 Marikina Shoemasters vs. Binan Tatak Gel (BLV Cozy) [flv]
@@ -920,10 +992,8 @@ https://live05.msdht.app/live/90725470.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 group-title="XayCon TV" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/78529.png?lm=1774689473", 🟡 08/06-17:00 | guangdong-chenxingjuli-taizhou-morning-tea-dark-horse.JKdI9BNFEV | BLV Quan Vũ
+#EXTINF:-1 group-title="XayCon TV" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/78529.png?lm=1774689473", 🔴 08/06-17:00 | guangdong-chenxingjuli-taizhou-morning-tea-dark-horse.JKdI9BNFEV | BLV Quan Vũ
 https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
-#EXTINF:-1 group-title="XayCon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png", 🟡 08/06-18:00 | phap-nu-u23-my-u20-nu.xXQhnD9OZ4 | BLV A Cỏ
-https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
 #EXTINF:-1 group-title="XayCon TV" tvg-logo="https://media.api-sports.io/football/teams/19155.png", 🟡 08/06-20:00 | thailand-u19-vs-malaysia-u19.nnPJuSWTRY | BLV Rồng Đất
 https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
 #EXTINF:-1 group-title="XayCon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg", 🟡 08/06-20:00 | singapore-u19-vs-brunei-u19.0-tmioQxoP | BLV Tam Mao
@@ -942,6 +1012,8 @@ https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="XayCon TV" tvg-logo="https://media.api-sports.io/football/teams/2.png", 🟡 09/06-02:10 | france-vs-northern-ireland.VaWfL2YuxK | BLV Thợ Lặn
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
+#EXTINF:-1 group-title="XayCon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Sri_Lanka_national_football_teams.png/250px-Sri_Lanka_national_football_teams.png", 🟡 08/06-18:30 | sri-lanka-vs-bhutan.2jS6L6XNjG | BLV A Cỏ
+https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
  
  
 #EXTM3U
@@ -970,21 +1042,24 @@ https://auto.cdnfaster.live/live/sd-6Mwe5jffHqUwN2Deqa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Bangkok+University+Deffo&away=Thaksin+University&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F24454_1hyw2nj48c32.png&time=15%3A30&league=Thailand+University+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 15:30 | ⚽ Bangkok University Deffo vs Thaksin University (HLS) [hls] 
 https://auto.cdnfaster.live/live/sd-6Mwe5jgNbtqTGMkBJk/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Chulalongkorn+University&away=Rajamangala+University+Rattanakosin&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F33101_1h1tcfn4ztz.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F40968_1hzvcc6jxd11.png&time=15%3A45&league=Thailand+University+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 15:45 | ⚽ Chulalongkorn University vs Rajamangala University Rattanakosin (HLS) [hls] 
+https://auto.cdnfaster.live/live/sd-6Mwe5jgNbrdyPsvG9r/playlist.m3u8
+
  
  
 #EXTM3U
-#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780904664.png",15h00 ngày 08/06 Yunnan Qingqiu vs Guangzhou Rock Goal (Lương Sơn) BLV YẾN THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780904664.png",15h00 ngày 08/06 Yunnan Qingqiu vs Guangzhou Rock Goal (Lương Sơn) BLV YẾN THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780904671.png",15h00 ngày 08/06 Yunnan Qingqiu vs Guangzhou Rock Goal (Lương Sơn) BLV LEO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780904671.png",15h00 ngày 08/06 Yunnan Qingqiu vs Guangzhou Rock Goal (Lương Sơn) BLV LEO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780904664.png",15h00 ngày 08/06 Yunnan Qingqiu vs Guangzhou Rock Goal (Lương Sơn) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780904664.png",15h00 ngày 08/06 Yunnan Qingqiu vs Guangzhou Rock Goal (Lương Sơn) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/55926_1grqyq7tbh26.png",15h25 ngày 08/06 Abia Angels FC (W) vs Rivers Angels (W) (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnfaster.live/live/sd-6Mwe5jffHqUwN2Deqa/playlist.m3u8
@@ -1267,86 +1342,86 @@ https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780913480-0-0-d74b8cee561ff894b16c2dfca4b7ecf1
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780914560-0-0-a30ee5e123b5782d867fdc5317afb103
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780913480-0-0-031caebb0600dbe78923452c189f36b2
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780914560-0-0-13e3b5e0e316bc8a0f7c87382ebe3e0e
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780913480-0-0-8e95590896f031fe4bbe28f1a9175f5f
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780914560-0-0-b55c4dfcfc95f80e95ad56837e988fc4
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780913480-0-0-7510125621fa1d83eb7e7eef16a6467a
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780914560-0-0-a958a7d8a22aae2000f02edb89b23a8b
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780913480-0-0-97782a32eb27a894a3875a77d274177e
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780914560-0-0-99755936a7cb0f00e68b67e71a693a46
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780913480-0-0-6aa61466177064ea54fd5b59046fe903
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780914560-0-0-35e64f03846ae9bb0d5e1f73c4097eca
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780913480-0-0-2097456a35dc2a6d9a9ee85614abe8df
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780914560-0-0-408eafcccb23973c48e68460f4e4556c
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780913480-0-0-6181e7306ec9fd454fd818ae79eb85d9
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780914560-0-0-c3b191933c13d87ed04845009e623e67
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780913840-0-0-ec89c542032ac89ec3001552165bb1e7
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780914920-0-0-c2ab69976c69b7c0a0872f5e9340adf1
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780913840-0-0-5dd270a4b67e7e750f21a3f5c48e74e3
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780914920-0-0-0b1c1b9a9e71d3e6e23837552202a6e9
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780913840-0-0-91f48b82999e09b018dc8a7340bb7180
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780914920-0-0-b21853b77ba2ca57c1735f9ee2742f96
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780913840-0-0-9249fa683413c9c22a47da3f5b2b8488
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780914920-0-0-98e4d7ff14aea79dceeb7f3a8fc5880c
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780913840-0-0-93e2786ecba7e063f2df340d6534ea1e
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780914920-0-0-e041615f6437578ff334e32945a779d3
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780913840-0-0-436e3ae98f0c9f3a17ddcfb4aff4a154
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780914920-0-0-d9ee0e9a4a29c2fe2b8870cd3611eaa0
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780913840-0-0-4d9819b1603a8029625868606b9a6dea
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780914920-0-0-460f829d52214a40ef8a3bb24d76fc36
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/1de940e87dc6c6e379d46ed2ac776aa3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780913840-0-0-f00c71b64fdb11d61c9241cec6cae8d8
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780914200-0-0-83b09e50622dad9259861e486f24ee58
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780914200-0-0-399617757fc704b9bc116705a234e04e
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780914200-0-0-590a522eeb14ef2cfe3cf5021fd4a9f1
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780914200-0-0-8b5898fbc627340f71d84a593cc18d95
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780914920-0-0-9f3d032802e3e297fd33111ab3a4f179
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1780914200-0-0-d74b3cab4cfe1613b0f9e8cfbf9a54e5
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1780915280-0-0-50fffeea5ba5eca38625fa8467973148
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780914200-0-0-caa4e669b867fa6c7cfb536546693f60
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780915280-0-0-561c1563d0557027b093bae607f5e96c
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780914200-0-0-e633f9753da78badc1ccdefb6a338c77
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780915280-0-0-1b5da3c3767b5691960d17dc14a4a08a
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780914200-0-0-6ca884cf64cd5a1b4ddec31204439148
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780915280-0-0-48054eb2ad5b9e2325f1a4cb9f681d34
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780915280-0-0-ab72f72406fbac3b557f553c350f4611
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780915280-0-0-0f201a6ea0995d959d23024d91997cdb
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780915280-0-0-0a08e8a58636289d0ec417010094e9d9
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780915280-0-0-8a84655fbe08f77ea6d1c5690b04447b
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780914200-0-0-236dcbc783f9793baeeb6ffa88644b76
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780915280-0-0-c1ea89e09ea3ca5d3547c36d73d73207
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [A CHÈ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780914200-0-0-a6c2e82cab351f75dd35b3cffce2b84e
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780915280-0-0-689ea5df1b3fa88a40b7e17b065c89c4
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [A CHÈ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780914200-0-0-ce1de1dc0e934ad7693d6b3db0dcc287
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780915280-0-0-8a42b8d2f89c9b2bb20c68014b77523c
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260606/9f646b2735609dedb97981cfe26f6dd1.png",15h00 ngày 08/06 Bacolod Masskara vs Pasig City [A CHÈ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780914200-0-0-ec031694ae0f18b6226ec3fea41f5fac
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780915280-0-0-4a952f1c49fc0bc78fffa831e03749a6
  
