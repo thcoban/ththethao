@@ -45,6 +45,8 @@ jobs:
         run: |
           echo "Current datetime: $(date)"
           python helloworld.py
+          git pull
+          
       - name: Download file via curl
         run: |
           curl -s -k -L -o bongda.m3u ${{ secrets.URL_BONGDA }}  &  
