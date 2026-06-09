@@ -201,6 +201,8 @@ jobs:
           [ -f hoiquantv.m3u ] && cp hoiquantv.m3u m3ufiles/
           [ -f khandaiatv.m3u ] && cp khandaiatv.m3u m3ufiles/
           [ -f colatv.m3u ] && cp colatv.m3u m3ufiles/
+          [ -f luongsontv.m3u ] && cp luongsontv.m3u m3ufiles/
+          [ -f quechoatv.m3u ] && cp quechoatv.m3u m3ufiles/
           [ -f keys.json ] && cp keys.json m3ufiles/
           [ -f ttthethao.json ] && cp ttthethao.json m3ufiles/
 
