@@ -229,6 +229,7 @@ jobs:
           git config --local user.name "thcoban [bot]"
           git add ttthethao.m3u
 
+          echo "checking any changes"
           if [ git diff --quiet ]; then
             echo "[test only] No changes detected."
           fi
