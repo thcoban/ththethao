@@ -251,17 +251,17 @@ https://live2.pro2cdnlive.com/live/channel30.flv
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27.png" group-title="Hội Quán TV" group-logo="https://sv2.hoiquan4.live/logo.png" , 🟢 02:45 11/06 ⚽ Portugal vs. Nigeria (BLV PHAN QUẨY) [FHD]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27.png" group-title="Hội Quán TV" group-logo="https://sv2.hoiquan4.live/logo.png" , 🟢 02:45 11/06 ⚽ Portugal vs. Nigeria (BLV PHAN QUẨY) [HD]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10.png" group-title="Hội Quán TV" , 🟢 04:00 11/06 ⚽ England vs. Costa Rica (BLV LƯƠNG BỔNG) [FHD] 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10.png" group-title="Hội Quán TV" group-logo="https://sv2.hoiquan4.live/logo.png" , 🟢 04:00 11/06 ⚽ England vs. Costa Rica (BLV LƯƠNG BỔNG) [FHD]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10.png" group-title="Hội Quán TV" , 🟢 04:00 11/06 ⚽ England vs. Costa Rica (BLV LƯƠNG BỔNG) [HD] 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10.png" group-title="Hội Quán TV" group-logo="https://sv2.hoiquan4.live/logo.png" , 🟢 04:00 11/06 ⚽ England vs. Costa Rica (BLV LƯƠNG BỔNG) [HD]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27.png" group-title="Hội Quán TV" , 🟢 02:45 11/06 ⚽ Portugal vs. Nigeria (BLV PHAN QUẨY) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27.png" group-title="Hội Quán TV" , 🟢 02:45 11/06 ⚽ Portugal vs. Nigeria (BLV PHAN QUẨY) [HD] 
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c3/M%C3%A1laga_CF.png" group-title="Hội Quán TV" , 🟢 02:00 11/06 ⚽ Malaga vs. Las Palmas (BLV PHAN PHÉP) [FHD] 
 https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
@@ -819,14 +819,14 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
  
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10.png" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 🟢 04:00 11/06 ⚽ England vs. Costa Rica (BLV Nhật Tinh Ngao) [HD]
+https://q9kh24w2ba.yarncdn.live/live/kda-blv-nhattinhngao/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c3/M%C3%A1laga_CF.png" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 🟢 02:00 11/06 ⚽ Malaga vs. Las Palmas (BLV Mơ) [HD]
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-mo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27.png" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 🟢 02:45 11/06 ⚽ Portugal vs. Nigeria (BLV Dế Lửa) [HD]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27.png" group-title="Khán Đài A" , 🟢 02:45 11/06 ⚽ Portugal vs. Nigeria (BLV Dế Lửa) [HD] 
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-delua/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10.png" group-title="Khán Đài A" , 🟢 04:00 11/06 ⚽ England vs. Costa Rica (BLV Nhật Tinh Ngao) [HD] 
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-nhattinhngao/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png" group-title="Khán Đài A" , 🟢 02:30 11/06 🏐 Serbia vs. Argentina (BLV Núi) [HD] 
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-nui/playlist.m3u8
@@ -1259,12 +1259,64 @@ https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
  
  
 #EXTM3U
-#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/93_1h8qpskkvvk.png",02h00 ngày 11/06 Malaga vs Las Palmas (Lương Sơn) BLV MAYBACH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Malaga&away=Las+Palmas&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F93_1h8qpskkvvk.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F855_1h71m9g00a1e.png&time=02%3A00&league=Spanish+La+Liga+2&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" group-logo="https://apithethao1.vercel.app/banner.png" , 02:00 | ⚽ Malaga vs Las Palmas (HLS) [hls]
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Malaga&away=Las+Palmas&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F93_1h8qpskkvvk.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F855_1h71m9g00a1e.png&time=02%3A00&league=Spanish+La+Liga+2&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" group-logo="https://apithethao1.vercel.app/banner.png" , 02:00 | ⚽ Malaga vs Las Palmas (FLV) [flv]
+https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Malaga&away=Las+Palmas&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F93_1h8qpskkvvk.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F855_1h71m9g00a1e.png&time=02%3A00&league=Spanish+La+Liga+2&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 02:00 | ⚽ Malaga vs Las Palmas (HLS) [hls] 
 https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/93_1h8qpskkvvk.png",02h00 ngày 11/06 Malaga vs Las Palmas (Lương Sơn) BLV MAYBACH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Malaga&away=Las+Palmas&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F93_1h8qpskkvvk.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F855_1h71m9g00a1e.png&time=02%3A00&league=Spanish+La+Liga+2&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 02:00 | ⚽ Malaga vs Las Palmas (FLV) [flv] 
 https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Portugal&away=Nigeria&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F659_164983333830.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F682_165018846810.png&time=02%3A45&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 02:45 | ⚽ Portugal vs Nigeria (HLS) [hls] 
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Portugal&away=Nigeria&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F659_164983333830.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F682_165018846810.png&time=02%3A45&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 02:45 | ⚽ Portugal vs Nigeria (FLV) [flv] 
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Portugal&away=Nigeria&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F659_164983333830.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F682_165018846810.png&time=02%3A45&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 02:45 | ⚽ Portugal vs Nigeria (HLS) [hls] 
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Portugal&away=Nigeria&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F659_164983333830.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F682_165018846810.png&time=02%3A45&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 02:45 | ⚽ Portugal vs Nigeria (FLV) [flv] 
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Gualaceo+SC&away=Cumbaya+FC&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22232_1j1nxwkwvg2s.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F41786_1jpnydbz202.png&time=03%3A30&league=Ecuador+Campeonato+Serie+B&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 03:30 | ⚽ Gualaceo SC vs Cumbaya FC (HLS) [hls] 
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Gualaceo+SC&away=Cumbaya+FC&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22232_1j1nxwkwvg2s.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F41786_1jpnydbz202.png&time=03%3A30&league=Ecuador+Campeonato+Serie+B&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 03:30 | ⚽ Gualaceo SC vs Cumbaya FC (FLV) [flv] 
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Gualaceo+SC&away=Cumbaya+FC&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22232_1j1nxwkwvg2s.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F41786_1jpnydbz202.png&time=03%3A30&league=Ecuador+Campeonato+Serie+B&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 03:30 | ⚽ Gualaceo SC vs Cumbaya FC (HLS) [hls] 
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Gualaceo+SC&away=Cumbaya+FC&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22232_1j1nxwkwvg2s.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F41786_1jpnydbz202.png&time=03%3A30&league=Ecuador+Campeonato+Serie+B&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 03:30 | ⚽ Gualaceo SC vs Cumbaya FC (FLV) [flv] 
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=England&away=Costa+Rica&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F638_164983421453.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F796_1h5by3q63y2r.png&time=04%3A00&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 04:00 | ⚽ England vs Costa Rica (HLS) [hls] 
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=England&away=Costa+Rica&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F638_164983421453.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F796_1h5by3q63y2r.png&time=04%3A00&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 04:00 | ⚽ England vs Costa Rica (FLV) [flv] 
+https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=England&away=Costa+Rica&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F638_164983421453.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F796_1h5by3q63y2r.png&time=04%3A00&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 04:00 | ⚽ England vs Costa Rica (HLS) [hls] 
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=England&away=Costa+Rica&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F638_164983421453.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F796_1h5by3q63y2r.png&time=04%3A00&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 04:00 | ⚽ England vs Costa Rica (FLV) [flv] 
+https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=England&away=Costa+Rica&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F638_164983421453.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F796_1h5by3q63y2r.png&time=04%3A00&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 04:00 | ⚽ England vs Costa Rica (HLS) [hls] 
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=England&away=Costa+Rica&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F638_164983421453.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F796_1h5by3q63y2r.png&time=04%3A00&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 04:00 | ⚽ England vs Costa Rica (FLV) [flv] 
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+ 
+ 
+#EXTM3U
 #EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/93_1h8qpskkvvk.png",02h00 ngày 11/06 Malaga vs Las Palmas (Lương Sơn) BLV FERNANDO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
@@ -1283,6 +1335,12 @@ https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=
 #EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/659_164983333830.png",02h45 ngày 11/06 Portugal vs Nigeria (Lương Sơn) BLV TÂY MÔN KHÁNH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/93_1h8qpskkvvk.png",02h00 ngày 11/06 Malaga vs Las Palmas (Lương Sơn) BLV MAYBACH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/93_1h8qpskkvvk.png",02h00 ngày 11/06 Malaga vs Las Palmas (Lương Sơn) BLV MAYBACH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/20251115_123051_e0a7ed3f.png",02h30 ngày 11/06 Serbia vs Argentina (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -1859,174 +1917,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV FIREMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1781125160-0-0-b4b2506819ab787be6b852ac7cfed23b
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV FIREMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781125160-0-0-a8428273e7b678c1c9fafef4d2987ecb
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV FIREMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781125160-0-0-0c67e48da454d495c7d258061cd3ee81
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV FIREMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781125160-0-0-617d8d6e4ca326aad3fb0c6f70b7663a
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781125160-0-0-74ab8ec7f1d3838fb8adf6c57d53e552
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781125160-0-0-a3856f3b3d06b71da060fd4e4645c4b5
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781125160-0-0-604795de98a6e0e598efa8dd8dbfe596
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781125160-0-0-15ccf21de18c4899d3694b94bab2815b
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/e7482ed58a92b039ae4a30fba211911f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781125160-0-0-075e60a2201cd22f16b61be78a57240f
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/e7482ed58a92b039ae4a30fba211911f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781125160-0-0-a909d3f544f3729d7937b14778b57fe5
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/e7482ed58a92b039ae4a30fba211911f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781125160-0-0-20fe1303f22a9b1efb005669b7bf3fdb
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/e7482ed58a92b039ae4a30fba211911f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781125160-0-0-18bd24e9ecaf294cfa4d487f500cd2fc
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781125520-0-0-ae3ae50a5c753b3f0325e308ba460ac0
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781125520-0-0-a10c9e89da78e8bd3afe802a10c37c08
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781125520-0-0-1b45ba493c00b3fb437cc378b7f87eab
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781125520-0-0-f59aee0915931dca985fd058baa1470e
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1781125520-0-0-031ca1c938deb4d027fbca200cffe2e9
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1781125520-0-0-4161cb34a87629f88a73ab47730731f6
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781125520-0-0-761247da81def28f22fa368d0ec4f796
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781125520-0-0-02ec3bbdac4575d0093a1359b9c6e22e
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV ALEX] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1781125520-0-0-99b9aa3a4ee704783f0aa0e106c60417
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV ALEX] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1781125520-0-0-1bbfcaf7d7db0d59fb5c960fafa89d96
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV ALEX] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781125520-0-0-5396b26e660fa2592e5837c3bd54b720
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV ALEX] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781125520-0-0-d099889ae9e705b71ec26639adfd8697
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1781125520-0-0-fbe35a2467f19bd1e09b4542cea97c8e
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1781125520-0-0-6c60de0bf3f51b47eb259d496671d26f
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781125520-0-0-6937b55d7927bd09969f2acc4b7c9176
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781125520-0-0-0d146b1333ff7dd8d1d9721c276c9258
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [LOKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1781125520-0-0-0249e65f3ae0f38ddee8c00a656d09e1
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [LOKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1781125520-0-0-f73daabcf716d9195a8dd009cb25e354
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [LOKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781125520-0-0-76b883bde560ef7cac0860338aa33f3d
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [LOKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781125520-0-0-78a59f58c97bc14e14990539bd1ac815
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [CHÍ PHÈO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1781125520-0-0-fe53fefc15672a5dcd3b9ce92a4b36b9
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [CHÍ PHÈO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1781125520-0-0-4dcdffacbdf8cd7a1a53763b4bc6735d
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [CHÍ PHÈO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781125520-0-0-2832db7f29e5ed8ae4ec158c72443ab6
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [CHÍ PHÈO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781125520-0-0-b260ee451c89b8dff265973b68567919
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [PINKMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=1c77b0c414d6024d419ad8e290c0fff5&txTime=6a2a17e0
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [PINKMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=78f119a6da9409d20c4da6964594aa48&txTime=6a2a17e0
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [PINKMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=1c77b0c414d6024d419ad8e290c0fff5&txTime=6a2a17e0
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [PINKMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=78f119a6da9409d20c4da6964594aa48&txTime=6a2a17e0
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV YONE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1781125520-0-0-71aefac5d5a025b9b6b95269bbaca3fd
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV YONE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1781125520-0-0-fcb1d64619b1dff6c60fb963a5c7af6f
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV YONE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1781125520-0-0-f54acdf6ba406a3605055fd5edf6b5ec
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV YONE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1781125520-0-0-334218813621eb7d0808efe779ef34fd
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV A TINH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=f69dc61d3a2f7c3654b533f0a6c7fdb5&txTime=6a2a17e0
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV A TINH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=bc5952e69b504200bc26481f913d3361&txTime=6a2a17e0
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV A TINH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=f69dc61d3a2f7c3654b533f0a6c7fdb5&txTime=6a2a17e0
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV A TINH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=bc5952e69b504200bc26481f913d3361&txTime=6a2a17e0
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [ĐỖ TÚ TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1781125520-0-0-6959820dced9f00b862cbe7f4598613c
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [ĐỖ TÚ TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1781125520-0-0-f911f3edec7c5bae99ca66836795ff85
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [ĐỖ TÚ TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781125520-0-0-9cc0d93270e8a0b5c5978c160abab396
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [ĐỖ TÚ TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781125520-0-0-72c92ee0feafbc7da8b381199580aecb
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=0a15848fc072ce77639307e14b29c18a&txTime=6a2a17e0
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=47592980c00147dc8fdb588061ba0ada&txTime=6a2a17e0
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=0a15848fc072ce77639307e14b29c18a&txTime=6a2a17e0
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=47592980c00147dc8fdb588061ba0ada&txTime=6a2a17e0
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV COZY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1781125880-0-0-3237c329094f8543f828f2e801b1ec6a
@@ -2087,6 +1977,174 @@ https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1781125880-0-0-6ce2
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [LOGAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781125880-0-0-21b2256e875e12068bcc31a04d1f4d26
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV FIREMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1781126240-0-0-6af7687b04d364d3652915869e1cd262
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV FIREMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781126240-0-0-f08d56b00af3c127b64cddabb647c9dc
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV FIREMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781126240-0-0-d5ee23127e2d8b48a3edbaa44d78320a
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV FIREMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781126240-0-0-851f2c2266928832a52817de6c16664d
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781126240-0-0-3a210928a8530ca9ee5920edc22c3e5c
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781126240-0-0-e69f6111c0cdd24a7c762b46193c1f2d
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781126240-0-0-62e1d8cdd059e2e142afcde60380213c
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781126240-0-0-89a1391a59c36ef8eef0b638a8f02bda
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/e7482ed58a92b039ae4a30fba211911f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781126240-0-0-55f39e8b7d38c35f660efc6ae6e1a87a
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/e7482ed58a92b039ae4a30fba211911f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781126240-0-0-3a40cb0c3c2a39ebac8bc1f7f68d6462
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/e7482ed58a92b039ae4a30fba211911f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781126240-0-0-c21087d838bcb073861464918aeb130a
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/e7482ed58a92b039ae4a30fba211911f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781126240-0-0-d35a86a4aeddbcfb7ceb17643f832f73
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [LOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1781126600-0-0-6b81d578e33389cfefcedea19c8cd7a1
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [LOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1781126600-0-0-c53ad45f837a566767593d1ec523ad4a
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [LOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781126600-0-0-a7729747f4f79c9d6cfb7216da336dc3
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [LOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781126600-0-0-f1654ceedd46a84a245c6c6b6696e258
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781126600-0-0-9592aaf2333e275c42d81cafc7c78d43
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781126600-0-0-16c4a17a16b9df251de99c98a31545bf
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781126600-0-0-a324a353c181b413cb2134a1577ce5a1
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781126600-0-0-525209790cbc87677b6323e9caf4c49b
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [LÃO LÂM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1781126600-0-0-22d8587e5c5c980993d7ed4345839a35
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [LÃO LÂM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1781126600-0-0-9ec49ee3d8b8aca8d94cd0a1df45924a
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [LÃO LÂM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781126600-0-0-3b15368510fc62713373eaf55c3fad11
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [LÃO LÂM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781126600-0-0-35e76ad36019eba7cf148270f8410414
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1781126600-0-0-2be3d98f1da70b3b7c7c74ce91bfd2e9
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1781126600-0-0-c32b48c76ec8826538b4766f681bf6fa
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781126600-0-0-3fcda1b83f73941b434106da8d0a3911
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/0903ebb5e23f4413a218b69d62be2ac3.png",02h45 ngày 11/06 Portugal vs Nigeria [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781126600-0-0-1e1a5fe53c38f8be46c8251105634973
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV XO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1781126600-0-0-48377f9efe6320451f335742579cfd22
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV XO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1781126600-0-0-fad4b2d1b281e8847d9a78b02ce4c2e5
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV XO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781126600-0-0-989fdb24579c074b8bc4436d42711a65
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV XO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781126600-0-0-cb6d5262fd7cd81e67cf33a978615a06
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [PINKMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=791fdd43c135cf6d41ac402c8bd409ea&txTime=6a2a1c18
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [PINKMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=6736801e6ba6979a15e0225b1ea8d0e9&txTime=6a2a1c18
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [PINKMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=791fdd43c135cf6d41ac402c8bd409ea&txTime=6a2a1c18
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [PINKMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=6736801e6ba6979a15e0225b1ea8d0e9&txTime=6a2a1c18
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [CHÍ PHÈO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1781126600-0-0-ccbe836517f30db0c5fdf8b34ddabad0
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [CHÍ PHÈO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1781126600-0-0-76489b04a84288391825fde9ec7da4d3
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [CHÍ PHÈO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781126600-0-0-b34349f93237ee405d0c2d68a778bd39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [CHÍ PHÈO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781126600-0-0-19aec7cfb13673d5eb8c5e2aea44c1e2
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV YONE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1781126600-0-0-ecb779f8f845f5b934278516f0a03e02
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV YONE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1781126600-0-0-f205698b4302883b2c80923f2487385a
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV YONE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1781126600-0-0-77b37c1a137d24340f93c0c66abf3cd1
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV YONE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1781126600-0-0-1381922a2d8fba91e6ca86335a2b3c32
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [ĐỖ TÚ TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1781126600-0-0-acf1a43574f3b2535d7fa0d391f40d4f
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [ĐỖ TÚ TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1781126600-0-0-d7987fcaf65ea2d0ac3f085417a54f00
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [ĐỖ TÚ TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781126600-0-0-448b62f2570ca75e66a77d2f4a4ead35
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781126600-0-0-2749ee995e74ee51818ee88be8a6e22a
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV A TINH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=a8195c2498475ea5c3d29a0c2d8f7150&txTime=6a2a1c18
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV A TINH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=a2027858f4ee712573b0365abe24bd7f&txTime=6a2a1c18
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV A TINH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=a8195c2498475ea5c3d29a0c2d8f7150&txTime=6a2a1c18
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/5079dab2421c704b865550a2ed450ccf.png",02h00 ngày 11/06 Malaga vs UD Las Palmas [BLV A TINH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=a2027858f4ee712573b0365abe24bd7f&txTime=6a2a1c18
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV LONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=a06be473baeb006a54e604ddfb94997c&txTime=6a2a1c18
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV LONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=ed6730627a0597359bbc2d82555be7c2&txTime=6a2a1c18
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV LONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=a06be473baeb006a54e604ddfb94997c&txTime=6a2a1c18
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/352a1dc7f2e48fb378afa471464d7ba2.png",03h00 ngày 11/06 England vs Costa Rica [BLV LONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=ed6730627a0597359bbc2d82555be7c2&txTime=6a2a1c18
 #EXTINF:0 group-title="Cola TV" tvg-logo="https://img.colatv88xd.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80",02h45 11/06 Bồ Đào Nha vs Nigeria
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/24561735.m3u8
