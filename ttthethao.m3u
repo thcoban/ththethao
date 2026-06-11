@@ -259,6 +259,12 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/250px-Flag_of_Canada.svg.png" group-title="Hội Quán TV" , 🟢 06:30 11/06 🏐 Canada vs. Đức (BLV TÁO GIÀ) [HD] 
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4009.png" group-title="Hội Quán TV" , 🟡 09:30 11/06 ⚽ Phoenix Rising vs. Louisville City (BLV PHAN ANH) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4009.png" group-title="Hội Quán TV" , 🟡 09:30 11/06 ⚽ Phoenix Rising vs. Louisville City (BLV PHAN ANH) [HD] 
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3674.png" group-title="Hội Quán TV" , 18:00 11/06 ⚽ Nam Dinh vs. Ho Chi Minh (BLV LƯƠNG BỔNG) [FHD] 
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
@@ -270,12 +276,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png" group-title="Hội Quán TV" , 18:00 11/06 ⚽ Ninh Bình vs. Viettel (BLV PHAN QUẨY) [HD] 
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4009.png" group-title="Hội Quán TV" , 🟡 09:30 11/06 ⚽ Phoenix Rising vs. Louisville City (BLV PHAN ANH) [FHD] 
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4009.png" group-title="Hội Quán TV" , 🟡 09:30 11/06 ⚽ Phoenix Rising vs. Louisville City (BLV PHAN ANH) [HD] 
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/6796.png" group-title="Hội Quán TV" , 20:00 11/06 ⚽ Dinamo Stavropol vs. Zenit 2 (BLV TÁO KINH TẾ ) [FHD] 
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
@@ -770,6 +770,9 @@ https://q9kh24w2ba.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Sport_Club_Recife.svg/250px-Sport_Club_Recife.svg.png" group-title="Khán Đài A" , 🟢 07:00 11/06 ⚽ Sport Recife vs. Athletic Club (BLV qrt) [HD] 
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-qrt/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4009.png" group-title="Khán Đài A" , 🟡 09:30 11/06 ⚽ Phoenix Rising vs. Louisville City (BLV qrt) [HD] 
+https://q9kh24w2ba.yarncdn.live/live/kda-blv-qrt/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/250px-Flag_of_Kazakhstan.svg.png" group-title="Khán Đài A" , 11:00 11/06 🏐 Kazakhstan W vs. Liban W (BLV Dế Lửa) [HD] 
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-delua/playlist.m3u8
 
@@ -784,9 +787,6 @@ https://q9kh24w2ba.yarncdn.live/live/kda-blv-beu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/1280px-Flag_of_Slovenia.svg.png" group-title="Khán Đài A" , 19:00 11/06 🏐 Slovenia vs. Ba Lan (BLV Kaka) [HD] 
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4009.png" group-title="Khán Đài A" , 🟡 09:30 11/06 ⚽ Phoenix Rising vs. Louisville City (BLV qrt) [HD] 
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-qrt/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/19155.png" group-title="Khán Đài A" , 16:00 11/06 ⚽ Thailand U19 vs. Cambodia U19 (BLV Isco) [HD] 
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-isco/playlist.m3u8
@@ -870,40 +870,22 @@ https://live05.msdht.app/live/87379114.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80" group-title="Cola TV" , 🟢 07:30 11/06 🏀 New York Knicks vs. San Antonio Spurs (BLV Cozy) [hls]
 https://live05.msdht.app/live/87379114.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/d994ab69186bb52d6b0967e1567a217e.png!w80" group-title="Cola TV" group-logo="https://colatv99.live/assets/images/logo.png" , 🟢 06:00 11/06 🏀 Toronto Tempo vs. Connecticut Sun (BLV POCARI) [flv]
-https://live05.msdht.app/live/19919577.flv
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/d994ab69186bb52d6b0967e1567a217e.png!w80" group-title="Cola TV" , 🟢 06:00 11/06 🏀 Toronto Tempo vs. Connecticut Sun (BLV POCARI) [hls]
-https://live05.msdht.app/live/19919577.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80" group-title="Cola TV" , 🟢 07:00 11/06 ⚽ CLB Sport Club Recife PE vs. CLB Athletic MG (BLV STING) [flv]
-https://live05.msdht.app/live/14707124.flv
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80" group-title="Cola TV" , 🟢 07:00 11/06 ⚽ CLB Sport Club Recife PE vs. CLB Athletic MG (BLV STING) [hls]
-https://live05.msdht.app/live/14707124.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/eed5c3c3c14be4180be2114f1eda1890.png!w80" group-title="Cola TV" , 🟢 07:00 11/06 ⚽ CD El Nacional vs. CD Vargas Torres (BLV 7UP) [flv]
-https://live05.msdht.app/live/78905744.flv
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/eed5c3c3c14be4180be2114f1eda1890.png!w80" group-title="Cola TV" , 🟢 07:00 11/06 ⚽ CD El Nacional vs. CD Vargas Torres (BLV 7UP) [hls]
-https://live05.msdht.app/live/78905744.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4b26de02beeaeb20edc77ee88fda9649.png!w80" group-title="Cola TV" , 🟢 08:00 11/06 ⚽ Vancouver Whitecaps B vs. North Texas (BLV BÍ ĐAO) [flv]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4b26de02beeaeb20edc77ee88fda9649.png!w80" group-title="Cola TV" group-logo="https://colatv99.live/assets/images/logo.png" , 🟢 08:00 11/06 ⚽ Vancouver Whitecaps B vs. North Texas (BLV BÍ ĐAO) [flv]
 https://live05.msdht.app/live/99121525.flv
 
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4b26de02beeaeb20edc77ee88fda9649.png!w80" group-title="Cola TV" , 🟢 08:00 11/06 ⚽ Vancouver Whitecaps B vs. North Texas (BLV BÍ ĐAO) [hls]
 https://live05.msdht.app/live/99121525.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/21275a59516956d98aedc00b97faadc4.png!w80" group-title="Cola TV" , 🟡 09:00 11/06 🏀 Seattle Storm vs. Los Angeles Sparks (BLV ROCKSTAR) [flv]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/21275a59516956d98aedc00b97faadc4.png!w80" group-title="Cola TV" , 🟢 09:00 11/06 🏀 Seattle Storm vs. Los Angeles Sparks (BLV ROCKSTAR) [flv]
 https://live05.msdht.app/live/82054853.flv
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/21275a59516956d98aedc00b97faadc4.png!w80" group-title="Cola TV" , 🟡 09:00 11/06 🏀 Seattle Storm vs. Los Angeles Sparks (BLV ROCKSTAR) [hls]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/21275a59516956d98aedc00b97faadc4.png!w80" group-title="Cola TV" , 🟢 09:00 11/06 🏀 Seattle Storm vs. Los Angeles Sparks (BLV ROCKSTAR) [hls]
 https://live05.msdht.app/live/82054853.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c58609c3e4b548fdf8e9947bd56ce9c4.png!w80" group-title="Cola TV" , 🟡 09:00 11/06 ⚽ Monterey Bay FC vs. Sporting Jax (BLV 7UP) [flv]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c58609c3e4b548fdf8e9947bd56ce9c4.png!w80" group-title="Cola TV" , 🟢 09:00 11/06 ⚽ Monterey Bay FC vs. Sporting Jax (BLV 7UP) [flv]
 https://live05.msdht.app/live/78905744.flv
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c58609c3e4b548fdf8e9947bd56ce9c4.png!w80" group-title="Cola TV" , 🟡 09:00 11/06 ⚽ Monterey Bay FC vs. Sporting Jax (BLV 7UP) [hls]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c58609c3e4b548fdf8e9947bd56ce9c4.png!w80" group-title="Cola TV" , 🟢 09:00 11/06 ⚽ Monterey Bay FC vs. Sporting Jax (BLV 7UP) [hls]
 https://live05.msdht.app/live/78905744.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d3700266512d9e222ed3a87c49876fc9.png!w80" group-title="Cola TV" , 🟡 09:30 11/06 ⚽ Phoenix Rising FC vs. Louisville City FC (BLV GIÀ LÀNG) [flv]
@@ -1148,33 +1130,27 @@ https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=CD+El+Nacional&away=Deportivo+Santo+Domingo&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2300_1j8kbqtwec23.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F41782_1gw49r6kf71z.png&time=07%3A00&league=Ecuador+Campeonato+Serie+B&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" group-logo="https://apithethao1.vercel.app/banner.png" , 07:00 | ⚽ CD El Nacional vs Deportivo Santo Domingo (HLS) [hls]
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=New+York+Knicks&away=San+Antonio+Spurs&homeLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1781109015.png&awayLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1781109016.png&time=07%3A30&league=NBA&sport=B%C3%B3ng+r%E1%BB%95&status=%E2%97%8F+Live" group-title="Lương Sơn TV" group-logo="https://apithethao1.vercel.app/banner.png" , 07:30 | 🏀 New York Knicks vs San Antonio Spurs (HLS) [hls]
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=CD+El+Nacional&away=Deportivo+Santo+Domingo&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2300_1j8kbqtwec23.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F41782_1gw49r6kf71z.png&time=07%3A00&league=Ecuador+Campeonato+Serie+B&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" group-logo="https://apithethao1.vercel.app/banner.png" , 07:00 | ⚽ CD El Nacional vs Deportivo Santo Domingo (FLV) [flv]
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Sport+Club+do+Recife&away=Athletic+Club+MG&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3524_1gxsf3fv7a21.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F38678_1hptb8ckca1p.png&time=07%3A00&league=Brazil+Serie+B&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 07:00 | ⚽ Sport Club do Recife vs Athletic Club MG (HLS) [hls] 
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Sport+Club+do+Recife&away=Athletic+Club+MG&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3524_1gxsf3fv7a21.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F38678_1hptb8ckca1p.png&time=07%3A00&league=Brazil+Serie+B&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 07:00 | ⚽ Sport Club do Recife vs Athletic Club MG (FLV) [flv] 
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Vancouver+Whitecaps+Reserve&away=North+Texas+SC&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F15680_20130921173052.gif&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F39198_202201211617302462.gif&time=08%3A00&league=USA+MLS+Next+Pro+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 08:00 | ⚽ Vancouver Whitecaps Reserve vs North Texas SC (HLS) [hls] 
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-
-#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Vancouver+Whitecaps+Reserve&away=North+Texas+SC&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F15680_20130921173052.gif&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F39198_202201211617302462.gif&time=08%3A00&league=USA+MLS+Next+Pro+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 08:00 | ⚽ Vancouver Whitecaps Reserve vs North Texas SC (FLV) [flv] 
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-
-#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=AC+Boise&away=Richmond+Kickers&homeLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1781136241.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5093_1hy4p5d2r12k.png&time=08%3A35&league=USL+League+One&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 08:35 | ⚽ AC Boise vs Richmond Kickers (HLS) [hls] 
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=AC+Boise&away=Richmond+Kickers&homeLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1781136241.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5093_1hy4p5d2r12k.png&time=08%3A35&league=USL+League+One&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live" group-title="Lương Sơn TV" , 08:35 | ⚽ AC Boise vs Richmond Kickers (FLV) [flv] 
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=New+York+Knicks&away=San+Antonio+Spurs&homeLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1781109015.png&awayLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1781109016.png&time=07%3A30&league=NBA&sport=B%C3%B3ng+r%E1%BB%95&status=%E2%97%8F+Live" group-title="Lương Sơn TV" group-logo="https://apithethao1.vercel.app/banner.png" , 07:30 | 🏀 New York Knicks vs San Antonio Spurs (FLV) [flv]
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
  
  
 #EXTM3U
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781136241.png",08h35 ngày 11/06 AC Boise vs Richmond Kickers (Lương Sơn) BLV MÃ SIÊU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781136241.png",08h35 ngày 11/06 AC Boise vs Richmond Kickers (Lương Sơn) BLV MÃ SIÊU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/15680_20130921173052.gif",08h00 ngày 11/06 Vancouver Whitecaps Reserve vs North Texas SC (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/15680_20130921173052.gif",08h00 ngày 11/06 Vancouver Whitecaps Reserve vs North Texas SC (Lương Sơn) BLV LÝ QUỲ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781109015.png",07h30 ngày 11/06 New York Knicks vs San Antonio Spurs (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
@@ -1193,34 +1169,6 @@ https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9
 #EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/3524_1gxsf3fv7a21.png",07h00 ngày 11/06 Sport Club do Recife vs Athletic Club MG (Lương Sơn) BLV KAKA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781136241.png",08h35 ngày 11/06 AC Boise vs Richmond Kickers (Lương Sơn) BLV MÃ SIÊU m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781136241.png",08h35 ngày 11/06 AC Boise vs Richmond Kickers (Lương Sơn) BLV MÃ SIÊU flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/15680_20130921173052.gif",08h00 ngày 11/06 Vancouver Whitecaps Reserve vs North Texas SC (Lương Sơn) BLV LÝ QUỲ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/15680_20130921173052.gif",08h00 ngày 11/06 Vancouver Whitecaps Reserve vs North Texas SC (Lương Sơn) BLV LÝ QUỲ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.api-sports.io/volley/teams/2198.png",06h00 ngày 11/06 Brazil vs Iran (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.api-sports.io/volley/teams/2198.png",06h00 ngày 11/06 Brazil vs Iran (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.api-sports.io/volley/teams/2198.png",06h00 ngày 11/06 Brazil vs Iran (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.api-sports.io/volley/teams/2198.png",06h00 ngày 11/06 Brazil vs Iran (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 #EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/20251115_123030_666d88b2.png",06h30 ngày 11/06 Canada vs Germany (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -1685,78 +1633,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/2c54dcf0f7b7bee70e3377bd7df5db91.png",07h30 ngày 11/06 New York Knicks vs San Antonio Spurs [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781144960-0-0-4e282214ef5f54496692f649d775c0c9
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/2c54dcf0f7b7bee70e3377bd7df5db91.png",07h30 ngày 11/06 New York Knicks vs San Antonio Spurs [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781144960-0-0-1d35474af937dc8bca55432ce86436fd
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/2c54dcf0f7b7bee70e3377bd7df5db91.png",07h30 ngày 11/06 New York Knicks vs San Antonio Spurs [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781144960-0-0-28b133097ffdde27577610c1d0fe7ca5
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/2c54dcf0f7b7bee70e3377bd7df5db91.png",07h30 ngày 11/06 New York Knicks vs San Antonio Spurs [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781144960-0-0-116a8c7ebfb2b3d9160af9e5e431248b
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1781144960-0-0-f5e5be970d011cd593c3733f712713c4
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781144960-0-0-fbfb6f0e1aae48acfed409b4835d2b26
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781144960-0-0-ea746ba91b6a98371a65ec7d849bf8a3
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781144960-0-0-a44daa161bebf6158de7a83afbcd23e6
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/3dc9ccb753a3a0db9b0882fe23b7b7fd.png",08h00 ngày 11/06 Vancouver Whitecaps Reserve vs North Texas SC [BLV ROBBEN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1781144960-0-0-15859102c3b2a82631a69ad3e29fdba6
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/3dc9ccb753a3a0db9b0882fe23b7b7fd.png",08h00 ngày 11/06 Vancouver Whitecaps Reserve vs North Texas SC [BLV ROBBEN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781144960-0-0-a8f78620b1823c27a0d050ef2da1018d
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/3dc9ccb753a3a0db9b0882fe23b7b7fd.png",08h00 ngày 11/06 Vancouver Whitecaps Reserve vs North Texas SC [BLV ROBBEN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781144960-0-0-734621f1776a9f0173a1157a49ec7ae9
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/3dc9ccb753a3a0db9b0882fe23b7b7fd.png",08h00 ngày 11/06 Vancouver Whitecaps Reserve vs North Texas SC [BLV ROBBEN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781144960-0-0-54d198b05a9f1f54956f0d908ce61bcb
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1781145320-0-0-f6a4d293a665a3b23155ce24373c2be8
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1781145320-0-0-684e8411b83096b2e0abf716930c1630
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781145320-0-0-2d3660b017590c26539f6e05d14411a0
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781145320-0-0-e7ce626fc7eafaf26b33cb9e6f459a03
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV RÔSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=3d7ef6062148dd76575e6b1f566ad1b2&txTime=6a2a6538
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV RÔSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=fb94c76e0b092ececb801c75755e18c1&txTime=6a2a6538
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV RÔSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=3d7ef6062148dd76575e6b1f566ad1b2&txTime=6a2a6538
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV RÔSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=fb94c76e0b092ececb801c75755e18c1&txTime=6a2a6538
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [A PÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1781145352-0-0-31088132f5fc12ae773789b2b19231a4
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [A PÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1781145352-0-0-2386ad84e21995905bc37473aa9166f2
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [A PÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781145352-0-0-c969ba52d8bb924d43294fb050a09324
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [A PÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781145352-0-0-2e5a9ae51245aba6121e7b6f7cf3a20a
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/2c54dcf0f7b7bee70e3377bd7df5db91.png",07h30 ngày 11/06 New York Knicks vs San Antonio Spurs [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1781145680-0-0-aa5745f23995b0a814d7c0c24f2a29d8
@@ -1937,6 +1813,138 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781145680-0-0-e596
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/e7482ed58a92b039ae4a30fba211911f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781145680-0-0-f553c05475f3abb96be9593690e06281
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/3dc9ccb753a3a0db9b0882fe23b7b7fd.png",08h00 ngày 11/06 Vancouver Whitecaps Reserve vs North Texas SC [BLV ROBBEN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1781146040-0-0-35918993b4c72abf5d6ca2abcbec1494
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/3dc9ccb753a3a0db9b0882fe23b7b7fd.png",08h00 ngày 11/06 Vancouver Whitecaps Reserve vs North Texas SC [BLV ROBBEN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781146040-0-0-a0ad4ef143ea3e9980163c1924ae6f48
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/3dc9ccb753a3a0db9b0882fe23b7b7fd.png",08h00 ngày 11/06 Vancouver Whitecaps Reserve vs North Texas SC [BLV ROBBEN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781146040-0-0-f1d476244e3f2d6a961ca1f2682d8866
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/3dc9ccb753a3a0db9b0882fe23b7b7fd.png",08h00 ngày 11/06 Vancouver Whitecaps Reserve vs North Texas SC [BLV ROBBEN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781146040-0-0-acce4e823d91916c1ae9c858ed826b0f
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV HÚP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1781146040-0-0-8287730b2fa6fcbeb286d3a7156be45e
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV HÚP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1781146040-0-0-a798ddc71f10344af28f5acf7c6bf7b6
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV HÚP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1781146040-0-0-7442249296bfbb64dbf422cc93120c95
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV HÚP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1781146040-0-0-a6f78417c678bd5353a993d0871da6c3
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1781146040-0-0-c833e673e429059a2ca6da1a76b0c84a
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781146040-0-0-42dc9bc07c5e4a558ecef162be48079e
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781146040-0-0-3bd783124c653fe4cba314b9a686ebad
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781146040-0-0-6df67564e9a664564040b3ded4337970
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/2c54dcf0f7b7bee70e3377bd7df5db91.png",07h30 ngày 11/06 New York Knicks vs San Antonio Spurs [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781146040-0-0-23027a28c95f092765afca703927f7ac
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/2c54dcf0f7b7bee70e3377bd7df5db91.png",07h30 ngày 11/06 New York Knicks vs San Antonio Spurs [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781146040-0-0-6fb4bbbd96f9766b167f6727484fad17
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/2c54dcf0f7b7bee70e3377bd7df5db91.png",07h30 ngày 11/06 New York Knicks vs San Antonio Spurs [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781146040-0-0-3b891e57057c81166e0b4d0aa0dd34cb
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/2c54dcf0f7b7bee70e3377bd7df5db91.png",07h30 ngày 11/06 New York Knicks vs San Antonio Spurs [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781146040-0-0-fd7298d6d1faf6f59a63bf43de7e83a1
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV RÔSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=422c6959183e2e97607999011ff2a1fc&txTime=6a2a6970
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV RÔSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=ecbf6ce6ffd7add0d9ce6aa034e3327f&txTime=6a2a6970
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV RÔSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=422c6959183e2e97607999011ff2a1fc&txTime=6a2a6970
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV RÔSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ecbf6ce6ffd7add0d9ce6aa034e3327f&txTime=6a2a6970
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/e66cbe8c5abf871d3bcda7944976527b.png",09h30 ngày 11/06 Phoenix Rising FC vs Louisville City FC [DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781146400-0-0-30a4fc44e461f932cdaf7f159f831250
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/e66cbe8c5abf871d3bcda7944976527b.png",09h30 ngày 11/06 Phoenix Rising FC vs Louisville City FC [DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781146400-0-0-9b5d0aaa1bd01df0e268b4930b579d49
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/e66cbe8c5abf871d3bcda7944976527b.png",09h30 ngày 11/06 Phoenix Rising FC vs Louisville City FC [DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781146400-0-0-7a80c373f738cbfdd7bb441596705507
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/e66cbe8c5abf871d3bcda7944976527b.png",09h30 ngày 11/06 Phoenix Rising FC vs Louisville City FC [DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781146400-0-0-432b81d989e169407648f7d836448576
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1781146400-0-0-eaea61b3b81eb335ef6e54ea9f244fb8
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1781146400-0-0-f91ad58cd70caf16fafe0aca6c5149f6
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781146400-0-0-2fa4540bd017695f33717aa0f8b84793
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781146400-0-0-06c3291d3007420150b269b7856b230a
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/e66cbe8c5abf871d3bcda7944976527b.png",09h30 ngày 11/06 Phoenix Rising FC vs Louisville City FC [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1781146400-0-0-1c3922c954b041bcb9744b2310ad09a0
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/e66cbe8c5abf871d3bcda7944976527b.png",09h30 ngày 11/06 Phoenix Rising FC vs Louisville City FC [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781146400-0-0-156ea9990a5f52610f1a187ec61dbd04
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/e66cbe8c5abf871d3bcda7944976527b.png",09h30 ngày 11/06 Phoenix Rising FC vs Louisville City FC [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781146400-0-0-37fa90c1c818ea0717dc286fd8ae724c
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/e66cbe8c5abf871d3bcda7944976527b.png",09h30 ngày 11/06 Phoenix Rising FC vs Louisville City FC [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781146400-0-0-5b6c2436c70bf9064a7fbd7490e0f109
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/e66cbe8c5abf871d3bcda7944976527b.png",09h30 ngày 11/06 Phoenix Rising FC vs Louisville City FC [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=9bb8e238a84cac984921f463ba6f1ae0&txTime=6a2a6970
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/e66cbe8c5abf871d3bcda7944976527b.png",09h30 ngày 11/06 Phoenix Rising FC vs Louisville City FC [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=d13c8a05f6de7e466671afe8ae3bc255&txTime=6a2a6970
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/e66cbe8c5abf871d3bcda7944976527b.png",09h30 ngày 11/06 Phoenix Rising FC vs Louisville City FC [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=9bb8e238a84cac984921f463ba6f1ae0&txTime=6a2a6970
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/e66cbe8c5abf871d3bcda7944976527b.png",09h30 ngày 11/06 Phoenix Rising FC vs Louisville City FC [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=d13c8a05f6de7e466671afe8ae3bc255&txTime=6a2a6970
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV PEWPEW] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1781146400-0-0-d8a925419055a3bcdf1360b742752d97
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV PEWPEW] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1781146400-0-0-09568760442698929ff2384336bbc9bc
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV PEWPEW] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781146400-0-0-e49f40812f6c9331f2c8d007efe60bea
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [BLV PEWPEW] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781146400-0-0-e10097c88d1085c228e28326ef72a5a8
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1781146400-0-0-499955c3bc531a92ccb3d63b0fbdbca6
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1781146400-0-0-cb29d6c36371582e794b696cbd03287a
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781146400-0-0-57b23f30ac8e735a3956647542dfe319
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/895f2d8c52e1327782145f646282fcde.png",09h00 ngày 11/06 Monterey Bay FC vs Sporting Jax [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781146400-0-0-8ca17a7f9351e7beb3bdfb42cd771039
 #EXTINF:0 group-title="Cola TV" tvg-logo="https://img.colatv88xd.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80",07h30 11/06 New York Knicks vs San Antonio Spurs
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/87379114.m3u8
@@ -1952,4 +1960,10 @@ https://live05.msdht.app/live/78905744.m3u8
 #EXTINF:0 group-title="Cola TV" tvg-logo="https://img.colatv88xd.cc/football/team/4b26de02beeaeb20edc77ee88fda9649.png!w80",08h00 11/06 Vancouver Whitecaps B vs North Texas
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/99121525.m3u8
+#EXTINF:0 group-title="Cola TV" tvg-logo="https://img.colatv88xd.cc/basketball/team/21275a59516956d98aedc00b97faadc4.png!w80",09h00 11/06 Seattle Storm vs Los Angeles Sparks
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/82054853.m3u8
+#EXTINF:0 group-title="Cola TV" tvg-logo="https://img.colatv88xd.cc/football/team/c58609c3e4b548fdf8e9947bd56ce9c4.png!w80",09h00 11/06 Monterey Bay FC vs Sporting Jax
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/78905744.m3u8
  
