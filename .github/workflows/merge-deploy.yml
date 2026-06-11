@@ -87,6 +87,7 @@ jobs:
             python apisports.py khandaia khandaiatv.m3u &
             python apisports.py hoiquan hoiquantv.m3u &
             python apisports.py cola colatv.m3u &
+            python apisports.py bugio bugiotv.m3u &
           fi
           
           if [ -f json2m3u.py ]; then
@@ -150,6 +151,11 @@ jobs:
             cat colatv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
+          if [ -f bugiotv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat bugiotv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
 
           if [ -f new_vatv.m3u ]; then
             echo " " >> ttthethao.m3u
@@ -203,6 +209,7 @@ jobs:
           [ -f hoiquantv.m3u ] && cp hoiquantv.m3u m3ufiles/
           [ -f khandaiatv.m3u ] && cp khandaiatv.m3u m3ufiles/
           [ -f colatv.m3u ] && cp colatv.m3u m3ufiles/
+          [ -f bugiotv.m3u ] && cp bugiotv.m3u m3ufiles/
           [ -f luongsontv.m3u ] && cp luongsontv.m3u m3ufiles/
           [ -f quechoatv.m3u ] && cp quechoatv.m3u m3ufiles/
           [ -f keys.json ] && cp keys.json m3ufiles/
