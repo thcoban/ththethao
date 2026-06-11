@@ -325,6 +325,12 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1728.png" group-title="Hội Quán TV" , 09:00 12/06 ⚽ South Korea vs. Czech Republic (BLV THẦN THÔNG) [HD] 
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/250px-Flag_of_Canada.svg.png" group-title="Hội Quán TV" , 🟡 06:30 12/06 🏐 Canada vs. Pháp (BLV PHAN BỐNG) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/250px-Flag_of_Canada.svg.png" group-title="Hội Quán TV" , 🟡 06:30 12/06 🏐 Canada vs. Pháp (BLV PHAN BỐNG) [HD] 
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/db/Logo_CLB_PVF-CAND.svg/250px-Logo_CLB_PVF-CAND.svg.png" group-title="Hội Quán TV" , 18:00 12/06 ⚽ PVF-CAND vs. Bắc Ninh (BLV PHAN MÃ) [FHD] 
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
@@ -522,12 +528,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1163.png" group-title="Hội Quán TV" , 19:00 13/06 ⚽ Ilves vs. Turku PS (BLV LƯƠNG BỔNG) [HD] 
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/250px-Flag_of_Canada.svg.png" group-title="Hội Quán TV" , 🟡 06:30 12/06 🏐 Canada vs. Pháp (BLV PHAN BỐNG) [FHD] 
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/250px-Flag_of_Canada.svg.png" group-title="Hội Quán TV" , 🟡 06:30 12/06 🏐 Canada vs. Pháp (BLV PHAN BỐNG) [HD] 
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV" , 08:00 12/06 🏐 Việt Nam vs. Kazakhstan (BLV PHAN CHỚP) [FHD] 
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
@@ -1379,54 +1379,102 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/5a06814f106600145cec9bb02687a180.png",06h00 ngày 12/06 Indiana Fever W vs Chicago Sky W [BLV HENRY] (Socolive) flv
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142848_7bd3d526.png",14h00 ngày 12/06 Uzbekistan W vs Australia W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781220920-0-0-594cff492ca2529e0ef0db65c0ee7c2c
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/5a06814f106600145cec9bb02687a180.png",06h00 ngày 12/06 Indiana Fever W vs Chicago Sky W [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142848_7bd3d526.png",14h00 ngày 12/06 Uzbekistan W vs Australia W (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781220920-0-0-4f7e7ec47dfe5ffef73f9574b0083324
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/5a06814f106600145cec9bb02687a180.png",06h00 ngày 12/06 Indiana Fever W vs Chicago Sky W [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142848_7bd3d526.png",14h00 ngày 12/06 Uzbekistan W vs Australia W (Chuối Chiên) FHD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781220920-0-0-c08688c7d8c2d0f9d82235dfd0c3c132
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/5a06814f106600145cec9bb02687a180.png",06h00 ngày 12/06 Indiana Fever W vs Chicago Sky W [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142848_7bd3d526.png",14h00 ngày 12/06 Uzbekistan W vs Australia W (Chuối Chiên) FHD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781220920-0-0-4dbfc6178ddbd69c3a8458c8891ee0a5
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) flv
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/20260609_161701_743f1901.png",15h30 ngày 12/06 Ukraine vs Cuba (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1781220920-0-0-5406495afc0df7037becc2952d8947a3
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/20260609_161701_743f1901.png",15h30 ngày 12/06 Ukraine vs Cuba (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781220920-0-0-65b54f642573b4039826a241b6d6d8be
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) m3u8
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/20260609_161701_743f1901.png",15h30 ngày 12/06 Ukraine vs Cuba (Chuối Chiên) FHD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781220920-0-0-be2eaddd026513700251ecedd8b09a79
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/20260609_161701_743f1901.png",15h30 ngày 12/06 Ukraine vs Cuba (Chuối Chiên) FHD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781220920-0-0-01db27a656ae9abe56e6701c0720bd04
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc đau cổ vai gáy] (Socolive) flv
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142849_cf293075.png",17h00 ngày 12/06 Indonesia W vs Lebanon W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781220920-0-0-a23636e759a583c4ed2125f93780f168
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc đau cổ vai gáy] (Socolive) hdFlv
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142849_cf293075.png",17h00 ngày 12/06 Indonesia W vs Lebanon W (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781220920-0-0-d70a0ee59e632b0a053af67bc16839fa
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc đau cổ vai gáy] (Socolive) m3u8
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142849_cf293075.png",17h00 ngày 12/06 Indonesia W vs Lebanon W (Chuối Chiên) FHD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781220920-0-0-f1014e5893e55961112f871b6d2aa6b7
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142849_cf293075.png",17h00 ngày 12/06 Indonesia W vs Lebanon W (Chuối Chiên) FHD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781220920-0-0-30328993198dbc62db2c00cb9b2d9552
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/20250817_040457_e299eb36.png",18h00 ngày 12/06 PVF-CAND vs Bắc Ninh (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781220920-0-0-cd4469a9fe29300275223cbb5d000549
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/20250817_040457_e299eb36.png",18h00 ngày 12/06 PVF-CAND vs Bắc Ninh (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781220920-0-0-6931290a0955254a81f727ef786aed82
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/20250817_040457_e299eb36.png",18h00 ngày 12/06 PVF-CAND vs Bắc Ninh (Chuối Chiên) FHD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781220920-0-0-31d73c7c42db4ac2db821ac721b8a636
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/20250817_040457_e299eb36.png",18h00 ngày 12/06 PVF-CAND vs Bắc Ninh (Chuối Chiên) FHD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781220920-0-0-696f56581b9a80b32bd89592b4823bcf
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/20251115_123036_f7c8e720.png",19h00 ngày 12/06 Japan vs Poland (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/20251115_123036_f7c8e720.png",19h00 ngày 12/06 Japan vs Poland (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/20251115_123036_f7c8e720.png",19h00 ngày 12/06 Japan vs Poland (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/20251115_123036_f7c8e720.png",19h00 ngày 12/06 Japan vs Poland (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142849_e7f6fab3.png",20h00 ngày 12/06 Chinese Taipei W vs South Korea W (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142849_e7f6fab3.png",20h00 ngày 12/06 Chinese Taipei W vs South Korea W (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142849_e7f6fab3.png",20h00 ngày 12/06 Chinese Taipei W vs South Korea W (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142849_e7f6fab3.png",20h00 ngày 12/06 Chinese Taipei W vs South Korea W (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc trèo cây ngô đồng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1781221280-0-0-da74917407fbc6be5e68ca06f5b16167
@@ -1475,6 +1523,54 @@ https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781221280-0-0-8fcc
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781221280-0-0-7fba6de76b5cc3b88e5fc9ef5e9b1685
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/5a06814f106600145cec9bb02687a180.png",06h00 ngày 12/06 Indiana Fever W vs Chicago Sky W [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781222000-0-0-0e4997c3ffddee3cb47e60d2f0cddf7b
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/5a06814f106600145cec9bb02687a180.png",06h00 ngày 12/06 Indiana Fever W vs Chicago Sky W [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781222000-0-0-ec90edc1c9931335bec6437e6bb1144b
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/5a06814f106600145cec9bb02687a180.png",06h00 ngày 12/06 Indiana Fever W vs Chicago Sky W [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781222000-0-0-23ce330bae22cc4e4dcfc3363622575b
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/5a06814f106600145cec9bb02687a180.png",06h00 ngày 12/06 Indiana Fever W vs Chicago Sky W [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781222000-0-0-e44c13fdf5f3863a2e3ff32285cd8192
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc đau cổ vai gáy] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781222000-0-0-d40bd56fd3808b19c293e070f19c12e2
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc đau cổ vai gáy] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781222000-0-0-4d21dbe5951b4dcc8961fddab3002741
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc đau cổ vai gáy] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781222000-0-0-59b000cea59641e68096e6094d46b443
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781222000-0-0-277fec0a2411bcc5cfb5d0f17e9344e6
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781222000-0-0-430fd575f36815ca5a96472e2b8c2ba0
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781222000-0-0-62c2794242a9029a2aa5d7fb94b4e18a
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781222000-0-0-79abc4ccb9ad115249d56b881beb655f
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781222000-0-0-1b25cb827a55b7681e508280a1b4fb79
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1781222000-0-0-98c4bcd11f71263966bea1b600d0e7d7
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781222000-0-0-41e456cab4f4f649f481d85c7a8f10a1
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781222000-0-0-4cfeb25dcce6839e6bff2419fd7510bb
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781222000-0-0-2ddc5fc437f1fbed0c001d28f224c028
 #EXTINF:0 group-title="Cola TV" tvg-logo="https://img.colatv88xd.cc/basketball/team/81e9f1f9d6393fd128c6c014783d9fa2.png!w80",06h00 12/06 Indiana Fever vs Chicago Sky
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/19919577.m3u8
