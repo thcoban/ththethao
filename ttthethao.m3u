@@ -199,6 +199,12 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png" group-title="Hội Quán TV" , 🟢 02:00 12/06 ⚽ Mexico vs. South Africa (BLV LƯƠNG BỔNG) [HD] 
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png" group-title="Hội Quán TV" , 🟢 03:00 12/06 🏐 Đức vs. Italy (BLV PHAN HẢI) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png" group-title="Hội Quán TV" , 🟢 03:00 12/06 🏐 Đức vs. Italy (BLV PHAN HẢI) [HD] 
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/250px-Flag_of_Bulgaria.svg.png" group-title="Hội Quán TV" , 🟢 02:30 12/06 🏐 Bulgaria vs. Iran (BLV TÁO GIÀ) [FHD] 
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
@@ -426,12 +432,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1163.png" group-title="Hội Quán TV" , 19:00 13/06 ⚽ Ilves vs. Turku PS (BLV LƯƠNG BỔNG) [HD] 
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png" group-title="Hội Quán TV" , 🟡 03:00 12/06 🏐 Đức vs. Italy (BLV PHAN HẢI) [FHD] 
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png" group-title="Hội Quán TV" , 🟡 03:00 12/06 🏐 Đức vs. Italy (BLV PHAN HẢI) [HD] 
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/250px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png" group-title="Hội Quán TV" , 06:00 12/06 🏐 Brazil vs. Bỉ (BLV LƯƠNG BỔNG) [FHD] 
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
@@ -1237,6 +1237,36 @@ https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
  
  
 #EXTM3U
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV LƯU BỊ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV LƯU BỊ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV KEVILL m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV KEVILL flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV KAKA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV KAKA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV LỮ BỐ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV LỮ BỐ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png",02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV LEO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
@@ -1441,196 +1471,160 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [DECO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781207600-0-0-c46c9abd575aaa6580b694c94f224b29
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781208680-0-0-a28cabdd7d99a29736b65648f191d79f
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [DECO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781207600-0-0-76ae25c04a31066a9543f09a66986f0f
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781208680-0-0-b4c82bc441f7bd4ee0f74d1cdd4ba283
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [DECO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781207600-0-0-6d6c70a7aba98507ab9a3a1b2c618cd3
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781208680-0-0-755aa0326191680f2fe59d69af65c770
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [DECO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781207600-0-0-9563fe286683045c5ad3bc3c5b3f489b
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781208680-0-0-4f18e33e47add639464d7cf2157521b3
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=7c58f599f1645a47531d46de501e44a8&txTime=6a2b5cb8
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=d88fa6370a28bd297be1de48bd53d19f&txTime=6a2b5cb8
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=7c58f599f1645a47531d46de501e44a8&txTime=6a2b5cb8
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=d88fa6370a28bd297be1de48bd53d19f&txTime=6a2b5cb8
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV MESSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781207960-0-0-bc529527411951526d68346f7520ff99
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781209040-0-0-79ea2ec0b3dd56b54929d27dcd4eb928
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV MESSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781207960-0-0-608baad84f110f773d5e5d900f277695
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781209040-0-0-97263edc90fee8a59872c91a30b3b3ca
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV MESSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781207960-0-0-cc1fcf3d6fa6adefe23b6deec65e0062
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781209040-0-0-62b30ed4c054745182bb678ee357e32b
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV MESSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781207960-0-0-ac4728f20f4f53d0e05c52e06ad4a19b
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781209040-0-0-b5f24d8380a01b1b2aa061a3dde5e013
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781207960-0-0-9bb7c6f847b7b8193a1dbe05fc0a71c9
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781209040-0-0-2b015f3ffb6d4e845e8fabe09fafffc6
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781207960-0-0-a3a22942b4c0fefe2ecbf23943eb9cdc
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781209040-0-0-f741d8546d0d8799a607481e0513b363
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781207960-0-0-98de4d67bdcf72753266074f329c70c4
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781209040-0-0-13a0e427e666695184dc239a4effb364
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781207960-0-0-d86335612669fefe13613967d36b8662
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781209040-0-0-f78192f044e3a272ff2af8c70c04b43f
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=c17610eab7dca5ff6a39fa9a3878eaeb&txTime=6a2b59e8
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=f28f2a5da462a56e180cb8371b5f574d&txTime=6a2b5e20
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV TOMMY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=3264b7e876b510d7b324acf122f506f7&txTime=6a2b59e8
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=834d75cae74165836f903d8acb747406&txTime=6a2b5e20
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=c17610eab7dca5ff6a39fa9a3878eaeb&txTime=6a2b59e8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=f28f2a5da462a56e180cb8371b5f574d&txTime=6a2b5e20
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=3264b7e876b510d7b324acf122f506f7&txTime=6a2b59e8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=834d75cae74165836f903d8acb747406&txTime=6a2b5e20
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [RICKHANTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=ebaf64778a4a59416a4c772352bfeae3&txTime=6a2b59e8
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=031051ff7b8174b55b297061a85338f0&txTime=6a2b5e20
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [RICKHANTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=343a1758b97bae6ee47f92c57d141a4a&txTime=6a2b59e8
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=e42a0f475e6d0274548d6c38105f7d8a&txTime=6a2b5e20
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [RICKHANTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=ebaf64778a4a59416a4c772352bfeae3&txTime=6a2b59e8
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=031051ff7b8174b55b297061a85338f0&txTime=6a2b5e20
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [RICKHANTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=343a1758b97bae6ee47f92c57d141a4a&txTime=6a2b59e8
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=e42a0f475e6d0274548d6c38105f7d8a&txTime=6a2b5e20
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781207960-0-0-c3c2d67b3690eb1d341850c008055ef8
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781209040-0-0-8cd576eba959883ab745f0e8d5eed304
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781207960-0-0-1a5d5f18ab230f858c3f33b40f7ce494
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781209040-0-0-0ac8b472d59027bc50be4deab5f418d8
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781207960-0-0-71fc997771499686cad9001855a39a5f
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781209040-0-0-88399db912a01803012be4a48b692903
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781207960-0-0-feb92dab00b33c203ee9f57928d46b6f
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=1da70bdedf8781afe18e9ef39bba4e6e&txTime=6a2b5b50
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=495085929fb81f61dddc51a0e00c689d&txTime=6a2b5b50
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=1da70bdedf8781afe18e9ef39bba4e6e&txTime=6a2b5b50
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=495085929fb81f61dddc51a0e00c689d&txTime=6a2b5b50
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV CÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1781208264-0-0-ec12dca675a4a053eabc5d687849a7c4
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV CÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1781208264-0-0-80815ac5d69dc245d339fcec98f1d0ad
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV CÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1781208264-0-0-5212bd212b5c6f440c86cee8fc7e97b5
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV CÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1781208264-0-0-25da39fcb1527751bc84409adb7a07b8
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781208320-0-0-ed5268a546346fbba1c37954373a1400
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781208320-0-0-d191872c3b016ab335a26124153924ce
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781208320-0-0-864f3d563970ae679d0ceefcc9a6e966
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781208320-0-0-097e04b5aa419f989a74fb40777cc133
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781209040-0-0-114b20a99d174f075f23994aa25a0acb
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1781208320-0-0-2700cf406fa9780daecf4897fd531f42
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1781209400-0-0-8c4a0db99b4b6cdbecd43bdb5e2a971c
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV Củ Cải] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781208320-0-0-d49f9b4e8e5b7c880b06e7aafeb140b6
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781209400-0-0-48021603cf2971e2d95924d2d7b693f9
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV Củ Cải] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781208320-0-0-7bb6c96f81db8484e48080d83ac8fd11
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781209400-0-0-8ef0de417bbcd47237c484c8fc1ada16
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781208320-0-0-2f3b569ea6f48957eb6a72a2a167f530
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781209400-0-0-973f160019b1001aa0261b5684dde001
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=6ad74c63cb3f88ee6d6d8c0c851bf5b8&txTime=6a2b5f88
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=3fb7e904bf0ebc9dac94beffbb731b6a&txTime=6a2b5f88
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=6ad74c63cb3f88ee6d6d8c0c851bf5b8&txTime=6a2b5f88
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=3fb7e904bf0ebc9dac94beffbb731b6a&txTime=6a2b5f88
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [CR Bưởi] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1781208320-0-0-d6689cd60abcf831fbf70946155bd091
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1781209437-0-0-329687de661868f0f6707271453eea6b
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [CR Bưởi] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1781208320-0-0-a13ab6c6658b75c02e8a60e5e2879524
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1781209437-0-0-e603cc5fd14a4e5617d7b4430efca292
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [CR Bưởi] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1781208320-0-0-31417ff1b7a7e9afc18eb017cb4a83de
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1781209437-0-0-606fd70bdaf303e3839f22b8b2872238
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [CR Bưởi] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1781208320-0-0-c64d6cc385ebb6551207bddb3e5ea398
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [THẠCH TÚ] (Socolive) flv
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1781209437-0-0-ffb7fbb8a65f8e052094050df5fd73ab
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1781208320-0-0-e68f480a242ef6b50697a6024504a6a9
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [THẠCH TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781209400-0-0-661e203acfa3b7b0494d8c604772625e
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781208320-0-0-8b7f8eb8c6f0541b1a39c81f2af66823
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [THẠCH TÚ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781209400-0-0-452cb9670f49dd191d92d9fea6734b5a
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781208320-0-0-12201b292c867535473cd0cc03376f30
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781209400-0-0-bb317bc57dbf63839aadea9aafd69eda
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781208320-0-0-14df3023c3087c10cede1e437c0a08ed
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781209400-0-0-789858a169f9abbc1c446290a4c1eb01
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1781208320-0-0-2dd7df30a97f02eed62848ee93013616
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1781209443-0-0-58a2c36c37b4d4de1138df62dfda7a8b
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV ĐỐM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781208320-0-0-e1c913496467cc1b2926e900b9820ad5
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781209443-0-0-84cdac0b47dd7f3d52cdd32a56ab9ef4
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781208320-0-0-dafd8acf7ab0ceb62d642171e9ea0543
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781209443-0-0-80fcb33364161d53ec7b3e9e0f0cdd46
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [BLV ĐỐM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781208320-0-0-3233fd576a88f779dc601670b8b4b471
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV LONG] (Socolive) flv
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781209443-0-0-4ab91bb5dc6d47e63580deb0469860d8
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [THẠCH TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=a2a7c369246c23019703011a4eaacfe0&txTime=6a2b5b50
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV LONG] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1781209400-0-0-dca4917b7d973afb4794938e5ea59498
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [THẠCH TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=9c30a1f03c9196d9ac1c0d0286659236&txTime=6a2b5b50
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV LONG] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781209400-0-0-4e98d766a74e4927a5c41b5a65e6f1bb
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [THẠCH TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=a2a7c369246c23019703011a4eaacfe0&txTime=6a2b5b50
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV LONG] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781209400-0-0-8348b732d7f85af92222251022412986
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/73391d6bf156936cc20ec5108f6291d4.png",02h00 ngày 12/06 Mexico vs South Africa [THẠCH TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=9c30a1f03c9196d9ac1c0d0286659236&txTime=6a2b5b50
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV VIP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=3346eec706f79a40bb1e21207fbebcf0&txTime=6a2b5b79
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV VIP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=de32a71c621ff2710c4268673358dbb9&txTime=6a2b5b79
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV VIP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=3346eec706f79a40bb1e21207fbebcf0&txTime=6a2b5b79
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV VIP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=de32a71c621ff2710c4268673358dbb9&txTime=6a2b5b79
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1781208320-0-0-1d2004f98fa5a6192d6fa3234fc5f243
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1781208320-0-0-7a518b5d0dee8b11d6883daa32a084c8
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781208320-0-0-b095f6cecc1ff6b9d2cdd4780c22d3ce
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781208320-0-0-b88f81c8afc55bcf4b1230aa70b05d65
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781209400-0-0-c40a0cc9a9c626ea6da69195f6696db2
 #EXTINF:0 group-title="Cola TV" tvg-logo="https://img.colatv88xd.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",02h00 12/06 Mexico vs Nam Phi
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/97312754.m3u8
