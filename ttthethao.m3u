@@ -341,6 +341,12 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1728.png" group-title="Hội Quán TV" , 09:00 12/06 ⚽ South Korea vs. Czech Republic (BLV THẦN THÔNG) [HD] 
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV" , 🟡 08:00 12/06 🏐 Việt Nam vs. Kazakhstan (BLV PHAN CHỚP) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV" , 🟡 08:00 12/06 🏐 Việt Nam vs. Kazakhstan (BLV PHAN CHỚP) [HD] 
+https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/db/Logo_CLB_PVF-CAND.svg/250px-Logo_CLB_PVF-CAND.svg.png" group-title="Hội Quán TV" , 18:00 12/06 ⚽ PVF-CAND vs. Bắc Ninh (BLV PHAN MÃ) [FHD] 
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
@@ -538,12 +544,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1163.png" group-title="Hội Quán TV" , 19:00 13/06 ⚽ Ilves vs. Turku PS (BLV LƯƠNG BỔNG) [HD] 
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV" , 🟡 08:00 12/06 🏐 Việt Nam vs. Kazakhstan (BLV PHAN CHỚP) [FHD] 
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV" , 🟡 08:00 12/06 🏐 Việt Nam vs. Kazakhstan (BLV PHAN CHỚP) [HD] 
-https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/250px-Flag_of_Iran.svg.png" group-title="Hội Quán TV" , 11:00 12/06 🏐 Iran vs. Hồng Kông (BLV TÁO GIÀ) [FHD] 
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
@@ -1287,6 +1287,12 @@ https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
  
  
 #EXTM3U
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781205805.png",06h30 ngày 12/06 Atlanta Dream (W) vs New York Liberty (W) (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781205805.png",06h30 ngày 12/06 Atlanta Dream (W) vs New York Liberty (W) (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/24795_1h3r9mz2341f.png",07h00 ngày 12/06 Dallas(W) vs Fort Worth Vaqueras (W) (Lương Sơn) BLV KAKA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
@@ -1299,12 +1305,6 @@ https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271d
 #EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/65536_1hyqf05n0g1x.PNG",06h00 ngày 12/06 Utah United vs Flatirons Rush (Lương Sơn) BLV SHIN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781205805.png",06h30 ngày 12/06 Atlanta Dream (W) vs New York Liberty (W) (Lương Sơn) BLV VÕ TÒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781205805.png",06h30 ngày 12/06 Atlanta Dream (W) vs New York Liberty (W) (Lương Sơn) BLV VÕ TÒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Chuối Chiên TV" tvg-logo="https://media.api-sports.io/volley/teams/2198.png",06h00 ngày 12/06 Brazil vs Belgium (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -1729,90 +1729,6 @@ https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/angaohd.flv
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781225960-0-0-7114e987608553b4cc25cede68f820bf
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781225960-0-0-52ab9eb5f9943cd967b0e0dd4ef8ab82
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781225960-0-0-277a6b42658696bd0a4a12a1ca485ae5
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781225960-0-0-6299c9ac1e184767857ed54ce6f42e90
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1781225960-0-0-a0cbe9dbc14e52b3ef5ca3c2b75b9860
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781225960-0-0-13974fc711eed20c6f6be94d9fc859e5
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781225960-0-0-f40394be57d82fc640b90e505e46362a
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781225960-0-0-316eed5fd977e7a8f396ea68f2b7a5d0
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1781225960-0-0-75b62badcfaf1d6cda2b7d5d116c9a94
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1781225960-0-0-bec3fd916c3671ee0a2f079b5f72fc11
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1781225960-0-0-20c295a4882ad75c1d007a9ba9012490
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1781225960-0-0-086068766778dd6ab953cf6615f30e44
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/5a06814f106600145cec9bb02687a180.png",06h00 ngày 12/06 Indiana Fever W vs Chicago Sky W [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781226320-0-0-7427950f41010990d230adad62e8f73d
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/5a06814f106600145cec9bb02687a180.png",06h00 ngày 12/06 Indiana Fever W vs Chicago Sky W [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781226320-0-0-6c0f45ea7879062eaf623e140cc1aeb2
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/5a06814f106600145cec9bb02687a180.png",06h00 ngày 12/06 Indiana Fever W vs Chicago Sky W [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781226320-0-0-bee07b31cd16522cbf2dcff847d88b67
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/5a06814f106600145cec9bb02687a180.png",06h00 ngày 12/06 Indiana Fever W vs Chicago Sky W [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781226320-0-0-2499c8c2b06a9aa9c8cecd3f04a1372f
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781226320-0-0-9553d9231ff77c2f0e2b12532f9bc4b9
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781226320-0-0-5a80b1c49ead95add7f153b15b255725
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781226320-0-0-7cedc0ef31c7e713a05d4d6524542d34
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781226320-0-0-9511ca765af5b7e20c5897fc644422e9
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc đau cổ vai gáy] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781226320-0-0-0421e02ab24c9a70b0e3d57c42547d63
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc đau cổ vai gáy] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781226320-0-0-5ea2bf89d556e64a741735f7b11a42ac
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc đau cổ vai gáy] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781226320-0-0-cdb081d667866a319ae3491051720a31
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781226320-0-0-04268e5b1df913585889fd72361bce6a
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1781226320-0-0-4fdd2d4e0adcf458e212de44badddc70
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781226320-0-0-dcff489a3362170ed6627b68af5ed8ba
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781226320-0-0-c249fa23edbbe681ad761875473908fb
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781226320-0-0-1aa0599578f5dcba3a103b2843a4d24a
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc trèo cây ngô đồng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1781226680-0-0-43d1d5474787019ed2b7faf75b0f7b2f
@@ -1861,6 +1777,90 @@ https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781226680-0-0-95be
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781226680-0-0-e00d71cbdb00270cac4f5a8b4c1ee0c9
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1781227040-0-0-1b42744cfd6105d6b4076630cff1715f
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1781227040-0-0-25b9af0cb049f65ed1a9ed6c8d682352
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1781227040-0-0-f53c99ab99b4e7d0132b1d375951f66e
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1781227040-0-0-4435630ee26e15e1ede664b1d6fa5c52
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1781227040-0-0-0913b84ab1024989ce48b1850ad0e1cd
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781227040-0-0-16ee659e62c21247ccb8bedbda9134cb
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781227040-0-0-7223f2f630d38db68d4cd24f12862f03
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781227040-0-0-e962f65983d0f71faae0dcc33b8fea71
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781227040-0-0-c872b720811bccd53be375d5dcda3562
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781227040-0-0-7aeb7a0837217d0716c5ad5aba438ec8
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781227040-0-0-920f80fc81f590ce01daba069080c0d2
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/e65a0b6003fd9efa5c10e40d9bdd240f.png",06h30 ngày 12/06 Atlanta Dream W vs New York Liberty W [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781227040-0-0-ec1436dab0c76439ccc010f1bc585067
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/5a06814f106600145cec9bb02687a180.png",06h00 ngày 12/06 Indiana Fever W vs Chicago Sky W [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781227400-0-0-fa68c41e645b45a25ede5f9272ff0da1
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/5a06814f106600145cec9bb02687a180.png",06h00 ngày 12/06 Indiana Fever W vs Chicago Sky W [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781227400-0-0-9d787934e460c032378d378972c8d925
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/5a06814f106600145cec9bb02687a180.png",06h00 ngày 12/06 Indiana Fever W vs Chicago Sky W [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781227400-0-0-fdab2ab865024e03fd394bca20682c3b
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/5a06814f106600145cec9bb02687a180.png",06h00 ngày 12/06 Indiana Fever W vs Chicago Sky W [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781227400-0-0-c9a990c93639e76e8a2b438e8564fff6
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781227400-0-0-6d842a0cba6320212da30ad0c827d0e8
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781227400-0-0-fe01995f2547547cda6c37b09088cd82
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781227400-0-0-0dfb4e6d338838f8709de0a3207c94fa
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781227400-0-0-641f3f5cd51daa1b4f2eaef2cdf570aa
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1781227400-0-0-c8726ec293d7a08f927f9dec91d1f5c1
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781227400-0-0-f500d53413db57c3b3e546b3e120f1ce
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781227400-0-0-63fb7c902d4be2907bf6e14541d9ce16
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781227400-0-0-1d5c8fd5b7462050914e0ee108897bec
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc đau cổ vai gáy] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781227400-0-0-394e7d5edf3c058928c95714c11d9dcb
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc đau cổ vai gáy] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781227400-0-0-d0b0c4d48d7848b3cccc21c93740695a
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc đau cổ vai gáy] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781227400-0-0-d19493499a7043487363de23a0d1a375
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781227400-0-0-8a0fae0451ff555b851aaf95fd0ba829
 #EXTINF:0 group-title="Cola TV" tvg-logo="https://img.colatv88xd.cc/basketball/team/81e9f1f9d6393fd128c6c014783d9fa2.png!w80",06h00 12/06 Indiana Fever vs Chicago Sky
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/19919577.m3u8
