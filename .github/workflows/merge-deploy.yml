@@ -84,6 +84,7 @@ jobs:
           fi
           
           if [ -f apisports.py ]; then
+            python apisports.py cakhia cakhiatv.m3u &
             python apisports.py khandaia khandaiatv.m3u &
             python apisports.py hoiquan hoiquantv.m3u &
             python apisports.py cola colatv.m3u &
@@ -154,6 +155,11 @@ jobs:
           if [ -f bugiotv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat bugiotv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+          if [ -f cakhiatv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat cakhiatv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
 
