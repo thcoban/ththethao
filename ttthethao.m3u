@@ -545,14 +545,14 @@ https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
  
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 🟢 06:00 15/06 ⚽ Ivory Coast vs. Ecuador (BLV Nhật Tinh Ngao) [HD]
+https://q9kh24w2ba.yarncdn.live/live/kda-blv-nhattinhngao/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/250px-Flag_of_Brazil.svg.png" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 🟢 04:00 15/06 🏐 Brazil vs. Argentina (BLV Núi) [HD]
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-nui/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Fold-us-flag-animated.gif?utm_source=vi.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 🟢 05:00 15/06 🏐 Mỹ vs. Ý (BLV Kaka) [HD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Fold-us-flag-animated.gif?utm_source=vi.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="Khán Đài A" , 🟢 05:00 15/06 🏐 Mỹ vs. Ý (BLV Kaka) [HD] 
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png" group-title="Khán Đài A" , 🟢 06:00 15/06 ⚽ Ivory Coast vs. Ecuador (BLV Nhật Tinh Ngao) [HD] 
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-nhattinhngao/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png" group-title="Khán Đài A" , 🟡 06:00 15/06 ⚽ Ivory Coast vs. Ecuador (BLV Dế Lửa) [HD] 
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-delua/playlist.m3u8
@@ -624,7 +624,13 @@ https://q9kh24w2ba.yarncdn.live/live/kda-blv-mo/playlist.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80" group-title="Cola TV" group-logo="https://colatv99.live/assets/images/logo.png" , 🟢 05:00 15/06 ⚽ Botafogo vs. Operario (BLV BÍ ĐAO) [flv]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80" group-title="Cola TV" group-logo="https://colatv99.live/assets/images/logo.png" , 🟢 06:00 15/06 ⚽ Bờ Biển Ngà vs. Ecuador (BLV SODA) [flv]
+https://live05.msdht.app/live/02456966.flv
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80" group-title="Cola TV" , 🟢 06:00 15/06 ⚽ Bờ Biển Ngà vs. Ecuador (BLV SODA) [hls]
+https://live05.msdht.app/live/02456966.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80" group-title="Cola TV" , 🟢 05:00 15/06 ⚽ Botafogo vs. Operario (BLV BÍ ĐAO) [flv]
 https://live05.msdht.app/live/99121525.flv
 
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80" group-title="Cola TV" , 🟢 05:00 15/06 ⚽ Botafogo vs. Operario (BLV BÍ ĐAO) [hls]
@@ -635,12 +641,6 @@ https://live05.msdht.app/live/14707124.flv
 
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/87668a20b488fbb0e1fcb9210165cfd8.png!w80" group-title="Cola TV" , 🟢 05:00 15/06 ⚽ Gremio Novorizontin vs. Nautico (BLV STING) [hls]
 https://live05.msdht.app/live/14707124.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80" group-title="Cola TV" , 🟡 06:00 15/06 ⚽ Bờ Biển Ngà vs. Ecuador (BLV SODA) [flv]
-https://live05.msdht.app/live/02456966.flv
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80" group-title="Cola TV" , 🟡 06:00 15/06 ⚽ Bờ Biển Ngà vs. Ecuador (BLV SODA) [hls]
-https://live05.msdht.app/live/02456966.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ffe2e4428207cc8a9ad6735442d5150.png!w80" group-title="Cola TV" , 🟡 06:00 15/06 ⚽ Westchester SC vs. Greenville Triumph (BLV 247) [flv]
 https://live05.msdht.app/live/90865415.flv
@@ -844,6 +844,12 @@ https://hls.cdnfaster-b.site/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975a
 
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/db5f54482ae28e132611f4c928b6f672.png" group-title="Cà Khịa TV" , 🟡 06:00 15/06 ⚽ Cote d'Ivoire vs Ecuador (Giàng A Khoai) [FLV]
 https://flv.cdnfaster-b.site/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/db5f54482ae28e132611f4c928b6f672.png" group-title="Cà Khịa TV" , 🟡 06:00 15/06 ⚽ Cote d'Ivoire vs Ecuador (DERICE) [HLS]
+https://hls.cdnfaster-b.site/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/db5f54482ae28e132611f4c928b6f672.png" group-title="Cà Khịa TV" , 🟡 06:00 15/06 ⚽ Cote d'Ivoire vs Ecuador (DERICE) [FLV]
+https://flv.cdnfaster-b.site/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 
  
  
@@ -1256,297 +1262,321 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [DECO] (Socolive) flv
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781477601-0-0-a25eedf561f65f5e89b16be6fb074d23
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [DECO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-484845_lsd.flv?txSecret=312c35d51ba2811d0163fcea586bfbeb&txTime=6a2f7b69
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [A BỆU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781477601-0-0-a5c1e37a09061b4d8275908a1efba4d8
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [DECO] (Socolive) m3u8
+https://pull.niur.live/live/stream-484845_lhd.flv?txSecret=0cffd92c4f5b1c6ddf9fbc75cb735b76&txTime=6a2f7b69
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [A BỆU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781477601-0-0-02fd56dd3a4e2af928a602ec45c77c77
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [DECO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=312c35d51ba2811d0163fcea586bfbeb&txTime=6a2f7b69
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [A BỆU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781477601-0-0-dd1ff87d356e6e86642e56efa20af93c
+https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=0cffd92c4f5b1c6ddf9fbc75cb735b76&txTime=6a2f7b69
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1781478681-0-0-7617e05d78ea9e74f87018337a18dad8
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1781478681-0-0-9d5ad48571a4425cb47a910c9df6648d
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1781478681-0-0-81527bb43744b6b421e4a357e059b843
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781478681-0-0-5f7d034662f5b85d3aec064c1588f294
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912060_lsd.flv?txSecret=938a49b1060a468adb860767bf7ac37a&txTime=6a2f7b69
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=ec537aa8cd28b1ee4a1306e1e67460cc&txTime=6a2f7b69
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=938a49b1060a468adb860767bf7ac37a&txTime=6a2f7b69
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=ec537aa8cd28b1ee4a1306e1e67460cc&txTime=6a2f7b69
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=367c436eea5a6624ffb7c1700d1a1437&txTime=6a2f7b69
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=4b0772b5ffbb74237264e84fe81e9ff7&txTime=6a2f7b69
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=367c436eea5a6624ffb7c1700d1a1437&txTime=6a2f7b69
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=4b0772b5ffbb74237264e84fe81e9ff7&txTime=6a2f7b69
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/6fbe39a8b26932e9a3850cd27ba6fbc8.png",05h00 ngày 15/06 Gremio Novorizontino vs Nautico (PE) [BLV CHIVAS] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=cd111bdef9dbbb5db8f6099d679cc7b8&txTime=6a2f7731
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=4c539ea1bb284482cf5affb12cbedc33&txTime=6a2f7b69
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/6fbe39a8b26932e9a3850cd27ba6fbc8.png",05h00 ngày 15/06 Gremio Novorizontino vs Nautico (PE) [BLV CHIVAS] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=63fee075f4ecd4f375d0cb65cb9f2b9a&txTime=6a2f7731
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=da06d5be9cfb0d2cb18372f7a53b3219&txTime=6a2f7b69
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/6fbe39a8b26932e9a3850cd27ba6fbc8.png",05h00 ngày 15/06 Gremio Novorizontino vs Nautico (PE) [BLV CHIVAS] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=cd111bdef9dbbb5db8f6099d679cc7b8&txTime=6a2f7731
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=4c539ea1bb284482cf5affb12cbedc33&txTime=6a2f7b69
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/6fbe39a8b26932e9a3850cd27ba6fbc8.png",05h00 ngày 15/06 Gremio Novorizontino vs Nautico (PE) [BLV CHIVAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=63fee075f4ecd4f375d0cb65cb9f2b9a&txTime=6a2f7731
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=da06d5be9cfb0d2cb18372f7a53b3219&txTime=6a2f7b69
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/30611c45c3eae53f9af010a2ed5aa984.png",05h00 ngày 15/06 Botafogo SP vs Operario Ferroviario PR [BLV GÔN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1781477601-0-0-50f60b2d63eafb2c4108fa61bc994850
+https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1781478681-0-0-9dc681f48fb0d9192944d52acde68135
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/30611c45c3eae53f9af010a2ed5aa984.png",05h00 ngày 15/06 Botafogo SP vs Operario Ferroviario PR [BLV GÔN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1781477601-0-0-2f0d8f62309d4eece0173aa318852215
+https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1781478681-0-0-7970697151dbedebd4cc6cca8a87f6cd
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/30611c45c3eae53f9af010a2ed5aa984.png",05h00 ngày 15/06 Botafogo SP vs Operario Ferroviario PR [BLV GÔN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1781477601-0-0-4d484f1779aa590bc716ab0690d94473
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1781478681-0-0-0f3b08754e76de5e5ec572aeb360df43
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/30611c45c3eae53f9af010a2ed5aa984.png",05h00 ngày 15/06 Botafogo SP vs Operario Ferroviario PR [BLV GÔN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1781477601-0-0-09687fe4b2bb4907f9165ed0ea70b74b
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1781478681-0-0-df0a44040b9cae07f92d595989e071f4
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/30611c45c3eae53f9af010a2ed5aa984.png",05h00 ngày 15/06 Botafogo SP vs Operario Ferroviario PR [BLV A TINH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=37e80f3c2cc51f082e74881060701523&txTime=6a2f7753
+https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=3dfb8ee60b4dfbc983c326c0a214e5f3&txTime=6a2f7b69
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/30611c45c3eae53f9af010a2ed5aa984.png",05h00 ngày 15/06 Botafogo SP vs Operario Ferroviario PR [BLV A TINH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=122b2339bad9b9fea6536a41467e0a4d&txTime=6a2f7753
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=961e4c5ccbf971cf492bad57ccbe5bc9&txTime=6a2f7b69
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/30611c45c3eae53f9af010a2ed5aa984.png",05h00 ngày 15/06 Botafogo SP vs Operario Ferroviario PR [BLV A TINH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=37e80f3c2cc51f082e74881060701523&txTime=6a2f7753
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=3dfb8ee60b4dfbc983c326c0a214e5f3&txTime=6a2f7b69
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/30611c45c3eae53f9af010a2ed5aa984.png",05h00 ngày 15/06 Botafogo SP vs Operario Ferroviario PR [BLV A TINH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=122b2339bad9b9fea6536a41467e0a4d&txTime=6a2f7753
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV VOI] (Socolive) flv
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=961e4c5ccbf971cf492bad57ccbe5bc9&txTime=6a2f7b69
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1781477961-0-0-fedf57203f5824f49e1ae3df6cdf085a
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV VOI] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=24a2cc46a434406d8847efbe7a14129a&txTime=6a2f7cd1
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [TẠ BIÊN GIỚI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1781477961-0-0-92266bacddc399165f200fa0112d059a
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV VOI] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=13f70aaf6ac1a68c9f506adcb99103bc&txTime=6a2f7cd1
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781477961-0-0-e24f34a1bf2955b2d338801119c61c3f
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV VOI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=24a2cc46a434406d8847efbe7a14129a&txTime=6a2f7cd1
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781477961-0-0-51454a8e522f1db8e7f7ef61db8fd156
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV NẤM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1781477961-0-0-c4b971fb1cee92874f6acb8a27404f92
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV NẤM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1781477961-0-0-6a3b2b25c7a8ca1422cb14f7b2c3edc5
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV NẤM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781477961-0-0-2c73f2155ca9731ba2d4cdbbc2eb4d03
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV NẤM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781477961-0-0-8469efe68514d5325cf1ee947bbe66af
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=13f70aaf6ac1a68c9f506adcb99103bc&txTime=6a2f7cd1
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV ANH TÀI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1781477961-0-0-2b091a21f52e212bafc3c37803e39188
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1781479041-0-0-d8b2a535693c778b8121e79ad02102bb
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV ANH TÀI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781477961-0-0-1e09c7aed1f467faa15332a6aaf9833a
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781479041-0-0-e5bd79c904c7432415c1b29e4747ccb7
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV ANH TÀI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781477961-0-0-9e10aaaa25f9a8c544549cd6c2dcfc23
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781479041-0-0-8ce75143b18d479e7ac45609cd85f6ec
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV ANH TÀI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781477961-0-0-2d8556613d864230796e8eb2c6f3e55d
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV TOMMY] (Socolive) flv
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781479041-0-0-7ef8779d1674a04a2b899da7a70cd278
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV VOI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=6d33445f73bf4d905f2cd7a32263f480&txTime=6a2f7899
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV TOMMY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1781479041-0-0-55ec5dc067a110df5cf2d08de60cf47c
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV VOI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=8e536bf24c4071e8ed4a8e71776836dc&txTime=6a2f7899
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV TOMMY] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1781479041-0-0-0e061335b1bc521bb393725a6fd1297c
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV VOI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=6d33445f73bf4d905f2cd7a32263f480&txTime=6a2f7899
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781479041-0-0-4cfd557486f484b8fb448648553b3d12
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV VOI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=8e536bf24c4071e8ed4a8e71776836dc&txTime=6a2f7899
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/07d0da21bef2a93f4a3f863f26e94809.png",05h00 ngày 15/06 Cincinnati II vs Columbus Crew B [HÀ DUY KIÊN] (Socolive) flv
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781479041-0-0-0c5915e94d63f46c696f3fcdb5951ec4
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV NẤM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1781477961-0-0-933b9ea2333b2c0d0763c8c045d37438
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/07d0da21bef2a93f4a3f863f26e94809.png",05h00 ngày 15/06 Cincinnati II vs Columbus Crew B [HÀ DUY KIÊN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1781479041-0-0-44018c62925c02efe07108fa595659c3
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV NẤM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1781477961-0-0-9777de9d9cfaa76e088058fbf2131ab8
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/07d0da21bef2a93f4a3f863f26e94809.png",05h00 ngày 15/06 Cincinnati II vs Columbus Crew B [HÀ DUY KIÊN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1781479041-0-0-f177437ad9a2e2a1d86f20a95825f523
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV NẤM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781477961-0-0-260eca8a8aeae14945247a4e131813f4
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/07d0da21bef2a93f4a3f863f26e94809.png",05h00 ngày 15/06 Cincinnati II vs Columbus Crew B [HÀ DUY KIÊN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781479041-0-0-4f4f22cab59a77ab9e8e5b32a88b65cc
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV NẤM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781477961-0-0-dd1c0f75a42dd55189b96e822075b48b
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781479041-0-0-463810bfb6032c7fecff4b3708546946
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/6fbe39a8b26932e9a3850cd27ba6fbc8.png",05h00 ngày 15/06 Gremio Novorizontino vs Nautico (PE) [BLV YONE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1781477961-0-0-f6532e813c31e3272548621f4b55a38a
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1781479041-0-0-674081f31cbb71514319a1029de8f05b
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/6fbe39a8b26932e9a3850cd27ba6fbc8.png",05h00 ngày 15/06 Gremio Novorizontino vs Nautico (PE) [BLV YONE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1781477961-0-0-0d2ebac1b86ca79a4052dedb2ad4d57d
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1781479041-0-0-2afdda39ff67c65ffc4b649b18628bb9
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/6fbe39a8b26932e9a3850cd27ba6fbc8.png",05h00 ngày 15/06 Gremio Novorizontino vs Nautico (PE) [BLV YONE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1781477961-0-0-0593dc2a6b1a5f5442ac025f0e382d3f
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1781479041-0-0-403cb086fd47beb35731d0416701a76d
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/6fbe39a8b26932e9a3850cd27ba6fbc8.png",05h00 ngày 15/06 Gremio Novorizontino vs Nautico (PE) [BLV YONE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1781477961-0-0-c481856ab089813b04a20c47f8018786
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [SAO LA] (Socolive) flv
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1781479041-0-0-67544c1a7a9b387c750b07837577d823
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/07d0da21bef2a93f4a3f863f26e94809.png",05h00 ngày 15/06 Cincinnati II vs Columbus Crew B [HÀ DUY KIÊN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=77b549b0b513d0c4abb85470aaa63485&txTime=6a2f7a01
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [SAO LA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1781479041-0-0-37a2ca830340bd589a67902f6aad13fb
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/07d0da21bef2a93f4a3f863f26e94809.png",05h00 ngày 15/06 Cincinnati II vs Columbus Crew B [HÀ DUY KIÊN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=2130fba3404aae6116a8badf3dcf8d9b&txTime=6a2f7a01
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [SAO LA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1781479041-0-0-877da58fe2ada93560cbda21cd940338
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/07d0da21bef2a93f4a3f863f26e94809.png",05h00 ngày 15/06 Cincinnati II vs Columbus Crew B [HÀ DUY KIÊN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=77b549b0b513d0c4abb85470aaa63485&txTime=6a2f7a01
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [SAO LA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781479041-0-0-e74e4aef79add88e68c3f16fad251d95
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/07d0da21bef2a93f4a3f863f26e94809.png",05h00 ngày 15/06 Cincinnati II vs Columbus Crew B [HÀ DUY KIÊN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=2130fba3404aae6116a8badf3dcf8d9b&txTime=6a2f7a01
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [NGƯỜI CÁ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1781478321-0-0-16d79136770cb272bad4710c95d7660b
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [NGƯỜI CÁ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1781478321-0-0-edbe2e4828b92eab8e10e828bbe69d65
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [NGƯỜI CÁ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781478321-0-0-accd51abe1b96168f33764a39d638403
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [NGƯỜI CÁ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781478321-0-0-d22366b084d27abfb6603668dbe9d602
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV A TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1781478321-0-0-5918ef3bd11e53a15b919207b21fdec3
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV A TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781478321-0-0-6ca3a985fed5a04b42ae510ad3815b66
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV A TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781478321-0-0-e7fde735c4ac7b73470d749f42dcc182
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV A TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781478321-0-0-faac947165bac44f0c4155b967f8322b
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781478321-0-0-96bf8332fe92dbed724d4217b985ef79
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781478321-0-0-e58f6c185f0f58a34a4349a72e1bf4a6
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781478321-0-0-e248067ed5955a47c7874b6f096fd885
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781478321-0-0-21a47c4620267a3f74f77fc8cb2a5147
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781479041-0-0-c9018f6fb16554b22ddc5c325f163399
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [HẢI THANH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1781478330-0-0-16fced59c73c6412706dd4d2ab57071a
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1781479401-0-0-c278744f1ee3ffd5660197ecf77117db
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [HẢI THANH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1781478330-0-0-ac715dbb1fd1526584d0ec82f31ec502
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1781479401-0-0-11eda36c94937e2ecfc6da45d7e04648
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [HẢI THANH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1781478330-0-0-ba4f08db399990e6f2ce0c6909a7107d
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1781479401-0-0-0ed97398a4ac9aa7d41385fa6e98cc78
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [HẢI THANH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781478330-0-0-c46a6e664796e8f1f108a4bfbd3de20a
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781479401-0-0-8f4b54ad6f8197f71824863a4f1319b2
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [NGƯỜI CÁ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=63a3e2fe4ed6e6da55f201bd44e27820&txTime=6a2f7a01
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1781479401-0-0-85a61f19c47f0a7c39fac81804dca9d6
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [NGƯỜI CÁ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=e4555ecf9564146aef740e1012b54cf9&txTime=6a2f7a01
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1781479401-0-0-a42dfcb42668a8ae653f9901a0949028
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [NGƯỜI CÁ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=63a3e2fe4ed6e6da55f201bd44e27820&txTime=6a2f7a01
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781479401-0-0-aef884ac97f4958363758e6b11b0dc2d
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [NGƯỜI CÁ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=e4555ecf9564146aef740e1012b54cf9&txTime=6a2f7a01
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [RICKHANTER] (Socolive) flv
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781479401-0-0-4ba17be6f188f563b0346c8af5ac2684
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1781478321-0-0-6a089ddb2cdc99de5bccd0f2fa757dbf
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [RICKHANTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1781479407-0-0-ac96831fd3dcb91831158f51e2cf3635
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1781478321-0-0-50b8e109d0dcdd74443b972b774e60bb
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [RICKHANTER] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1781479407-0-0-949e488ec36d984e6552ec40c1a45919
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781478321-0-0-bf6c4b0fbe941a6e48b1a0fac221ee40
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [RICKHANTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781479407-0-0-ffb1a3955ecdc26703e94ee455a58e17
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [LÃO LÂM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781478321-0-0-25adfabab723aae4a1188c7b4cabbe73
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV Củ Cải] (Socolive) flv
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781479407-0-0-636143d93dc6759a2d7e051b4543d00c
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [BLV CUỘI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1781478321-0-0-627758acf1178958340ddd2d85008079
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV Củ Cải] (Socolive) hdFlv
+https://pull.niur.live/live/stream-256080_lsd.flv?txSecret=9bf7b0a3e19fed313c6164f3ee7b87dc&txTime=6a2f7e39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [BLV CUỘI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781478321-0-0-6ea52a82e61884e7e9f771a7365c0765
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV Củ Cải] (Socolive) m3u8
+https://pull.niur.live/live/stream-256080_lhd.flv?txSecret=01f9a67eb4030436f14fab6ed6e35821&txTime=6a2f7e39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [BLV CUỘI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781478321-0-0-6ad48bad1ee1b1a10968ff549c8ec1f6
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/7163885f7b4ed79fd22d05c5fedfaaa1.png",03h00 ngày 15/06 Netherlands vs Japan [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-256080_lsd.m3u8?txSecret=9bf7b0a3e19fed313c6164f3ee7b87dc&txTime=6a2f7e39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [BLV CUỘI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781478321-0-0-3caa711f9575e8ea479681925d1f066a
+https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=01f9a67eb4030436f14fab6ed6e35821&txTime=6a2f7e39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=b50ecdd22cf572f5397d5d1aeec65d70&txTime=6a2f7e39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=aa2393e716a8e54d398414f595a7432c&txTime=6a2f7e39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=b50ecdd22cf572f5397d5d1aeec65d70&txTime=6a2f7e39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=aa2393e716a8e54d398414f595a7432c&txTime=6a2f7e39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781479401-0-0-ce750d50a7cc7e825dc4bcdf641f34da
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781479401-0-0-ef04d3df51a23ea12615cf064dd3f6e3
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781479401-0-0-76f134083398316b10c3ea189af3139c
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d3336cc7f8338a3631ff6ba1876cebfa.png",06h00 ngày 15/06 Cote d'Ivoire vs Ecuador [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781479401-0-0-4f92d533deace150e7463d4af568475d
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/30611c45c3eae53f9af010a2ed5aa984.png",05h00 ngày 15/06 Botafogo SP vs Operario Ferroviario PR [BLV THÓC] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1781478321-0-0-c26734f6828952f1bf52644b4756e99a
+https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1781479401-0-0-340cd1a05a997df1643811a1feda5f19
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/30611c45c3eae53f9af010a2ed5aa984.png",05h00 ngày 15/06 Botafogo SP vs Operario Ferroviario PR [BLV THÓC] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1781478321-0-0-2a6a6daa7828ef28fb68a8f043f1ddc9
+https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1781479401-0-0-024a71a935805aac8bb9a6ebda2abcb0
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/30611c45c3eae53f9af010a2ed5aa984.png",05h00 ngày 15/06 Botafogo SP vs Operario Ferroviario PR [BLV THÓC] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1781478321-0-0-0942c17cfcb212b168110d3e57c7ec7c
+https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1781479401-0-0-b2558db9e8a1ced1a7a0b953ac3edf63
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/30611c45c3eae53f9af010a2ed5aa984.png",05h00 ngày 15/06 Botafogo SP vs Operario Ferroviario PR [BLV THÓC] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1781478321-0-0-6e5decfe29ac3076a50271716ef45720
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1781479401-0-0-95629eddc46a72832e18d382188b929f
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1781479401-0-0-0a9c098048d3ae95232617332b096ad0
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781479401-0-0-2916690c9283b84e7eeeb2b0e907c3b5
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781479401-0-0-e0c9cd2595d7064499d89283d4be1f68
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/319eb7cb563896bc340e8a3d9c3a8c22.png",04h30 ngày 15/06 Univ Catolica vs Universidad de Concepcion [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781479401-0-0-4680d0560151025009479d1bfe6ba343
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/ee88cbca3ebc35f1b49a911bf3c4254c.png",05h00 ngày 15/06 Vancouver FC vs Pacific FC [XUÂN SON] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=f790c6d21d2cf76388ea6cebed1fd84d&txTime=6a2f7a01
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=c9db2421c290ce77e0020db1ed11a638&txTime=6a2f7e39
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/ee88cbca3ebc35f1b49a911bf3c4254c.png",05h00 ngày 15/06 Vancouver FC vs Pacific FC [XUÂN SON] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=568bfd84157f806a93701306db934901&txTime=6a2f7a01
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=ee292ef097f1c172bd3b9882617594cc&txTime=6a2f7e39
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/ee88cbca3ebc35f1b49a911bf3c4254c.png",05h00 ngày 15/06 Vancouver FC vs Pacific FC [XUÂN SON] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=f790c6d21d2cf76388ea6cebed1fd84d&txTime=6a2f7a01
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=c9db2421c290ce77e0020db1ed11a638&txTime=6a2f7e39
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/ee88cbca3ebc35f1b49a911bf3c4254c.png",05h00 ngày 15/06 Vancouver FC vs Pacific FC [XUÂN SON] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=568bfd84157f806a93701306db934901&txTime=6a2f7a01
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=ee292ef097f1c172bd3b9882617594cc&txTime=6a2f7e39
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/ee88cbca3ebc35f1b49a911bf3c4254c.png",05h00 ngày 15/06 Vancouver FC vs Pacific FC [BLV 24H] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1781478321-0-0-c69213f03d94d890e97320e85233a8f6
+https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1781479401-0-0-ba3d86ac8568c90ad78fcd0e50ee4871
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/ee88cbca3ebc35f1b49a911bf3c4254c.png",05h00 ngày 15/06 Vancouver FC vs Pacific FC [BLV 24H] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1781478321-0-0-bc57b99b7cf13fbb7cd8134c15f2fcbe
+https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1781479401-0-0-286451eb9165648d2baf9121e01cb4b0
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/ee88cbca3ebc35f1b49a911bf3c4254c.png",05h00 ngày 15/06 Vancouver FC vs Pacific FC [BLV 24H] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781478321-0-0-1f72507a3e69a9b39a4a9d9d3118ed19
+https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781479401-0-0-0f55827c879ccfadf2348fc1a9fee62b
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/ee88cbca3ebc35f1b49a911bf3c4254c.png",05h00 ngày 15/06 Vancouver FC vs Pacific FC [BLV 24H] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781478321-0-0-0216780a8ec27a54846d470bcb6c6430
+https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781479401-0-0-30d9d2d89c806d387aae32831fb3197f
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/07d0da21bef2a93f4a3f863f26e94809.png",05h00 ngày 15/06 Cincinnati II vs Columbus Crew B [CHÍ PHÈO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1781478321-0-0-cd61a984935dded7340b26513c892aa7
+https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1781479401-0-0-b306c54bfa0352ae1ed067a489f192a8
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/07d0da21bef2a93f4a3f863f26e94809.png",05h00 ngày 15/06 Cincinnati II vs Columbus Crew B [CHÍ PHÈO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1781478321-0-0-b5c5e20dbb6ac114e6c46d07b7829950
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1781479401-0-0-8a8667988e6ce55b77d140a68835a70a
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/07d0da21bef2a93f4a3f863f26e94809.png",05h00 ngày 15/06 Cincinnati II vs Columbus Crew B [CHÍ PHÈO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781478321-0-0-326d2d1698f047a87747458a40020cde
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781479401-0-0-46de51bcb678d8f171a03afd768faa1c
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/07d0da21bef2a93f4a3f863f26e94809.png",05h00 ngày 15/06 Cincinnati II vs Columbus Crew B [CHÍ PHÈO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781478321-0-0-abf41a494a03b407d935540ed1d76bc1
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781479401-0-0-39b92919d39a2ca9d718a3dc086481a6
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/6fbe39a8b26932e9a3850cd27ba6fbc8.png",05h00 ngày 15/06 Gremio Novorizontino vs Nautico (PE) [BLV LUCAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1781479401-0-0-7a537db64bcae33c631cfe09bdb5c9d1
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/6fbe39a8b26932e9a3850cd27ba6fbc8.png",05h00 ngày 15/06 Gremio Novorizontino vs Nautico (PE) [BLV LUCAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781479401-0-0-fe9622f3dd95d948fe21bf87257e7dd1
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/6fbe39a8b26932e9a3850cd27ba6fbc8.png",05h00 ngày 15/06 Gremio Novorizontino vs Nautico (PE) [BLV LUCAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781479401-0-0-58a2f4098b9b9dcbac2317385e5b1226
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/6fbe39a8b26932e9a3850cd27ba6fbc8.png",05h00 ngày 15/06 Gremio Novorizontino vs Nautico (PE) [BLV LUCAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781479401-0-0-4fc14748e243829a5a7de3da8a19af05
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/dbd37c8d2bd68c1e530e4263b60e6027.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781478321-0-0-0c37f004eed27c0f54b249e6fae3420a
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781479401-0-0-19c2b5b23f5a64c01b1420af542e7169
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/dbd37c8d2bd68c1e530e4263b60e6027.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781478321-0-0-e5931dd09d85dcb8d06ffce24cb4b8cd
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781479401-0-0-8958a4e6285a7a5551ea0e47e9271999
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/dbd37c8d2bd68c1e530e4263b60e6027.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781478321-0-0-6c1e8e889c41e5e02f22e16fb66438e6
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781479401-0-0-428536a47eb9580e47158bd277bd288e
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/dbd37c8d2bd68c1e530e4263b60e6027.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781478321-0-0-7a60e37303f5d26081e2362bdf3626cb
-#EXTINF:0 group-title="Cola TV" tvg-logo="https://img.colatv88xd.cc/football/team/fb9d433088a21464e7d634c4e190b31a.png!w80",03h00 15/06 Hà Lan vs Nhật Bản
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781479401-0-0-9527ba3ad74f35e75927e13f1cf90177
+#EXTINF:0 group-title="Cola TV" tvg-logo="https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80",06h00 15/06 Bờ Biển Ngà vs Ecuador
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/08552895.m3u8
-#EXTINF:0 group-title="Cola TV" tvg-logo="https://img.colatv88xd.cc/football/team/e2f40e16499b22e942a5bd1d1d2398d3.png!w80",21h00 14/06 Sao Bernardo vs CLB Sport Club Recife PE
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/99121525.m3u8
-#EXTINF:0 group-title="Cola TV" tvg-logo="https://img.colatv88xd.cc/football/team/08b6972bad44440ed3171b4bf63451ce.png!w80",22h30 14/06 Mikkelin vs Klubi 04
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/08552895.m3u8
-#EXTINF:0 group-title="Cola TV" tvg-logo="https://img.colatv88xd.cc/football/team/f9b2e922f6ca83c14def96049ccbfe42.png!w80",02h00 15/06 Union La Calera vs U. De Chile
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/78905744.m3u8
-#EXTINF:0 group-title="Cola TV" tvg-logo="https://img.colatv88xd.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80",02h00 15/06 New York Liberty vs Washington Mystics
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/82054853.m3u8
+https://live05.msdht.app/live/02456966.m3u8
 #EXTINF:0 group-title="Cola TV" tvg-logo="https://img.colatv88xd.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80",05h00 15/06 Botafogo vs Operario
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/99121525.m3u8
