@@ -100,10 +100,10 @@ jobs:
             python json2m3u.py ${{ secrets.URL_APITHETHAO }}/cumeotv  cumeotv.m3u  1 
           fi
           
-          if [ -f extractm3u.py ]; then
-            # python extractm3u.py pktv.m3u new_pktv.m3u "Cháo Gà"  & 
-            # python extractm3u.py vatv.m3u new_vatv.m3u "ColaTV"   &
-          fi
+          # if [ -f extractm3u.py ]; then
+          #   python extractm3u.py pktv.m3u new_pktv.m3u "Cháo Gà"  & 
+          #   # python extractm3u.py vatv.m3u new_vatv.m3u "ColaTV"   &
+          # fi
           
           if [ -f removem3u.py ]; then
             python removem3u.py bongda.m3u new_bongda.m3u & 
