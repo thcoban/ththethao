@@ -50,7 +50,7 @@ jobs:
       - name: Download file via curl
         run: |
           curl -s -k -L -o bongda.m3u ${{ secrets.URL_BONGDA }}  &  
-          curl -s -k -L -o pktv.m3u ${{ secrets.URL_PK_TV }}  & 
+          # curl -s -k -L -o pktv.m3u ${{ secrets.URL_PK_TV }}  & 
           curl -s -k -L -o linhtv.json ${{ secrets.URL_LINH_REPO }}/channels.json  & 
           # curl -s -k -L -o vatv.m3u ${{ secrets.URL_VATV }}  & 
           # curl -s -k -L -o linhtv.m3u ${{ secrets.URL_LINH_REPO }}/full.m3u  & 
@@ -89,6 +89,7 @@ jobs:
             python apisports.py hoiquan hoiquantv.m3u &
             python apisports.py cola colatv.m3u &
             python apisports.py bugio bugiotv.m3u &
+            python apisports.py xaycon xaycontv.m3u &
           fi
           
           if [ -f json2m3u.py ]; then
@@ -100,7 +101,7 @@ jobs:
           fi
           
           if [ -f extractm3u.py ]; then
-            python extractm3u.py pktv.m3u new_pktv.m3u "Cháo Gà"  & 
+            # python extractm3u.py pktv.m3u new_pktv.m3u "Cháo Gà"  & 
             # python extractm3u.py vatv.m3u new_vatv.m3u "ColaTV"   &
           fi
           
@@ -162,6 +163,11 @@ jobs:
             cat cakhiatv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
+          if [ -f xaycontv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat xaycontv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
 
           if [ -f new_vatv.m3u ]; then
             echo " " >> ttthethao.m3u
@@ -217,6 +223,8 @@ jobs:
           [ -f colatv.m3u ] && cp colatv.m3u m3ufiles/
           [ -f bugiotv.m3u ] && cp bugiotv.m3u m3ufiles/
           [ -f cakhiatv.m3u ] && cp cakhiatv.m3u m3ufiles/
+          [ -f xaycontv.m3u ] && cp xaycontv.m3u m3ufiles/
+          
           [ -f luongsontv.m3u ] && cp luongsontv.m3u m3ufiles/
           [ -f quechoatv.m3u ] && cp quechoatv.m3u m3ufiles/
           [ -f keys.json ] && cp keys.json m3ufiles/
