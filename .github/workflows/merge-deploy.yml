@@ -85,12 +85,14 @@ jobs:
           
           if [ -f apisports.py ]; then
             python apisports.py cakhia cakhiatv.m3u &
+            python apisports.py nauxoi nauxoitv.m3u &
+            
             python apisports.py khandaia khandaiatv.m3u &
             python apisports.py hoiquan hoiquantv.m3u &
+            python apisports.py xaycon xaycontv.m3u &
             python apisports.py cola colatv.m3u &
             python apisports.py bugio bugiotv.m3u &
-            python apisports.py xaycon xaycontv.m3u &
-            python apisports.py nauxoi nauxoitv.m3u &
+            python apisports.py tamquoc tamquoctv.m3u &
           fi
           
           if [ -f json2m3u.py ]; then
@@ -159,6 +161,11 @@ jobs:
             cat bugiotv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
+          if [ -f tamquoctv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat tamquoctv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
           if [ -f cakhiatv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat cakhiatv.m3u >> ttthethao.m3u
@@ -211,10 +218,11 @@ jobs:
           [ -f ttthethao.m3u ] && cp ttthethao.m3u m3ufiles/
           [ -f hoiquantv.m3u ] && cp hoiquantv.m3u m3ufiles/
           [ -f khandaiatv.m3u ] && cp khandaiatv.m3u m3ufiles/
+          [ -f xaycontv.m3u ] && cp xaycontv.m3u m3ufiles/
           [ -f colatv.m3u ] && cp colatv.m3u m3ufiles/
           [ -f bugiotv.m3u ] && cp bugiotv.m3u m3ufiles/
+          [ -f tamquoctv.m3u ] && cp tamquoctv.m3u m3ufiles/
           [ -f cakhiatv.m3u ] && cp cakhiatv.m3u m3ufiles/
-          [ -f xaycontv.m3u ] && cp xaycontv.m3u m3ufiles/
           [ -f nauxoitv.m3u ] && cp nauxoitv.m3u m3ufiles/
           
           [ -f luongsontv.m3u ] && cp luongsontv.m3u m3ufiles/
