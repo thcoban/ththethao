@@ -94,6 +94,7 @@ jobs:
             python apisports.py bugio bugiotv.m3u &
             python apisports.py tamquoc tamquoctv.m3u &
             python apisports.py chuoichien chuoichientv.m3u &
+            python apisports.py quechoa quechoatv.m3u &
           fi
           
           # if [ -f json2m3u.py ]; then
@@ -231,6 +232,7 @@ jobs:
           [ -f chuoichientv.m3u ] && cp chuoichientv.m3u m3ufiles/
           [ -f cakhiatv.m3u ] && cp cakhiatv.m3u m3ufiles/
           [ -f nauxoitv.m3u ] && cp nauxoitv.m3u m3ufiles/
+          [ -f quechoatv.m3u ] && cp quechoatv.m3u m3ufiles/
 
           [ -f luongsontv.m3u ] && cp luongsontv.m3u m3ufiles/
           [ -f quechoatv.m3u ] && cp quechoatv.m3u m3ufiles/
