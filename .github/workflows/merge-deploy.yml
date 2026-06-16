@@ -93,15 +93,16 @@ jobs:
             python apisports.py cola colatv.m3u &
             python apisports.py bugio bugiotv.m3u &
             python apisports.py tamquoc tamquoctv.m3u &
+            python apisports.py chuoichien chuoichientv.m3u &
           fi
           
-          if [ -f json2m3u.py ]; then
-            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/quechoatv  quechoatv.m3u  1   & 
-            python json2m3u.py ${{ secrets.URL_APITHETHAO }}/luongsontv  luongsontv.m3u  1   & 
-            # python json2m3u.py ${{ secrets.URL_APITHETHAO }}/colatv  colatv.m3u  1   & 
-            # python json2m3u.py ${{ secrets.URL_APITHETHAO }}/gavangtv  gavangtv.m3u  1   & 
-            # python json2m3u.py ${{ secrets.URL_APITHETHAO }}/cumeotv  cumeotv.m3u  1 
-          fi
+          # if [ -f json2m3u.py ]; then
+          #   python json2m3u.py ${{ secrets.URL_APITHETHAO }}/quechoatv  quechoatv.m3u  1   & 
+          #   python json2m3u.py ${{ secrets.URL_APITHETHAO }}/luongsontv  luongsontv.m3u  1   & 
+          #   # python json2m3u.py ${{ secrets.URL_APITHETHAO }}/colatv  colatv.m3u  1   & 
+          #   # python json2m3u.py ${{ secrets.URL_APITHETHAO }}/gavangtv  gavangtv.m3u  1   & 
+          #   # python json2m3u.py ${{ secrets.URL_APITHETHAO }}/cumeotv  cumeotv.m3u  1 
+          # fi
           
           # if [ -f extractm3u.py ]; then
           #   python extractm3u.py pktv.m3u new_pktv.m3u "Cháo Gà"  & 
@@ -109,7 +110,7 @@ jobs:
           # fi
           
           if [ -f removem3u.py ]; then
-            python removem3u.py bongda.m3u new_bongda.m3u & 
+            python removem3u.py bongda.m3u new_bongda.m3u "Khán đài a, Gà vàng, Chuối Chiên" & 
           fi
           
           if [ -f fixjson.py ]; then
@@ -171,6 +172,11 @@ jobs:
             cat cakhiatv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
+          if [ -f chuoichientv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat chuoichientv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
           if [ -f xaycontv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat xaycontv.m3u >> ttthethao.m3u
@@ -222,9 +228,10 @@ jobs:
           [ -f colatv.m3u ] && cp colatv.m3u m3ufiles/
           [ -f bugiotv.m3u ] && cp bugiotv.m3u m3ufiles/
           [ -f tamquoctv.m3u ] && cp tamquoctv.m3u m3ufiles/
+          [ -f chuoichientv.m3u ] && cp chuoichientv.m3u m3ufiles/
           [ -f cakhiatv.m3u ] && cp cakhiatv.m3u m3ufiles/
           [ -f nauxoitv.m3u ] && cp nauxoitv.m3u m3ufiles/
-          
+
           [ -f luongsontv.m3u ] && cp luongsontv.m3u m3ufiles/
           [ -f quechoatv.m3u ] && cp quechoatv.m3u m3ufiles/
           [ -f keys.json ] && cp keys.json m3ufiles/
