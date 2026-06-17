@@ -65,8 +65,20 @@ jobs:
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o testproxies.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/testproxies.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o keys.json ${{ secrets.URL_PRIVATE_FILES_REPO }}/jsonfiles/keys.json & 
           
-          # download previous xoilacztv, for next use
-          curl -s -k -L -o xoilacztv.m3u https://thcoban.github.io/ththethao/xoilacztv.m3u  
+          # download previous m3u files, for next use
+          curl -s -k -L -o quechoatv.m3u https://thcoban.github.io/ththethao/quechoatv.m3u  &
+          curl -s -k -L -o tieulamtv.m3u https://thcoban.github.io/ththethao/tieulamtv.m3u  &
+          curl -s -k -L -o xoilacztv.m3u https://thcoban.github.io/ththethao/xoilacztv.m3u  &
+          curl -s -k -L -o hoiquantv.m3u https://thcoban.github.io/ththethao/hoiquantv.m3u  &
+          curl -s -k -L -o khandaiatv.m3u https://thcoban.github.io/ththethao/khandaiatv.m3u  &
+          curl -s -k -L -o xaycontv.m3u https://thcoban.github.io/ththethao/xaycontv.m3u  &
+          curl -s -k -L -o colatv.m3u https://thcoban.github.io/ththethao/colatv.m3u  &
+          curl -s -k -L -o bugiotv.m3u https://thcoban.github.io/ththethao/bugiotv.m3u  &
+          curl -s -k -L -o tamquoctv.m3u https://thcoban.github.io/ththethao/tamquoctv.m3u  &
+          curl -s -k -L -o cakhiatv.m3u https://thcoban.github.io/ththethao/cakhiatv.m3u  &
+          curl -s -k -L -o nauxoitv.m3u https://thcoban.github.io/ththethao/nauxoitv.m3u  &
+          curl -s -k -L -o chuoichientv.m3u https://thcoban.github.io/ththethao/chuoichientv.m3u  &
+          curl -s -k -L -o luongsontv.m3u https://thcoban.github.io/ththethao/luongsontv.m3u  &
           
           wait
           ls -lh
