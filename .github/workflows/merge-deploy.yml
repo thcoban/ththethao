@@ -132,11 +132,6 @@ jobs:
           mkdir -p m3ufiles
           ls -lh
 
-          if [ -f tieulamtv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat tieulamtv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
           if [ -f quechoatv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat quechoatv.m3u >> ttthethao.m3u
@@ -155,6 +150,11 @@ jobs:
           if [ -f khandaiatv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat khandaiatv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+          if [ -f tieulamtv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat tieulamtv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
           if [ -f colatv.m3u ]; then
