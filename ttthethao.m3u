@@ -1616,7 +1616,7 @@ https://alive.yarncdn.live/xctv_blv_tammao/tracks-v2a1/mono.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10.png" group-title="Nấu Xôi TV" group-logo="https://shipxoi.motorcycles/v1/uploads/brand-1780904169517-cd8e308c307be01c.png" , 🟢 03:00 18/06 ⚽ England vs Croatia (GIÀNG A TŨN) [live]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10.png" group-title="Nấu Xôi TV" group-logo="https://shipxoi.motorcycles/v1/uploads/brand-1780904169517-cd8e308c307be01c.png" , 🟢 03:00 18/06 ⚽ England vs Croatia (GIÀNG A TŨN) [halftime]
 https://llhls.shipxoi.motorcycles/live/fx-211375-VxrQ7v7Cw4hz7qU2qBgiQGzF.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1504.png" group-title="Nấu Xôi TV" group-logo="https://shipxoi.motorcycles/v1/uploads/brand-1780904169517-cd8e308c307be01c.png" , 06:00 18/06 ⚽ Ghana vs Panama (LONG THIẾU GIA) [scheduled]
@@ -1639,13 +1639,98 @@ https://llhls.shipxoi.motorcycles/replay/211374/replay.m3u8
 
  
  
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'">
+    <title>Page not found &middot; GitHub Pages</title>
+    <style type="text/css" media="screen">
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-device-pixel-ratio: 2),
+      only screen and (   min--moz-device-pixel-ratio: 2),
+      only screen and (     -o-min-device-pixel-ratio: 2/1),
+      only screen and (        min-device-pixel-ratio: 2),
+      only screen and (                min-resolution: 192dpi),
+      only screen and (                min-resolution: 2dppx) {
+        .logo-img-1x { display: none; }
+        .logo-img-2x { display: inline-block; }
+      }
+
+      #suggestions {
+        margin-top: 35px;
+        color: #ccc;
+      }
+      #suggestions a {
+        color: #666666;
+        font-weight: 200;
+        font-size: 14px;
+        margin: 0 10px;
+      }
+
+    </style>
+  </head>
+  <body>
+
+    <div class="container">
+
+      <h1>404</h1>
+      <p><strong>File not found</strong></p>
+
+      <p>
+        The site configured at this address does not
+        contain the requested file.
+      </p>
+
+      <p>
+        If this is your site, make sure that the filename case matches the URL
+        as well as any file permissions.<br>
+        For root URLs (like <code>http://example.com/</code>) you must provide an
+        <code>index.html</code> file.
+      </p>
+
+      <p>
+        <a href="https://help.github.com/pages/">Read the full documentation</a>
+        for more information about using <strong>GitHub Pages</strong>.
+      </p>
+
+      <div id="suggestions">
+        <a href="https://githubstatus.com">GitHub Status</a> &mdash;
+        <a href="https://twitter.com/githubstatus">@githubstatus</a>
+      </div>
+
+      <a href="/" class="logo logo-img-1x">
+        <img width="32" height="32" title="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpFMTZCRDY3REIzRjAxMUUyQUQzREIxQzRENUFFNUM5NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpFMTZCRDY3RUIzRjAxMUUyQUQzREIxQzRENUFFNUM5NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkUxNkJENjdCQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkUxNkJENjdDQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+SM9MCAAAA+5JREFUeNrEV11Ik1EY3s4+ddOp29Q5b0opCgKFsoKoi5Kg6CIhuwi6zLJLoYLopq4qsKKgi4i6CYIoU/q5iDAKs6syoS76IRWtyJ+p7cdt7sf1PGOD+e0c3dygAx/67ZzzPM95/877GYdHRg3ZjMXFxepQKNS6sLCwJxqNNuFpiMfjVs4ZjUa/pmmjeD6VlJS8NpvNT4QQ7mxwjSsJiEQim/1+/9lgMHgIr5ohuxG1WCw9Vqv1clFR0dCqBODElV6v90ogEDjGdYbVjXhpaendioqK07CIR7ZAqE49PT09BPL2PMgTByQGsYiZlQD4uMXtdr+JxWINhgINYhGT2MsKgMrm2dnZXgRXhaHAg5jEJodUAHxux4LudHJE9RdEdA+i3Juz7bGHe4mhE9FNrgwBCLirMFV9Okh5eflFh8PR5nK5nDabrR2BNJlKO0T35+Li4n4+/J+/JQCxhmu5h3uJoXNHPbmWZAHMshWB8l5/ipqammaAf0zPDDx1ONV3vurdidqwAQL+pEc8sLcAe1CCvQ3YHxIW8Pl85xSWNC1hADDIv0rIE/o4J0k3kww4xSlwIhcq3EFFOm7KN/hUGOQkt0CFa5WpNJlMvxBEz/IVQAxg/ZRZl9wiHA63yDYieM7DnLP5CiAGsC7I5sgtYKJGWe2A8seFqgFJrJjEPY1Cn3pJ8/9W1e5VWsFDTEmFrBcoDhZJEQkXuhICMyKpjhahqN21hRYATKfUOlDmkygrR4o4C0VOLGJKrOITKB4jijzdXygBKixyC5TDQdnk/Pz8qRw6oOWGlsTKGOQW6OH6FBWsyePxdOXLTgxiyebILZCjz+GLgMIKnXNzc49YMlcRdHXcSwxFVgTInQhC9G33UhNoJLuqq6t345p9y3eUy8OTk5PjAHuI9uo4b07FBaOhsu0A4Unc+T1TU1Nj3KsSSE5yJ65jqF2DDd8QqWYmAZrIM2VlZTdnZmb6AbpdV9V6ec9znf5Q7HjYumdRE0JOp3MjitO4SFa+cZz8Umqe3TCbSLvdfkR/kWDdNQl5InuTcysOcpFT35ZrbBxx4p3JAHlZVVW1D/634VRt+FvLBgK/v5LV9WS+10xMTEwtRw7XvqOL+e2Q8V3AYIOIAXQ26/heWVnZCVfcyKHg2CBgTpmPmjYM8l24GyaUHyaIh7XwfR9ErE8qHoDfn2LTNAVC0HX6MFcBIP8Bi+6F6cdW/DICkANRfx99fEYFQ7Nph5i/uQiA214gno7K+guhaiKg9gC62+M8eR7XsBsYJ4ilam60Fb7r7uAj8wFyuwM1oIOWgfmDy6RXEEQzJMPe23DXrVS7rtyD3Df8z/FPgAEAzWU5Ku59ZAUAAAAASUVORK5CYII=">
+      </a>
+
+      <a href="/" class="logo logo-img-2x">
+        <img width="32" height="32" title="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpEQUM1QkUxRUI0MUMxMUUyQUQzREIxQzRENUFFNUM5NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpEQUM1QkUxRkI0MUMxMUUyQUQzREIxQzRENUFFNUM5NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkUxNkJENjdGQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkUxNkJENjgwQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+hfPRaQAAB6lJREFUeNrsW2mM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">
+      </a>
+    </div>
+  </body>
+</html>
+ 
+ 
 #EXTM3U
-#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV KEVILL m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV KEVILL flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV KAKA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
@@ -1682,66 +1767,12 @@ https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a
 #EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/42234_1jstdenyw52t.png",02h05 ngày 18/06 Oakland Roots vs Birmingham Legion (Lương Sơn) BLV PHI HỔ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=7cea6f48cc1f74e7130aa88ed893f005&txTime=6a335801
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=6981d93969804d156d51f227c345837b&txTime=6a335801
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=7cea6f48cc1f74e7130aa88ed893f005&txTime=6a335801
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=6981d93969804d156d51f227c345837b&txTime=6a335801
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=b1be261bd7c9c649bef579685c4be23c&txTime=6a335801
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=bfbd30696ab0f0d1e937c2ecbc5e59c4&txTime=6a335801
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=b1be261bd7c9c649bef579685c4be23c&txTime=6a335801
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=bfbd30696ab0f0d1e937c2ecbc5e59c4&txTime=6a335801
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781731761-0-0-ffd8a3fea39411958f61a621efbcb337
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781731761-0-0-9df315fcdddf7d553399d9b7b2801d21
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781731761-0-0-8f1a246cc88c47a1bd79ed919e2b49d6
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781731761-0-0-62e550e36364ca6ad4785e87084f62ef
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=0862f1328c08895d62ce536d76a6629c&txTime=6a335801
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=03a4e415b1756943e6351f349604eccf&txTime=6a335801
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=0862f1328c08895d62ce536d76a6629c&txTime=6a335801
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=03a4e415b1756943e6351f349604eccf&txTime=6a335801
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=cbf8663b4c2bd0e13561c9fedade5e71&txTime=6a335969
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=a8afa89db3eb4d1a0db84057e04921f6&txTime=6a335969
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=cbf8663b4c2bd0e13561c9fedade5e71&txTime=6a335969
-#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=a8afa89db3eb4d1a0db84057e04921f6&txTime=6a335969
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV KEVILL m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="Lương Sơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV KEVILL flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [DECO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912060_lsd.flv?txSecret=35ae379a75710d98dd2619a45f5670e5&txTime=6a335ad1
@@ -1838,6 +1869,66 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781732481-0-0-85b9
 #EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/9e9a35c8228b343c83cbb6d3112a7ab5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781732481-0-0-c0c507f6dacf178dc5d7030b562997b5
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=22b6b88b824d32b0badc933093c57361&txTime=6a335c39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=63b14c6f19da6fa049de151f7ed21b53&txTime=6a335c39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=22b6b88b824d32b0badc933093c57361&txTime=6a335c39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=63b14c6f19da6fa049de151f7ed21b53&txTime=6a335c39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781732841-0-0-260db8bcc40b03f05b4bfde3ae51c40f
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781732841-0-0-d8319866ff7433b061b5efba6de3a554
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781732841-0-0-db3c89ad3eafca2c554697eea6443d86
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781732841-0-0-669281d8af88d7d723a8f58037680d6b
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=920062668328969ac5baecb95709c663&txTime=6a335c39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=dc4a4d896d606b1c80fcf6cc647a1aef&txTime=6a335c39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=920062668328969ac5baecb95709c663&txTime=6a335c39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=dc4a4d896d606b1c80fcf6cc647a1aef&txTime=6a335c39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=accc792eac1179173da7125612e51367&txTime=6a335c39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=a14e066536d2c1f869a4d6203e6381ac&txTime=6a335c39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=accc792eac1179173da7125612e51367&txTime=6a335c39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=a14e066536d2c1f869a4d6203e6381ac&txTime=6a335c39
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=a1bd39d49557b0dc839321f6dc7660cd&txTime=6a335da1
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=61d39fd63e8ed6f563e1a92d9c2af59a&txTime=6a335da1
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=a1bd39d49557b0dc839321f6dc7660cd&txTime=6a335da1
+#EXTINF:0 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260612/2701f70ab51db7aef29c20111e12b909.png",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=61d39fd63e8ed6f563e1a92d9c2af59a&txTime=6a335da1
 #EXTINF:0 group-title="Hội Quán TV" tvg-logo="https://media.api-sports.io/football/teams/10.png",03h00 18/06 England vs Croatia (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
