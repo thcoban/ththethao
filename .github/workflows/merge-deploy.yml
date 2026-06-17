@@ -106,15 +106,15 @@ jobs:
           #   # python json2m3u.py ${{ secrets.URL_APITHETHAO }}/cumeotv  cumeotv.m3u  1 
           # fi
           
-          if [ -f extractm3u.py ]; then
+          # if [ -f extractm3u.py ]; then
             # python extractm3u.py pktv.m3u new_pktv.m3u "Cháo Gà"  & 
             # python extractm3u.py vatv.m3u new_vatv.m3u "ColaTV"   &
-            python extractm3u.py bongda.m3u new_bongda.m3u "Lương Sơn, Socolive" & 
-          fi
-          
-          # if [ -f removem3u.py ]; then
-          #   python removem3u.py bongda.m3u new_bongda.m3u "Khán đài a, Gà vàng, Chuối Chiên" & 
+            # python extractm3u.py bongda.m3u new_bongda.m3u "Lương Sơn, Socolive" & 
           # fi
+          
+          if [ -f removem3u.py ]; then
+            python removem3u.py bongda.m3u new_bongda.m3u "Khán đài a, Gà vàng, Chuối Chiên" & 
+          fi
           
           if [ -f fixjson.py ]; then
             python fixjson.py linhtv.json ttthethao.json
