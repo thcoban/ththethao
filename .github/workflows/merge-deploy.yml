@@ -118,15 +118,18 @@ jobs:
           #   # python json2m3u.py ${{ secrets.URL_APITHETHAO }}/cumeotv  cumeotv.m3u  1 
           # fi
           
-          # if [ -f extractm3u.py ]; then
+          if [ -f extractm3u.py ]; then
             # python extractm3u.py pktv.m3u new_pktv.m3u "Cháo Gà"  & 
             # python extractm3u.py vatv.m3u new_vatv.m3u "ColaTV"   &
-            # python extractm3u.py bongda.m3u new_bongda.m3u "Lương Sơn, Socolive" & 
-          # fi
-          
-          if [ -f removem3u.py ]; then
-            python removem3u.py bongda.m3u new_bongda.m3u "Khán đài a, Gà vàng, Chuối Chiên" & 
+            
+            [ -f bongda.m3u ] && cp bongda.m3u bongda2.m3u
+            python extractm3u.py bongda.m3u luongsontv.m3u "Lương sơn" & 
+            python extractm3u.py bongda2.m3u socolivetv.m3u "socolive" & 
           fi
+          
+          # if [ -f removem3u.py ]; then
+          #   python removem3u.py bongda.m3u new_bongda.m3u "Khán đài a, Gà vàng, Chuối Chiên" & 
+          # fi
           
           if [ -f fixjson.py ]; then
             python fixjson.py linhtv.json ttthethao.json
@@ -222,6 +225,11 @@ jobs:
             cat luongsontv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
+          if [ -f socolivetv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat socolivetv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
 
           if [ -f new_bongda.m3u ]; then
             echo " " >> ttthethao.m3u
@@ -239,6 +247,7 @@ jobs:
           [ -f thethao.m3u ] && cp thethao.m3u m3ufiles/
           [ -f thethao-base.m3u ] && cp thethao-base.m3u m3ufiles/
           [ -f ttthethao.m3u ] && cp ttthethao.m3u m3ufiles/
+          [ -f quechoatv.m3u ] && cp quechoatv.m3u m3ufiles/
           [ -f hoiquantv.m3u ] && cp hoiquantv.m3u m3ufiles/
           [ -f khandaiatv.m3u ] && cp khandaiatv.m3u m3ufiles/
           [ -f xaycontv.m3u ] && cp xaycontv.m3u m3ufiles/
@@ -252,7 +261,8 @@ jobs:
           [ -f tieulamtv.m3u ] && cp tieulamtv.m3u m3ufiles/
 
           [ -f luongsontv.m3u ] && cp luongsontv.m3u m3ufiles/
-          [ -f quechoatv.m3u ] && cp quechoatv.m3u m3ufiles/
+          [ -f socolivetv.m3u ] && cp socolivetv.m3u m3ufiles/
+          
           [ -f keys.json ] && cp keys.json m3ufiles/
           [ -f ttthethao.json ] && cp ttthethao.json m3ufiles/
 
