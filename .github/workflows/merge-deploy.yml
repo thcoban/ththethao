@@ -286,6 +286,7 @@ jobs:
         run: |
           git config --local user.name "thcoban [bot]"
           git add ttthethao.m3u
+          git add etc/testing/host.txt
 
           echo "checking any changes"
           if [ git diff --quiet ]; then
