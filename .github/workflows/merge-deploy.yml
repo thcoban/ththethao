@@ -247,6 +247,9 @@ jobs:
           [ -f thethao.m3u ] && cp thethao.m3u m3ufiles/
           [ -f thethao-base.m3u ] && cp thethao-base.m3u m3ufiles/
           [ -f ttthethao.m3u ] && cp ttthethao.m3u m3ufiles/
+
+          # keep current xoilacztv.m3u for next use
+          [ -f xoilacztv.m3u ] && cp xoilacztv.m3u m3ufiles/
           [ -f quechoatv.m3u ] && cp quechoatv.m3u m3ufiles/
           [ -f hoiquantv.m3u ] && cp hoiquantv.m3u m3ufiles/
           [ -f khandaiatv.m3u ] && cp khandaiatv.m3u m3ufiles/
@@ -259,15 +262,12 @@ jobs:
           [ -f nauxoitv.m3u ] && cp nauxoitv.m3u m3ufiles/
           [ -f quechoatv.m3u ] && cp quechoatv.m3u m3ufiles/
           [ -f tieulamtv.m3u ] && cp tieulamtv.m3u m3ufiles/
-
+          
           [ -f luongsontv.m3u ] && cp luongsontv.m3u m3ufiles/
           [ -f socolivetv.m3u ] && cp socolivetv.m3u m3ufiles/
           
           [ -f keys.json ] && cp keys.json m3ufiles/
-          [ -f ttthethao.json ] && cp ttthethao.json m3ufiles/
-
-          # keep current xoilacztv.m3u for next use
-          [ -f xoilacztv.m3u ] && cp xoilacztv.m3u m3ufiles/
+          [ -f ttthethao.json ] && cp ttthethao.json m3ufiles/         
           
           # ls -lh m3ufiles/
           
