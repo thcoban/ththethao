@@ -98,6 +98,8 @@ jobs:
           if [ -f apisports.py ]; then
             python apisports.py cakhia cakhiatv.m3u &
             python apisports.py nauxoi nauxoitv.m3u &
+            python apisports.py tieulam tieulamtv.m3u &
+            python apisports.py luongson luongsontv.m3u &
             
             python apisports.py khandaia khandaiatv.m3u &
             python apisports.py hoiquan hoiquantv.m3u &
@@ -107,7 +109,6 @@ jobs:
             python apisports.py tamquoc tamquoctv.m3u &
             python apisports.py chuoichien chuoichientv.m3u &
             python apisports.py quechoa quechoatv.m3u &
-            python apisports.py tieulam tieulamtv.m3u &
           fi
           
           # if [ -f json2m3u.py ]; then
@@ -122,9 +123,9 @@ jobs:
             # python extractm3u.py pktv.m3u new_pktv.m3u "Cháo Gà"  & 
             # python extractm3u.py vatv.m3u new_vatv.m3u "ColaTV"   &
             
-            [ -f bongda.m3u ] && cp bongda.m3u bongda2.m3u && cp bongda.m3u bongda3.m3u
-            python extractm3u.py bongda2.m3u luongsontv.m3u "Lương sơn" & 
-            python extractm3u.py bongda3.m3u socolivetv.m3u "socolive" & 
+            [ -f bongda.m3u ] && cp bongda.m3u bongda2.m3u
+            python extractm3u.py bongda2.m3u socolivetv.m3u "socolive"
+            # python extractm3u.py bongda3.m3u luongsontv.m3u "Lương sơn" 
           fi
           
           # if [ -f removem3u.py ]; then
