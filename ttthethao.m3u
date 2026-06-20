@@ -784,10 +784,6 @@ https://q9kh24w2ba.yarncdn.live/live/kda-blv-nhattinhngao/playlist.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/zP226aXg-fB4vYUZp.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 🟢 03:00 21/06 ⚽ Germany vs Cote d'Ivoire (BLV TRẠNG TỒ) [geo] 
-#EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
-https://pull.asynccdn.com/live/0de8ed77cb3a401cbddcdfdc56a23b3b/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/Qkovv0wS-IPF97VQ3.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 07:00 21/06 ⚽ Ecuador vs Curacao (BLV TRẠNG NGỐ) [geo] 
 #EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
 https://pull.asynccdn.com/live/941637f52c7049f3bdab4ce3a1a2ab0f/index.m3u8
@@ -872,21 +868,25 @@ https://pull.asynccdn.com/live/666b342751d74b839a3b23377eafa8c6/index.m3u8
 #EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
 https://pull.asynccdn.com/live/44dc09f337ef4f0aa457c09b0fdc4bd6/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/48159bec0e62ef337e005cc067d75ae0.png" group-title="Tiếu Lâm TV" , 00:00 22/06 ⚽ Neman Grodno vs Dinamo Minsk (BLV TRẠNG TỒ) [geo] 
+#EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
+https://pull.asynccdn.com/live/a5a15621b4e040d594a1df4b5a2927dc/index.m3u8
+
  
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/af8774ff48aa426f5516ba6d507c5381.png!w80" group-title="Cola TV" group-logo="https://colatv99.live/assets/images/logo.png" , 🟢 05:00 21/06 ⚽ Ceara vs Botafogo (BLV BÍ ĐAO) [flv]
-https://live05.apusport.com/live/99121525.flv
-
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/af8774ff48aa426f5516ba6d507c5381.png!w80" group-title="Cola TV" , 🟢 05:00 21/06 ⚽ Ceara vs Botafogo (BLV BÍ ĐAO) [hls]
-https://live05.apusport.com/live/99121525.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/053969e26d843de456e0265abd3f008a.png!w80" group-title="Cola TV" , 🟢 05:00 21/06 ⚽ CLB Vila Nova vs Nautico (BLV PEPSI) [flv]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/053969e26d843de456e0265abd3f008a.png!w80" group-title="Cola TV" group-logo="https://colatv99.live/assets/images/logo.png" , 🟢 05:00 21/06 ⚽ CLB Vila Nova vs Nautico (BLV PEPSI) [flv]
 https://live05.apusport.com/live/43612277.flv
 
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/053969e26d843de456e0265abd3f008a.png!w80" group-title="Cola TV" , 🟢 05:00 21/06 ⚽ CLB Vila Nova vs Nautico (BLV PEPSI) [hls]
 https://live05.apusport.com/live/43612277.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/af8774ff48aa426f5516ba6d507c5381.png!w80" group-title="Cola TV" , 🟢 05:00 21/06 ⚽ Ceara vs Botafogo (BLV BÍ ĐAO) [flv]
+https://live05.apusport.com/live/99121525.flv
+
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/af8774ff48aa426f5516ba6d507c5381.png!w80" group-title="Cola TV" , 🟢 05:00 21/06 ⚽ Ceara vs Botafogo (BLV BÍ ĐAO) [hls]
+https://live05.apusport.com/live/99121525.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png!w80" group-title="Cola TV" , 07:00 21/06 ⚽ Ecuador vs Curacao (BLV ROCKSTAR) [flv]
 https://live05.apusport.com/live/82054853.flv
@@ -924,11 +924,11 @@ https://live05.apusport.com/live/99121525.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f492a7a07b9d72c444cc5e6a3f990603.png!w80" group-title="Cola TV" , 14:00 21/06 ⚽ St Albans vs Altona Magic (BLV BÍ ĐAO) [hls]
 https://live05.apusport.com/live/99121525.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/90d8a3ba4e8da08e280ab84514fe4cf0.png!w80" group-title="Cola TV" , 16:00 21/06 ⚽ FC Pocheon vs Gangneung (BLV STING) [flv]
-https://live05.apusport.com/live/14707124.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/90d8a3ba4e8da08e280ab84514fe4cf0.png!w80" group-title="Cola TV" , 16:00 21/06 ⚽ FC Pocheon vs Gangneung (BLV PEPSI) [flv]
+https://live05.apusport.com/live/43612277.flv
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/90d8a3ba4e8da08e280ab84514fe4cf0.png!w80" group-title="Cola TV" , 16:00 21/06 ⚽ FC Pocheon vs Gangneung (BLV STING) [hls]
-https://live05.apusport.com/live/14707124.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/90d8a3ba4e8da08e280ab84514fe4cf0.png!w80" group-title="Cola TV" , 16:00 21/06 ⚽ FC Pocheon vs Gangneung (BLV PEPSI) [hls]
+https://live05.apusport.com/live/43612277.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/bb318757b867c541d704d93053aa1bfb.png!w80" group-title="Cola TV" , 18:00 21/06 ⚽ Suzhou Dongwu vs Yunnan Yukun (BLV SODA) [flv]
 https://live05.apusport.com/live/02456966.flv
@@ -966,11 +966,11 @@ https://live05.msdht.app/live/90865415.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ca12e8bdae01ac6f251d59ea6472a476.png!w80" group-title="Cola TV" , 21:00 21/06 ⚽ Ariana vs BK Olympic (BLV 247) [hls]
 https://live05.msdht.app/live/90865415.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9e688f86466bd4f8de6709209f7eeec1.png!w80" group-title="Cola TV" , 21:00 21/06 ⚽ Kristianstads FF vs Laholms (BLV STING) [flv]
-https://live05.apusport.com/live/14707124.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9e688f86466bd4f8de6709209f7eeec1.png!w80" group-title="Cola TV" , 21:00 21/06 ⚽ Kristianstads FF vs Laholms (BLV MOUNTAIN DEW) [flv]
+https://live05.apusport.com/live/87547578.flv
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9e688f86466bd4f8de6709209f7eeec1.png!w80" group-title="Cola TV" , 21:00 21/06 ⚽ Kristianstads FF vs Laholms (BLV STING) [hls]
-https://live05.apusport.com/live/14707124.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9e688f86466bd4f8de6709209f7eeec1.png!w80" group-title="Cola TV" , 21:00 21/06 ⚽ Kristianstads FF vs Laholms (BLV MOUNTAIN DEW) [hls]
+https://live05.apusport.com/live/87547578.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d790c903117459a4afb308ad63d353f9.png!w80" group-title="Cola TV" , 21:00 21/06 ⚽ Avai vs Cuiaba (BLV ROCKSTAR) [flv]
 https://live05.apusport.com/live/82054853.flv
@@ -1176,12 +1176,6 @@ https://hls.cdnfaster-b.site/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f2
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/af8774ff48aa426f5516ba6d507c5381.png" group-title="Cà Khịa TV" group-logo="https://ck51.site/assets/png/logo.png" , 🟢 05:00 21/06 ⚽ Ceara vs Botafogo SP (Giàng A Choén) [FLV]
 https://flv.cdnfaster-b.site/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/b0a80581612c609718a113ffedce697b.png" group-title="Cà Khịa TV" , 🟢 05:00 21/06 ⚽ North Carolina FC U23 vs Port City FC (DERICE) [HLS]
-https://hls.cdnfaster-b.site/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/b0a80581612c609718a113ffedce697b.png" group-title="Cà Khịa TV" , 🟢 05:00 21/06 ⚽ North Carolina FC U23 vs Port City FC (DERICE) [FLV]
-https://flv.cdnfaster-b.site/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/ea0c8502b4200e99d86c7bb8eca412a3.png" group-title="Cà Khịa TV" , 🟢 05:00 21/06 ⚽ Santa Cruz PE vs Ypiranga(RS) (GIÀNG A MÂY) [HLS]
 https://hls.cdnfaster-b.site/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 
@@ -1199,6 +1193,12 @@ https://hls.cdnfaster-b.site/live/ARuoiBLV/index.m3u8?expire=1890828060&sign=15d
 
 #EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1781990159782-1zvebdizp5f.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 21/06 ⚽ MỸ vs ÚC (Giàng A Lỏ) [FLV]
 https://flv.cdnfaster-b.site/live/ARuoiBLV.flv?expire=1890828060&sign=15d2f0ab2004d2e15ffc8144cce5a700
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/35fa04bcfe9565d2d68cfe397075bf07.png" group-title="Cà Khịa TV" , 🟡 06:00 21/06 ⚽ Sporting Jax vs Charleston Battery (DERICE) [HLS]
+https://hls.cdnfaster-b.site/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/35fa04bcfe9565d2d68cfe397075bf07.png" group-title="Cà Khịa TV" , 🟡 06:00 21/06 ⚽ Sporting Jax vs Charleston Battery (DERICE) [FLV]
+https://flv.cdnfaster-b.site/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 
  
  
@@ -1491,22 +1491,22 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1113.png" group-title="Nấu Xôi TV" , 02:00 25/06 ⚽ Bosnia & Herzegovina vs Qatar ([BLV Unknown]) [scheduled]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1108.png" group-title="Nấu Xôi TV" , 05:00 25/06 ⚽ Scotland vs Brazil ([BLV Unknown]) [scheduled]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/31.png" group-title="Nấu Xôi TV" , 05:00 25/06 ⚽ Morocco vs Haiti ([BLV Unknown]) [scheduled]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1531.png" group-title="Nấu Xôi TV" , 08:00 25/06 ⚽ South Africa vs South Korea ([BLV Unknown]) [scheduled]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1108.png" group-title="Nấu Xôi TV" , 05:00 25/06 ⚽ Scotland vs Brazil ([BLV Unknown]) [scheduled]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/770.png" group-title="Nấu Xôi TV" , 08:00 25/06 ⚽ Czech Republic vs Mexico ([BLV Unknown]) [scheduled]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5530.png" group-title="Nấu Xôi TV" , 03:00 26/06 ⚽ Curaçao vs Ivory Coast ([BLV Unknown]) [scheduled]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1531.png" group-title="Nấu Xôi TV" , 08:00 25/06 ⚽ South Africa vs South Korea ([BLV Unknown]) [scheduled]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2382.png" group-title="Nấu Xôi TV" , 03:00 26/06 ⚽ Ecuador vs Germany ([BLV Unknown]) [scheduled]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5530.png" group-title="Nấu Xôi TV" , 03:00 26/06 ⚽ Curaçao vs Ivory Coast ([BLV Unknown]) [scheduled]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12.png" group-title="Nấu Xôi TV" , 06:00 26/06 ⚽ Japan vs Sweden ([BLV Unknown]) [scheduled]
@@ -1521,10 +1521,10 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2380.png" group-title="Nấu Xôi TV" , 09:00 26/06 ⚽ Paraguay vs Australia ([BLV Unknown]) [scheduled]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/13.png" group-title="Nấu Xôi TV" , 02:00 27/06 ⚽ Senegal vs Iraq ([BLV Unknown]) [scheduled]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1090.png" group-title="Nấu Xôi TV" , 02:00 27/06 ⚽ Norway vs France ([BLV Unknown]) [scheduled]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1090.png" group-title="Nấu Xôi TV" , 02:00 27/06 ⚽ Norway vs France ([BLV Unknown]) [scheduled]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/13.png" group-title="Nấu Xôi TV" , 02:00 27/06 ⚽ Senegal vs Iraq ([BLV Unknown]) [scheduled]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/7.png" group-title="Nấu Xôi TV" , 07:00 27/06 ⚽ Uruguay vs Spain ([BLV Unknown]) [scheduled]
@@ -1545,10 +1545,10 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11.png" group-title="Nấu Xôi TV" , 04:00 28/06 ⚽ Panama vs England ([BLV Unknown]) [scheduled]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/8.png" group-title="Nấu Xôi TV" , 06:30 28/06 ⚽ Colombia vs Portugal ([BLV Unknown]) [scheduled]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1508.png" group-title="Nấu Xôi TV" , 06:30 28/06 ⚽ Congo DR vs Uzbekistan ([BLV Unknown]) [scheduled]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1508.png" group-title="Nấu Xôi TV" , 06:30 28/06 ⚽ Congo DR vs Uzbekistan ([BLV Unknown]) [scheduled]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/8.png" group-title="Nấu Xôi TV" , 06:30 28/06 ⚽ Colombia vs Portugal ([BLV Unknown]) [scheduled]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1532.png" group-title="Nấu Xôi TV" , 09:00 28/06 ⚽ Algeria vs Austria ([BLV Unknown]) [scheduled]
@@ -1594,28 +1594,31 @@ https://llhls.shipxoi.motorcycles/replay/215155/replay.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 07:00 21/06 ⚽ Ecuador vs Curacao (BLV LÝ QUỲ) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 07:00 21/06 ⚽ Ecuador vs Curacao (BLV TÀO THÁO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 07:00 21/06 ⚽ Ecuador vs Curacao (BLV TÔN LẬP) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 07:00 21/06 ⚽ Ecuador vs Curacao (BLV TÔN LẬP) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 07:00 21/06 ⚽ Ecuador vs Curacao (BLV YẾN THANH) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 07:00 21/06 ⚽ Ecuador vs Curacao (BLV LÃO HẠC) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 07:00 21/06 ⚽ Ecuador vs Curacao (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 11:00 21/06 ⚽ Tunisia vs Japan (BLV TRIỆU TỬ LONG) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 07:00 21/06 ⚽ Ecuador vs Curacao (BLV LÝ QUỲ) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 07:00 21/06 ⚽ Ecuador vs Curacao (BLV LÃO HẠC) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 11:00 21/06 ⚽ Tunisia vs Japan (BLV MÃ SIÊU) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 11:00 21/06 ⚽ Tunisia vs Japan (BLV PELE) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 11:00 21/06 ⚽ Tunisia vs Japan (BLV TRIỆU TỬ LONG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 11:00 21/06 ⚽ Tunisia vs Japan (BLV DƯƠNG CHÍ) [hls]
@@ -1627,19 +1630,16 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 11:00 21/06 ⚽ Tunisia vs Japan (BLV FERNANDO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 11:00 21/06 ⚽ Tunisia vs Japan (BLV MÃ SIÊU) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV LƯU BỊ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV KAKA) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV NGƯỜI THÉP) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV LỮ BỐ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV LỮ BỐ) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV NGƯỜI THÉP) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV KEVILL) [hls]
@@ -1648,35 +1648,23 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV LEO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV TRIỆU TỬ LONG) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV VÕ TÒNG) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV TÀO THÁO) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV YẾN THANH) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV LÃO HẠC) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV TRIỆU TỬ LONG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1744_1gtqpw2j2sh.png" group-title="Lương Sơn TV" , 🟢 05:00 21/06 ⚽ Santa Cruz PE vs Ypiranga(RS) (BLV MÃ SIÊU) [hls]
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV TÀO THÁO) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1744_1gtqpw2j2sh.png" group-title="Lương Sơn TV" , 🟢 05:00 21/06 ⚽ Santa Cruz PE vs Ypiranga(RS) (BLV MÃ SIÊU) [flv]
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV LÃO HẠC) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1755_1grmn77tvad.png" group-title="Lương Sơn TV" , 🟢 05:00 21/06 ⚽ Ceara vs Botafogo SP (BLV HEINEKEN) [hls]
-https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1755_1grmn77tvad.png" group-title="Lương Sơn TV" , 🟢 05:00 21/06 ⚽ Ceara vs Botafogo SP (BLV HEINEKEN) [flv]
-https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV VÕ TÒNG) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/21958_202201211630145215.gif" group-title="Lương Sơn TV" , 🟢 05:00 21/06 ⚽ AC Connecticut vs Black Rock FC (BLV SHIN) [hls]
 https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
@@ -1690,6 +1678,18 @@ https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=539
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1645_1gv1yhgq3tw.png" group-title="Lương Sơn TV" , 🟢 05:00 21/06 ⚽ Vila Nova vs Nautico (PE) (BLV DƯƠNG CHÍ) [flv]
 https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1755_1grmn77tvad.png" group-title="Lương Sơn TV" , 🟢 05:00 21/06 ⚽ Ceara vs Botafogo SP (BLV HEINEKEN) [hls]
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1755_1grmn77tvad.png" group-title="Lương Sơn TV" , 🟢 05:00 21/06 ⚽ Ceara vs Botafogo SP (BLV HEINEKEN) [flv]
+https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1744_1gtqpw2j2sh.png" group-title="Lương Sơn TV" , 🟢 05:00 21/06 ⚽ Santa Cruz PE vs Ypiranga(RS) (BLV MÃ SIÊU) [hls]
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1744_1gtqpw2j2sh.png" group-title="Lương Sơn TV" , 🟢 05:00 21/06 ⚽ Santa Cruz PE vs Ypiranga(RS) (BLV MÃ SIÊU) [flv]
+https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
 #EXTINF:-1 tvg-logo="" group-title="Lương Sơn TV" , 🟡 06:00 21/06 ⚽ Brooklyn FC vs Tampa Bay Rowdies (BLV VÕ TÒNG) [hls]
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
@@ -1700,114 +1700,6 @@ https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9
  
 #EXTM3U
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=abe4de49963f0821543bd375d71f74c9&txTime=6a376199
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=2d035c5d6c160674e11d1d1342576033&txTime=6a376199
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=abe4de49963f0821543bd375d71f74c9&txTime=6a376199
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=2d035c5d6c160674e11d1d1342576033&txTime=6a376199
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV ALEX] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1781996721-0-0-ba89e1b0cee0dd21400a7a6cbd5f1e4e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV ALEX] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1781996721-0-0-e6a41d3f13c7d99199938e60e91c0902
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV ALEX] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781996721-0-0-def2c191465f23cd353db701737db312
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV ALEX] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781996721-0-0-379c777b497e2732c72b42f9dedd948c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV PICK] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1781996721-0-0-494b1f5a1ab944cab01b1cdcf6315178
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV PICK] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1781996721-0-0-5ac37e19cb2e0c06dd4ddbd53d0a9adc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV PICK] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781996721-0-0-9462a3cca237d9031e576329c9f2fcb6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV PICK] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781996721-0-0-c557d65fd169c6a0d457eaba2ee41b34
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV CHIVAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=57d8dce17c960c0dcc227101839992b0&txTime=6a376301
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV CHIVAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=90ffc4331163089f0c76258be56edc48&txTime=6a376301
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV CHIVAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=57d8dce17c960c0dcc227101839992b0&txTime=6a376301
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV CHIVAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=90ffc4331163089f0c76258be56edc48&txTime=6a376301
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV NẤM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1781996721-0-0-4577a9f8bdf6940fc7b9fdae8e7b85c4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV NẤM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1781996721-0-0-a5654997c7937bb55cb063c9226723b7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV NẤM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781996721-0-0-34ff1be388e0211a1e56da2d55494823
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV NẤM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781996721-0-0-1d2ba746778aec96863f2f96d4dc5e0b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV GÔN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=ce67558a58adbd369f6aafeee525092c&txTime=6a376301
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV GÔN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=dfd7e391c13a54b1530688781017719d&txTime=6a376301
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV GÔN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=ce67558a58adbd369f6aafeee525092c&txTime=6a376301
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV GÔN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=dfd7e391c13a54b1530688781017719d&txTime=6a376301
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV LUCAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1781996721-0-0-ae687eafcd2c396c1c3c4bbe2ab100be
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV LUCAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781996721-0-0-2c6ad640fe214891f866d22bc5b4519d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV LUCAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781996721-0-0-d06f2da2755e15ce77453ee53fef9d89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV LUCAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781996721-0-0-c499ffcf51abe14af2c0403bd46adbbf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV ANH TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1781996721-0-0-da490651e6b75ee668aed8678562babb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV ANH TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781996721-0-0-373f4ff01b9399924880c1e01268884a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV ANH TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781996721-0-0-821b6847fd75020be2bf6745db33fce5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV ANH TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781996721-0-0-3034baaf143148eedc7af93b32a3b29c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [XUÂN TÓC ĐỎ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=6a67c507cbcd570c8bc8a377dfe5fda0&txTime=6a376301
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [XUÂN TÓC ĐỎ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=f3b10bae59fda04f578c481e65a1af44&txTime=6a376301
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [XUÂN TÓC ĐỎ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=6a67c507cbcd570c8bc8a377dfe5fda0&txTime=6a376301
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=f3b10bae59fda04f578c481e65a1af44&txTime=6a376301
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV ROBBEN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1781997081-0-0-2922bfed5fc5717a77b7b04c516bd0af
@@ -1832,18 +1724,6 @@ https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781997081-0-0-45e0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [HÀ DUY KIÊN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781997081-0-0-a3ac7d694dc95c9b5bbc96e208d43f61
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=c4cd72296bbbac3315e7e547875cbfeb&txTime=6a376469
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=8fa274d9bcc0b9f4a788a2bbde1f0725&txTime=6a376469
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=c4cd72296bbbac3315e7e547875cbfeb&txTime=6a376469
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=8fa274d9bcc0b9f4a788a2bbde1f0725&txTime=6a376469
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV KEM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1781997081-0-0-d31c5e105d6f987a5a0d7e6a0bdaf91d
@@ -1892,4 +1772,136 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781997081-0-0-eb63
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781997081-0-0-65b9fd5db2c428aa348e003095fa0cf5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=b48662d66b466781df412f55a3dec5e9&txTime=6a3765d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=a102fb4ce333df9ab053f76bf2dfb4e8&txTime=6a3765d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=b48662d66b466781df412f55a3dec5e9&txTime=6a3765d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/5c71c53a38ec020cec51a0fadf10fc62.png",07h00 ngày 21/06 Ecuador vs Curacao [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=a102fb4ce333df9ab053f76bf2dfb4e8&txTime=6a3765d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=ea8818e0df18f1504b508d101fb9cd91&txTime=6a3765d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=044dc8b6cff74b1ee1e8f2fca935d3c3&txTime=6a3765d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=ea8818e0df18f1504b508d101fb9cd91&txTime=6a3765d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/00fca00d851196e48f5015c5ce53adda.png",03h00 ngày 21/06 Germany vs Cote d'Ivoire [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=044dc8b6cff74b1ee1e8f2fca935d3c3&txTime=6a3765d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/32aa48af54a19360812cdbafe0485680.png",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1781997441-0-0-0f9a21488b203bde576a77605510c06f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/32aa48af54a19360812cdbafe0485680.png",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781997441-0-0-26f6010628edbae9adf1b602755c2c15
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/32aa48af54a19360812cdbafe0485680.png",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781997441-0-0-4e4474f9d25ac7b34527fcf9b6d7b41b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/32aa48af54a19360812cdbafe0485680.png",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781997441-0-0-91d08e554f1a1cd5ff3acc96e6dc8c77
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV GÔN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=5cea16e99a93694a84bf51ddb51b726d&txTime=6a376739
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV GÔN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=0f26ff69ce1705a017b4b8bbd1f94842&txTime=6a376739
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV GÔN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=5cea16e99a93694a84bf51ddb51b726d&txTime=6a376739
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV GÔN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=0f26ff69ce1705a017b4b8bbd1f94842&txTime=6a376739
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV NẤM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1781997801-0-0-1bdfe543604ff5883d0543a90779cfae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV NẤM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1781997801-0-0-2b6e3571ff37031b35540d2555c97567
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV NẤM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781997801-0-0-041c553d2ed2e97030f701666be9fbc9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV NẤM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781997801-0-0-d58984602144c0a9a4e127657b57f0c5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1781997801-0-0-f5fc84c1b022a5891e78e8c0c9bd1cab
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1781997801-0-0-b6dd13d42eba765e8e5559810f8fa294
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781997801-0-0-8d78ea4b0628f76e98468a471499ed18
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781997801-0-0-18ba84f114252174b977f64eb571b1f6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV PICK] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1781997801-0-0-afef9aedd935dcff6fe4be0e5f17a341
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV PICK] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1781997801-0-0-74b7112521e18c68ffc80066421c17bd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV PICK] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781997801-0-0-018ad65adac1d81fdca167dc0ac72232
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV PICK] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781997801-0-0-5a8804464b6a034682fb3125a46ec0c3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [XUÂN TÓC ĐỎ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=6d725e81d1ff8d765a4b5539c80b6474&txTime=6a376739
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [XUÂN TÓC ĐỎ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=a306b957380d576cdf06f1006bca6185&txTime=6a376739
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [XUÂN TÓC ĐỎ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=6d725e81d1ff8d765a4b5539c80b6474&txTime=6a376739
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=a306b957380d576cdf06f1006bca6185&txTime=6a376739
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV CHIVAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=8da190ac4d6844c35561cccc72f7d7d1&txTime=6a376739
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV CHIVAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=9d0eaa60f6432b8af390d525d3c3cfb3&txTime=6a376739
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV CHIVAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=8da190ac4d6844c35561cccc72f7d7d1&txTime=6a376739
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV CHIVAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=9d0eaa60f6432b8af390d525d3c3cfb3&txTime=6a376739
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV ANH TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1781997801-0-0-9ba6dfe62dc6194b9c74f200f47ed474
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV ANH TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781997801-0-0-af4e6eea0492c206ca088fd3c34d5495
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV ANH TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781997801-0-0-144fbcf961fd80c50986547b5ba16fea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/eb9a2c62586dffd59f50a4577ab59c85.png",05h00 ngày 21/06 Ceara vs Botafogo SP [BLV ANH TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781997801-0-0-07b64b2581f09c2f86ebdd3f81ba2abf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV LUCAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1781997801-0-0-5fb06e1c4730cdc1ad7d35553a1431f2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV LUCAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781997801-0-0-539a21aee300abac7a304c8599285ced
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV LUCAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781997801-0-0-dba908b88d459723296939f78746b955
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/ed9315c687752f40ded7f09a0cfddd60.png",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [BLV LUCAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781997801-0-0-7411220d9aa3bf7bef1a5837c8a51aea
  
