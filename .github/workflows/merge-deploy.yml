@@ -298,7 +298,7 @@ jobs:
           git add etc/testing/host.txt
 
           echo "checking any changes"
-          if [ git diff --quiet ]; then
+          if git diff --staged --quiet; then
             echo "[test only] No changes detected."
           fi
           
