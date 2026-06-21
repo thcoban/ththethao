@@ -375,6 +375,12 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg" group-title="Hội Quán TV" , 🟢 22:00 21/06 🏓 Tay Vợt 1 vs Tay Vợt 2 (BLV PHAN CA) [HD] 
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/387.png" group-title="Hội Quán TV" , 🟡 00:00 22/06 ⚽ Neman vs Dinamo Minsk (BLV TÁO GIÀ) [FHD] 
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/387.png" group-title="Hội Quán TV" , 🟡 00:00 22/06 ⚽ Neman vs Dinamo Minsk (BLV TÁO GIÀ) [HD] 
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1.png" group-title="Hội Quán TV" , 02:00 22/06 ⚽ Belgium vs Iran (BLV PHAN MÃ) [FHD] 
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
@@ -422,12 +428,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/250px-Flag_of_New_Zealand.svg.png" group-title="Hội Quán TV" , 08:00 22/06 ⚽ New Zealand vs Egypt (BLV LƯƠNG BỔNG) [HD] 
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/387.png" group-title="Hội Quán TV" , 🟡 00:00 22/06 ⚽ Neman vs Dinamo Minsk (BLV TÁO GIÀ) [FHD] 
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/387.png" group-title="Hội Quán TV" , 🟡 00:00 22/06 ⚽ Neman vs Dinamo Minsk (BLV TÁO GIÀ) [HD] 
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3707.png" group-title="Hội Quán TV" , 07:30 22/06 ⚽ Oriente Petrolero vs Nacional Potosí (BLV PHAN ANH) [FHD] 
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
@@ -1189,26 +1189,22 @@ https://hls.cdnfaster-b.site/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f2
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/48159bec0e62ef337e005cc067d75ae0.png" group-title="Cà Khịa TV" , 🟡 00:00 22/06 ⚽ Neman Grodno vs Dinamo Minsk (Giàng A Choén) [FLV]
 https://flv.cdnfaster-b.site/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/48159bec0e62ef337e005cc067d75ae0.png" group-title="Cà Khịa TV" , 🟡 00:00 22/06 ⚽ Neman Grodno vs Dinamo Minsk (Giàng A Kê) [HLS]
+https://hls.cdnfaster-b.site/live/GIANGAKE1/index.m3u8?expire=1875900120&sign=4e26a135079793732e8db8d9edfb8f6d
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/48159bec0e62ef337e005cc067d75ae0.png" group-title="Cà Khịa TV" , 🟡 00:00 22/06 ⚽ Neman Grodno vs Dinamo Minsk (Giàng A Kê) [FLV]
+https://flv.cdnfaster-b.site/live/GIANGAKE1.flv?expire=1875900120&sign=4e26a135079793732e8db8d9edfb8f6d
+
  
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/20251115_123041_65475931.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 23:30 21/06 🏐 Turkey W vs China W (Chuối Già) [FHD1] [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/20251115_123041_65475931.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 23:30 21/06 🏐 Turkey W vs China W (Chuối Già) [FHD2] [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132452_7dffbcd4.png" group-title="Chuối Chiên TV" , 🟢 22:00 21/06 ⚽ Aktobe vs FC Astana (Chuối Tiêu) [FHD1] [hls] 
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132452_7dffbcd4.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 22:00 21/06 ⚽ Aktobe vs FC Astana (Chuối Tiêu) [FHD1] [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132452_7dffbcd4.png" group-title="Chuối Chiên TV" , 🟢 22:00 21/06 ⚽ Aktobe vs FC Astana (Chuối Tiêu) [FHD2] [flv] 
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132452_7dffbcd4.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 22:00 21/06 ⚽ Aktobe vs FC Astana (Chuối Tiêu) [FHD2] [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
@@ -1232,6 +1228,16 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/20251115_123041_65475931.png" group-title="Chuối Chiên TV" , 🟢 23:30 21/06 🏐 Turkey W vs China W (Chuối Già) [FHD1] [hls] 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/20251115_123041_65475931.png" group-title="Chuối Chiên TV" , 🟢 23:30 21/06 🏐 Turkey W vs China W (Chuối Già) [FHD2] [flv] 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png" group-title="Chuối Chiên TV" , 02:00 22/06 ⚽ Belgium vs Iran (Chuối Nhỏ) [FHD1] [hls] 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -1687,23 +1693,11 @@ https://llhls.shipxoi.motorcycles/replay/215158/replay.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV LỮ BỐ) [hls]
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV LỮ BỐ) [flv]
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV KEVILL) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV KEVILL) [hls]
 https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV KEVILL) [flv]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV KEVILL) [flv]
 https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV NGƯỜI THÉP) [hls]
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV NGƯỜI THÉP) [flv]
-https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV LEO) [hls]
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
@@ -1717,6 +1711,18 @@ https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV KAKA) [flv]
 https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV NGƯỜI THÉP) [hls]
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV NGƯỜI THÉP) [flv]
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV LỮ BỐ) [hls]
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV LỮ BỐ) [flv]
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV LƯU BỊ) [hls]
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
@@ -1726,10 +1732,13 @@ https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV LÃO HẠC) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV VÕ TÒNG) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV TRIỆU TỬ LONG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV VÕ TÒNG) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV YẾN THANH) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV TÀO THÁO) [hls]
@@ -1738,38 +1747,11 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV YẾN THANH) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/3698_1gzq8pzdweg.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ FK Aktobe Lento vs FC Astana (BLV PHI HỔ) [hls]
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1103_1gxmbp25vb2e.png" group-title="Lương Sơn TV" , 🟢 21:00 21/06 ⚽ Kongsvinger vs Stromsgodset (BLV MÃ SIÊU) [hls]
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1103_1gxmbp25vb2e.png" group-title="Lương Sơn TV" , 🟢 21:00 21/06 ⚽ Kongsvinger vs Stromsgodset (BLV MÃ SIÊU) [flv]
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/20492_1h5e74z2bj1.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ Riga FC vs FK Liepaja (BLV PELE) [hls]
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/20492_1h5e74z2bj1.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ Riga FC vs FK Liepaja (BLV PELE) [flv]
-https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/2032_1h51a5wm332r.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ BATE Borisov vs Arsenal Dzyarzhynsk (BLV GẤU KA) [hls]
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/2032_1h51a5wm332r.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ BATE Borisov vs Arsenal Dzyarzhynsk (BLV GẤU KA) [flv]
-https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1802_1h8fzp9swx2r.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ Ostersunds FK vs IFK Norrkoping FK (BLV FERNANDO) [hls]
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1802_1h8fzp9swx2r.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ Ostersunds FK vs IFK Norrkoping FK (BLV FERNANDO) [flv]
-https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1936_1ht90trcpp31.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ Norrby IF vs Nordic United FC (BLV TÀO THÁO) [hls]
-https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1936_1ht90trcpp31.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ Norrby IF vs Nordic United FC (BLV TÀO THÁO) [flv]
-https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/3698_1gzq8pzdweg.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ FK Aktobe Lento vs FC Astana (BLV PHI HỔ) [flv]
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/3698_1gzq8pzdweg.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ FK Aktobe Lento vs FC Astana (BLV HÀN TÍN) [hls]
 https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
@@ -1777,11 +1759,29 @@ https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f0
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/3698_1gzq8pzdweg.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ FK Aktobe Lento vs FC Astana (BLV HÀN TÍN) [flv]
 https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/3698_1gzq8pzdweg.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ FK Aktobe Lento vs FC Astana (BLV PHI HỔ) [hls]
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/2032_1h51a5wm332r.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ BATE Borisov vs Arsenal Dzyarzhynsk (BLV GẤU KA) [hls]
+https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/3698_1gzq8pzdweg.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ FK Aktobe Lento vs FC Astana (BLV PHI HỔ) [flv]
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/2032_1h51a5wm332r.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ BATE Borisov vs Arsenal Dzyarzhynsk (BLV GẤU KA) [flv]
+https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1936_1ht90trcpp31.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ Norrby IF vs Nordic United FC (BLV TÀO THÁO) [hls]
+https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1936_1ht90trcpp31.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ Norrby IF vs Nordic United FC (BLV TÀO THÁO) [flv]
+https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1802_1h8fzp9swx2r.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ Ostersunds FK vs IFK Norrkoping FK (BLV FERNANDO) [hls]
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1802_1h8fzp9swx2r.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ Ostersunds FK vs IFK Norrkoping FK (BLV FERNANDO) [flv]
+https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/20492_1h5e74z2bj1.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ Riga FC vs FK Liepaja (BLV PELE) [hls]
+https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/20492_1h5e74z2bj1.png" group-title="Lương Sơn TV" , 🟢 22:00 21/06 ⚽ Riga FC vs FK Liepaja (BLV PELE) [flv]
+https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/908_1htgre2d542b.png" group-title="Lương Sơn TV" , 🟢 23:30 21/06 ⚽ Huachipato vs Puerto Montt (BLV LÝ QUỲ) [hls]
 https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
@@ -1789,17 +1789,17 @@ https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb945
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/908_1htgre2d542b.png" group-title="Lương Sơn TV" , 🟢 23:30 21/06 ⚽ Huachipato vs Puerto Montt (BLV LÝ QUỲ) [flv]
 https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/908_1htgre2d542b.png" group-title="Lương Sơn TV" , 🟢 23:30 21/06 ⚽ Huachipato vs Puerto Montt (BLV TÂY MÔN KHÁNH) [hls]
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/908_1htgre2d542b.png" group-title="Lương Sơn TV" , 🟢 23:30 21/06 ⚽ Huachipato vs Puerto Montt (BLV TÂY MÔN KHÁNH) [flv]
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/908_1htgre2d542b.png" group-title="Lương Sơn TV" , 🟢 23:30 21/06 ⚽ Huachipato vs Puerto Montt (BLV TRIỆU TỬ LONG) [hls]
 https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/908_1htgre2d542b.png" group-title="Lương Sơn TV" , 🟢 23:30 21/06 ⚽ Huachipato vs Puerto Montt (BLV TRIỆU TỬ LONG) [flv]
 https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/908_1htgre2d542b.png" group-title="Lương Sơn TV" , 🟢 23:30 21/06 ⚽ Huachipato vs Puerto Montt (BLV TÂY MÔN KHÁNH) [hls]
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/908_1htgre2d542b.png" group-title="Lương Sơn TV" , 🟢 23:30 21/06 ⚽ Huachipato vs Puerto Montt (BLV TÂY MÔN KHÁNH) [flv]
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/575_1j50e7s8g413.png" group-title="Lương Sơn TV" , 🟡 00:00 22/06 ⚽ Neman Grodno vs Dinamo Minsk (BLV LIO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
@@ -1808,210 +1808,6 @@ https://freem3u.xyz/static/no-signal/low.m3u8
  
 #EXTM3U
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782061161-0-0-98d97ecf1b0c02d173a7d3627808190d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782061161-0-0-73d5a77aa74a0aabb118f2f810370186
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782061161-0-0-a7d40322687a064d1b61989062a3c21e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782061161-0-0-f177d0524ded17119c5a4ef7448ae249
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [XUÂN TÓC ĐỎ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=71b71b090d8789e00f12ef6a90d58d70&txTime=6a385eba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [XUÂN TÓC ĐỎ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=df5e3d2dfd853f438c40232aaa649d9e&txTime=6a385eba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [XUÂN TÓC ĐỎ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=71b71b090d8789e00f12ef6a90d58d70&txTime=6a385eba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=df5e3d2dfd853f438c40232aaa649d9e&txTime=6a385eba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=db8a7a9e5591a7744615fbb03c01b86b&txTime=6a385eb9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=7d4171a660f37d6eb248904c0ef9a717&txTime=6a385eb9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=db8a7a9e5591a7744615fbb03c01b86b&txTime=6a385eb9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=7d4171a660f37d6eb248904c0ef9a717&txTime=6a385eb9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=113a253ef2adff02c896825e32adda87&txTime=6a385eb9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=74dd404bbb141a85551eb97ef1766736&txTime=6a385eb9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=113a253ef2adff02c896825e32adda87&txTime=6a385eb9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=74dd404bbb141a85551eb97ef1766736&txTime=6a385eb9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/137b2ae798286a4afeb12202330d3e7e.png",22h00 ngày 21/06 Riga FC vs FK Liepaja [BLV ENZO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1782061161-0-0-4cc668c3f4b538938b4a9a4a46e1044e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/137b2ae798286a4afeb12202330d3e7e.png",22h00 ngày 21/06 Riga FC vs FK Liepaja [BLV ENZO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1782061161-0-0-4ab4a9e91b4e8b089d6b2bb7b85b1a6f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/137b2ae798286a4afeb12202330d3e7e.png",22h00 ngày 21/06 Riga FC vs FK Liepaja [BLV ENZO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782061161-0-0-5a211ad35c0f4f28a19bc9593a1b9e65
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/137b2ae798286a4afeb12202330d3e7e.png",22h00 ngày 21/06 Riga FC vs FK Liepaja [BLV ENZO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782061161-0-0-ed663d59d18a35c3ebb84a9f4d81f599
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",22h00 ngày 21/06 Norrby IF vs Nordic United FC [TRÀ ĐÁ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1782061161-0-0-85440ba401afc61b4092784a577a53c5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",22h00 ngày 21/06 Norrby IF vs Nordic United FC [TRÀ ĐÁ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1782061161-0-0-58006f760caaa6923902b30d8e2876bd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",22h00 ngày 21/06 Norrby IF vs Nordic United FC [TRÀ ĐÁ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782061161-0-0-27e387d880204a664d9b1a3a6f39e737
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",22h00 ngày 21/06 Norrby IF vs Nordic United FC [TRÀ ĐÁ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782061161-0-0-7062f3834436a17771ec7e73dbc5af74
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3a2bb081d4616c582d3602c2ffdbe69e.png",22h00 ngày 21/06 BATE Borisov vs Arsenal Dzerzhinsk [KÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1782061161-0-0-6fc4f1514cd9e35bbcf49aa2c9960bbb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3a2bb081d4616c582d3602c2ffdbe69e.png",22h00 ngày 21/06 BATE Borisov vs Arsenal Dzerzhinsk [KÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782061161-0-0-7908f0ac870b1e217b789db566409ba8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3a2bb081d4616c582d3602c2ffdbe69e.png",22h00 ngày 21/06 BATE Borisov vs Arsenal Dzerzhinsk [KÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782061161-0-0-f496e6dbf4ab29ea73d54ead73607aaf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3a2bb081d4616c582d3602c2ffdbe69e.png",22h00 ngày 21/06 BATE Borisov vs Arsenal Dzerzhinsk [KÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782061161-0-0-563bdfb5d40c40e78b8f921f3afe1fff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3a2bb081d4616c582d3602c2ffdbe69e.png",22h00 ngày 21/06 BATE Borisov vs Arsenal Dzerzhinsk [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782061161-0-0-cfa1bb8fec482f562a7ad892e6f4d74c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3a2bb081d4616c582d3602c2ffdbe69e.png",22h00 ngày 21/06 BATE Borisov vs Arsenal Dzerzhinsk [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1782061161-0-0-418a150d46ff095e155496b1e0506d01
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3a2bb081d4616c582d3602c2ffdbe69e.png",22h00 ngày 21/06 BATE Borisov vs Arsenal Dzerzhinsk [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782061161-0-0-b1039496bf06160c2e8981b1cae489a6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3a2bb081d4616c582d3602c2ffdbe69e.png",22h00 ngày 21/06 BATE Borisov vs Arsenal Dzerzhinsk [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782061161-0-0-662cfd3e4745ff4b1e0d5cdda159d65a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782061521-0-0-304c6caff5dcd42b3eabb2cf5e7eb29a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782061521-0-0-bd86b089623481fc4577a49ae655fd0f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782061521-0-0-a1b64baf7f548b8b948bb15b069e99c5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782061521-0-0-9600f4038d36838ac4cc85759dfcf52b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [CR Bưởi] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=394d824797577a4f75509ef5a44a8b7e&txTime=6a386021
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [CR Bưởi] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=0a2e322be52ce3721b5dc74af3827d30&txTime=6a386021
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [CR Bưởi] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=394d824797577a4f75509ef5a44a8b7e&txTime=6a386021
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [CR Bưởi] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=0a2e322be52ce3721b5dc74af3827d30&txTime=6a386021
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782061521-0-0-8e7579d67330ff91d23950db8ea92ac0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782061521-0-0-9623ae830115e3b5a6f3a74c111f3b47
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782061521-0-0-c1fe0b8105f3b0f06d14c2e5ae2e6c3d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782061521-0-0-896bf16c2d1a923f933c8f13d59ebafc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=5544c9cebeb9096257c61ca9d0f5034d&txTime=6a386021
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=55a7aecd5f8db60c6a97a9bdf5430e5d&txTime=6a386021
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=5544c9cebeb9096257c61ca9d0f5034d&txTime=6a386021
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=55a7aecd5f8db60c6a97a9bdf5430e5d&txTime=6a386021
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1782061521-0-0-bdf46d40043d65b6cdba1aeac8f89af3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1782061521-0-0-2029646a88f308210a43dcbbee9c9314
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1782061521-0-0-ee0b0a4fa306c3698530c03b7719e070
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1782061521-0-0-fd9ad1a368d9da748186eb45ae1137b1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782061521-0-0-b5072f70f15eebcfe2154483261d484c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782061521-0-0-a1c4226dfa305485f294e2e66926fc91
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782061521-0-0-79d81aca9fd4ef4d689258f404755440
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782061521-0-0-459b921b383108037d28cf3974a32961
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=219076fa20c2c9c05649ad12e2d64cdd&txTime=6a386021
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=ebc9b83fd3001a790894d07afd595603&txTime=6a386021
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=219076fa20c2c9c05649ad12e2d64cdd&txTime=6a386021
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=ebc9b83fd3001a790894d07afd595603&txTime=6a386021
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",22h00 ngày 21/06 Norrby IF vs Nordic United FC [BLV VIP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=6402f84f658f9985327f569eb99f41e7&txTime=6a386021
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",22h00 ngày 21/06 Norrby IF vs Nordic United FC [BLV VIP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=834a343949936873d34fdcd6bb64269a&txTime=6a386021
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",22h00 ngày 21/06 Norrby IF vs Nordic United FC [BLV VIP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=6402f84f658f9985327f569eb99f41e7&txTime=6a386021
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",22h00 ngày 21/06 Norrby IF vs Nordic United FC [BLV VIP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=834a343949936873d34fdcd6bb64269a&txTime=6a386021
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3270b999b0d2b4f71e90b37f5cd4b1fd.png",22h00 ngày 21/06 Ostersunds FK vs IFK Norrkoping FK [BLV CÁP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1782061521-0-0-61c28c3de0993b9e2a289c90e23446a4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3270b999b0d2b4f71e90b37f5cd4b1fd.png",22h00 ngày 21/06 Ostersunds FK vs IFK Norrkoping FK [BLV CÁP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1782061521-0-0-8861257efe1a84e5bd079833894c6902
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3270b999b0d2b4f71e90b37f5cd4b1fd.png",22h00 ngày 21/06 Ostersunds FK vs IFK Norrkoping FK [BLV CÁP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1782061521-0-0-869e755cc2ea0e5ef4ca105b0d3bd405
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3270b999b0d2b4f71e90b37f5cd4b1fd.png",22h00 ngày 21/06 Ostersunds FK vs IFK Norrkoping FK [BLV CÁP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1782061521-0-0-a4db8d2804020890c7cf82d3ee2e50b0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782061881-0-0-27e005c76e2f8932a8a8098b9469c83f
@@ -2084,4 +1880,208 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782061881-0-0-5709
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782061881-0-0-48bafc541f5dca02a803208522867036
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=8df1751cccf42fbc2897df9c69bd5594&txTime=6a3862f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=4be9eebf986ff20df837a287f096ffa4&txTime=6a3862f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=8df1751cccf42fbc2897df9c69bd5594&txTime=6a3862f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=4be9eebf986ff20df837a287f096ffa4&txTime=6a3862f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [XUÂN TÓC ĐỎ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=07f0ce43505cf94dcba3fdb564f2da4b&txTime=6a3862f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [XUÂN TÓC ĐỎ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=03ec11a0aab3202f4d9c3219676ac481&txTime=6a3862f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [XUÂN TÓC ĐỎ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=07f0ce43505cf94dcba3fdb564f2da4b&txTime=6a3862f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=03ec11a0aab3202f4d9c3219676ac481&txTime=6a3862f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=bef65f60a6a911a2a930ba492b6dfa5f&txTime=6a3862f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=bfef74b61bebae0a36e08025ced3b114&txTime=6a3862f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=bef65f60a6a911a2a930ba492b6dfa5f&txTime=6a3862f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=bfef74b61bebae0a36e08025ced3b114&txTime=6a3862f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782062241-0-0-fe02e47f55b6f6da0e11bb81fd581a23
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782062241-0-0-7cfa575f8d36e54940d2391adec43b98
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782062241-0-0-7d98cb6c0cdc16d358b5e42829c3314a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782062241-0-0-e045788a463bd7b37d040ba287aa1f13
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/137b2ae798286a4afeb12202330d3e7e.png",22h00 ngày 21/06 Riga FC vs FK Liepaja [BLV ENZO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1782062241-0-0-7fb5d54aacc46590260987fcd08a0c7c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/137b2ae798286a4afeb12202330d3e7e.png",22h00 ngày 21/06 Riga FC vs FK Liepaja [BLV ENZO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1782062241-0-0-cac62db0d8913bdcf341666fb0211a03
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/137b2ae798286a4afeb12202330d3e7e.png",22h00 ngày 21/06 Riga FC vs FK Liepaja [BLV ENZO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782062241-0-0-c6f75a29ac3d98d256b28f4dc247c547
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/137b2ae798286a4afeb12202330d3e7e.png",22h00 ngày 21/06 Riga FC vs FK Liepaja [BLV ENZO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782062241-0-0-05e2928e039e874b175049dcdeead08b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",22h00 ngày 21/06 Norrby IF vs Nordic United FC [TRÀ ĐÁ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1782062241-0-0-b64506d77826e2ea25cf27e39cdcae20
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",22h00 ngày 21/06 Norrby IF vs Nordic United FC [TRÀ ĐÁ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1782062241-0-0-2cd77b92feeb5f0564b162a61608d5c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",22h00 ngày 21/06 Norrby IF vs Nordic United FC [TRÀ ĐÁ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782062241-0-0-b496a45096ce470d9026abac96e10dcf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",22h00 ngày 21/06 Norrby IF vs Nordic United FC [TRÀ ĐÁ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782062241-0-0-20b82b1503af076e32b9f0e09b4f37c6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3a2bb081d4616c582d3602c2ffdbe69e.png",22h00 ngày 21/06 BATE Borisov vs Arsenal Dzerzhinsk [BLV A WIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782062241-0-0-e1a8e14df33cefcaf8b1730f7db81309
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3a2bb081d4616c582d3602c2ffdbe69e.png",22h00 ngày 21/06 BATE Borisov vs Arsenal Dzerzhinsk [BLV A WIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1782062241-0-0-ed5e379dcb64f184bb42c8034ad01203
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3a2bb081d4616c582d3602c2ffdbe69e.png",22h00 ngày 21/06 BATE Borisov vs Arsenal Dzerzhinsk [BLV A WIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782062241-0-0-4352084a4c938518a4c718130b9a53f0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3a2bb081d4616c582d3602c2ffdbe69e.png",22h00 ngày 21/06 BATE Borisov vs Arsenal Dzerzhinsk [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782062241-0-0-7501b0d356e3d325854c2c04639259dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3a2bb081d4616c582d3602c2ffdbe69e.png",22h00 ngày 21/06 BATE Borisov vs Arsenal Dzerzhinsk [KÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1782062241-0-0-0bfc5e7de623ec9d5658040a8cea736d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3a2bb081d4616c582d3602c2ffdbe69e.png",22h00 ngày 21/06 BATE Borisov vs Arsenal Dzerzhinsk [KÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782062241-0-0-0bbae0e36f127dd24b1d5ae9cd396023
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3a2bb081d4616c582d3602c2ffdbe69e.png",22h00 ngày 21/06 BATE Borisov vs Arsenal Dzerzhinsk [KÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782062241-0-0-09d4986f87580e81b12d0eabc70d2758
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3a2bb081d4616c582d3602c2ffdbe69e.png",22h00 ngày 21/06 BATE Borisov vs Arsenal Dzerzhinsk [KÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782062241-0-0-4c9ebdca223f960c91cc026ec70654d6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=f92ca0f7347741ec126ec61e515bcc73&txTime=6a386459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=c5e63c7e38383acaa600745b31444430&txTime=6a386459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=f92ca0f7347741ec126ec61e515bcc73&txTime=6a386459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=c5e63c7e38383acaa600745b31444430&txTime=6a386459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782062601-0-0-e373c482be6b1e851f07968608789d7d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782062601-0-0-930fdc4def7f8e9dae428acfcbdac4e0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782062601-0-0-4f97e09664723909d12e47b571db2527
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782062601-0-0-931510c91e6606f6b4d141ddfd0032d0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782062601-0-0-952553ea1299857181d6511eba7fb584
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782062601-0-0-0198d264ba20a6bc66db26dc838e788b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782062601-0-0-e736591ce524fb2fd6df8d1da21d72f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782062601-0-0-30f2e9020dc2117af61749430591c52d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782062601-0-0-0b315c58fab9623cc065f0a78da84db6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782062601-0-0-2c4da17f6908507adb81161542655fde
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782062601-0-0-e68c3ed45a52c0a558d400ba884a4d3f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782062601-0-0-1705a73b11b2359ef4ff147bfd4ffb3b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=2bbaa2ac0efce1994f5f8227606326ca&txTime=6a386459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=9d4c483beff85218a306309459578061&txTime=6a386459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=2bbaa2ac0efce1994f5f8227606326ca&txTime=6a386459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=9d4c483beff85218a306309459578061&txTime=6a386459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [CR Bưởi] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=6bb26b4e6f2861dee11bcc1cee386c85&txTime=6a386459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [CR Bưởi] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=39fe7f0a9805ea578c65c200a638fa59&txTime=6a386459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [CR Bưởi] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=6bb26b4e6f2861dee11bcc1cee386c85&txTime=6a386459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [CR Bưởi] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=39fe7f0a9805ea578c65c200a638fa59&txTime=6a386459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1782062601-0-0-4ba0cf77abed4fb76c4277a7aa70d2b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1782062601-0-0-205dea01f5501af56a3c2ae6c3c0f6ae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1782062601-0-0-924ce94e524dc4370a76ff8c6d48bdd8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",WORLD CUP: Spain vs Saudi Arabia [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1782062601-0-0-80b740a61536709597df71416e0578a6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",22h00 ngày 21/06 Norrby IF vs Nordic United FC [BLV VIP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=5f70b244fdfc941de3fbce178b486bb9&txTime=6a386459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",22h00 ngày 21/06 Norrby IF vs Nordic United FC [BLV VIP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=f251234a0c7769d1373e2853d3663bbb&txTime=6a386459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",22h00 ngày 21/06 Norrby IF vs Nordic United FC [BLV VIP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=5f70b244fdfc941de3fbce178b486bb9&txTime=6a386459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png",22h00 ngày 21/06 Norrby IF vs Nordic United FC [BLV VIP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=f251234a0c7769d1373e2853d3663bbb&txTime=6a386459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3270b999b0d2b4f71e90b37f5cd4b1fd.png",22h00 ngày 21/06 Ostersunds FK vs IFK Norrkoping FK [BLV CÁP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1782062601-0-0-109e75b5a9d0a9f232e35a5e34971b4e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3270b999b0d2b4f71e90b37f5cd4b1fd.png",22h00 ngày 21/06 Ostersunds FK vs IFK Norrkoping FK [BLV CÁP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1782062601-0-0-84b4b1c7c488810aa08fdde77e2308b9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3270b999b0d2b4f71e90b37f5cd4b1fd.png",22h00 ngày 21/06 Ostersunds FK vs IFK Norrkoping FK [BLV CÁP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1782062601-0-0-ffdf3a0d4dcb298c37dfe29c04a6131d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/3270b999b0d2b4f71e90b37f5cd4b1fd.png",22h00 ngày 21/06 Ostersunds FK vs IFK Norrkoping FK [BLV CÁP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1782062601-0-0-30c41cb38bba961773153713c1a2c1b6
  
