@@ -237,6 +237,12 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10217.png" group-title="Hội Quán TV" , 🟢 14:00 21/06 ⚽ Lions vs Rochedale Rovers (BLV THẦN THÔNG) [HD] 
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/250px-Flag_of_the_Czech_Republic.svg.png" group-title="Hội Quán TV" , 🟡 15:00 21/06 🏐 CH Séc vs Cộng Hòa Dominicana (BLV PHAN HẢI) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/250px-Flag_of_the_Czech_Republic.svg.png" group-title="Hội Quán TV" , 🟡 15:00 21/06 🏐 CH Séc vs Cộng Hòa Dominicana (BLV PHAN HẢI) [HD] 
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9.png" group-title="Hội Quán TV" , 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV PHAN MÃ) [FHD] 
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
@@ -278,12 +284,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10124.png" group-title="Hội Quán TV" , 22:00 21/06 ⚽ Riga vs FK Liepaja (BLV PHAN CA) [HD] 
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/250px-Flag_of_the_Czech_Republic.svg.png" group-title="Hội Quán TV" , 🟡 15:00 21/06 🏐 CH Séc vs Cộng Hòa Dominicana (BLV PHAN HẢI) [FHD] 
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/250px-Flag_of_the_Czech_Republic.svg.png" group-title="Hội Quán TV" , 🟡 15:00 21/06 🏐 CH Séc vs Cộng Hòa Dominicana (BLV PHAN HẢI) [HD] 
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/250px-Flag_of_Belgium.svg.png" group-title="Hội Quán TV" , 16:30 21/06 🏐 Bỉ vs Pháp (BLV PHAN PHÉP) [FHD] 
 https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
@@ -1036,25 +1036,25 @@ https://flv.cdnfaster-b.site/live/ARuoiBLV.flv?expire=1890828060&sign=15d2f0ab20
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/20250826_164910_2f0f7164.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 13:00 21/06 🏐 Bulgaria W vs Ukraine W (Chuối Tây) [FHD1] [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/20250826_164910_2f0f7164.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 13:00 21/06 🏐 Bulgaria W vs Ukraine W (Chuối Tây) [FHD2] [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143101_7fda1723.png" group-title="Chuối Chiên TV" , 🟡 15:00 21/06 🏐 Czech Republic W vs Dominican Republic W (Chuối Bơ) [FHD1] [hls] 
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143101_7fda1723.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟡 15:00 21/06 🏐 Czech Republic W vs Dominican Republic W (Chuối Bơ) [FHD1] [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143101_7fda1723.png" group-title="Chuối Chiên TV" , 🟡 15:00 21/06 🏐 Czech Republic W vs Dominican Republic W (Chuối Bơ) [FHD2] [flv] 
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143101_7fda1723.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟡 15:00 21/06 🏐 Czech Republic W vs Dominican Republic W (Chuối Bơ) [FHD2] [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/20250826_164910_2f0f7164.png" group-title="Chuối Chiên TV" , 🟢 13:00 21/06 🏐 Bulgaria W vs Ukraine W (Chuối Tây) [FHD1] [hls] 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/20250826_164910_2f0f7164.png" group-title="Chuối Chiên TV" , 🟢 13:00 21/06 🏐 Bulgaria W vs Ukraine W (Chuối Tây) [FHD2] [flv] 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/20250829_212618_887a8760.png" group-title="Chuối Chiên TV" , 16:30 21/06 🏐 Belgium W vs France W (Chuối Tím) [FHD1] [hls] 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -1475,25 +1475,34 @@ https://llhls.shipxoi.motorcycles/replay/215158/replay.m3u8
  
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV LỮ BỐ) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV LEO) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV KAKA) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV NGƯỜI THÉP) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV LƯU BỊ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV KEVILL) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV LỮ BỐ) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV LƯU BỊ) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV NGƯỜI THÉP) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/666_164983321668.png" group-title="Lương Sơn TV" , 🟢 23:00 21/06 ⚽ Spain vs Saudi Arabia (BLV KAKA) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV TRIỆU TỬ LONG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV VƯƠNG LUÂN) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV YẾN THANH) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV TÀO THÁO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV VÕ TÒNG) [hls]
@@ -1502,26 +1511,23 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV LÃO HẠC) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV YẾN THANH) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png" group-title="Lương Sơn TV" , 🟢 13:00 21/06 ⚽ Brisbane Olympic United FC vs Peninsula Power (BLV LỮ BỐ) [hls]
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV TRIỆU TỬ LONG) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png" group-title="Lương Sơn TV" , 🟢 13:00 21/06 ⚽ Brisbane Olympic United FC vs Peninsula Power (BLV LỮ BỐ) [flv]
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png" group-title="Lương Sơn TV" , 🟢 02:00 22/06 ⚽ Belgium vs Iran (BLV TÀO THÁO) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png" group-title="Lương Sơn TV" , 🟢 13:00 21/06 ⚽ Brisbane Olympic United FC vs Peninsula Power (BLV LÝ QUỲ) [hls]
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png" group-title="Lương Sơn TV" , 🟢 13:00 21/06 ⚽ Brisbane Olympic United FC vs Peninsula Power (BLV LÝ QUỲ) [flv]
+https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12874_1gskkb8he46.png" group-title="Lương Sơn TV" , 🟢 14:00 21/06 ⚽ St Albans Saints vs Altona Magic (BLV KAKA) [hls]
 https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12874_1gskkb8he46.png" group-title="Lương Sơn TV" , 🟢 14:00 21/06 ⚽ St Albans Saints vs Altona Magic (BLV KAKA) [flv]
 https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11673_1gryyqvhkg2.png" group-title="Lương Sơn TV" , 🟢 14:00 21/06 ⚽ Queensland Lions SC vs Rochedale Rovers (BLV KEVILL) [hls]
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11673_1gryyqvhkg2.png" group-title="Lương Sơn TV" , 🟢 14:00 21/06 ⚽ Queensland Lions SC vs Rochedale Rovers (BLV KEVILL) [flv]
-https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11673_1gryyqvhkg2.png" group-title="Lương Sơn TV" , 🟢 14:00 21/06 ⚽ Queensland Lions SC vs Rochedale Rovers (BLV TÔN LẬP) [hls]
 https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
@@ -1535,178 +1541,16 @@ https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11673_1gryyqvhkg2.png" group-title="Lương Sơn TV" , 🟢 14:00 21/06 ⚽ Queensland Lions SC vs Rochedale Rovers (BLV LƯU BỊ) [flv]
 https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png" group-title="Lương Sơn TV" , 🟢 13:00 21/06 ⚽ Brisbane Olympic United FC vs Peninsula Power (BLV LÝ QUỲ) [hls]
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11673_1gryyqvhkg2.png" group-title="Lương Sơn TV" , 🟢 14:00 21/06 ⚽ Queensland Lions SC vs Rochedale Rovers (BLV KEVILL) [hls]
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png" group-title="Lương Sơn TV" , 🟢 13:00 21/06 ⚽ Brisbane Olympic United FC vs Peninsula Power (BLV LÝ QUỲ) [flv]
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png" group-title="Lương Sơn TV" , 🟢 13:00 21/06 ⚽ Brisbane Olympic United FC vs Peninsula Power (BLV LỮ BỐ) [hls]
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png" group-title="Lương Sơn TV" , 🟢 13:00 21/06 ⚽ Brisbane Olympic United FC vs Peninsula Power (BLV LỮ BỐ) [flv]
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11673_1gryyqvhkg2.png" group-title="Lương Sơn TV" , 🟢 14:00 21/06 ⚽ Queensland Lions SC vs Rochedale Rovers (BLV KEVILL) [flv]
+https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
  
  
 #EXTM3U
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ALEX] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1782028761-0-0-16a690306635ccdfaa90a13bb1581724
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ALEX] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1782028761-0-0-a3eff6e164e1cb51a483c3ecf760a0f7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ALEX] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1782028761-0-0-707927dc6916193320c283fc856a2650
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ALEX] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782028761-0-0-b61c2776fc773aa91af792051597706e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ENZO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1782028761-0-0-53835652084f4b9c11eba35f8620b257
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ENZO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1782028761-0-0-675929f94f4354f6a2ddfd8f3253c83d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ENZO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782028761-0-0-f96b2ba6c6660ad29c4e4e3cb7bc98c9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ENZO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782028761-0-0-f7aa04de458978fb4b18abf4e3af0efc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV BÉO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=038d3867c96cb22fa3cac582d6aa1d0b&txTime=6a37e029
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV BÉO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=bbfae8e2ea664d6047c356094b247940&txTime=6a37e029
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV BÉO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=038d3867c96cb22fa3cac582d6aa1d0b&txTime=6a37e029
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV BÉO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=bbfae8e2ea664d6047c356094b247940&txTime=6a37e029
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1782028761-0-0-cc8166f87c111afdf0e32acf46d7e903
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1782028761-0-0-28472dc2a1d80d9bcb3c11c7c25620d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1782028761-0-0-c44e7821e338bde6f5a23d787e9fe888
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1782028761-0-0-786ad2871e61e967770d998576a1feee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Scotland vs Morocco [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782028761-0-0-e70273e6b0d8d7b036c212d9e1ef025f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Scotland vs Morocco [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782028761-0-0-e9c098f4c4187e952539fc131505f0db
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Scotland vs Morocco [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782028761-0-0-1757119b7ef2b52f01dbcb95aa12e458
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Scotland vs Morocco [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782028761-0-0-956b94f112588fedc7de9b65a09c96ed
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Germany vs Cote d'Ivoire [Sóc đau cổ vai gáy] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782028761-0-0-c54253a09feee7e3e9be1b8ad612f55c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Germany vs Cote d'Ivoire [Sóc đau cổ vai gáy] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1782028761-0-0-09e48ac7fe05167b27d01c7e892a4b0d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Germany vs Cote d'Ivoire [Sóc đau cổ vai gáy] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782028761-0-0-a29d5c0ed6c51ba388d715b67e554488
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Germany vs Cote d'Ivoire [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782028761-0-0-4e6903fd4a661dd62b29bdb600ed5929
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Ecuador vs Curacao [Sóc trèo cây ngô đồng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782028761-0-0-f79cfb7a736399cc41c06b7bf662a9ac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Ecuador vs Curacao [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782028761-0-0-02ed96819bc3d7c4842f27e9a5e5d083
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Ecuador vs Curacao [Sóc trèo cây ngô đồng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782028761-0-0-a1be361a8aaf3764d220e0a885d3fe78
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Ecuador vs Curacao [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782028761-0-0-deeb98cf51c9b2467d9c433e7534c53c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Brazil vs Haiti [Sóc mèo méo meo] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782028761-0-0-23e07fc7fe8d417acb93a2fb51edadc5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Brazil vs Haiti [Sóc mèo méo meo] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782028761-0-0-b5748420342c9774d68ccda9b4562b6e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Brazil vs Haiti [Sóc mèo méo meo] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782028761-0-0-f5e75a4a0a262ae55c24004f03ce58bb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Brazil vs Haiti [Sóc mèo méo meo] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782028761-0-0-3e1251e9fb81e17bf95716967aede343
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12h00 ngày 21/06 St Albans Saints vs Altona Magic [BLV VIP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=9a4ea5c203f7f7e3e06fccb5775f38d9&txTime=6a37e191
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12h00 ngày 21/06 St Albans Saints vs Altona Magic [BLV VIP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=1e550f10d5382b15361e8060b0b69f05&txTime=6a37e191
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12h00 ngày 21/06 St Albans Saints vs Altona Magic [BLV VIP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=9a4ea5c203f7f7e3e06fccb5775f38d9&txTime=6a37e191
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12h00 ngày 21/06 St Albans Saints vs Altona Magic [BLV VIP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=1e550f10d5382b15361e8060b0b69f05&txTime=6a37e191
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV CÒ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1782029121-0-0-fe34be2d10ea0925b95b74d0647af943
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV CÒ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1782029121-0-0-d9f3cdaa579daf7d6e7792dea608f0f8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV CÒ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782029121-0-0-ba0e95b35dba4e8e900a5753eaf91547
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV CÒ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782029121-0-0-e8d5976cfecd361f2e5884e2b9821deb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [A PÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782029121-0-0-d9d3b747b90e75e6336d53e340df3b74
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [A PÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1782029121-0-0-10908e0ec58a954912d6ba915674ab54
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [A PÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782029121-0-0-5c1529bd71bcd6cf56720b6350460ab3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [A PÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782029121-0-0-3ccd990af8740c8919b2add3bec9c89a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV LUCAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1782029121-0-0-219cb9dfb634b55302b76d83547283e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV LUCAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1782029121-0-0-d19637d4ba51a98a50f129c79670bcb7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV LUCAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782029121-0-0-c92e71845af4bb1e26a0c5e4cea0befb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV LUCAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782029121-0-0-765e1f3fb4b9f928c2063de76526cecf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Tunisia vs Japan [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782029121-0-0-5b7a9c08b624c344d116d2c522057044
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Tunisia vs Japan [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782029121-0-0-e94ea8808ea985b592711000e8262ed9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Tunisia vs Japan [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782029121-0-0-2e27e62a3307b8ec147bc7a5d516260c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Tunisia vs Japan [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782029121-0-0-defee1df860c87929b94bf5b34a350a5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12h00 ngày 21/06 St Albans Saints vs Altona Magic [TRÀ ĐÁ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1782029481-0-0-1f24ff26cf79ecb04d1426cc0a2c8d60
@@ -1779,4 +1623,160 @@ https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782029481-0-0-517b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Netherlands vs Sweden [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782029481-0-0-28bc679ea33ea5ffc73229f88f3a9162
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=895feb63fe7f6588bf89bb510d084894&txTime=6a37e461
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=87aafdfc2f2ea827a0ea306ea9708c5d&txTime=6a37e461
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=895feb63fe7f6588bf89bb510d084894&txTime=6a37e461
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=87aafdfc2f2ea827a0ea306ea9708c5d&txTime=6a37e461
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ENZO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1782029841-0-0-e35defab26a4b981e26437ec03ea4304
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ENZO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1782029841-0-0-c520ac7b0f517adc4c57d7350306d8d0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ENZO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782029841-0-0-62d13f710d5b2983cb32cce27f5703e3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ENZO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782029841-0-0-7a00a96a005f1503cc85ace4f74e6d25
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1782029841-0-0-6cdc4c4cdf63b63500bc62b892c32772
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1782029841-0-0-ef2000164bf21e35ba913fd1380a3051
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1782029841-0-0-58945dc8d82589da39fe7f3de07ab238
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1782029841-0-0-7fd28ee4841ca75429775db4badbb175
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1782029841-0-0-a40d6995032fcc52cb151ab6eb9259a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1782029841-0-0-1e97aaf9f4dfab922b34e0c4a44e5767
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1782029841-0-0-cc74a9d7f90a32180ff62a0e7876aa86
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782029841-0-0-0d1cd3e9ecf4c5fed4548364491ed236
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Scotland vs Morocco [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782029841-0-0-294779d69bd0dd3383872c3dd391dbcc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Scotland vs Morocco [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782029841-0-0-471b5c2b0bba3cb019def0b9c4130c6d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Scotland vs Morocco [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782029841-0-0-7c64080412828592bffef8a2e748a634
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Scotland vs Morocco [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782029841-0-0-f879672e0d04882a9d659422c012dabc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Germany vs Cote d'Ivoire [Sóc đau cổ vai gáy] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782029841-0-0-08cbb2bab2242ada9969ed82cbff694c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Germany vs Cote d'Ivoire [Sóc đau cổ vai gáy] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1782029841-0-0-efb7b3855973fa9d816331ac0d44e1ab
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Germany vs Cote d'Ivoire [Sóc đau cổ vai gáy] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782029841-0-0-97cfbc7fa674b38cae129848a1e5ada1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Germany vs Cote d'Ivoire [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782029841-0-0-013ac1d444aabd87bdb0d8b3b66b2d69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Ecuador vs Curacao [Sóc trèo cây ngô đồng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782029841-0-0-d17000168dbb2762d249e50601e5e1ad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Ecuador vs Curacao [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782029841-0-0-c58955ba91859091e966a0957d11dd61
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Ecuador vs Curacao [Sóc trèo cây ngô đồng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782029841-0-0-077fee9e1c7368babd4033a8f68fc535
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Ecuador vs Curacao [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782029841-0-0-18236264b64c1ebfc79b2f1c0aa5e317
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Brazil vs Haiti [Sóc mèo méo meo] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782029841-0-0-da833350aa724ab81422080ad2f2a3bc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Brazil vs Haiti [Sóc mèo méo meo] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782029841-0-0-024430106387c32a2c5362245b5e384a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Brazil vs Haiti [Sóc mèo méo meo] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782029841-0-0-8c22f4d3e487b891617e9e500a3cb10d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Brazil vs Haiti [Sóc mèo méo meo] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782029841-0-0-86d348299c2d9afc98639ffd0da5959c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782030201-0-0-d4b40f6c6d931b34ff5002828c6ec457
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1782030201-0-0-a44c248867993ecf3adcdb373356ab77
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782030201-0-0-ed84e64d71e88e8c37578cba16483bd6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e0a674a43a9b02f501e0a70e2271efc4.png",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782030201-0-0-811657c35342ab1acf60d924fcdfb166
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12h00 ngày 21/06 St Albans Saints vs Altona Magic [BLV VIP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=0b2139f4f05dca50a58ad7046a112cf2&txTime=6a37e5c9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12h00 ngày 21/06 St Albans Saints vs Altona Magic [BLV VIP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=9eff562689288f16c89f73cb954b7e96&txTime=6a37e5c9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12h00 ngày 21/06 St Albans Saints vs Altona Magic [BLV VIP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=0b2139f4f05dca50a58ad7046a112cf2&txTime=6a37e5c9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12h00 ngày 21/06 St Albans Saints vs Altona Magic [BLV VIP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=9eff562689288f16c89f73cb954b7e96&txTime=6a37e5c9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV CÒ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1782030201-0-0-d68f2671f3adc9a003f9283cf9ea3272
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV CÒ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1782030201-0-0-64e950b428b4735c3b330291cf4eb16f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV CÒ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782030201-0-0-cc92783138b884dc38cf6e5d326c0841
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV CÒ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782030201-0-0-d07393222d62f4d275265db3a4a3b19e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV LUCAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1782030201-0-0-a5700585715d7196ff780dfd02221685
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV LUCAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1782030201-0-0-5841ccf43335e6c4c2d2eb2ddd921f68
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV LUCAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782030201-0-0-ab68f18f192d958ce56643b960905a6f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14h00 ngày 21/06 Queensland Lions SC vs Rochedale Rovers [BLV LUCAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782030201-0-0-a74ae0c0c0d30242eeb775ae661fb09d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Tunisia vs Japan [Sóc trong rừng xà nu] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782030201-0-0-4af8b1ec1bdaee4811b6b6621122d77d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Tunisia vs Japan [Sóc trong rừng xà nu] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782030201-0-0-7dc63593a06c5b5b6c2e608f73d77ec8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Tunisia vs Japan [Sóc trong rừng xà nu] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782030201-0-0-56f47965a37ff22cb14e2ba1b5786f0f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/193c887b062e36ecbb42d018a4d1e402.png",Tường thuật: WORLD CUP - Tunisia vs Japan [Sóc trong rừng xà nu] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782030201-0-0-6aff7872f6a0e45ef0b9f05759544da7
  
