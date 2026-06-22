@@ -25,19 +25,18 @@ socks5://103.61.122.229:1080  sock5  VN 🇻🇳
 
 # https://www.proxynova.com/proxy-server-list/country-vn
 # 113.160.132.26:8080  vn Vietnam - Hanoi 	Elite,  moved to stable
-137.59.47.73:3128  vn Vietnam 	Transparent
+137.59.47.73:3128  🇻🇳 Vietnam 	Transparent
 
 # https://proxyscrape.com/free-proxy-list/vietnam
-socks5://103.61.122.229:1080
+# socks5://103.61.122.229:1080 ,  moved to stable
 # http://113.160.132.26:8080 ,  moved to stable
-# http://137.59.47.73:3128 above
+# http://137.59.47.73:3128 🇻🇳 Vietnam 	Transparent  , above
 
 # new check
 socks4://103.61.122.229:1080
 http://116.101.9.20:2040
 socks4://116.101.75.173:1080
 http://116.101.9.20:2080
-socks5://103.61.122.229:1080
 223.130.11.151:8443
 
 #https://www.freeproxy.world/?type=https&country=VN
@@ -46,7 +45,7 @@ socks5://103.61.122.229:1080
 socks5://160.22.17.4:9988   :SOCKS5:Elite:
 
 116.101.9.20:2103   :HTTP:Elite:Ngo Quyen Ward
-113.160.132.26:8080   :HTTPS:Elite:Da Nang
+#  113.160.132.26:8080   :HTTPS:Elite:Da Nang  ,  moved to stable
 
 # https://proxyscrape.com/free-proxy-list
 # 1.231.81.166:3128	KR moved to stable
@@ -61,7 +60,7 @@ socks5://160.22.17.4:9988   :SOCKS5:Elite:
 # https://geonode.com/free-proxy-list, not stable
 202.28.194.139:31280
 13.140.164.60:3128
-137.59.47.73:3128
+# 137.59.47.73:3128 🇻🇳 Vietnam	Transparent, duplicate
 
 // last check <= 20min
 # 185.141.26.131:3128	RO	HTTPS	Transparent, moved to stable
