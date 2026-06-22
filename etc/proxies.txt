@@ -20,53 +20,38 @@ socks5://103.61.122.229:1080  sock5  VN 🇻🇳
 # https://free-proxy-list.net/en/
 
 # https://spys.one/free-proxy-list/VN/ not stable
-socks5://160.22.17.4:9988	SOCKS5	HIA	VN	160.22.17.4 (VNPT Corp)
 
 # https://free.geonix.com/en/vietnam/ not working
 
 # https://www.proxynova.com/proxy-server-list/country-vn
-103.28.37.131:3128  vn Vietnam 	Transparent
 # 113.160.132.26:8080  vn Vietnam - Hanoi 	Elite,  moved to stable
 137.59.47.73:3128  vn Vietnam 	Transparent
 
 # https://proxyscrape.com/free-proxy-list/vietnam
 socks5://103.61.122.229:1080
 # http://113.160.132.26:8080 ,  moved to stable
-http://137.59.47.73:3128
+# http://137.59.47.73:3128 above
 
 # new check
-socks4://116.101.75.173:1111
 socks4://103.61.122.229:1080
-socks4://116.101.9.20:1111
 socks4://116.101.13.80:1056
-http://137.59.47.73:3128
-socks5://160.250.54.8:9000
 http://113.160.132.26:8080
-socks4://183.80.130.9:4145
-socks4://116.101.9.20:1100
-socks4://27.76.194.0:1080
+
 socks5://116.101.13.80:1056
-http://116.101.9.20:2103
+# http://116.101.9.20:2103 below , 
 http://116.101.9.20:2040
 socks4://116.101.75.173:1080
 http://116.101.9.20:2080
 socks5://103.61.122.229:1080
-http://116.101.75.173:2111
-socks5://116.101.75.173:1100
-http://223.130.11.151:8443
+
+116.101.75.173:2111
+223.130.11.151:8443
 
 
 
 #https://www.freeproxy.world/?type=https&country=VN
 
 # https://proxy-tools.com/proxy/vn
-# socks5://103.61.122.229:1080   :SOCKS5:Elite: above
-# socks5://116.101.75.173:1082   :SOCKS5:Elite:Hanoi
-
-116.101.75.173:2079   :HTTPS:Elite:Hanoi
-116.101.9.20:2047   :HTTPS:Elite:Ngo Quyen Ward
-137.59.47.73:3128   :HTTP:Transparent:
-
 socks5://160.22.17.4:9988   :SOCKS5:Elite:
 
 116.101.9.20:2103   :HTTP:Elite:Ngo Quyen Ward
@@ -85,7 +70,6 @@ socks5://160.22.17.4:9988   :SOCKS5:Elite:
 # https://geonode.com/free-proxy-list, not stable
 202.28.194.139:31280
 13.140.164.60:3128
-173.212.246.157:3128
 137.59.47.73:3128
 
 // last check <= 20min
