@@ -943,10 +943,10 @@ https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/250px-Flag_of_Colombia.svg.png" group-title="Khán Đài A" , 09:00 24/06 ⚽ Colombia vs Congo DR (Isco) [HD] 
 https://alive.yarncdn.live/kda-blv-isco/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/330px-Flag_of_the_Philippines.svg.png" group-title="Khán Đài A" , 16:00 23/06 🏐 Philippines vs Malaysia (Núi) [FHD] 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/330px-Flag_of_the_Philippines.svg.png" group-title="Khán Đài A" , 🟡 16:00 23/06 🏐 Philippines vs Malaysia (Núi) [FHD] 
 https://kdalive.yarncdn.live/live/kda-blv-nui/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/330px-Flag_of_the_Philippines.svg.png" group-title="Khán Đài A" , 16:00 23/06 🏐 Philippines vs Malaysia (Núi) [HD] 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/330px-Flag_of_the_Philippines.svg.png" group-title="Khán Đài A" , 🟡 16:00 23/06 🏐 Philippines vs Malaysia (Núi) [HD] 
 https://alive.yarncdn.live/kda-blv-nui/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/250px-Flag_of_the_Republic_of_China.svg.png" group-title="Khán Đài A" , 16:30 23/06 🏐 Đài Loan vs Kazakhstan (T-Rex) [FHD] 
@@ -1295,7 +1295,11 @@ https://live2.pro2cdnlive.com/live/channel32.flv
 #EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
 https://pull.asynccdn.com/live/ef02cdb26f464203aad978fadef9226c/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/165b0184ea713b45d4453dd4e4fdfdb2.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 16:30 23/06 ⚽ Gold Coast Knights vs Eastern Suburbs Brisbane (BLV TRẠNG TỒ) [geo] 
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png" group-title="Tiếu Lâm TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (Nhà đài) 
+#EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
+https://li.lilive3.eu.cc/live/0f0cbfd896e525b665e8c762b67d1235/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/165b0184ea713b45d4453dd4e4fdfdb2.png" group-title="Tiếu Lâm TV" , 16:30 23/06 ⚽ Gold Coast Knights vs Eastern Suburbs Brisbane (BLV TRẠNG TỒ) [geo] 
 #EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
 https://pull.asynccdn.com/live/e5b77b562a76486d8292c78e8779fa2c/index.m3u8
 
@@ -1415,18 +1419,6 @@ https://hls.cdnfaster-b.site/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/82325f30d601dd69f8c3f0e35c61e44c.png" group-title="Cà Khịa TV" , 🟢 14:30 23/06 ⚽ Guizhou Xufengtang vs Shaanxi Northwest Juniors (Giàng A Mèo) [FLV]
 https://flv.cdnfaster-b.site/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 
-#EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1782166911311-suxqcxw4d6.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 23/06 ⚽ Argentina vs Áo (Giàng A Hổ) [HLS]
-https://hls.cdnfaster-b.site/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-
-#EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1782166911311-suxqcxw4d6.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 23/06 ⚽ Argentina vs Áo (Giàng A Hổ) [FLV]
-https://flv.cdnfaster-b.site/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-
-#EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1782166911311-suxqcxw4d6.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 23/06 ⚽ Argentina vs Áo (Giàng A Gấu) [HLS]
-https://hls.cdnfaster-b.site/live/suplo/index.m3u8?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-
-#EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1782166911311-suxqcxw4d6.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 23/06 ⚽ Argentina vs Áo (Giàng A Gấu) [FLV]
-https://flv.cdnfaster-b.site/live/suplo.flv?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/0011800200177bdd6d5197b2bd13e8d9.png" group-title="Cà Khịa TV" , 🟢 15:00 23/06 ⚽ Changchun Xidu vs Lanzhou Longyuan Athletic (GIÀNG A MÂY) [HLS]
 https://hls.cdnfaster-b.site/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 
@@ -1438,6 +1430,36 @@ https://hls.cdnfaster-b.site/live/GIANGAKE1/index.m3u8?expire=1875900120&sign=4e
 
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/0011800200177bdd6d5197b2bd13e8d9.png" group-title="Cà Khịa TV" , 🟢 15:00 23/06 ⚽ Changchun Xidu vs Lanzhou Longyuan Athletic (Giàng A Kê) [FLV]
 https://flv.cdnfaster-b.site/live/GIANGAKE1.flv?expire=1875900120&sign=4e26a135079793732e8db8d9edfb8f6d
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png" group-title="Cà Khịa TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (Thích Đủ Thứ) [HLS]
+https://hls.cdnfaster-b.site/live/THICHDUTHU2/index.m3u8?expire=1879277700&sign=ba0e4935fa6e7962f084086e60fdee9e
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png" group-title="Cà Khịa TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (Thích Đủ Thứ) [FLV]
+https://flv.cdnfaster-b.site/live/THICHDUTHU2.flv?expire=1879277700&sign=ba0e4935fa6e7962f084086e60fdee9e
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png" group-title="Cà Khịa TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (Giàng A Chiến) [HLS]
+https://hls.cdnfaster-b.site/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png" group-title="Cà Khịa TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (Giàng A Chiến) [FLV]
+https://flv.cdnfaster-b.site/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png" group-title="Cà Khịa TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (Lữ Bố (Giàng Phụng Tiên)) [HLS]
+https://hls.cdnfaster-b.site/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png" group-title="Cà Khịa TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (Lữ Bố (Giàng Phụng Tiên)) [FLV]
+https://flv.cdnfaster-b.site/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+
+#EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1782166911311-suxqcxw4d6.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 23/06 ⚽ Argentina vs Áo (Giàng A Hổ) [HLS]
+https://hls.cdnfaster-b.site/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
+
+#EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1782166911311-suxqcxw4d6.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 23/06 ⚽ Argentina vs Áo (Giàng A Hổ) [FLV]
+https://flv.cdnfaster-b.site/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
+
+#EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1782166911311-suxqcxw4d6.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 23/06 ⚽ Argentina vs Áo (Giàng A Gấu) [HLS]
+https://hls.cdnfaster-b.site/live/suplo/index.m3u8?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
+
+#EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1782166911311-suxqcxw4d6.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 23/06 ⚽ Argentina vs Áo (Giàng A Gấu) [FLV]
+https://flv.cdnfaster-b.site/live/suplo.flv?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
 
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/1cd1f47b6c94e8f7f222f09ac29e9873.png" group-title="Cà Khịa TV" , 🟢 15:00 23/06 ⚽ Shanghai Second vs Dalian Yingbo B (BLV GÀ PHÁP) [HLS]
 https://hls.cdnfaster-b.site/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
@@ -1463,47 +1485,29 @@ https://hls.cdnfaster-b.site/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975a
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/781ec70f5330d740f23ff6ba778ae7e4.png" group-title="Cà Khịa TV" , 🟢 15:00 23/06 ⚽ Xiamen Feilu vs Hubei Istar (Giàng A Khoai) [FLV]
 https://flv.cdnfaster-b.site/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png" group-title="Cà Khịa TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (Thích Đủ Thứ) [HLS]
-https://hls.cdnfaster-b.site/live/THICHDUTHU2/index.m3u8?expire=1879277700&sign=ba0e4935fa6e7962f084086e60fdee9e
-
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png" group-title="Cà Khịa TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (Thích Đủ Thứ) [FLV]
-https://flv.cdnfaster-b.site/live/THICHDUTHU2.flv?expire=1879277700&sign=ba0e4935fa6e7962f084086e60fdee9e
-
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png" group-title="Cà Khịa TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (Giàng A Chiến) [HLS]
-https://hls.cdnfaster-b.site/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png" group-title="Cà Khịa TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (Giàng A Chiến) [FLV]
-https://flv.cdnfaster-b.site/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png" group-title="Cà Khịa TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (Lữ Bố (Giàng Phụng Tiên)) [HLS]
-https://hls.cdnfaster-b.site/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png" group-title="Cà Khịa TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (Lữ Bố (Giàng Phụng Tiên)) [FLV]
-https://flv.cdnfaster-b.site/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-
  
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27622.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 15:00 23/06 ⚽ Xiamen Feilu vs Hubei Chufeng Heli (Chuối Tiêu) [FHD1] [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27622.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 15:00 23/06 ⚽ Xiamen Feilu vs Hubei Chufeng Heli (Chuối Tiêu) [FHD2] [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134204_ca5486e7.png" group-title="Chuối Chiên TV" , 🟢 13:30 23/06 🏐 New Zealand vs Australia (Chuối Bơ) [FHD1] [hls] 
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134204_ca5486e7.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 13:30 23/06 🏐 New Zealand vs Australia (Chuối Bơ) [FHD1] [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134204_ca5486e7.png" group-title="Chuối Chiên TV" , 🟢 13:30 23/06 🏐 New Zealand vs Australia (Chuối Bơ) [FHD2] [flv] 
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134204_ca5486e7.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 13:30 23/06 🏐 New Zealand vs Australia (Chuối Bơ) [FHD2] [flv]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27622.png" group-title="Chuối Chiên TV" , 🟢 15:00 23/06 ⚽ Xiamen Feilu vs Hubei Chufeng Heli (Chuối Tiêu) [FHD1] [hls] 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27622.png" group-title="Chuối Chiên TV" , 🟢 15:00 23/06 ⚽ Xiamen Feilu vs Hubei Chufeng Heli (Chuối Tiêu) [FHD2] [flv] 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png" group-title="Chuối Chiên TV" , 16:30 23/06 🏐 Chinese Taipei vs Kazakhstan (Chuối Tây) [FHD1] [hls] 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -1887,19 +1891,28 @@ https://llhls.shipxoi.motorcycles/replay/220890/replay.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/659_164983333830.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 00:00 24/06 ⚽ Portugal vs Uzbekistan (BLV KAKA) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/659_164983333830.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 00:00 24/06 ⚽ Portugal vs Uzbekistan (BLV KEVILL) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/659_164983333830.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 00:00 24/06 ⚽ Portugal vs Uzbekistan (BLV LEO) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/659_164983333830.png" group-title="Lương Sơn TV" , 🟢 00:00 24/06 ⚽ Portugal vs Uzbekistan (BLV LƯU BỊ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/659_164983333830.png" group-title="Lương Sơn TV" , 🟢 00:00 24/06 ⚽ Portugal vs Uzbekistan (BLV NGƯỜI THÉP) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/659_164983333830.png" group-title="Lương Sơn TV" , 🟢 00:00 24/06 ⚽ Portugal vs Uzbekistan (BLV LEO) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/659_164983333830.png" group-title="Lương Sơn TV" , 🟢 00:00 24/06 ⚽ Portugal vs Uzbekistan (BLV KEVILL) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/659_164983333830.png" group-title="Lương Sơn TV" , 🟢 00:00 24/06 ⚽ Portugal vs Uzbekistan (BLV LỮ BỐ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/659_164983333830.png" group-title="Lương Sơn TV" , 🟢 00:00 24/06 ⚽ Portugal vs Uzbekistan (BLV LƯU BỊ) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png" group-title="Lương Sơn TV" , 🟢 03:00 24/06 ⚽ England vs Ghana (BLV MÃ SIÊU) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png" group-title="Lương Sơn TV" , 🟢 03:00 24/06 ⚽ England vs Ghana (BLV LƯU BỊ) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png" group-title="Lương Sơn TV" , 🟢 03:00 24/06 ⚽ England vs Ghana (BLV LỮ BỐ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png" group-title="Lương Sơn TV" , 🟢 03:00 24/06 ⚽ England vs Ghana (BLV TRIỆU TỬ LONG) [hls]
@@ -1908,29 +1921,8 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png" group-title="Lương Sơn TV" , 🟢 03:00 24/06 ⚽ England vs Ghana (BLV KEVILL) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png" group-title="Lương Sơn TV" , 🟢 03:00 24/06 ⚽ England vs Ghana (BLV MÃ SIÊU) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png" group-title="Lương Sơn TV" , 🟢 03:00 24/06 ⚽ England vs Ghana (BLV LỮ BỐ) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png" group-title="Lương Sơn TV" , 🟢 03:00 24/06 ⚽ England vs Ghana (BLV LƯU BỊ) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/638_164983421453.png" group-title="Lương Sơn TV" , 🟢 03:00 24/06 ⚽ England vs Ghana (BLV KAKA) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/64762_1hy5bwm31c2v.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Shanghai Second vs Dalian Yingbo B (BLV KEVILL) [hls]
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/64762_1hy5bwm31c2v.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Shanghai Second vs Dalian Yingbo B (BLV KEVILL) [flv]
-https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/64762_1hy5bwm31c2v.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Shanghai Second vs Dalian Yingbo B (BLV LƯU BỊ) [hls]
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/64762_1hy5bwm31c2v.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Shanghai Second vs Dalian Yingbo B (BLV LƯU BỊ) [flv]
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/62162_1h398av0vn19.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Changchun XIdu Football Club vs Lanzhou Longyuan Athletics (BLV LEO) [hls]
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
@@ -1938,32 +1930,17 @@ https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a13
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/62162_1h398av0vn19.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Changchun XIdu Football Club vs Lanzhou Longyuan Athletics (BLV LEO) [flv]
 https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/62162_1h398av0vn19.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Changchun XIdu Football Club vs Lanzhou Longyuan Athletics (BLV QUAN VŨ) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/64762_1hy5bwm31c2v.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Shanghai Second vs Dalian Yingbo B (BLV LƯU BỊ) [hls]
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/65766_1hzzvwkqan1c.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Xiamen1026 vs Hubei Istar (BLV MÃ SIÊU) [hls]
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/64762_1hy5bwm31c2v.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Shanghai Second vs Dalian Yingbo B (BLV LƯU BỊ) [flv]
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/65766_1hzzvwkqan1c.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Xiamen1026 vs Hubei Istar (BLV MÃ SIÊU) [flv]
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/64762_1hy5bwm31c2v.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Shanghai Second vs Dalian Yingbo B (BLV KEVILL) [hls]
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/65766_1hzzvwkqan1c.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Xiamen1026 vs Hubei Istar (BLV TÔN LẬP) [hls]
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/65766_1hzzvwkqan1c.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Xiamen1026 vs Hubei Istar (BLV TÔN LẬP) [flv]
-https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/37107_1hrk13ttwm19.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (BLV PHI HỔ) [hls]
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/37107_1hrk13ttwm19.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (BLV PHI HỔ) [flv]
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/37107_1hrk13ttwm19.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (BLV LIO) [hls]
-https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/37107_1hrk13ttwm19.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (BLV LIO) [flv]
-https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/64762_1hy5bwm31c2v.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Shanghai Second vs Dalian Yingbo B (BLV KEVILL) [flv]
+https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/37107_1hrk13ttwm19.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (BLV LỮ BỐ) [hls]
 https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
@@ -1971,17 +1948,29 @@ https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa28344
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/37107_1hrk13ttwm19.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (BLV LỮ BỐ) [flv]
 https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
-#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782198954.png" group-title="Lương Sơn TV" , 🟢 14:30 23/06 ⚽ Beijing Warriors vs Shandong Qiutan (BLV LÝ QUỲ) [hls]
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/37107_1hrk13ttwm19.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (BLV LIO) [hls]
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 
-#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782198954.png" group-title="Lương Sơn TV" , 🟢 14:30 23/06 ⚽ Beijing Warriors vs Shandong Qiutan (BLV LÝ QUỲ) [flv]
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/37107_1hrk13ttwm19.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (BLV LIO) [flv]
+https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/64768_1hs0qh9ez99.png" group-title="Lương Sơn TV" , 🟢 14:30 23/06 ⚽ Guizhou Xufengtang vs Shaanxi Northwest Juniors (BLV VƯƠNG LUÂN) [hls]
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/37107_1hrk13ttwm19.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (BLV PHI HỔ) [hls]
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/64768_1hs0qh9ez99.png" group-title="Lương Sơn TV" , 🟢 14:30 23/06 ⚽ Guizhou Xufengtang vs Shaanxi Northwest Juniors (BLV VƯƠNG LUÂN) [flv]
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/37107_1hrk13ttwm19.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Qingdao Red Lions vs Dalian Kewei (BLV PHI HỔ) [flv]
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/65766_1hzzvwkqan1c.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Xiamen1026 vs Hubei Istar (BLV TÔN LẬP) [hls]
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/65766_1hzzvwkqan1c.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Xiamen1026 vs Hubei Istar (BLV TÔN LẬP) [flv]
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/65766_1hzzvwkqan1c.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Xiamen1026 vs Hubei Istar (BLV MÃ SIÊU) [hls]
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/65766_1hzzvwkqan1c.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 ⚽ Xiamen1026 vs Hubei Istar (BLV MÃ SIÊU) [flv]
+https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/64768_1hs0qh9ez99.png" group-title="Lương Sơn TV" , 🟢 14:30 23/06 ⚽ Guizhou Xufengtang vs Shaanxi Northwest Juniors (BLV PELE) [hls]
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
@@ -1989,29 +1978,23 @@ https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c9
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/64768_1hs0qh9ez99.png" group-title="Lương Sơn TV" , 🟢 14:30 23/06 ⚽ Guizhou Xufengtang vs Shaanxi Northwest Juniors (BLV PELE) [flv]
 https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/64768_1hs0qh9ez99.png" group-title="Lương Sơn TV" , 🟢 14:30 23/06 ⚽ Guizhou Xufengtang vs Shaanxi Northwest Juniors (BLV VƯƠNG LUÂN) [hls]
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/64768_1hs0qh9ez99.png" group-title="Lương Sơn TV" , 🟢 14:30 23/06 ⚽ Guizhou Xufengtang vs Shaanxi Northwest Juniors (BLV VƯƠNG LUÂN) [flv]
+https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+
 #EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782156766.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 🏀 Batang Kankaloo vs Manila Batang Quiapo (BLV SHIN) [hls]
 https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
 #EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782156766.png" group-title="Lương Sơn TV" , 🟢 15:00 23/06 🏀 Batang Kankaloo vs Manila Batang Quiapo (BLV SHIN) [flv]
 https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
-#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782192494.png" group-title="Lương Sơn TV" , 🟢 12:00 23/06 ⚽ New Zealand vs Ai Cập (BLV NGƯỜI THÉP) [hls]
-https://hls.cdnfaster-a.live/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
+#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782198954.png" group-title="Lương Sơn TV" , 🟢 14:30 23/06 ⚽ Beijing Warriors vs Shandong Qiutan (BLV LÝ QUỲ) [hls]
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 
-#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782192494.png" group-title="Lương Sơn TV" , 🟢 12:00 23/06 ⚽ New Zealand vs Ai Cập (BLV NGƯỜI THÉP) [flv]
-https://flv.cdnfaster-a.live/live/TO2A.flv?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
-
-#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782192997.png" group-title="Lương Sơn TV" , 🔴🎥 12:00 23/06 ⚽ Argentina vs Austria (BLV KEVILL REPLAY) [hls]
-https://hls.cdnfaster-a.live/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
-
-#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782192997.png" group-title="Lương Sơn TV" , 🔴🎥 12:00 23/06 ⚽ Argentina vs Austria (BLV KEVILL REPLAY) [flv]
-https://flv.cdnfaster-a.live/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
-
-#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782191695.png" group-title="Lương Sơn TV" , 🔴🎥 12:00 23/06 ⚽ Ecuador vs Curacao (BLV YẾN THANH REPLAY) [hls]
-https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
-
-#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782191695.png" group-title="Lương Sơn TV" , 🔴🎥 12:00 23/06 ⚽ Ecuador vs Curacao (BLV YẾN THANH REPLAY) [flv]
-https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782198954.png" group-title="Lương Sơn TV" , 🟢 14:30 23/06 ⚽ Beijing Warriors vs Shandong Qiutan (BLV LÝ QUỲ) [flv]
+https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 
  
  
@@ -2019,242 +2002,302 @@ https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6
 
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [LOGAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1782203002-0-0-550083cb184af7169bee22b18ef9c569
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1782204082-0-0-30d2aa02c9d26fad977e5aabb20a0b9e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [LOGAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1782203002-0-0-d311acad95a79e374c3236f83b7679d4
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1782204082-0-0-2540bb618cd022d808f299d3468d0b47
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [LOGAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782203002-0-0-3980511e529d0fc54eaa10e62bbeb8af
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782204082-0-0-c2a44c96e6eefe04844ccfe50450a89a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [LOGAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1782203002-0-0-375f91fd959724787d69460a6a3c69af
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV A TÚ] (Socolive) flv
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1782204082-0-0-f57d9a6380cd7b4aee8defae44bd4e74
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [A PÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782203362-0-0-4f10fcd6cb27f7fe4e1930a914d6d232
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV A TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782204082-0-0-418b6549541c7b907f437a1a6b96eeb6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [A PÁO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782203362-0-0-31f491a70118bdbd7eb4ee5766faf4c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV A TÚ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1782204082-0-0-233def895f40fb79f0adc4eb148f263e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [A PÁO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782203362-0-0-0aa2d5ca1d6f3e1d24fde1d1a260121a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV A TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782204082-0-0-a654af170beb5b7d2bc855426d016d04
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [A PÁO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782203362-0-0-e27a6499b729dbbe1ed60a4bdb50f3bf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [BLV 24H] (Socolive) flv
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782204082-0-0-0f599964ec2cb646bea0dbbfea28a6e6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [HẢI THANH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1782203362-0-0-9226354a473e07672b4de41bb49118bf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [BLV 24H] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1782204082-0-0-9dccfd88f251347c7e8494c4f2e9cef7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [HẢI THANH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1782203362-0-0-1c9013909259269a7ab4fbbeac4e4bea
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [BLV 24H] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1782204082-0-0-64766b4ab034a87a71a6635eb21914e6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [HẢI THANH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1782203362-0-0-5c81679b4e7329c0e0e9049c772192a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [BLV 24H] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1782204082-0-0-1245b54aa44c9864e1914efed67da840
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [HẢI THANH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1782203362-0-0-2578b6281873e5e2ec8811630dba3786
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [TRÀ ĐÁ] (Socolive) flv
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782204082-0-0-c0de1863e8ce3e13190616ffbdbaf7e3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV NẤM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1782203362-0-0-96c603fc7929a96b803e2333a0e49720
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [TRÀ ĐÁ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1782204082-0-0-f0f4a0582f5eecc8112833b6053fcfb6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV NẤM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1782203362-0-0-b28f5394f558004336b41ca829a061af
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [TRÀ ĐÁ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1782204082-0-0-e5e16fe48fe32a916516ac716c0397e9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV NẤM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782203362-0-0-6c0ca58b82bbb4ae92d11b2159627518
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [TRÀ ĐÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1782204082-0-0-571f5f8e82a13c3ad8bb916d9a60aac6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV NẤM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782203362-0-0-a6b85bcd300ff9a5698f7d7f1b86c554
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV CHIVAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=89e8a831af7a4c149b80e97bfb603752&txTime=6a3a8a32
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV CHIVAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=c6641b435ccd4862ff6602bc1801a293&txTime=6a3a8a32
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV CHIVAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=89e8a831af7a4c149b80e97bfb603752&txTime=6a3a8a32
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV CHIVAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=c6641b435ccd4862ff6602bc1801a293&txTime=6a3a8a32
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1782204082-0-0-dfa505db66a3fdfe7932d7431c232c7a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [BLV ALEX] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1782203362-0-0-79c7082aa9a62bc10beda3d7287e8a4d
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1782204442-0-0-fa5d7b96661cbc442e386c85c7142688
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [BLV ALEX] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1782203362-0-0-404cb79d79073939bcc24100814f0704
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1782204442-0-0-4d168cb1102f882e8d9ca98ff015c702
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [BLV ALEX] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1782203362-0-0-5da27a6d92ad9855d8b0a92226361d9d
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1782204442-0-0-7d9a8232728b5ff6986c0330e9d5b125
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [BLV ALEX] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782203362-0-0-81b0a35f508986e10c324af0e0940c60
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782204442-0-0-69f43587f8c5e85439ecb194be5b901c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [BLV 24H] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1782204442-0-0-67c37cb151dc5585d05e5a4f21084ffa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [BLV 24H] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1782204442-0-0-edc6558d5146fcccb3a236040883eb5e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [BLV 24H] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1782204442-0-0-b99fb836a29893f8979b529f0bb0c15d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [BLV 24H] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1782204442-0-0-310362c7da3d268319646c91195fe38c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [TRÀ ĐÁ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1782204442-0-0-23f1df93b2eccee284224f3050df1975
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [TRÀ ĐÁ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1782204442-0-0-7cd080f3a0db734509a1a2750387b1bb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [TRÀ ĐÁ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782204442-0-0-790a6de0664f7743fb8393d6b48c7c6d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [TRÀ ĐÁ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782204442-0-0-4567d1fb187b9396acef4dc5f59ca0c0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV CHIVAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=bedbb5b60df09733988390c0312098fc&txTime=6a3a8e6a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV CHIVAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=835650b9ad7b5c5a24bc3bb90100cf6a&txTime=6a3a8e6a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV CHIVAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=bedbb5b60df09733988390c0312098fc&txTime=6a3a8e6a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV CHIVAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=835650b9ad7b5c5a24bc3bb90100cf6a&txTime=6a3a8e6a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/425bb3ae87670cf3e565d7fccf20d8e5.png",15h00 ngày 23/06 Batang Kankaloo vs Manila Batang Quiapo [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1782204442-0-0-61e793d3c95e9f24dccf293e23417ce8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/425bb3ae87670cf3e565d7fccf20d8e5.png",15h00 ngày 23/06 Batang Kankaloo vs Manila Batang Quiapo [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1782204442-0-0-556d293d380fbc4a560ddf2429a3cb1c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/425bb3ae87670cf3e565d7fccf20d8e5.png",15h00 ngày 23/06 Batang Kankaloo vs Manila Batang Quiapo [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1782204442-0-0-8907b4c85a2af87da210d3b9835055db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/425bb3ae87670cf3e565d7fccf20d8e5.png",15h00 ngày 23/06 Batang Kankaloo vs Manila Batang Quiapo [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1782204442-0-0-668156f8a7932402f664598d48f22a15
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782204442-0-0-7daa9f1d2a4475ccddbb68cbdf82e5f3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782204442-0-0-5afa38179b8d7aefc39ebaef312582f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782204442-0-0-a5039bc69f6e57d6dd2b3d1cf44d04e8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782204442-0-0-8e416aa9ed106c5dcc5f9c8d17fcf5c6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782203362-0-0-021c3806a545f96d0685287150c506b4
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782204442-0-0-9c93f4e69658a4d72f1b0e6f9ebe9582
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782203362-0-0-99237463a436ef86b51d4b6ad52697e4
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782204442-0-0-f9cae261ca03df93c16ff3aa0e21aee4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782203362-0-0-4db23a9aedd7a52b27c1caf0dc9b2a22
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782204442-0-0-02739f44dcee8be2aafaaf728afb8238
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782203362-0-0-d10085400abdd6f464fe474579af8d61
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - New Zealand vs Egypt [Sóc đau cổ vai gáy] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782203362-0-0-21426a25d005a9fa26e83e13a265e9d4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - New Zealand vs Egypt [Sóc đau cổ vai gáy] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1782203362-0-0-3db657cf3e108ca7e86c973e8ce84ff2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - New Zealand vs Egypt [Sóc đau cổ vai gáy] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782203362-0-0-4e7122a928b31101687334934573228b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - New Zealand vs Egypt [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782203362-0-0-a4310999496b22eb85e0b1a4fa608575
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782204442-0-0-21c2df03dccb0a1df072823c14b8c696
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Argentina vs Austria [Sóc trèo cây ngô đồng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782203362-0-0-c5b7fada7a65ab997885a372571da6bc
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782204442-0-0-82bf1c936542c5fcf5c5a89b243ff3c1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Argentina vs Austria [Sóc trèo cây ngô đồng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782203362-0-0-ba7a7be3c5f6e85519a10faa4fe7a10d
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782204442-0-0-9e090c70f90d9b59216134412ac9023b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Argentina vs Austria [Sóc trèo cây ngô đồng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782203362-0-0-b90f5d3a83c79396a419c6f03960c1db
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782204442-0-0-b1cb781a1c22d185c249f1785a37f469
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Argentina vs Austria [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782203362-0-0-23492caa7aa763b8cac78ef40e3ee8a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782204442-0-0-ccd9d90920eeac04dada8cb2a036409c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - New Zealand vs Egypt [Sóc đau cổ vai gáy] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782203362-0-0-a921298b29e961e67697b845fd997f33
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782204442-0-0-46dcecd261a2d2c73812889619fd0298
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - New Zealand vs Egypt [Sóc đau cổ vai gáy] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782203362-0-0-f91b0d4d903fd3ceed35ff0f46180abf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1782204442-0-0-af80917044114b7bd429b3fd83dcb44d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - New Zealand vs Egypt [Sóc đau cổ vai gáy] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782203362-0-0-dd45ef0fbcda4e90f207404b666d2385
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782204442-0-0-b7cd81aebeb7406897a9d016d41073ea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - New Zealand vs Egypt [Sóc đau cổ vai gáy] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782203362-0-0-17abf04a436b4f44df7b1b824864a59b
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782204442-0-0-323c10a64184345a2f50a9772ab4b90b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Belgium vs IR Iran [Sóc mèo méo meo] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782203362-0-0-731478fda80c478dcee170cdf8887f7f
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782204442-0-0-d032d276471f68d379fd022a711a8403
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Belgium vs IR Iran [Sóc mèo méo meo] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782203362-0-0-56d14155f17cd5dc7ed70ebc4c541f86
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782204442-0-0-5c53372c77daeca832a9f1fdc5551790
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Belgium vs IR Iran [Sóc mèo méo meo] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782203362-0-0-6c051a3c78a3b8c469325bc5f38d7716
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782204442-0-0-7f9aa27ccc1de31c88c4a3fa3ac119bd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Belgium vs IR Iran [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782203362-0-0-4b1c12b1a48a3f3fe6b4cfa039be8bdb
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782204442-0-0-5b30dc264625481dda2aef5598c1f32d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782204442-0-0-fe81417e6e9abcf641a16c34724ff79b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782204442-0-0-2cd6deb4a6b2760f7dd1e08a6cf4c498
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782204442-0-0-3bcbac2a40ba465326410687d06e1b2b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782204442-0-0-496fa4f77d52b740b1674bf27b958ce6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Uruguay vs Cabo Verde [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782203362-0-0-817ea0746d68d106a2a93bf8e9586571
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782204442-0-0-dd9341aaa381fb9fe22f86e9826a8420
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Uruguay vs Cabo Verde [Sóc nhàm nhang nhồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1782203362-0-0-d8cdff60fe469242c0bba7a2461f1e0e
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1782204442-0-0-fceab9788507954402e876e319de570e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Uruguay vs Cabo Verde [Sóc nhàm nhang nhồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782203362-0-0-66894076e48b5adc4492db5a060b8030
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782204442-0-0-ec5bda2b8777b6ffa6124d0446f79d3c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Uruguay vs Cabo Verde [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782203362-0-0-66ea4f112986936f0c460b400c251124
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782204442-0-0-0df871fef468b1bbc394be2b648fe09d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Jordan vs Algeria [Sóc trong rừng xà nu] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782203362-0-0-930bca24d06edd489bb6d199e8a7c02a
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782204442-0-0-0761cf67b2a15689406756e60e5fb568
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Jordan vs Algeria [Sóc trong rừng xà nu] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782203362-0-0-a9a0c93a549251b1d22a9295dec35053
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782204442-0-0-a9aa25eff9eea3ed49e116e9e9df11fc
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Jordan vs Algeria [Sóc trong rừng xà nu] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782203362-0-0-a7ea5a84a87469ce2b555150b2d7d097
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782204442-0-0-7a54cfb4613d143375dfba316ca556ab
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/f96b290e7715fd772c023e826537d280.png",Tường thuật: WORLD CUP - Jordan vs Algeria [Sóc trong rừng xà nu] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782203362-0-0-52af8a4c7ac783598842f293d8246e2d
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782204442-0-0-dfee1cd28d5ac90a40e792136c64aa71
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [BLV KAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=08e63e76e1a25559aa071a85139aeed4&txTime=6a3a8b9a
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=81bb1757f3fa30ff6e5ed1bf3f5af47f&txTime=6a3a8fd2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [BLV KAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=873dd4585a5a4ea71d984f52881b271f&txTime=6a3a8b9a
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=a05c1b9998bfadb6fc0300281a88c642&txTime=6a3a8fd2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [BLV KAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=08e63e76e1a25559aa071a85139aeed4&txTime=6a3a8b9a
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=81bb1757f3fa30ff6e5ed1bf3f5af47f&txTime=6a3a8fd2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [BLV KAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=873dd4585a5a4ea71d984f52881b271f&txTime=6a3a8b9a
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=a05c1b9998bfadb6fc0300281a88c642&txTime=6a3a8fd2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [BLV VOI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1782203722-0-0-c45a49e1cf5febc1ab585fe9e8260eee
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1782204802-0-0-cbd3326b92cc65d16d61512f070a103f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [BLV VOI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1782203722-0-0-1283cac8104d8c9fd99de09a649159bb
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1782204802-0-0-d0ef5e668ea8685e5baaf03e1a082da3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [BLV VOI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782203722-0-0-c3d07ea07a093c71bdd595e24f3863b6
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782204802-0-0-ee63a73fb3d5c1925eea036733fb6de2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [BLV VOI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782203722-0-0-f43e888095780c8ad198ed12ca93b7d5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/425bb3ae87670cf3e565d7fccf20d8e5.png",15h00 ngày 23/06 Batang Kankaloo vs Manila Batang Quiapo [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1782203722-0-0-02532cdd6c3fdc856f453febae520ae9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/425bb3ae87670cf3e565d7fccf20d8e5.png",15h00 ngày 23/06 Batang Kankaloo vs Manila Batang Quiapo [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1782203722-0-0-a611f651001d9f189cd7e8758c9bcbd9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/425bb3ae87670cf3e565d7fccf20d8e5.png",15h00 ngày 23/06 Batang Kankaloo vs Manila Batang Quiapo [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782203722-0-0-2229754727f03055f4f8c34b6cdc2d7c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/425bb3ae87670cf3e565d7fccf20d8e5.png",15h00 ngày 23/06 Batang Kankaloo vs Manila Batang Quiapo [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782203722-0-0-ef747282e687ad4f97117c44c50538c9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [BLV TOMIA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782203722-0-0-229698fbc23451851cbdd57147a36081
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [BLV TOMIA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1782203722-0-0-0253fa09a36aeaea950eca0af7325e38
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [BLV TOMIA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782203722-0-0-ad08229e7baa174ab64530135d90a118
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [BLV TOMIA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782203722-0-0-b8d0804eee18edbe4a5c6b92c627d63d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [KÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1782203722-0-0-90c7311545f657e274198a5562523b5d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [KÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782203722-0-0-f85bc57063f0680420a20c74828af0ad
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [KÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782203722-0-0-a1f8e1d48b7c3610857cc62e2901256e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [KÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782203722-0-0-630f947776ba5bd771fee6a43ec1df52
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782204802-0-0-530c42ba08225feac75d53dba7cb297f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [CHÍ PHÈO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1782203722-0-0-50fcc3c1e4595569c45b21304f6aec47
+https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1782204802-0-0-8bb4aef8709eff2212be5a7fc93e71d5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [CHÍ PHÈO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1782203722-0-0-6626d35a67abe90c53f5c0c3bf9a978f
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1782204802-0-0-942144c9cb8aa8b19d380dbff7a3ef47
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [CHÍ PHÈO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1782203722-0-0-e4c310895184840eb83cc2770a668b06
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1782204802-0-0-da0dbebc43e0b42aa86f06697e0089d6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/38a962d26da5d260be332bb685cf3c27.png",15h00 ngày 23/06 Changchun Xidu vs Lanzhou Longyuan Athletic [CHÍ PHÈO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782203722-0-0-3767e8aca1555f80cd0e9908a47aa295
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782204802-0-0-87e75930e8af5417aa664a14b8f13efe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [KÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1782204802-0-0-db74fd155895941da03cff97e4d5e9c2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [KÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782204802-0-0-30531142a4fb29d14ef4447c476c1e16
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [KÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782204802-0-0-33d135db050b4f3792298f0f8b2a970c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [KÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782204802-0-0-ccde25e82a7787639d5e30323d27bab3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/425bb3ae87670cf3e565d7fccf20d8e5.png",15h00 ngày 23/06 Batang Kankaloo vs Manila Batang Quiapo [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1782204802-0-0-c627beb8f664eab9292e2835f4f6492e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/425bb3ae87670cf3e565d7fccf20d8e5.png",15h00 ngày 23/06 Batang Kankaloo vs Manila Batang Quiapo [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1782204802-0-0-e5b49b9f79a8da6fc0644fe290a8d4c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/425bb3ae87670cf3e565d7fccf20d8e5.png",15h00 ngày 23/06 Batang Kankaloo vs Manila Batang Quiapo [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782204802-0-0-3a8efe333e14fcb54c88c0de377e02bf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/425bb3ae87670cf3e565d7fccf20d8e5.png",15h00 ngày 23/06 Batang Kankaloo vs Manila Batang Quiapo [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782204802-0-0-7e5583dcc4c3e979fce2cc491afe6b7f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [BLV TOMIA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782204802-0-0-548a4e20dded1fadf8b75225408e8ee5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [BLV TOMIA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1782204802-0-0-4a2b32a7f1f2835f26855eac45ec1742
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [BLV TOMIA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782204802-0-0-a9e3f4c06a33d94f56a9acaacba7bde9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/da8d5c5c737eea24678f6a327fbf2071.png",15h00 ngày 23/06 Shanghai Second vs Dalian Yingbo B [BLV TOMIA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782204802-0-0-ed4e08083c917731de769b10c23192f9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV RYO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1782203722-0-0-c3d46f35b4cc0354c108d02684805466
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1782204802-0-0-1cb0e96b78b93e802a0126c7e00acfb5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV RYO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1782203722-0-0-b56ed2dc5929b13e28cd657d123ff96e
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1782204802-0-0-b3f7d114660bf1bfeecdd6a0f31058c6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV RYO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782203722-0-0-60c88dc3158d0079b18bb66ebcea133b
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782204802-0-0-c69b37046f92634a2dc5f713f755d2f0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/ba05e0fed36bb78ce65e70eea6c1035c.png",15h00 ngày 23/06 Xiamen Feilu vs Hubei Istar [BLV RYO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782203722-0-0-a59ea74b329f0b9bca8b86be4a186603
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782204802-0-0-cf541fea8f44eeb6522cfa03dac6165a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [BEN 10] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1782204802-0-0-385a0c037f0521841a7797a82cf1ed36
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [BEN 10] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1782204802-0-0-45f66dfcc6525cfd70042d4828b8118c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [BEN 10] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1782204802-0-0-7b48fe54c52a51cf34b0c18735e9db65
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5326ed1a138413c1215d50bd2e64d8d0.png",15h00 ngày 23/06 Qingdao Red Lions vs Dalian Kewei [BEN 10] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1782204802-0-0-85ae86aa2c39971e5c816c7d1de6b8a9
  
