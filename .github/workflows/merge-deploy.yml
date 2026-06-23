@@ -80,6 +80,7 @@ jobs:
           curl -s -k -L -o chuoichientv.m3u https://thcoban.github.io/ththethao/chuoichientv.m3u  &
           curl -s -k -L -o luongsontv.m3u https://thcoban.github.io/ththethao/luongsontv.m3u  &
           curl -s -k -L -o chaogatv.m3u https://thcoban.github.io/ththethao/chaogatv.m3u  &
+          curl -s -k -L -o vuasancotv.m3u https://thcoban.github.io/ththethao/vuasancotv.m3u  &
           
           wait
           ls -lh
@@ -111,6 +112,7 @@ jobs:
             python apisports.py tamquoc tamquoctv.m3u &
             python apisports.py chuoichien chuoichientv.m3u &
             python apisports.py quechoa quechoatv.m3u &
+            python apisports.py vuasanco vuasancotv.m3u &
           fi
           
           # if [ -f json2m3u.py ]; then
@@ -210,6 +212,11 @@ jobs:
             cat xaycontv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
+          if [ -f vuasancotv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat vuasancotv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
           if [ -f nauxoitv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat nauxoitv.m3u >> ttthethao.m3u
@@ -272,6 +279,7 @@ jobs:
           [ -f tieulamtv.m3u ] && cp tieulamtv.m3u m3ufiles/
           [ -f luongsontv.m3u ] && cp luongsontv.m3u m3ufiles/
           [ -f chaogatv.m3u ] && cp chaogatv.m3u m3ufiles/
+          [ -f vuasancotv.m3u ] && cp vuasancotv.m3u m3ufiles/
           
           [ -f socolivetv.m3u ] && cp socolivetv.m3u m3ufiles/
           
