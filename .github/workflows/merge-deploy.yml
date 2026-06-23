@@ -212,9 +212,9 @@ jobs:
             cat xaycontv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
-          if [ -f vuasancotv.m3u ]; then
+          if [ -f luongsontv.m3u ]; then
             echo " " >> ttthethao.m3u
-            cat vuasancotv.m3u >> ttthethao.m3u
+            cat luongsontv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
           if [ -f nauxoitv.m3u ]; then
@@ -222,35 +222,34 @@ jobs:
             cat nauxoitv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
-
-          if [ -f new_vatv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat new_vatv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
-
-          if [ -f new_pktv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat new_pktv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
-
-          if [ -f luongsontv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat luongsontv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
           if [ -f socolivetv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat socolivetv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
-
-          if [ -f new_bongda.m3u ]; then
+          if [ -f vuasancotv.m3u ]; then
             echo " " >> ttthethao.m3u
-            cat new_bongda.m3u >> ttthethao.m3u
+            cat vuasancotv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
+          
+          # if [ -f new_vatv.m3u ]; then
+          #   echo " " >> ttthethao.m3u
+          #   cat new_vatv.m3u >> ttthethao.m3u
+          #   echo " " >> ttthethao.m3u
+          # fi
+
+          # if [ -f new_pktv.m3u ]; then
+          #   echo " " >> ttthethao.m3u
+          #   cat new_pktv.m3u >> ttthethao.m3u
+          #   echo " " >> ttthethao.m3u
+          # fi
+
+          # if [ -f new_bongda.m3u ]; then
+          #   echo " " >> ttthethao.m3u
+          #   cat new_bongda.m3u >> ttthethao.m3u
+          #   echo " " >> ttthethao.m3u
+          # fi
 
           cat thethao-base.m3u > thethao.m3u
           echo " " >> thethao.m3u
