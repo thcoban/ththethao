@@ -136,7 +136,7 @@ jobs:
           #   python removem3u.py bongda.m3u new_bongda.m3u "Khán đài a, Gà vàng, Chuối Chiên" & 
           # fi
           
-          [ -f linhtv.json ] && cp linhtv.json ttthethao.json
+          [ -f tlgsport.json ] && cp tlgsport.json ttthethao.json
           
           wait
       
