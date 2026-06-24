@@ -557,17 +557,17 @@ https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5301386c592331424197d34172de723a.png!w80" group-title="Cola TV" group-logo="https://colatv99.live/assets/images/logo.png" , 🟢 02:00 25/06 ⚽ ĐTQG Bosnia Herzegovina vs Qatar (BLV 7UP) [flv]
-https://live05.meung.app/live/78905744.flv
-
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5301386c592331424197d34172de723a.png!w80" group-title="Cola TV" , 🟢 02:00 25/06 ⚽ ĐTQG Bosnia Herzegovina vs Qatar (BLV 7UP) [hls]
-https://live05.meung.app/live/78905744.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4402fbc939277321386d11fd427eb2b6.png!w80" group-title="Cola TV" , 🟢 02:00 25/06 ⚽ Thụy Sĩ vs Canada (BLV C2) [flv]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4402fbc939277321386d11fd427eb2b6.png!w80" group-title="Cola TV" group-logo="https://colatv99.live/assets/images/logo.png" , 🟢 02:00 25/06 ⚽ Thụy Sĩ vs Canada (BLV C2) [flv]
 https://live05.meung.app/live/08552895.flv
 
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4402fbc939277321386d11fd427eb2b6.png!w80" group-title="Cola TV" , 🟢 02:00 25/06 ⚽ Thụy Sĩ vs Canada (BLV C2) [hls]
 https://live05.meung.app/live/08552895.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5301386c592331424197d34172de723a.png!w80" group-title="Cola TV" , 🟢 02:00 25/06 ⚽ ĐTQG Bosnia Herzegovina vs Qatar (BLV 7UP) [flv]
+https://live05.meung.app/live/78905744.flv
+
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5301386c592331424197d34172de723a.png!w80" group-title="Cola TV" , 🟢 02:00 25/06 ⚽ ĐTQG Bosnia Herzegovina vs Qatar (BLV 7UP) [hls]
+https://live05.meung.app/live/78905744.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80" group-title="Cola TV" , 05:00 25/06 ⚽ ĐTQG Scotland vs Brazil (BLV C2) [flv]
 https://live05.meung.app/live/08552895.flv
@@ -1540,10 +1540,6 @@ https://live2.pro2cdnlive.com/live/channel29.flv
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/WnW15DfM-6ys9CWQj.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 🟢 01:00 25/06 🏐 Poland vs Belgium (BLV TRẠNG BỊP) [geo] 
-#EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
-https://pull.asynccdn.com/live/183721aa40df4bac8f49fcaf1cd07095/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/tWvN5N9r-88LAtdNt.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TRẠNG QUỶ) [geo] 
 #EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
 https://pull.asynccdn.com/live/37c604895212434fbc0369dd4d47b88d/index.m3u8
@@ -1640,15 +1636,19 @@ https://pull.asynccdn.com/live/5b573c4c0cc242f085eea063586f2e72/index.m3u8
 #EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
 https://pull.asynccdn.com/live/32436add351b4731b990751ee6cbaa4b/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/b292fe77f1c6c63d12782e565ea3e92f.png" group-title="Tiếu Lâm TV" , 00:45 26/06 ⚽ Al Kuwait SC vs Kazma (BLV TRẠNG BÉO) [geo] 
+#EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
+https://pull.asynccdn.com/live/f360e79329b647f4be3d80a6256d1962/index.m3u8
+
  
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="Tam Quốc TV" group-logo="https://sv2.tamquoc3.live/assets/images/logo.png" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV Ricky) [FHD]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="Tam Quốc TV" group-logo="https://sv2.tamquoc4.live/assets/images/logo.png" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV Ricky) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.tamquoc4.live/
 https://tqlive.yarncdn.live/live/tqtv_blv_ricky/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1113.png" group-title="Tam Quốc TV" group-logo="https://sv2.tamquoc3.live/assets/images/logo.png" , 🟢 02:00 25/06 ⚽ Bosnia & Herzegovina vs Qatar (BLV Mã Siêu) [FHD]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1113.png" group-title="Tam Quốc TV" group-logo="https://sv2.tamquoc4.live/assets/images/logo.png" , 🟢 02:00 25/06 ⚽ Bosnia & Herzegovina vs Qatar (BLV Mã Siêu) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.tamquoc4.live/
 https://tqlive.yarncdn.live/live/tqtv_blv_masieu/playlist.m3u8
 
@@ -1700,115 +1700,131 @@ https://tqlive.yarncdn.live/live/tqtv_blv_coca/playlist.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" group-logo="https://ck51.site/assets/png/logo.png" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Hổ) [hls]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" group-logo="https://ck51.site/assets/png/logo.png" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Hổ) [hls] [geo]
+#EXTVLCOPT:http-referrer=https://ck51.site/
 https://hls.cdnfaster-b.site/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" group-logo="https://ck51.site/assets/png/logo.png" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Hổ) [flv]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" group-logo="https://ck51.site/assets/png/logo.png" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Hổ) [flv] [geo]
 #EXTVLCOPT:http-referrer=https://ck51.site/
 https://flv.cdnfaster-b.site/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Tèo) [hls]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Tèo) [hls] [geo]
+#EXTVLCOPT:http-referrer=https://ck51.site/
 https://hls.cdnfaster-b.site/live/TEOTEO/index.m3u8?expire=1813410540&sign=71d1ad098d165df5352a541a785a268a
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Tèo) [flv]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Tèo) [flv] [geo]
 #EXTVLCOPT:http-referrer=https://ck51.site/
 https://flv.cdnfaster-b.site/live/TEOTEO.flv?expire=1813410540&sign=71d1ad098d165df5352a541a785a268a
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Páo) [hls]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Páo) [hls] [geo]
+#EXTVLCOPT:http-referrer=https://ck51.site/
 https://hls.cdnfaster-b.site/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Páo) [flv]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Páo) [flv] [geo]
 #EXTVLCOPT:http-referrer=https://ck51.site/
 https://flv.cdnfaster-b.site/live/APAO.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (GIÀNG A TÁO) [hls]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (GIÀNG A TÁO) [hls] [geo]
+#EXTVLCOPT:http-referrer=https://ck51.site/
 https://hls.cdnfaster-b.site/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (GIÀNG A TÁO) [flv]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (GIÀNG A TÁO) [flv] [geo]
 #EXTVLCOPT:http-referrer=https://ck51.site/
 https://flv.cdnfaster-b.site/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Gấu) [hls]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Gấu) [hls] [geo]
+#EXTVLCOPT:http-referrer=https://ck51.site/
 https://hls.cdnfaster-b.site/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Gấu) [flv]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Gấu) [flv] [geo]
 #EXTVLCOPT:http-referrer=https://ck51.site/
 https://flv.cdnfaster-b.site/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Lỏ) [hls]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Lỏ) [hls] [geo]
+#EXTVLCOPT:http-referrer=https://ck51.site/
 https://hls.cdnfaster-b.site/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Lỏ) [flv]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Giàng A Lỏ) [flv] [geo]
 #EXTVLCOPT:http-referrer=https://ck51.site/
 https://flv.cdnfaster-b.site/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Lữ Bố (Giàng Phụng Tiên)) [hls]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Lữ Bố (Giàng Phụng Tiên)) [hls] [geo]
+#EXTVLCOPT:http-referrer=https://ck51.site/
 https://hls.cdnfaster-b.site/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Lữ Bố (Giàng Phụng Tiên)) [flv]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/7e2715cb1a79a2947617c86e6b17f8e0.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (Lữ Bố (Giàng Phụng Tiên)) [flv] [geo]
 #EXTVLCOPT:http-referrer=https://ck51.site/
 https://flv.cdnfaster-b.site/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Thích Đủ Thứ) [hls]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Thích Đủ Thứ) [hls] [geo]
+#EXTVLCOPT:http-referrer=https://ck51.site/
 https://hls.cdnfaster-b.site/live/THICHDUTHU2/index.m3u8?expire=1879277700&sign=ba0e4935fa6e7962f084086e60fdee9e
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Thích Đủ Thứ) [flv]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Thích Đủ Thứ) [flv] [geo]
 #EXTVLCOPT:http-referrer=https://ck51.site/
 https://flv.cdnfaster-b.site/live/THICHDUTHU2.flv?expire=1879277700&sign=ba0e4935fa6e7962f084086e60fdee9e
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Giàng A Chiến) [hls]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Giàng A Chiến) [hls] [geo]
+#EXTVLCOPT:http-referrer=https://ck51.site/
 https://hls.cdnfaster-b.site/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Giàng A Chiến) [flv]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Giàng A Chiến) [flv] [geo]
 #EXTVLCOPT:http-referrer=https://ck51.site/
 https://flv.cdnfaster-b.site/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Giàng A Voi) [hls]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Giàng A Voi) [hls] [geo]
+#EXTVLCOPT:http-referrer=https://ck51.site/
 https://hls.cdnfaster-b.site/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Giàng A Voi) [flv]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Giàng A Voi) [flv] [geo]
 #EXTVLCOPT:http-referrer=https://ck51.site/
 https://flv.cdnfaster-b.site/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (GIÀNG A BẨY ) [hls]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (GIÀNG A BẨY ) [hls] [geo]
+#EXTVLCOPT:http-referrer=https://ck51.site/
 https://hls.cdnfaster-b.site/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (GIÀNG A BẨY ) [flv]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (GIÀNG A BẨY ) [flv] [geo]
 #EXTVLCOPT:http-referrer=https://ck51.site/
 https://flv.cdnfaster-b.site/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Giàng A Rùa) [hls]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Giàng A Rùa) [hls] [geo]
+#EXTVLCOPT:http-referrer=https://ck51.site/
 https://hls.cdnfaster-b.site/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Giàng A Rùa) [flv]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Giàng A Rùa) [flv] [geo]
 #EXTVLCOPT:http-referrer=https://ck51.site/
 https://flv.cdnfaster-b.site/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Giàng A Húp) [hls]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Giàng A Húp) [hls] [geo]
+#EXTVLCOPT:http-referrer=https://ck51.site/
 https://hls.cdnfaster-b.site/live/GIANGAHUP1/index.m3u8?expire=1893345120&sign=79bc9ffa235ccc998946d2d66cd69dd2
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Giàng A Húp) [flv]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/f84be480c54f0ff871b91fab14a36b36.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (Giàng A Húp) [flv] [geo]
 #EXTVLCOPT:http-referrer=https://ck51.site/
 https://flv.cdnfaster-b.site/live/GIANGAHUP1.flv?expire=1893345120&sign=79bc9ffa235ccc998946d2d66cd69dd2
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Al Ansar SC vs Jwayya (Giàng A Khoai) [hls]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Al Ansar SC vs Jwayya (Giàng A Khoai) [hls] [geo]
+#EXTVLCOPT:http-referrer=https://ck51.site/
 https://hls.cdnfaster-b.site/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Al Ansar SC vs Jwayya (Giàng A Khoai) [flv]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png" group-title="Cà Khịa TV" , 🟢 02:00 25/06 ⚽ Al Ansar SC vs Jwayya (Giàng A Khoai) [flv] [geo]
 #EXTVLCOPT:http-referrer=https://ck51.site/
 https://flv.cdnfaster-b.site/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 
-#EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1782166911311-suxqcxw4d6.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 24/06 ⚽ Argentina vs Áo (Giàng A Gấu) [hls]
+#EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1782166911311-suxqcxw4d6.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 24/06 ⚽ Argentina vs Áo (Giàng A Gấu) [hls] [geo]
+#EXTVLCOPT:http-referrer=https://ck51.site/
 https://hls.cdnfaster-b.site/live/suplo/index.m3u8?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
 
-#EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1782166911311-suxqcxw4d6.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 24/06 ⚽ Argentina vs Áo (Giàng A Gấu) [flv]
+#EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1782166911311-suxqcxw4d6.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 24/06 ⚽ Argentina vs Áo (Giàng A Gấu) [flv] [geo]
 #EXTVLCOPT:http-referrer=https://ck51.site/
 https://flv.cdnfaster-b.site/live/suplo.flv?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/c47d5022e097b7b15702e59b7ded598c.png" group-title="Cà Khịa TV" , 🟢 03:00 25/06 ⚽ Caracas FC vs Aragua FC (Giàng A Choén) [hls]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/c47d5022e097b7b15702e59b7ded598c.png" group-title="Cà Khịa TV" , 🟢 03:00 25/06 ⚽ Caracas FC vs Aragua FC (Giàng A Choén) [hls] [geo]
+#EXTVLCOPT:http-referrer=https://ck51.site/
 https://hls.cdnfaster-b.site/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/c47d5022e097b7b15702e59b7ded598c.png" group-title="Cà Khịa TV" , 🟢 03:00 25/06 ⚽ Caracas FC vs Aragua FC (Giàng A Choén) [flv]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/c47d5022e097b7b15702e59b7ded598c.png" group-title="Cà Khịa TV" , 🟢 03:00 25/06 ⚽ Caracas FC vs Aragua FC (Giàng A Choén) [flv] [geo]
 #EXTVLCOPT:http-referrer=https://ck51.site/
 https://flv.cdnfaster-b.site/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 
@@ -2142,29 +2158,17 @@ https://alive.yarncdn.live/xctv_blv_rongdat/tracks-v2a1/mono.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TRIỆU TỬ LONG) [hls]
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TRIỆU TỬ LONG) [flv]
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TÂY MÔN KHÁNH) [hls]
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TÂY MÔN KHÁNH) [flv]
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TÔN LẬP) [hls]
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TÔN LẬP) [flv]
-https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV MÃ SIÊU) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV MÃ SIÊU) [hls]
 https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV MÃ SIÊU) [flv]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV MÃ SIÊU) [flv]
 https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TRIỆU TỬ LONG) [hls]
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TRIỆU TỬ LONG) [flv]
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV FERNANDO) [hls]
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
@@ -2172,11 +2176,23 @@ https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV FERNANDO) [flv]
 https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TÔN LẬP) [hls]
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TÔN LẬP) [flv]
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV VƯƠNG LUÂN) [hls]
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV VƯƠNG LUÂN) [flv]
 https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TÂY MÔN KHÁNH) [hls]
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TÂY MÔN KHÁNH) [flv]
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV VÕ TÒNG) [hls]
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -2190,23 +2206,11 @@ https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c9
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV PELE) [flv]
 https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV NGƯỜI THÉP) [hls]
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV NGƯỜI THÉP) [flv]
-https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV LEO) [hls]
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV LEO) [flv]
 https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV LÃO HẠC) [hls]
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV LÃO HẠC) [flv]
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV YẾN THANH) [hls]
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
@@ -2214,7 +2218,19 @@ https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a7
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV YẾN THANH) [flv]
 https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV PELE) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV LÃO HẠC) [hls]
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV LÃO HẠC) [flv]
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV NGƯỜI THÉP) [hls]
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV NGƯỜI THÉP) [flv]
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV LÃO HẠC) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV YẾN THANH) [hls]
@@ -2223,16 +2239,25 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV NGƯỜI THÉP) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV VÕ TÒNG) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV TRIỆU TỬ LONG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV LÃO HẠC) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV VÕ TÒNG) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV PELE) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV LƯU BỊ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV KAKA) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV MÃ SIÊU) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV LEO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV LỮ BỐ) [hls]
@@ -2241,13 +2266,7 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV KEVILL) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV LƯU BỊ) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV LEO) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV MÃ SIÊU) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/641_16498366963.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ Czech Republic vs Mexico (BLV TRIỆU TỬ LONG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/641_16498366963.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ Czech Republic vs Mexico (BLV LỮ BỐ) [hls]
@@ -2259,31 +2278,100 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/641_16498366963.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ Czech Republic vs Mexico (BLV KAKA) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/641_16498366963.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ Czech Republic vs Mexico (BLV LƯU BỊ) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/641_16498366963.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ Czech Republic vs Mexico (BLV TRIỆU TỬ LONG) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/641_16498366963.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ Czech Republic vs Mexico (BLV VÕ TÒNG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ South Africa vs South Korea (BLV TÔN LẬP) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/641_16498366963.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ Czech Republic vs Mexico (BLV LƯU BỊ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ South Africa vs South Korea (BLV NGƯỜI THÉP) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ South Africa vs South Korea (BLV TÂY MÔN KHÁNH) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ South Africa vs South Korea (BLV VƯƠNG LUÂN) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ South Africa vs South Korea (BLV FERNANDO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ South Africa vs South Korea (BLV PELE) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ South Africa vs South Korea (BLV FERNANDO) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ South Africa vs South Korea (BLV NGƯỜI THÉP) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ South Africa vs South Korea (BLV TÔN LẬP) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ South Africa vs South Korea (BLV VƯƠNG LUÂN) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 08:00 25/06 ⚽ South Africa vs South Korea (BLV TÂY MÔN KHÁNH) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Ecuador vs Germany (BLV NGƯỜI THÉP) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Ecuador vs Germany (BLV TÂY MÔN KHÁNH) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Ecuador vs Germany (BLV MÃ SIÊU) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Ecuador vs Germany (BLV VÕ TÒNG) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Ecuador vs Germany (BLV LEO) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Ecuador vs Germany (BLV TRIỆU TỬ LONG) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15945_1gwbryn6pn1.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Curacao vs Ivory Coast (BLV TÔN LẬP) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15945_1gwbryn6pn1.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Curacao vs Ivory Coast (BLV LÃO HẠC) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15945_1gwbryn6pn1.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Curacao vs Ivory Coast (BLV YẾN THANH) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15945_1gwbryn6pn1.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Curacao vs Ivory Coast (BLV PELE) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15945_1gwbryn6pn1.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Curacao vs Ivory Coast (BLV VƯƠNG LUÂN) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15945_1gwbryn6pn1.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Curacao vs Ivory Coast (BLV FERNANDO) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV MÃ SIÊU) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV KAKA) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV KEVILL) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV TRIỆU TỬ LONG) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV LƯU BỊ) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV LỮ BỐ) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV VƯƠNG LUÂN) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV FERNANDO) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV YẾN THANH) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV LÃO HẠC) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV LEO) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV TÂY MÔN KHÁNH) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/3098_1hptansvyyx.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Al-Ansar (LIB) vs Jwaya (BLV MAYBACH) [hls]
@@ -2302,11 +2390,11 @@ https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c34
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1113.png" group-title="Nấu Xôi TV" group-logo="https://shipxoi.motorcycles/v1/uploads/brand-1780904169517-cd8e308c307be01c.png" , 🟢 02:00 25/06 ⚽ Bosnia & Herzegovina vs Qatar ([BLV Unknown])
-https://llhls.shipxoi.motorcycles/live/fx-225751-OOO7y2jz4pvF726s6kqpZ_zO.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="Nấu Xôi TV" group-logo="https://shipxoi.motorcycles/v1/uploads/brand-1780904169517-cd8e308c307be01c.png" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada ([BLV Unknown])
 https://llhls.shipxoi.motorcycles/live/fx-225750--6KkGxsaN-g9dCzegleUshee.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1113.png" group-title="Nấu Xôi TV" group-logo="https://shipxoi.motorcycles/v1/uploads/brand-1780904169517-cd8e308c307be01c.png" , 🟢 02:00 25/06 ⚽ Bosnia & Herzegovina vs Qatar ([BLV Unknown])
+https://llhls.shipxoi.motorcycles/live/fx-225751-OOO7y2jz4pvF726s6kqpZ_zO.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1108.png" group-title="Nấu Xôi TV" , 05:00 25/06 ⚽ Scotland vs Brazil ([BLV Unknown])
 https://freem3u.xyz/static/no-signal/low.m3u8
@@ -3029,304 +3117,304 @@ https://flv.lauthaitv.cc/live/tur-usa-wc-tho.flv
  
 #EXTM3U
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=84720540f47047c266fdee5754801efc&txTime=6a3c8a12
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=e447e1276841c21b36cb22b1e745f02b&txTime=6a3c8a12
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=84720540f47047c266fdee5754801efc&txTime=6a3c8a12
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=e447e1276841c21b36cb22b1e745f02b&txTime=6a3c8a12
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782334402-0-0-eeba7b0a65cc7b2fbce8313487399790
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782335482-0-0-326aa2c0c08853a64b0370405a6dba6a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV ĐỐM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782334402-0-0-aab40250ecc3587d4f3be21698131375
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782335482-0-0-1a92803c409c7490bc24833c37188d3e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782334402-0-0-dda189e4c277748c8258747a21e9c2f1
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782335482-0-0-6b34e3e4d56784708aa5eba2439fa6c4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV ĐỐM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782334402-0-0-b86db39947f423c1f001e1b3d67bd45c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782334402-0-0-046778764bd2be0336f4baa97270be25
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782334402-0-0-11a3d2d202df7629d4435ad2ec600ff1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782334402-0-0-d06398f9e7cd8b5162444c54a8c3a153
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782334402-0-0-3bd99c076cc5ff3605c252e2b69d47ac
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782335482-0-0-d400e2fd31e2b799b27a0e2d123d8366
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1782334402-0-0-a5338cddf9daa4d658ed19808854c45d
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1782335482-0-0-ecda8e3c862fd74d92534d90ed535773
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV Củ Cải] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1782334402-0-0-f135796ea68116150b1e193f3c053460
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1782335482-0-0-b1efcb3107937ea5a228267d9c0b7e47
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV Củ Cải] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782334402-0-0-5964c62d76a6bcc9d5ab91b13b6b9448
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782335482-0-0-955aac764690094d60369abe12c4208a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782334402-0-0-dd2bbc52d3a4cfdebca485e80f449fb7
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782335482-0-0-104608595cf39f6b15cecf88236bd606
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782335482-0-0-115a70ad22f06abe5055ea7bc2ffbdfe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782335482-0-0-cef9918bd27afa58d2bbe76fed6a4485
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782335482-0-0-a913e9345b378d2fff0dca312eac1892
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782335482-0-0-f1c909fab4994b6944fa6eaf23f4af50
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=346d8a19887e11aa9727a821be88455b&txTime=6a3c8e4a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=297bae062c21deee783a5fe2aec21044&txTime=6a3c8e4a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=346d8a19887e11aa9727a821be88455b&txTime=6a3c8e4a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=297bae062c21deee783a5fe2aec21044&txTime=6a3c8e4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=86629466ace5f4aeebfb78a2ce0b0d1d&txTime=6a3c8a12
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=cf301b9f29dfde247acc22aa53e4e321&txTime=6a3c8e4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV TOMMY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=27d16820feed96edd3b4893ac6a588cb&txTime=6a3c8a12
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=a525e1858779b8599544c63edcb74e50&txTime=6a3c8e4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=86629466ace5f4aeebfb78a2ce0b0d1d&txTime=6a3c8a12
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=cf301b9f29dfde247acc22aa53e4e321&txTime=6a3c8e4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=27d16820feed96edd3b4893ac6a588cb&txTime=6a3c8a12
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=a525e1858779b8599544c63edcb74e50&txTime=6a3c8e4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV FIREMAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-991140_lsd.flv?txSecret=5ed62b79bdae0b30d3914b858b13aeb7&txTime=6a3c8a12
+https://pull.niur.live/live/stream-991140_lsd.flv?txSecret=cbf97b35574edc0cd292074c3441980c&txTime=6a3c8e4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV FIREMAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-991140_lhd.flv?txSecret=2b85871f4b4c48a1f0794afaf87a1568&txTime=6a3c8a12
+https://pull.niur.live/live/stream-991140_lhd.flv?txSecret=3553928f3993ce4a8ed901513b73d3dd&txTime=6a3c8e4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV FIREMAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=5ed62b79bdae0b30d3914b858b13aeb7&txTime=6a3c8a12
+https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=cbf97b35574edc0cd292074c3441980c&txTime=6a3c8e4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV FIREMAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=2b85871f4b4c48a1f0794afaf87a1568&txTime=6a3c8a12
+https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=3553928f3993ce4a8ed901513b73d3dd&txTime=6a3c8e4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=73aa3ccb5237e44d1b4d2e15ecc62df2&txTime=6a3c8a12
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=82c9e7c4bb75ec958082c6ecdbc6a93c&txTime=6a3c8e4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [SAO LA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=704fdddd6d182f4d892a89e462bef4eb&txTime=6a3c8a12
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=a25bbb0ccfcde30c08385c7eac9b97ee&txTime=6a3c8e4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [SAO LA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=73aa3ccb5237e44d1b4d2e15ecc62df2&txTime=6a3c8a12
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=82c9e7c4bb75ec958082c6ecdbc6a93c&txTime=6a3c8e4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [SAO LA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=704fdddd6d182f4d892a89e462bef4eb&txTime=6a3c8a12
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [NGƯỜI CÁ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1782334402-0-0-057e84deca22e63895d7921a413c288a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [NGƯỜI CÁ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1782334402-0-0-c33fe77a743069e472c7b0f5c497444b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [NGƯỜI CÁ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782334402-0-0-2bf1ebd8ef628bb6668a39fda9c7e90b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [NGƯỜI CÁ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782334402-0-0-c4d43e2751f146ca6815ad244574b615
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=a25bbb0ccfcde30c08385c7eac9b97ee&txTime=6a3c8e4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [LOGAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-552832_lsd.flv?txSecret=7a58df7a535df8356b2cc8ef98f6e9ac&txTime=6a3c8a12
+https://pull.niur.live/live/stream-552832_lsd.flv?txSecret=2f834a83fde2102d698825b4b8e5f3bc&txTime=6a3c8e4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [LOGAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-552832_lhd.flv?txSecret=5fa65058801623666446c6a00b5e611b&txTime=6a3c8a12
+https://pull.niur.live/live/stream-552832_lhd.flv?txSecret=bdf9aee5a11f8657e792b2366c10c42d&txTime=6a3c8e4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [LOGAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=7a58df7a535df8356b2cc8ef98f6e9ac&txTime=6a3c8a12
+https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=2f834a83fde2102d698825b4b8e5f3bc&txTime=6a3c8e4a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [LOGAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=5fa65058801623666446c6a00b5e611b&txTime=6a3c8a12
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=bdf9aee5a11f8657e792b2366c10c42d&txTime=6a3c8e4a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [NGƯỜI CÁ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1782335482-0-0-7cc919a7afd8bcb8519876cec8fca903
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [NGƯỜI CÁ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1782335482-0-0-debc143665772400f955d56ec8b39df7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [NGƯỜI CÁ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782335482-0-0-39384c99e2e356a2790279ce7d312e47
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [NGƯỜI CÁ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782335482-0-0-86039c21a1d0159ee78c8213a8d96df6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782334402-0-0-67fdbbefe2813d8a6c462a961c2a4e1b
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782335482-0-0-553942838ea458fe7b02607af098063a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782334402-0-0-86776624774f5dea664333a1bd61aa92
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782335482-0-0-d8a7bf34ddb2cdc29352c1db9617b358
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782334402-0-0-fd462d99910b15d725b581f06d8034d9
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782335482-0-0-8d7b5ac7f1b5e150f4e6878e6359ca15
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782334402-0-0-6f148bf89c9529d1a9d6724330a0997a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782334762-0-0-6e91a4bfbc26c6587cba61320e66a6f8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782334762-0-0-1f741aa41557112e606e9e00a376a0d0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782334762-0-0-7359afe29834cbd17940361ea93d17de
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782334762-0-0-b2b9179745e45d33c4a76424a3beaeb7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1782334762-0-0-39764c94c5c737f83b211326a5bd9a86
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1782334762-0-0-385168655b438c4bb1a7b22107dbfcab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782334762-0-0-8f2e277f88d9e6133af9664273231908
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782334762-0-0-49efb656d44049aaff01436a33027a9f
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782335482-0-0-4f8cadd5b295c84037509c429c72c402
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [CR Bưởi] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=8ece48ea9c9442db4fbd62eeee1ec0d6&txTime=6a3c8b7a
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=bab895f2ea109a55f3c851bb8e00de93&txTime=6a3c8fb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [CR Bưởi] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=fc77ccebf615a6fdb1621d1433d5baf8&txTime=6a3c8b7a
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=932dc08ff9fb8c065404d07accd48fac&txTime=6a3c8fb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [CR Bưởi] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=8ece48ea9c9442db4fbd62eeee1ec0d6&txTime=6a3c8b7a
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=bab895f2ea109a55f3c851bb8e00de93&txTime=6a3c8fb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [CR Bưởi] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=fc77ccebf615a6fdb1621d1433d5baf8&txTime=6a3c8b7a
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=932dc08ff9fb8c065404d07accd48fac&txTime=6a3c8fb2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1782335842-0-0-f3b8b5380a5235178b78f7fc1f487fd2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1782335842-0-0-58935e110cc99242b83dbba7e79c11fb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782335842-0-0-246d650b13b080135b935a3f69c34749
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782335842-0-0-c9fec89bd697736ea02c8c8686946302
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV TAP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=4dd30e56868686b49ffb616df72ae2bb&txTime=6a3c8b7a
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=962f9bda665974106c5e8910dfac6a9a&txTime=6a3c8fb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV TAP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=d1a4fa96e0d81c132a1df72e00c6860a&txTime=6a3c8b7a
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=5b1e78c489d5119562a2e5932126097c&txTime=6a3c8fb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV TAP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=4dd30e56868686b49ffb616df72ae2bb&txTime=6a3c8b7a
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=962f9bda665974106c5e8910dfac6a9a&txTime=6a3c8fb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV TAP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=d1a4fa96e0d81c132a1df72e00c6860a&txTime=6a3c8b7a
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=5b1e78c489d5119562a2e5932126097c&txTime=6a3c8fb2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782335842-0-0-0caaa1c00e7c070ec7e894d40b25f3a4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782335842-0-0-7c330a158bc5573380a11811177bb161
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782335842-0-0-293b744158dc76f1380d39344e6b8c6e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782335842-0-0-be7e58a756b01a519de8d62459e80ac0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [THẠCH TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1782334762-0-0-fbd3fc40b533160acbd54344788ad67e
+https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1782335842-0-0-7243b62d6b9e17c1991da3ec6486e8d6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [THẠCH TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1782334762-0-0-82532fcdefcf382298dd7232b9336905
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1782335842-0-0-3299925e2abeac48e5faf7246e043eb6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [THẠCH TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1782334762-0-0-947babbc97f05f9fc6762d8fda8994a8
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1782335842-0-0-213651fadfb54a0fd68b550a9bf47eeb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [THẠCH TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1782334762-0-0-c84cf0eb2dc7b2c160dc88f64c3c03f5
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1782335842-0-0-c816f2d8a3d1b86ead520910630d8cd3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV TOMIA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912008_lsd.flv?txSecret=cd955f8c4f8da730db9194adf619a64a&txTime=6a3c8b7a
+https://pull.niur.live/live/stream-9912008_lsd.flv?txSecret=bbe53847ba57b1966ebd542ec6f5f1d6&txTime=6a3c8fb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV TOMIA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912008_lhd.flv?txSecret=296b978f0fb0cc9ae27007c2303f6231&txTime=6a3c8b7a
+https://pull.niur.live/live/stream-9912008_lhd.flv?txSecret=a66226e75d4b1be10ee8c2f3776ec4cc&txTime=6a3c8fb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV TOMIA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912008_lsd.m3u8?txSecret=cd955f8c4f8da730db9194adf619a64a&txTime=6a3c8b7a
+https://pull.niur.live/live/stream-9912008_lsd.m3u8?txSecret=bbe53847ba57b1966ebd542ec6f5f1d6&txTime=6a3c8fb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV TOMIA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912008_lhd.m3u8?txSecret=296b978f0fb0cc9ae27007c2303f6231&txTime=6a3c8b7a
+https://pull.niur.live/live/stream-9912008_lhd.m3u8?txSecret=a66226e75d4b1be10ee8c2f3776ec4cc&txTime=6a3c8fb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782334762-0-0-7aa860680a3aa77fffde9b9d4d1af970
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782335842-0-0-c3cf6e29505be804d27b4af4fc30b9c3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [A BỆU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782334762-0-0-5ff1e0611a4d5cdd1bc7752fc4fd01f9
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782335842-0-0-48a353c138c46b1a3c54254f18e1fb3f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [A BỆU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782334762-0-0-3ef0e907b54aa7bcc551686517c8f461
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782335842-0-0-00e47c5082d7f824e4fa1669383a0067
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [A BỆU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782334762-0-0-e543dee8a8dd3891ed8c85837c808a2a
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782335842-0-0-2dad074c9269bdd5ca327aa18d78a23d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [CÔNG CHẤT] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1782334762-0-0-ed98b08f85b4e0c6acd1dc9559a1e3f6
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1782335842-0-0-0ad613a275d727207badce469811244a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [CÔNG CHẤT] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1782334762-0-0-10efb228ec60e0e1a0ed9ebc55367242
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1782335842-0-0-87da9784e49da6abbeddb7f09f879fd5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [CÔNG CHẤT] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1782334762-0-0-e1af2b79fd70ef6823ab78115f59171c
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1782335842-0-0-1556e0f95907a8b846417440192e1f46
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [CÔNG CHẤT] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1782334762-0-0-0dae2bbc5252f7cb97a9f20e6582acb0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV A TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782334762-0-0-8dbf43e49e7a62feb5b8ea4d4116a970
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV A TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782334762-0-0-21501fb49602ea18441852915cff2ec1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV A TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782334762-0-0-c6005bcf4af7cb99cafbc7c14709b535
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV A TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782334762-0-0-2fe9ae7fb316980be249a12d722f43ab
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1782335842-0-0-74bade5e1d5e30c48487f1ed0031896e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV CÒ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-582342_lsd.flv?txSecret=8e99421e14e6809a8e2a443111fc93f2&txTime=6a3c8b7a
+https://pull.niur.live/live/stream-582342_lsd.flv?txSecret=93bd6f452d527dacf26f38be252ccdc7&txTime=6a3c8fb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV CÒ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-582342_lhd.flv?txSecret=248993f011cf8fc8d34082a8b3b055be&txTime=6a3c8b7a
+https://pull.niur.live/live/stream-582342_lhd.flv?txSecret=5f42d611f7aa6ebf6da7e0e4ee179f02&txTime=6a3c8fb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV CÒ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-582342_lsd.m3u8?txSecret=8e99421e14e6809a8e2a443111fc93f2&txTime=6a3c8b7a
+https://pull.niur.live/live/stream-582342_lsd.m3u8?txSecret=93bd6f452d527dacf26f38be252ccdc7&txTime=6a3c8fb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV CÒ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-582342_lhd.m3u8?txSecret=248993f011cf8fc8d34082a8b3b055be&txTime=6a3c8b7a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull.niur.live/live/stream-582342_lhd.m3u8?txSecret=5f42d611f7aa6ebf6da7e0e4ee179f02&txTime=6a3c8fb2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV A TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782335122-0-0-63065724e68b897e1b9d1250d041b52d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782335842-0-0-f773e770dacc8479a38aba3288d8afa3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV A TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782335122-0-0-b65319a887b7a0bc0c39dc72200a0816
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782335842-0-0-b07de98248685f015a7471c25ce29c6a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV A TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782335122-0-0-6e43fb0e07a54603bfc01d272ed0af33
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782335842-0-0-f9bddc0a306e7aff91836cc7ca39d8e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV A TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782335122-0-0-2f6bc582e3369d256850eed587f6fea7
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782335842-0-0-255c0e12a3596d14554e2d407a290595
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782335122-0-0-9e922e88447bd6b6980d9a687473a3d8
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782336202-0-0-d3c7d6b477c9dd4c3d0dcc19fe3feb36
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782335122-0-0-26b065d5f14c02de90287c3cba49e8cd
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782336202-0-0-3a71f647b04d91934cbd95a6e18f1725
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782335122-0-0-881b99b04d65886ff98729767f37942b
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782336202-0-0-9970364530a8521cd5b7033a95cf98b1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782335122-0-0-c78ac146c5e0939e5e789dcc5a2ae5d6
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782336202-0-0-fd8f9d1d128c749978a28f8d931f4708
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782336202-0-0-9339eec79c5d5a971a2dd62caab96575
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782336202-0-0-e56d2917092f058b65bdf9508a7b5747
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782336202-0-0-8f50361c58862c4880e32fdd2162dc93
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/b6dafeb00ad6fd7fadd67d360d337008.png",02h00 ngày 25/06 Switzerland vs Canada [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782336202-0-0-39d016cc42c3832e0849c3fcdb1b76f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [HẢI THANH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-599634_lsd.flv?txSecret=93fb0668f5dbe79df2c0751d240b739b&txTime=6a3c8ce2
+https://pull.niur.live/live/stream-599634_lsd.flv?txSecret=f464d1e4d476029ce3109d851141f37e&txTime=6a3c911a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [HẢI THANH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-599634_lhd.flv?txSecret=13c0529da3c1f7e97ce9b335a9c27bca&txTime=6a3c8ce2
+https://pull.niur.live/live/stream-599634_lhd.flv?txSecret=f50634c9abf1ad7ac9ec1b90bffd8fd9&txTime=6a3c911a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [HẢI THANH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-599634_lsd.m3u8?txSecret=93fb0668f5dbe79df2c0751d240b739b&txTime=6a3c8ce2
+https://pull.niur.live/live/stream-599634_lsd.m3u8?txSecret=f464d1e4d476029ce3109d851141f37e&txTime=6a3c911a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [HẢI THANH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-599634_lhd.m3u8?txSecret=13c0529da3c1f7e97ce9b335a9c27bca&txTime=6a3c8ce2
+https://pull.niur.live/live/stream-599634_lhd.m3u8?txSecret=f50634c9abf1ad7ac9ec1b90bffd8fd9&txTime=6a3c911a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV KEM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=19e3131af0aba86021ad2b269904f053&txTime=6a3c8ce2
+https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=4d54fdb6102adcab11771ca96d9eb48f&txTime=6a3c911a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV KEM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=b9fe272e4d8b034b8c615438f241356f&txTime=6a3c8ce2
+https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=a2a1f6c45c3e5e9af8775175f96158a0&txTime=6a3c911a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV KEM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=19e3131af0aba86021ad2b269904f053&txTime=6a3c8ce2
+https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=4d54fdb6102adcab11771ca96d9eb48f&txTime=6a3c911a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV KEM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=b9fe272e4d8b034b8c615438f241356f&txTime=6a3c8ce2
+https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=a2a1f6c45c3e5e9af8775175f96158a0&txTime=6a3c911a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV ROBBEN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-527383_lsd.flv?txSecret=0a77c88d544cbc7a7423b41868f4119a&txTime=6a3c8ce2
+https://pull.niur.live/live/stream-527383_lsd.flv?txSecret=817ec578b19d4c16b8d4d97f2db964f9&txTime=6a3c911a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV ROBBEN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-527383_lhd.flv?txSecret=b990d05f75acc299b6d005f8278da1c4&txTime=6a3c8ce2
+https://pull.niur.live/live/stream-527383_lhd.flv?txSecret=f0a07dd18c7c09967aa9a56bc0fbf185&txTime=6a3c911a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV ROBBEN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-527383_lsd.m3u8?txSecret=0a77c88d544cbc7a7423b41868f4119a&txTime=6a3c8ce2
+https://pull.niur.live/live/stream-527383_lsd.m3u8?txSecret=817ec578b19d4c16b8d4d97f2db964f9&txTime=6a3c911a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260619/a09947fb364e02babe6ba4161e6c28a4.png",02h00 ngày 25/06 Bosnia and Herzegovina vs Qatar [BLV ROBBEN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-527383_lhd.m3u8?txSecret=b990d05f75acc299b6d005f8278da1c4&txTime=6a3c8ce2
+https://pull.niur.live/live/stream-527383_lhd.m3u8?txSecret=f0a07dd18c7c09967aa9a56bc0fbf185&txTime=6a3c911a
  
