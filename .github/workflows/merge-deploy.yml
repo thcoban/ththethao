@@ -161,14 +161,44 @@ jobs:
             cat bugiotv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
+          if [ -f chaogatv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat chaogatv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+          if [ -f chuoichientv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat chuoichientv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+          if [ -f xaycontv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat xaycontv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+          if [ -f vuasancotv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat vuasancotv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
           if [ -f colatv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat colatv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
-          if [ -f chaogatv.m3u ]; then
+          if [ -f luongsontv.m3u ]; then
             echo " " >> ttthethao.m3u
-            cat chaogatv.m3u >> ttthethao.m3u
+            cat luongsontv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+          if [ -f nauxoitv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat nauxoitv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+          if [ -f s8tv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat s8tv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
           if [ -f khandaiatv.m3u ]; then
@@ -196,39 +226,9 @@ jobs:
             cat cakhiatv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
-          if [ -f chuoichientv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat chuoichientv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
-          if [ -f xaycontv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat xaycontv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
-          if [ -f luongsontv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat luongsontv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
-          if [ -f nauxoitv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat nauxoitv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
           if [ -f biaomtv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat biaomtv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
-          if [ -f vuasancotv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat vuasancotv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
-          if [ -f s8tv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat s8tv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
 
