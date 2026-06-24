@@ -267,17 +267,17 @@ https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80" group-title="Cola TV" group-logo="https://colatv99.live/assets/images/logo.png" , 🟢 14:00 24/06 🏀 Tauranga Whai vs Southland Sharks (BLV 247) [flv]
-https://live05.meung.app/live/90865415.flv
-
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80" group-title="Cola TV" , 🟢 14:00 24/06 🏀 Tauranga Whai vs Southland Sharks (BLV 247) [hls]
-https://live05.meung.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png!w80" group-title="Cola TV" , 🟢 14:00 24/06 ⚽ Shanxi Chongde Ronghai vs Taian Tiankuang (BLV POCARI) [flv]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png!w80" group-title="Cola TV" group-logo="https://colatv99.live/assets/images/logo.png" , 🟢 14:00 24/06 ⚽ Shanxi Chongde Ronghai vs Taian Tiankuang (BLV POCARI) [flv]
 https://live05.meung.app/live/19919577.flv
 
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png!w80" group-title="Cola TV" , 🟢 14:00 24/06 ⚽ Shanxi Chongde Ronghai vs Taian Tiankuang (BLV POCARI) [hls]
 https://live05.meung.app/live/19919577.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80" group-title="Cola TV" , 🟢 14:00 24/06 🏀 Tauranga Whai vs Southland Sharks (BLV 247) [flv]
+https://live05.meung.app/live/90865415.flv
+
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80" group-title="Cola TV" , 🟢 14:00 24/06 🏀 Tauranga Whai vs Southland Sharks (BLV 247) [hls]
+https://live05.meung.app/live/90865415.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e4f8faa800643a16387371e8f8234079.png!w80" group-title="Cola TV" , 🟡 15:00 24/06 ⚽ Deren FC vs Bồ câu ở Buganut (BLV BÍ ĐAO) [flv]
 https://live05.meung.app/live/99121525.flv
@@ -846,6 +846,16 @@ https://alive.yarncdn.live/kda-blv-delua/tracks-v2a1/mono.m3u8
  
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghgegkr6od/image/small" group-title="Xôi Lạc Z TV" , 🟢 14:30 24/06 ⚽ East Coast Bays vs Auckland City (NEMO) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel17.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghgegkr6od/image/small" group-title="Xôi Lạc Z TV" , 🟢 14:30 24/06 ⚽ East Coast Bays vs Auckland City (HD NEMO) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+https://live3.procdnlive.com/livecdn/channel17.flv?auth_key=3000001782285336-0-0-e9954619075c1bb975676725b4c64c4c
+
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh8eojmoep/image/small" group-title="Xôi Lạc Z TV" , 🟢 14:00 24/06 ⚽ Xian Ronghai FC vs Taian Tiankuang (FILIP) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
@@ -854,7 +864,7 @@ https://live2.pro2cdnlive.com/live/channel19.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh8eojmoep/image/small" group-title="Xôi Lạc Z TV" , 🟢 14:00 24/06 ⚽ Xian Ronghai FC vs Taian Tiankuang (HD FILIP) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel19.flv?auth_key=3000001782283537-0-0-9e72b318740c6cd7bb3d78852c6838b0
+https://live3.procdnlive.com/livecdn/channel19.flv?auth_key=3000001782285342-0-0-dda81ebd0f05c5c6ff37a051701e5cc4
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/318q6nt0lz9mo9j/image/small" group-title="Xôi Lạc Z TV" , 🟢 14:00 24/06 🏀 Whai vs Southland Sharks (STEP) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -864,27 +874,17 @@ https://live2.pro2cdnlive.com/live/channel26.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/318q6nt0lz9mo9j/image/small" group-title="Xôi Lạc Z TV" , 🟢 14:00 24/06 🏀 Whai vs Southland Sharks (HD STEP) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001782283543-0-0-8cc0cdb1edce8f28191e25d326f35142
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001782285348-0-0-adb8d41aa75254372250a042fe68f582
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghgegkr6od/image/small" group-title="Xôi Lạc Z TV" , 🟡 14:30 24/06 ⚽ East Coast Bays vs Auckland City (NEMO) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live2.pro2cdnlive.com/live/channel17.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghgegkr6od/image/small" group-title="Xôi Lạc Z TV" , 🟡 14:30 24/06 ⚽ East Coast Bays vs Auckland City (HD NEMO) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel17.flv?auth_key=3000001782283549-0-0-2021289c862ab3713b93726aa486384d
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhxeyvqvy9/image/small" group-title="Xôi Lạc Z TV" , 15:00 24/06 ⚽ Deren FC vs Central Stallions (POLO) 
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhxeyvqvy9/image/small" group-title="Xôi Lạc Z TV" , 🟡 15:00 24/06 ⚽ Deren FC vs Central Stallions (POLO) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel10.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhxeyvqvy9/image/small" group-title="Xôi Lạc Z TV" , 15:00 24/06 ⚽ Deren FC vs Central Stallions (HD POLO) 
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhxeyvqvy9/image/small" group-title="Xôi Lạc Z TV" , 🟡 15:00 24/06 ⚽ Deren FC vs Central Stallions (HD POLO) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001782283555-0-0-7fd3fa1afea587035e21f5bdf7111ad3
+https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001782285354-0-0-82eab241f6d07bc6d7df1325f2c2b379
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdeh69j8r510/image/small" group-title="Xôi Lạc Z TV" , 16:00 24/06 ⚽ Nữ Hà Nội vs Nữ Hồ Chí Minh 2 (ASTRA) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -894,7 +894,7 @@ https://live2.pro2cdnlive.com/live/channel11.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdeh69j8r510/image/small" group-title="Xôi Lạc Z TV" , 16:00 24/06 ⚽ Nữ Hà Nội vs Nữ Hồ Chí Minh 2 (HD ASTRA) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001782283562-0-0-a9146dfc104e4bc632b4274eed1e5332
+https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001782285362-0-0-4529a3542b3e784cbf8c065a4981cba7
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h8eydq86p/image/small" group-title="Xôi Lạc Z TV" , 16:00 24/06 ⚽ Nữ Changchun vs Nữ Shandong Jsff (RIO) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -904,17 +904,17 @@ https://live2.pro2cdnlive.com/live/channel16.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h8eydq86p/image/small" group-title="Xôi Lạc Z TV" , 16:00 24/06 ⚽ Nữ Changchun vs Nữ Shandong Jsff (HD RIO) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001782283568-0-0-b385b0eb40f515e08ef6f56aa4a655b2
+https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001782285368-0-0-84ff3eb62ecaca123b798b810c0e4bc1
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/3glrwyt1d16qdyj/image/small" group-title="Xôi Lạc Z TV" , 15:00 24/06 🏀 Quezon Toda Aksyon vs Bataan Risers (TOMMY) 
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/3glrwyt1d16qdyj/image/small" group-title="Xôi Lạc Z TV" , 🟡 15:00 24/06 🏀 Quezon Toda Aksyon vs Bataan Risers (TOMMY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel27.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/3glrwyt1d16qdyj/image/small" group-title="Xôi Lạc Z TV" , 15:00 24/06 🏀 Quezon Toda Aksyon vs Bataan Risers (HD TOMMY) 
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/3glrwyt1d16qdyj/image/small" group-title="Xôi Lạc Z TV" , 🟡 15:00 24/06 🏀 Quezon Toda Aksyon vs Bataan Risers (HD TOMMY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001782283574-0-0-146b787edc6ccecaf7bc57f3b9b9ca76
+https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001782285375-0-0-fed34784f370f052492a917462324f5f
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/3glrwyt188gqdyj/image/small" group-title="Xôi Lạc Z TV" , 17:00 24/06 🏀 Negros Muscovados vs Rizal Xentro Golden (ALAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -924,7 +924,7 @@ https://live2.pro2cdnlive.com/live/channel25.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/3glrwyt188gqdyj/image/small" group-title="Xôi Lạc Z TV" , 17:00 24/06 🏀 Negros Muscovados vs Rizal Xentro Golden (HD ALAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001782283579-0-0-561a65f357a0f142545510476ec0a6be
+https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001782285380-0-0-6d13e6abb8eda8017221d84f82eb6599
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/k82re8t9yplrepz/image/small" group-title="Xôi Lạc Z TV" , 19:00 24/06 🏀 Pasig City vs Iloilo Royals (TOMMY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -996,6 +996,26 @@ https://live2.pro2cdnlive.com/live/channel29.flv
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel29.flv
 
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/l5ergytojglr8k0/image/small" group-title="Xôi Lạc Z TV" , 17:00 25/06 🏀 San Juan Knights vs Marikina Shoemasters (ALAN) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel25.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/l5ergytojglr8k0/image/small" group-title="Xôi Lạc Z TV" , 17:00 25/06 🏀 San Juan Knights vs Marikina Shoemasters (HD ALAN) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel25.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/1l4rjzt177vm7vx/image/small" group-title="Xôi Lạc Z TV" , 19:00 25/06 🏀 Quezon Huskers vs Batangas Rum Masters (STEP) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel26.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/1l4rjzt177vm7vx/image/small" group-title="Xôi Lạc Z TV" , 19:00 25/06 🏀 Quezon Huskers vs Batangas Rum Masters (HD STEP) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel26.flv
+
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/jw2r0jfx333mz84/image/small" group-title="Xôi Lạc Z TV" , 16:00 24/06 🥎 Ekaterina Alexandrova vs Mirra Andreeva (VIC) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
@@ -1004,7 +1024,7 @@ https://live2.pro2cdnlive.com/live/channel32.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/jw2r0jfx333mz84/image/small" group-title="Xôi Lạc Z TV" , 16:00 24/06 🥎 Ekaterina Alexandrova vs Mirra Andreeva (HD VIC) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel32.flv?auth_key=3000001782283593-0-0-f036013088cbf39632df218a64cd1f2d
+https://live3.procdnlive.com/livecdn/channel32.flv?auth_key=3000001782285397-0-0-22323d9d54d44d95d385d7f1061900dd
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/l7oqdwfljjor510/image/small" group-title="Xôi Lạc Z TV" , 17:00 24/06 🥎 Jessica Bouzas Maneiro vs Madison Keys (LUCAS) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1014,7 +1034,7 @@ https://live2.pro2cdnlive.com/live/channel31.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/l7oqdwfljjor510/image/small" group-title="Xôi Lạc Z TV" , 17:00 24/06 🥎 Jessica Bouzas Maneiro vs Madison Keys (HD LUCAS) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel31.flv?auth_key=3000001782283599-0-0-28d341d63154b5448663b902f485c510
+https://live3.procdnlive.com/livecdn/channel31.flv?auth_key=3000001782285403-0-0-83620ab6207e8e878e13c1d1732bc6e3
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/l5erg1fee2xr8k0/image/small" group-title="Xôi Lạc Z TV" , 17:10 24/06 🥎 Zheng Qinwen vs Clara Tauson (VIC) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1024,7 +1044,7 @@ https://live2.pro2cdnlive.com/live/channel32.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/l5erg1fee2xr8k0/image/small" group-title="Xôi Lạc Z TV" , 17:10 24/06 🥎 Zheng Qinwen vs Clara Tauson (HD VIC) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel32.flv?auth_key=3000001782283604-0-0-2b19d7aa7e24c9e904400c2a8eee3973
+https://live3.procdnlive.com/livecdn/channel32.flv?auth_key=3000001782285409-0-0-7aebe043d516922cf2721d0f5a3ae1f0
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/3glrw2fjne9rdyj/image/small" group-title="Xôi Lạc Z TV" , 18:10 24/06 🥎 Jeļena Ostapenko vs Panna Udvardy (LUCAS) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1034,7 +1054,7 @@ https://live2.pro2cdnlive.com/live/channel31.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/3glrw2fjne9rdyj/image/small" group-title="Xôi Lạc Z TV" , 18:10 24/06 🥎 Jeļena Ostapenko vs Panna Udvardy (HD LUCAS) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live2.pro2cdnlive.com/live/channel31.flv
+https://live3.procdnlive.com/livecdn/channel31.flv?auth_key=3000001782285415-0-0-25dca6a975f72d330c7edd29ea2e4f55
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/2y8m4vfjjg8ml07/image/small" group-title="Xôi Lạc Z TV" , 20:30 24/06 🥎 Iga Swiatek vs Emma Navarro (VIC) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1211,6 +1231,12 @@ https://hls.cdnfaster-b.site/live/suplo/index.m3u8?expire=1826702760&sign=2bfe71
 
 #EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1782166911311-suxqcxw4d6.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 24/06 ⚽ Argentina vs Áo (Giàng A Gấu) [flv]
 https://flv.cdnfaster-b.site/live/suplo.flv?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/30481e72d12bde49250fa363650fe8bc.png" group-title="Cà Khịa TV" , 🟡 15:00 24/06 ⚽ Shaanxi Zhidan Women vs Liaoning Shenbei Hefeng Women (Giàng A Choén) [hls]
+https://hls.cdnfaster-b.site/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/30481e72d12bde49250fa363650fe8bc.png" group-title="Cà Khịa TV" , 🟡 15:00 24/06 ⚽ Shaanxi Zhidan Women vs Liaoning Shenbei Hefeng Women (Giàng A Choén) [flv]
+https://flv.cdnfaster-b.site/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/30481e72d12bde49250fa363650fe8bc.png" group-title="Cà Khịa TV" , 🟡 15:00 24/06 ⚽ Shaanxi Zhidan Women vs Liaoning Shenbei Hefeng Women (Giàng A Khoai) [hls]
 https://hls.cdnfaster-b.site/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
@@ -1547,13 +1573,13 @@ https://alive.yarncdn.live/xctv_blv_hantin/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV PELE) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV NGƯỜI THÉP) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV LEO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV VÕ TÒNG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV LEO) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV NGƯỜI THÉP) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV YẾN THANH) [hls]
@@ -1562,22 +1588,28 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/675_164983517667.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Bosnia and Herzegovina vs Qatar (BLV LÃO HẠC) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TÂY MÔN KHÁNH) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV FERNANDO) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV MÃ SIÊU) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TRIỆU TỬ LONG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV VƯƠNG LUÂN) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV FERNANDO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TÔN LẬP) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV VƯƠNG LUÂN) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="Lương Sơn TV" , 🟢 02:00 25/06 ⚽ Switzerland vs Canada (BLV TÂY MÔN KHÁNH) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV NGƯỜI THÉP) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV TRIỆU TỬ LONG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV PELE) [hls]
@@ -1586,34 +1618,28 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV YẾN THANH) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV VÕ TÒNG) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV LÃO HẠC) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV TRIỆU TỬ LONG) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV NGƯỜI THÉP) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV KAKA) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/704_1hkv9bnt8sv.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Morocco vs Haiti (BLV VÕ TÒNG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV LƯU BỊ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV KAKA) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV LEO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV LỮ BỐ) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV KEVILL) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV MÃ SIÊU) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV KEVILL) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="Lương Sơn TV" , 🟢 05:00 25/06 ⚽ Scotland vs Brazil (BLV LỮ BỐ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/60083_1jrcx9hjze2z.png" group-title="Lương Sơn TV" , 🟢 14:00 24/06 ⚽ Yan An Ronghai vs Taian Tiankuang (BLV LỮ BỐ) [hls]
@@ -1640,19 +1666,22 @@ https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb945
 #EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782246909.png" group-title="Lương Sơn TV" , 🟢 14:00 24/06 🏀 Tauranga Whai vs Southland Sharks (BLV LÝ QUỲ) [flv]
 https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 
+#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782267518.png" group-title="Lương Sơn TV" , 🟡 15:00 24/06 ⚽ Canton United vs Hubei Super Mr (BLV TÔN LẬP) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/31978_1h4f5c60r62d.png" group-title="Lương Sơn TV" , 🟡 15:00 24/06 ⚽ Deren FC vs Tuv Buganuud (BLV LÝ ỨNG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/31978_1h4f5c60r62d.png" group-title="Lương Sơn TV" , 🟡 15:00 24/06 ⚽ Deren FC vs Tuv Buganuud (BLV TÂY MÔN KHÁNH) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/7031_1jp43cq48kx.png" group-title="Lương Sơn TV" , 🟡 15:00 24/06 ⚽ ShanXi zhidan (W) vs Liaoning Shenbei Hefeng (W) (BLV LIO) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/7031_1jp43cq48kx.png" group-title="Lương Sơn TV" , 🟡 15:00 24/06 ⚽ ShanXi zhidan (W) vs Liaoning Shenbei Hefeng (W) (BLV GẤU KA) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
+https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
 
-#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782267518.png" group-title="Lương Sơn TV" , 🟡 15:00 24/06 ⚽ Canton United vs Hubei Super Mr (BLV TÔN LẬP) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/7031_1jp43cq48kx.png" group-title="Lương Sơn TV" , 🟡 15:00 24/06 ⚽ ShanXi zhidan (W) vs Liaoning Shenbei Hefeng (W) (BLV GẤU KA) [flv]
+https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/7031_1jp43cq48kx.png" group-title="Lương Sơn TV" , 🟡 15:00 24/06 ⚽ ShanXi zhidan (W) vs Liaoning Shenbei Hefeng (W) (BLV LIO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782274577.png" group-title="Lương Sơn TV" , 🔴🎥 11:16 24/06 ⚽ Bồ Đào Nha vs Uzbekistan (BLV KEVILL REPLAY) [hls]
@@ -1936,252 +1965,261 @@ https://cdnhls.xbdbotv.live/live/b6dj2st2d05jy0l9apaa7dv4/index.m3u8
 
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1782286882-0-0-3ce2f18b3f26d7683524974cc66e7bb8
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1782287962-0-0-2ba6ffccf357ea4feb145bc12d393eb0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [A CHÈ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1782286882-0-0-6e8ba007afa2e62250c19c85e5a27ba2
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1782287962-0-0-568ffb576c1f3e12279032ecd564c8b6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [A CHÈ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782286882-0-0-b0db123ef255889e21903528f342b05c
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782287962-0-0-2e5446e8d9ae87d8ff452ffb7bb6a9da
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [A CHÈ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782286882-0-0-2e44ce1ab9732f9bd6c287ebedec73bb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [VƯƠNG ANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=1e12b11257135d9c4ff0f18b19f9a5cf&txTime=6a3bd072
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [VƯƠNG ANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=58a9d88865920e7b42a7036a19ff1c1c&txTime=6a3bd072
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [VƯƠNG ANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=1e12b11257135d9c4ff0f18b19f9a5cf&txTime=6a3bd072
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [VƯƠNG ANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=58a9d88865920e7b42a7036a19ff1c1c&txTime=6a3bd072
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782287962-0-0-06b4ea857a4d665a1f8eaa36d44f8161
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1782286882-0-0-40baad8ce7704aff8932f5b323685334
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1782287962-0-0-147cb9056a75b7716ec477170d2d4cc1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1782286882-0-0-7c3543515a17409ff024416bdafa9d6b
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1782287962-0-0-b8f3bcb8c5b9f52f766febde31042fa4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1782286882-0-0-aede6806f78f3529a5fdc0ef84ce72ab
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1782287962-0-0-ee325f7d405d16e458b854bc25714e67
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1782286882-0-0-eeeb729b18710293b701057a27ed1d83
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1782287962-0-0-069e5c67969e697b7bf8262e5ccd11aa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [VƯƠNG ANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=93a585f5de951322f75a7a20dafd2f01&txTime=6a3bd4aa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=043984bd2f8d95af00ed8be8d3433ceb&txTime=6a3bd4aa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=93a585f5de951322f75a7a20dafd2f01&txTime=6a3bd4aa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=043984bd2f8d95af00ed8be8d3433ceb&txTime=6a3bd4aa
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1782286882-0-0-880517acd1c35caf81acc968ed5316f0
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1782287962-0-0-e3983a059bdfde5d76b5d5c2739dbfc1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1782286882-0-0-e9da7805827fece9e9703b7c87b5f320
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1782287962-0-0-5fbd7094282b3efea8022829373f36fc
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782286882-0-0-e2c0652b154d70f253807e8663cfa50c
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782287962-0-0-577c1cb149bf26c22155788e12858017
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [LÃO LÂM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782286882-0-0-8709188e1bfb7b5e15607815f08076ff
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782287962-0-0-cde6054ba61aacdeb2b0b38f1806a30a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - England vs Ghana [Sóc đau cổ vai gáy] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782286882-0-0-5debd1ff581efa976bc50ef49689aefc
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782287962-0-0-6e5f99c45ca5ad73b057c978191dc2ae
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - England vs Ghana [Sóc đau cổ vai gáy] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1782286882-0-0-2272b7c5af2afe23c3464f1f8fdcebd1
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1782287962-0-0-a2138080815e6f14ee7b3fdf7416f109
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - England vs Ghana [Sóc đau cổ vai gáy] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782286882-0-0-4acbd3c55ad008104222b56d2aaac722
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782287962-0-0-8dbf324409f2674f41d6f6d457a9981d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - England vs Ghana [Sóc đau cổ vai gáy] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782286882-0-0-cc8fcaba92e152d7419240f44f063f2d
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782287962-0-0-e649fa872bb49c802c30a3d33a92389d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Argentina vs Austria [Sóc trèo cây ngô đồng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782286882-0-0-12a5713a47893f560037ce769d30fced
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782287962-0-0-c8ac84b576ceb17593b7bf701501afdf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Argentina vs Austria [Sóc trèo cây ngô đồng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782286882-0-0-ed29ac9f20cabcea4b39c41a341540c7
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782287962-0-0-1ba3248fb51bd674597fef0bec51996c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Argentina vs Austria [Sóc trèo cây ngô đồng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782286882-0-0-73496fb0f8b139a87fc2c93a65dd4d6d
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782287962-0-0-5f6bbf4ed7d4eb24ea68895d7e1ed9f6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Argentina vs Austria [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782286882-0-0-ce1612edb6cae4a87864959d193c8d09
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Panama vs Croatia [Sóc nhàm nhang nhồ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782286882-0-0-608a22de394684704566030ba6a72410
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Panama vs Croatia [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1782286882-0-0-10ffead9d20b5ef106df0d56b46be44a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Panama vs Croatia [Sóc nhàm nhang nhồ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782286882-0-0-7a851cca5d1a830cac7f6906a0c9479d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Panama vs Croatia [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782286882-0-0-7c636241e0d638f96487a224bcb8bfde
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782287962-0-0-786176e1ce175bdb14495ee3e7520c52
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782286882-0-0-9ed25814dfa7fbc8cadbaf898c8efbae
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782287962-0-0-e361c9efc5d2be8a1d20103e39764ad7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782286882-0-0-1fbb856247d63a1b57854851790cee4e
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782287962-0-0-f5df84f63432775a11ab4e51583fe163
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782286882-0-0-c7f0201da8e5d282389abd58c95a771b
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782287962-0-0-3d1c788ef0bb5ce2a1358e5a783aaa02
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Norway vs Senegal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782286882-0-0-ce5fe381adb8e9c37a7e88638823533e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [BLV FIREMAN] (Socolive) flv
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782287962-0-0-f38d43f2affaf55d6ff47f7b90cb84ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Panama vs Croatia [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1782287254-0-0-70c0022a764f302538e7af41f3b7e9d3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [BLV FIREMAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782287962-0-0-651b8283e95e70429be475bd823bef31
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Panama vs Croatia [Sóc nhàm nhang nhồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1782287254-0-0-ce661fffb4fd024a5a7d41719aabe9bf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [BLV FIREMAN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1782287962-0-0-3fab1f94b809c3224da2a7b2f0dd541e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Panama vs Croatia [Sóc nhàm nhang nhồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782287254-0-0-ec2d0eeaf5b9713f6112f7b50eb9bdad
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782287962-0-0-1a8273d6b98a53af465738f44666b2be
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Panama vs Croatia [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782287254-0-0-eb1fc584be00470a9f575e34a9f6a27b
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782287962-0-0-50295353ea818a2f540216b7237de940
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1782287242-0-0-ce666f633158a4ec535a47387d46e9d3
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1782288322-0-0-579ea9947efadeec624bfc8df89a0076
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1782287242-0-0-98ec762828ff989cc1fbfe1eee438e51
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1782288322-0-0-c534a54f2f506ba16c8a01784611103b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782287242-0-0-cb5c00f9fbb8d6542934b121212812f7
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782288322-0-0-4c1767bbaf3f172f95123e235f4a0950
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782287242-0-0-07ac6851614f8c0190671d17501cfb0c
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782288322-0-0-251e3d4b7b46e044a6ebe1331024260e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [BLV TOMIA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782287242-0-0-71348fe6c4dfadbe6c7fcf4601dd7c7a
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782288322-0-0-c1b2b7ada2acb66c85aa88c4367a7a21
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [BLV TOMIA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1782287242-0-0-2230dc4a93f907a2fabe8f9e7e621600
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1782288322-0-0-a10a33098d4c19b923d646f903b22f3d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [BLV TOMIA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782287242-0-0-788d55be593b942cd7d580b4e644033d
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782288322-0-0-892039f2c0da1691785c150e4f178804
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [BLV TOMIA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782287242-0-0-18762f8d4624d84e6476195ffc949ea5
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782288322-0-0-f310034302e4631df46eec65086e195f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [BLV FIREMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1782288322-0-0-3af50f5e6083fe480849a58c68017634
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [BLV FIREMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1782288322-0-0-f0fdf4f2f493593d5ed66ff776e3324f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [BLV FIREMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782288322-0-0-a95f3451d9fcc24bb977e28184441528
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [BLV FIREMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782288322-0-0-e7414110b84625d8041b7c233e3ae0bc
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Portugal vs Uzbekistan [Sóc mèo méo meo] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782287242-0-0-2bcf192631e1ec66bfdbae24934c9507
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782288322-0-0-1755023990b97d707e6318381ea869d8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Portugal vs Uzbekistan [Sóc mèo méo meo] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782287242-0-0-18a145521df3e93e00ce4cc5dfc02c8c
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782288322-0-0-83800f4b6399fccf2d8f0fd7bc90368c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Portugal vs Uzbekistan [Sóc mèo méo meo] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782287242-0-0-f5763a2269b2024782b1280d32385b48
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782288322-0-0-51455cab93ef34d91b224ef291ab994b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Portugal vs Uzbekistan [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782287242-0-0-2c38d8e869942691685f6021026b4ba8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=fc8f5a29fb891c78d73dad5955c36817&txTime=6a3bd342
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=5f7aeffa17e6ae8e0c87f0b8e0b7b9ab&txTime=6a3bd342
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=fc8f5a29fb891c78d73dad5955c36817&txTime=6a3bd342
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=5f7aeffa17e6ae8e0c87f0b8e0b7b9ab&txTime=6a3bd342
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1782287602-0-0-468ec6589ef201edf9b17139da032681
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1782287602-0-0-11a13541bb7098de2a38412d874addbf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1782287602-0-0-bccb0f73342b573f69d7ff246213935c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1782287602-0-0-eb51c82a0a369f016214b59128b22605
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1782287602-0-0-e291fc2db908f1fa544daba60d34751f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1782287602-0-0-f67f95f8a0ff799bc6dd69925d343d73
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782287602-0-0-a5015e3bc2e4598d3306e940ce897d22
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782287602-0-0-b4ed2597a40d07b8b8498669cae77cfb
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782288322-0-0-f35718ba8efc526dae8957fd0f7cc23c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1782287602-0-0-979cd437e80c38ad0a172d09814ba06c
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1782288682-0-0-fd1cb48738b999e40a5d35da77ea38c7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1782287602-0-0-5bfd29b78a02863dc191c57ae076e4f5
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1782288682-0-0-ae5b4083dc2023b09bfd2cd37d13983a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1782287602-0-0-869c048556bef3d5cb4569b2718fc117
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1782288682-0-0-7d0303c1a1841224e02950feb06d1aab
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782287602-0-0-bcb56d8a205eff7365226b5f435e1fde
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782288682-0-0-4dd23580c1ba73c63e8d25750d3f6179
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1782288682-0-0-e0c211503a7277d0ab3da42f87b9c27e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1782288682-0-0-4d25819c3e4b97875fbbd5c888e2e338
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1782288682-0-0-52de86e9aa07b0a4568bbb0da3544712
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1782288682-0-0-e2193dd9722dc9c4c06cbab65734064e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1782288682-0-0-59c517ac215377d785af0f04fdd5ec9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1782288682-0-0-b9a46e059c8bd1ff75b243b245afcebc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782288682-0-0-56ee903c814816f643b15cafd568ea46
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/ac1ac7b4002fbff0a3dab0fec839cd50.png",14h00 ngày 24/06 Tauranga Whai vs Southland Sharks [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782288682-0-0-f3a6c26281e27d3bb0f5e8abd09c35ba
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782287602-0-0-d84aebc235688edaad0e132549e7ab5f
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782288682-0-0-40b7ac19476f2cd5ddc7bf4cbb33c3a2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [A BỆU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782287602-0-0-a66bf02fef4672e17ebc2ad3989efe53
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782288682-0-0-9364df251cc82ff342822d7d3cbf62e5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [A BỆU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782287602-0-0-247410663fc89e2439ae7c0c9109f87f
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782288682-0-0-fc63f881a50f71b278733281ab41eec1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [A BỆU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782287602-0-0-0935d806bad9e3aecc7d6d1cbf83c97b
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782288682-0-0-cde839739ae51705fe1692215567380d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=016ec91d42a3f4cd82f0e1b054bec9a6&txTime=6a3bd77a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=510ce15c7316762d2b7a9ffc503d78d8&txTime=6a3bd77a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=016ec91d42a3f4cd82f0e1b054bec9a6&txTime=6a3bd77a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/3335d78fbd6639dfb3b6a0d2aa3f02fd.png",14h00 ngày 24/06 Shanxi Chongde Ronghai vs Tai'an Tiankuang [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=510ce15c7316762d2b7a9ffc503d78d8&txTime=6a3bd77a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/6210056aedca523b81b7403ac7a43c46.png",15h00 ngày 24/06 Deren FC vs Central Stallions [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782288682-0-0-8f04305bc2d89702e6cf0c53437653f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/6210056aedca523b81b7403ac7a43c46.png",15h00 ngày 24/06 Deren FC vs Central Stallions [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782288682-0-0-c5cf27242e6905c6fbbd1f0d5d39de88
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/6210056aedca523b81b7403ac7a43c46.png",15h00 ngày 24/06 Deren FC vs Central Stallions [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782288682-0-0-95cb54d3f3d6ecdb9a8053d7aaf78085
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260622/6210056aedca523b81b7403ac7a43c46.png",15h00 ngày 24/06 Deren FC vs Central Stallions [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782288682-0-0-d220fa8f3412b354682053465ff9b2c6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782287602-0-0-a1f5656c12a037e10c3dcabfac4fae2c
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782288682-0-0-d180d5800b9eab7d9ff72dc2f96e52db
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782287602-0-0-47b88a9c78adbd8d788ca114e6ca3430
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782288682-0-0-727508a541844f2b9e5dae26b2eafacb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782287602-0-0-b60c3bf7ae46939366739a648f1757e6
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782288682-0-0-d012a95c0512bf31ff91904c9b23f959
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782287602-0-0-b135c22ab42d4fa854186dd936783ee7
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782288682-0-0-6bd596b743aa6c2b7789b8338f0bc362
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Colombia vs Democratic Republic of the Congo [Sóc trong rừng xà nu] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782287602-0-0-52049b47ee389dcfe5830d77f7575b3a
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782288682-0-0-89dfecd0f21ce83e2b50ddc33ed1f41d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Colombia vs Democratic Republic of the Congo [Sóc trong rừng xà nu] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782287602-0-0-a42d4ae4e84c5c3e0408c9e4b4a2bbf6
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782288682-0-0-52ce5b98b3a41da1e5aa2e09a3bcab89
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Colombia vs Democratic Republic of the Congo [Sóc trong rừng xà nu] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782287602-0-0-28c2176cc8a043a07187a6694459fa23
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782288682-0-0-d000beee7131f9497dac9c6b87151158
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/5b4e5c0d48c7970edc63e760e398e50d.png",Tường thuật: WORLD CUP - Colombia vs Democratic Republic of the Congo [Sóc trong rừng xà nu] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782287602-0-0-e9be38cb5a8ad0140681d9fd281b33e1
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782288682-0-0-17485b503b47054a7c0ddffe1be5ce55
  
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/41ab08e80a3d712f1858d888d4ba58f2.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc365.com/wp-content/uploads/2023/05/truc-tiep-bong-da-vuasanco.png" , 🟢 06:00 24/06 ⚽ Rochester FC W vs Minnesota Aurora FC Women (Nhà Đài 1)
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc365.com/wp-content/uploads/2023/05/truc-tiep-bong-da-vuasanco.png" , 🟢 14:00 24/06 ⚽ Shanxi Chongde Ronghai vs Tai'an Tiankuang (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/b1306c401706d01a6177697682a8b502/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc365.com/wp-content/uploads/2023/05/truc-tiep-bong-da-vuasanco.png" , 🟢 14:00 24/06 ⚽ Shanxi Chongde Ronghai vs Tai'an Tiankuang (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-6eaed0acae60a7ee69ba/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/41ab08e80a3d712f1858d888d4ba58f2.png" group-title="Vua Sân Cỏ TV" , 🟢 06:00 24/06 ⚽ Rochester FC W vs Minnesota Aurora FC Women (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/a2b9a7bf3fd0a03b11c0e28f8d258a14/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/41ab08e80a3d712f1858d888d4ba58f2.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc365.com/wp-content/uploads/2023/05/truc-tiep-bong-da-vuasanco.png" , 🟢 06:00 24/06 ⚽ Rochester FC W vs Minnesota Aurora FC Women (Nhà Đài 2)
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/41ab08e80a3d712f1858d888d4ba58f2.png" group-title="Vua Sân Cỏ TV" , 🟢 06:00 24/06 ⚽ Rochester FC W vs Minnesota Aurora FC Women (Nhà Đài 2) 
 https://hls.streamhub.media/hls/thesport-api-0cb367d6680fb191fd00/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png" group-title="Vua Sân Cỏ TV" , 🟢 14:00 24/06 ⚽ Shanxi Chongde Ronghai vs Tai'an Tiankuang (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-6eaed0acae60a7ee69ba/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f3addfe172e973e5d5000babbead6926.png" group-title="Vua Sân Cỏ TV" , 17:30 24/06 ⚽ Brisbane Knights vs Souths United (Nhà Đài 2) 
 https://hls.streamhub.media/hls/thesport-api-6439199b555808b835c6/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1b3b4b0cd3757af6dd809f78f4845bc3.png" group-title="Vua Sân Cỏ TV" , 19:00 24/06 ⚽ Centro Espanyol Reserves vs Deportivo Muniz Reserves (Tôn Quyền) 
-https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1b3b4b0cd3757af6dd809f78f4845bc3.png" group-title="Vua Sân Cỏ TV" , 19:00 24/06 ⚽ Centro Espanyol Reserves vs Deportivo Muniz Reserves (18+) 
-None
 
  
