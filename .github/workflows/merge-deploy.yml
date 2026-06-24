@@ -81,6 +81,7 @@ jobs:
           curl -s -k -L -o luongsontv.m3u https://thcoban.github.io/ththethao/luongsontv.m3u  &
           curl -s -k -L -o chaogatv.m3u https://thcoban.github.io/ththethao/chaogatv.m3u  &
           curl -s -k -L -o vuasancotv.m3u https://thcoban.github.io/ththethao/vuasancotv.m3u  &
+          curl -s -k -L -o biaomtv.m3u https://thcoban.github.io/ththethao/biaomtv.m3u  &
           
           wait
           ls -lh
@@ -113,15 +114,8 @@ jobs:
             python apisports.py chuoichien chuoichientv.m3u &
             python apisports.py quechoa quechoatv.m3u &
             python apisports.py vuasanco vuasancotv.m3u &
+            python apisports.py biaom biaomtv.m3u &
           fi
-          
-          # if [ -f json2m3u.py ]; then
-          #   python json2m3u.py ${{ secrets.URL_APITHETHAO }}/quechoatv  quechoatv.m3u  1   & 
-          #   python json2m3u.py ${{ secrets.URL_APITHETHAO }}/luongsontv  luongsontv.m3u  1   & 
-          #   # python json2m3u.py ${{ secrets.URL_APITHETHAO }}/colatv  colatv.m3u  1   & 
-          #   # python json2m3u.py ${{ secrets.URL_APITHETHAO }}/gavangtv  gavangtv.m3u  1   & 
-          #   # python json2m3u.py ${{ secrets.URL_APITHETHAO }}/cumeotv  cumeotv.m3u  1 
-          # fi
           
           if [ -f extractm3u.py ]; then
             # python extractm3u.py pktv.m3u new_pktv.m3u "Cháo Gà"  & 
@@ -220,11 +214,17 @@ jobs:
             cat nauxoitv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
+          if [ -f biaomtv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat biaomtv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
           if [ -f socolivetv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat socolivetv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
+          
           if [ -f vuasancotv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat vuasancotv.m3u >> ttthethao.m3u
@@ -277,6 +277,7 @@ jobs:
           [ -f luongsontv.m3u ] && cp luongsontv.m3u m3ufiles/
           [ -f chaogatv.m3u ] && cp chaogatv.m3u m3ufiles/
           [ -f vuasancotv.m3u ] && cp vuasancotv.m3u m3ufiles/
+          [ -f biaomtv.m3u ] && cp biaomtv.m3u m3ufiles/
           
           [ -f socolivetv.m3u ] && cp socolivetv.m3u m3ufiles/
           
