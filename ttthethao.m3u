@@ -315,6 +315,12 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png" group-title="Hội Quán TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV PHAN CHỚP) [HD] 
 https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1193.png" group-title="Hội Quán TV" , 🟡 06:30 26/06 ⚽ Cuiaba vs Londrina (BLV PHAN CA) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1193.png" group-title="Hội Quán TV" , 🟡 06:30 26/06 ⚽ Cuiaba vs Londrina (BLV PHAN CA) [HD] 
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png" group-title="Hội Quán TV" , 09:00 26/06 ⚽ Paraguay vs Australia (BLV THẦN THÔNG) [FHD] 
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 
@@ -326,12 +332,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/777.png" group-title="Hội Quán TV" , 09:00 26/06 ⚽ Türkiye vs USA (BLV PHAN MÃ) [HD] 
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1193.png" group-title="Hội Quán TV" , 🟡 06:30 26/06 ⚽ Cuiaba vs Londrina (BLV PHAN CA) [FHD] 
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1193.png" group-title="Hội Quán TV" , 🟡 06:30 26/06 ⚽ Cuiaba vs Londrina (BLV PHAN CA) [HD] 
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11182.png" group-title="Hội Quán TV" , 16:30 26/06 ⚽ Rochedale Rovers vs Gold Coast Knights (BLV TÁO GIÀ) [FHD] 
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
@@ -880,6 +880,38 @@ https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134204_ca5486e7.png" group-title="Chuối Chiên TV" , 13:30 26/06 🏐 New Zealand vs Kazakhstan (Chuối Già) [FHD1] [hls] 
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134204_ca5486e7.png" group-title="Chuối Chiên TV" , 13:30 26/06 🏐 New Zealand vs Kazakhstan (Chuối Già) [FHD2] [flv] 
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_04ec5812.png" group-title="Chuối Chiên TV" , 16:30 26/06 🏐 Qatar vs South Korea (Chuối Tím) [FHD1] [hls] 
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133416_04ec5812.png" group-title="Chuối Chiên TV" , 16:30 26/06 🏐 Qatar vs South Korea (Chuối Tím) [FHD2] [flv] 
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145105_b8a388e8.png" group-title="Chuối Chiên TV" , 17:00 26/06 ⚽ RTC vs Transport United (Chuối Nhỏ) [FHD1] [hls] 
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145105_b8a388e8.png" group-title="Chuối Chiên TV" , 17:00 26/06 ⚽ RTC vs Transport United (Chuối Nhỏ) [FHD2] [flv] 
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" group-title="Chuối Chiên TV" , 19:30 26/06 🏐 Indonesia vs Oman (Chuối Tím) [FHD1] [hls] 
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" group-title="Chuối Chiên TV" , 19:30 26/06 🏐 Indonesia vs Oman (Chuối Tím) [FHD2] [flv] 
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
+
  
  
 #EXTM3U
@@ -1038,6 +1070,9 @@ https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png" group-title="Vua Sân Cỏ TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/0054c19fac514e6d54a9fbf2db91790d/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png" group-title="Vua Sân Cỏ TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (Nhà Đài 2) 
+https://hls.streamhub.media/hls/thesport-api-6a6318b5c90eb11fa992/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cb4f05e5448145bbba8c26a840ab900d.png" group-title="Vua Sân Cỏ TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (Tào Duệ) 
 https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 
@@ -1055,6 +1090,9 @@ https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cb4f05e5448145bbba8c26a840ab900d.png" group-title="Vua Sân Cỏ TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/a50cd0ae62889d7bc8eb0067f5388624/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cb4f05e5448145bbba8c26a840ab900d.png" group-title="Vua Sân Cỏ TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (Nhà Đài 2) 
+https://hls.streamhub.media/hls/thesport-api-aa582913892ac5a0bfcb/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c1d7c9c225465a58343c00da561f4402.png" group-title="Vua Sân Cỏ TV" , 🟢 13:10 25/06 ⚽ Wahana FC vs Persma Manado (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/6d1622c0164e26cbd9135565a5562415/playlist.m3u8
@@ -1131,6 +1169,9 @@ https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png" group-title="Vua Sân Cỏ TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/0054c19fac514e6d54a9fbf2db91790d/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png" group-title="Vua Sân Cỏ TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (Nhà Đài 2) 
+https://hls.streamhub.media/hls/thesport-api-6a6318b5c90eb11fa992/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cb4f05e5448145bbba8c26a840ab900d.png" group-title="Vua Sân Cỏ TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (Tào Duệ) 
 https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 
@@ -1148,6 +1189,9 @@ https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cb4f05e5448145bbba8c26a840ab900d.png" group-title="Vua Sân Cỏ TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/a50cd0ae62889d7bc8eb0067f5388624/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cb4f05e5448145bbba8c26a840ab900d.png" group-title="Vua Sân Cỏ TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (Nhà Đài 2) 
+https://hls.streamhub.media/hls/thesport-api-aa582913892ac5a0bfcb/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e6092477694f4a62bbb63cf64ee19fe6.png" group-title="Vua Sân Cỏ TV" , 09:00 26/06 ⚽ Paraguay vs Australia (Lưu Bang) 
 https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
@@ -1484,35 +1528,11 @@ https://live05.meung.app/live/82054853.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV MÃ SIÊU) [hls]
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV MÃ SIÊU) [flv]
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV LƯU BỊ) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV LƯU BỊ) [hls]
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV LƯU BỊ) [flv]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV LƯU BỊ) [flv]
 https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV KEVILL) [hls]
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV KEVILL) [flv]
-https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV LỮ BỐ) [hls]
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV LỮ BỐ) [flv]
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV KAKA) [hls]
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV KAKA) [flv]
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV TRIỆU TỬ LONG) [hls]
 https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
@@ -1520,29 +1540,35 @@ https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV TRIỆU TỬ LONG) [flv]
 https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV KAKA) [hls]
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV KAKA) [flv]
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV LỮ BỐ) [hls]
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV LỮ BỐ) [flv]
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV KEVILL) [hls]
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV KEVILL) [flv]
+https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV MÃ SIÊU) [hls]
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV MÃ SIÊU) [flv]
+https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV LEO) [hls]
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV LEO) [flv]
 https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV YẾN THANH) [hls]
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV YẾN THANH) [flv]
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV LÃO HẠC) [hls]
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV LÃO HẠC) [flv]
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV TÂY MÔN KHÁNH) [hls]
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV TÂY MÔN KHÁNH) [flv]
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV VÕ TÒNG) [hls]
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -1550,34 +1576,49 @@ https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV VÕ TÒNG) [flv]
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV TÂY MÔN KHÁNH) [hls]
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV TÂY MÔN KHÁNH) [flv]
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV LÃO HẠC) [hls]
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV LÃO HẠC) [flv]
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV YẾN THANH) [hls]
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV YẾN THANH) [flv]
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV NGƯỜI THÉP) [hls]
 https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV NGƯỜI THÉP) [flv]
 https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png" group-title="Lương Sơn TV" , 🟢 09:00 26/06 ⚽ Turkey vs USA (BLV KEVILL) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png" group-title="Lương Sơn TV" , 🟢 09:00 26/06 ⚽ Turkey vs USA (BLV KAKA) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png" group-title="Lương Sơn TV" , 🟢 09:00 26/06 ⚽ Turkey vs USA (BLV LƯU BỊ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png" group-title="Lương Sơn TV" , 🟢 09:00 26/06 ⚽ Turkey vs USA (BLV NGƯỜI THÉP) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png" group-title="Lương Sơn TV" , 🟢 09:00 26/06 ⚽ Turkey vs USA (BLV TRIỆU TỬ LONG) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png" group-title="Lương Sơn TV" , 🟢 09:00 26/06 ⚽ Turkey vs USA (BLV KEVILL) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png" group-title="Lương Sơn TV" , 🟢 09:00 26/06 ⚽ Turkey vs USA (BLV LỮ BỐ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png" group-title="Lương Sơn TV" , 🟢 09:00 26/06 ⚽ Turkey vs USA (BLV LƯU BỊ) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png" group-title="Lương Sơn TV" , 🟢 09:00 26/06 ⚽ Turkey vs USA (BLV TRIỆU TỬ LONG) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png" group-title="Lương Sơn TV" , 🟢 09:00 26/06 ⚽ Turkey vs USA (BLV KAKA) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/670_165018876382.png" group-title="Lương Sơn TV" , 🟢 09:00 26/06 ⚽ Paraguay vs Australia (BLV VÕ TÒNG) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/670_165018876382.png" group-title="Lương Sơn TV" , 🟢 09:00 26/06 ⚽ Paraguay vs Australia (BLV TÂY MÔN KHÁNH) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/670_165018876382.png" group-title="Lương Sơn TV" , 🟢 09:00 26/06 ⚽ Paraguay vs Australia (BLV YẾN THANH) [hls]
@@ -1590,6 +1631,12 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/670_165018876382.png" group-title="Lương Sơn TV" , 🟢 09:00 26/06 ⚽ Paraguay vs Australia (BLV LEO) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/670_165018876382.png" group-title="Lương Sơn TV" , 🟢 09:00 26/06 ⚽ Paraguay vs Australia (BLV TÂY MÔN KHÁNH) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/706_165018850327.png" group-title="Lương Sơn TV" , 🟢 02:00 27/06 ⚽ Senegal vs Iraq (BLV VÕ TÒNG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/706_165018850327.png" group-title="Lương Sơn TV" , 🟢 02:00 27/06 ⚽ Senegal vs Iraq (BLV LÃO HẠC) [hls]
@@ -1607,31 +1654,31 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/706_165018850327.png" group-title="Lương Sơn TV" , 🟢 02:00 27/06 ⚽ Senegal vs Iraq (BLV TRIỆU TỬ LONG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/706_165018850327.png" group-title="Lương Sơn TV" , 🟢 02:00 27/06 ⚽ Senegal vs Iraq (BLV VÕ TÒNG) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png" group-title="Lương Sơn TV" , 🟢 02:00 27/06 ⚽ Norway vs France (BLV LƯU BỊ) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png" group-title="Lương Sơn TV" , 🟢 02:00 27/06 ⚽ Norway vs France (BLV NGƯỜI THÉP) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png" group-title="Lương Sơn TV" , 🟢 02:00 27/06 ⚽ Norway vs France (BLV LỮ BỐ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png" group-title="Lương Sơn TV" , 🟢 02:00 27/06 ⚽ Norway vs France (BLV LEO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png" group-title="Lương Sơn TV" , 🟢 02:00 27/06 ⚽ Norway vs France (BLV KEVILL) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png" group-title="Lương Sơn TV" , 🟢 02:00 27/06 ⚽ Norway vs France (BLV LỮ BỐ) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png" group-title="Lương Sơn TV" , 🟢 02:00 27/06 ⚽ Norway vs France (BLV NGƯỜI THÉP) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png" group-title="Lương Sơn TV" , 🟢 02:00 27/06 ⚽ Norway vs France (BLV KAKA) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png" group-title="Lương Sơn TV" , 🟢 02:00 27/06 ⚽ Norway vs France (BLV LƯU BỊ) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png" group-title="Lương Sơn TV" , 🟢 02:00 27/06 ⚽ Norway vs France (BLV KEVILL) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/912_1h51a7xcwc1q.png" group-title="Lương Sơn TV" , 🟡 06:30 26/06 ⚽ Colo Colo vs O.Higgins (BLV HEINEKEN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1646_1hr8pdq1wj26.png" group-title="Lương Sơn TV" , 🟡 06:30 26/06 ⚽ Cuiaba vs Londrina PR (BLV SHIN) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12782_20121217171936.jpg" group-title="Lương Sơn TV" , 🟡 07:00 26/06 ⚽ Long Island Rough Riders vs Cedar star (BLV LÝ QUỲ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
  
@@ -2273,7 +2320,7 @@ http://live7.togee.online/live/0054c19fac514e6d54a9fbf2db91790d/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
 https://pull.asynccdn.com/live/1e38695feabc4a8a86d428db44742dd1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/SjHXYWzS-SGdPrEJa.png" group-title="Tiếu Lâm TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV TRẠNG TÍ) [geo] 
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/SjHXYWzS-SGdPrEJa.png" group-title="Tiếu Lâm TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV TRẠNG TÍ ( FAN HÀ LAN )) [geo] 
 #EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
 https://pull.asynccdn.com/live/4f5fef6df6014b7daa2588aa88f0a1d8/index.m3u8
 
@@ -2417,6 +2464,12 @@ https://hls.cdnfaster-b.site/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&si
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/5de585a438634b088e5734dde6783ffd.png" group-title="Cà Khịa TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (Lữ Bố (Giàng Phụng Tiên)) [flv]
 https://flv.cdnfaster-b.site/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/5de585a438634b088e5734dde6783ffd.png" group-title="Cà Khịa TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (Giàng A Gấu) [hls]
+https://hls.cdnfaster-b.site/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/5de585a438634b088e5734dde6783ffd.png" group-title="Cà Khịa TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (Giàng A Gấu) [flv]
+https://flv.cdnfaster-b.site/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/5de585a438634b088e5734dde6783ffd.png" group-title="Cà Khịa TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (Giàng A Rùa) [hls]
 https://hls.cdnfaster-b.site/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 
@@ -2545,316 +2598,340 @@ https://cdnhls.xbdbotv.live/live/iwc5hhhink923nclx5jujpye/index.m3u8
  
 #EXTM3U
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1782429802-0-0-bae2a61b5821781bbce3b83a4ef132d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1782429802-0-0-d1d61ad2f17db78e87354a2dd270bc31
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782429802-0-0-b8d2fdda8891235d62d4cb059904e23b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782429802-0-0-bc3d1c8d127fba48ba80cd7ef347895f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782429802-0-0-d11737b4daf64af034de278c2213bfa9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1782429802-0-0-001a78dd41ae841ac8f598920934427c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782429802-0-0-1e3852b33506715c8509c817fe39aed4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782429802-0-0-e8e543b0085f557fe0b15410601098da
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782429802-0-0-860f310ab5d932a3b4b813399eb137c9
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782430882-0-0-0802e094973b1d06955b47a6d736aaf5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV ĐỐM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782429802-0-0-f2b7d860851ccf2209d929205dc1f7ff
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782430882-0-0-317028d2128f86187314935978582937
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782429802-0-0-fb8f5f6d05e9524ef290b1a5006ddf98
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782430882-0-0-f20cd9015499cadedb252077766eff8f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV ĐỐM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782429802-0-0-f69e404f760c8566576f1a02b196d1ec
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782429802-0-0-bd5d5dd59ee263b95ce961e9a6473281
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782429802-0-0-c0c579ce2b06b4eb283638532e3e27d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782429802-0-0-3e396e3068b744411e38887fd8a3382c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782429802-0-0-96017b528d0993d8ead01c32ea637f33
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782430882-0-0-797efc9af9c0203d2718a8f28f3d56d3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=cbbb34f70ae3f1498ab402832460b8ae&txTime=6a3dfeba
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=d6bc9859cfd880ee59a328311fac60aa&txTime=6a3e02f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [SAO LA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=a545a85ab34e65d282f7d6b36e91f7d5&txTime=6a3dfeba
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=53d2dff692e3433fae9caa106c661253&txTime=6a3e02f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [SAO LA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=cbbb34f70ae3f1498ab402832460b8ae&txTime=6a3dfeba
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=d6bc9859cfd880ee59a328311fac60aa&txTime=6a3e02f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [SAO LA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=a545a85ab34e65d282f7d6b36e91f7d5&txTime=6a3dfeba
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=53d2dff692e3433fae9caa106c661253&txTime=6a3e02f2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1782430882-0-0-64deda1e7677705b9494ab5e9ddbcd61
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1782430882-0-0-64115d59a773d26262834a55c2408b18
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782430882-0-0-7a8ee874fa45e98672cbbe7f9f3538d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782430882-0-0-08bd90f8c9ba873eba42b1598b11aea5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782430882-0-0-96e4f703b86cf7b2c3950007a49e1c78
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782430882-0-0-883e2eaceac39a5ceeec33e2a7b59aa0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782430882-0-0-3465d600c32d73858f9f6b49458ad6db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782430882-0-0-402dddf928228f22c11ce20ce8c10c46
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV PEWPEW] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782430882-0-0-0f8568560966e897f49d8271e513d04d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV PEWPEW] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1782430882-0-0-2f16eee6ea39b0b7bd2b70119ac5da71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV PEWPEW] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782430882-0-0-46e82ce5c13252ae00140db9d21bd4da
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV PEWPEW] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782430882-0-0-01bc5114d60f7b4340343bd20cdfa298
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-527384_lsd.flv?txSecret=5f354531b0e91aa82601eda8ff221b58&txTime=6a3dfeba
+https://pull.niur.live/live/stream-527384_lsd.flv?txSecret=b80eda77e7784279162ee904e6d6a30a&txTime=6a3e02f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-527384_lhd.flv?txSecret=f702f006269687a0908e184b3fa3d4a7&txTime=6a3dfeba
+https://pull.niur.live/live/stream-527384_lhd.flv?txSecret=d361820626e6c25b70fa11b79e1e469a&txTime=6a3e02f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-527384_lsd.m3u8?txSecret=5f354531b0e91aa82601eda8ff221b58&txTime=6a3dfeba
+https://pull.niur.live/live/stream-527384_lsd.m3u8?txSecret=b80eda77e7784279162ee904e6d6a30a&txTime=6a3e02f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [LÃO LÂM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-527384_lhd.m3u8?txSecret=f702f006269687a0908e184b3fa3d4a7&txTime=6a3dfeba
+https://pull.niur.live/live/stream-527384_lhd.m3u8?txSecret=d361820626e6c25b70fa11b79e1e469a&txTime=6a3e02f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV CUỘI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-256080_lsd.flv?txSecret=231e13603dfb1cbdd21f8bda7ced86dd&txTime=6a3dfeba
+https://pull.niur.live/live/stream-256080_lsd.flv?txSecret=3576678a41a62f0f5f52886479dfc144&txTime=6a3e02f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV CUỘI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-256080_lhd.flv?txSecret=c29944b75f2a81e67a14357a946909bf&txTime=6a3dfeba
+https://pull.niur.live/live/stream-256080_lhd.flv?txSecret=711e20be5832b8d3793c9acf4725a4d6&txTime=6a3e02f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV CUỘI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-256080_lsd.m3u8?txSecret=231e13603dfb1cbdd21f8bda7ced86dd&txTime=6a3dfeba
+https://pull.niur.live/live/stream-256080_lsd.m3u8?txSecret=3576678a41a62f0f5f52886479dfc144&txTime=6a3e02f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV CUỘI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=c29944b75f2a81e67a14357a946909bf&txTime=6a3dfeba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [VƯƠNG ANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=4e618295fee7ce7b8c720470b6f910eb&txTime=6a3dfeba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [VƯƠNG ANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=b4a3fafaacbbe7315aa9321455b28aa4&txTime=6a3dfeba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [VƯƠNG ANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=4e618295fee7ce7b8c720470b6f910eb&txTime=6a3dfeba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [VƯƠNG ANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=b4a3fafaacbbe7315aa9321455b28aa4&txTime=6a3dfeba
+https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=711e20be5832b8d3793c9acf4725a4d6&txTime=6a3e02f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV TOMIA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912008_lsd.flv?txSecret=19d1a7aaaa9b099ad69283e901e99892&txTime=6a3dfedd
+https://pull.niur.live/live/stream-9912008_lsd.flv?txSecret=55acb67bc58de55cfde1740b96bbf246&txTime=6a3e02f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV TOMIA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912008_lhd.flv?txSecret=d2a4f3ce6d96fff82dcb9c8568fc9450&txTime=6a3dfedd
+https://pull.niur.live/live/stream-9912008_lhd.flv?txSecret=7f5c9f3e30687955c21e4c8ff07988d2&txTime=6a3e02f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV TOMIA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912008_lsd.m3u8?txSecret=19d1a7aaaa9b099ad69283e901e99892&txTime=6a3dfedd
+https://pull.niur.live/live/stream-9912008_lsd.m3u8?txSecret=55acb67bc58de55cfde1740b96bbf246&txTime=6a3e02f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV TOMIA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912008_lhd.m3u8?txSecret=d2a4f3ce6d96fff82dcb9c8568fc9450&txTime=6a3dfedd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [CR Bưởi] (Socolive) flv
+https://pull.niur.live/live/stream-9912008_lhd.m3u8?txSecret=7f5c9f3e30687955c21e4c8ff07988d2&txTime=6a3e02f2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [VƯƠNG ANH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1782430162-0-0-19e16be9cf22e2d3b8df6266a178fd70
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [CR Bưởi] (Socolive) hdFlv
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=d137f47d084be15ea99cf6729d9b712f&txTime=6a3e02f2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [VƯƠNG ANH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1782430162-0-0-1d3a131813297087e06994ba9cf51f1a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [CR Bưởi] (Socolive) m3u8
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=79ea8a23577987407d5845f733d3d1db&txTime=6a3e02f2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [VƯƠNG ANH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1782430162-0-0-d4f0c54375e9570a98c430bcae106c66
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [CR Bưởi] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=d137f47d084be15ea99cf6729d9b712f&txTime=6a3e02f2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [VƯƠNG ANH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1782430162-0-0-1bb4fb64d759e047f95ae78fc5a0a45a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [THẠCH TÚ] (Socolive) flv
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=79ea8a23577987407d5845f733d3d1db&txTime=6a3e02f2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ce295849047bb90df424a729baf66f01.png",06h00 ngày 26/06 Toronto Tempo W vs Los Angeles Sparks W [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1782430162-0-0-5e5ec95d5e4a26b662fcef062195956a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [THẠCH TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1782430882-0-0-d893f50f1dc9a4818c56cbffcdf80773
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ce295849047bb90df424a729baf66f01.png",06h00 ngày 26/06 Toronto Tempo W vs Los Angeles Sparks W [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1782430162-0-0-af7409e668bf973981f19469aa45eb61
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [THẠCH TÚ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1782430882-0-0-bef24256d013c87cae985806e91ca4d9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ce295849047bb90df424a729baf66f01.png",06h00 ngày 26/06 Toronto Tempo W vs Los Angeles Sparks W [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1782430162-0-0-f4e3c363216b35e2aa281c2310f09483
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1782430882-0-0-099bbe537a5e65d61f06de5fdf3c2d5a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ce295849047bb90df424a729baf66f01.png",06h00 ngày 26/06 Toronto Tempo W vs Los Angeles Sparks W [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1782430162-0-0-ece7e19ab818c8c4ee9e858da4cd6b9e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [DECO] (Socolive) flv
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1782430882-0-0-fd0a7473c345b35aa99d5c9e315eb048
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/508fc8904ae99ef310a12b10ef99348d.png",VBA: Da Nang Dragons vs Hanoi Buffaloes [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782430162-0-0-d132629de5031be66df3751bfd6159ae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1782430882-0-0-b70f14616c299322ef7e2d588a0c3ee0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/508fc8904ae99ef310a12b10ef99348d.png",VBA: Da Nang Dragons vs Hanoi Buffaloes [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782430162-0-0-e56fac60e2d5d162140368436ee636f4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [DECO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1782430882-0-0-d919a5ba5a288debbaedf1faeca22390
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/508fc8904ae99ef310a12b10ef99348d.png",VBA: Da Nang Dragons vs Hanoi Buffaloes [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782430162-0-0-3105e8eb049439751bf1bbc8a606bfde
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1782430882-0-0-8ceb97f359bb6d297821cc557a36ec4e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/508fc8904ae99ef310a12b10ef99348d.png",VBA: Da Nang Dragons vs Hanoi Buffaloes [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782430162-0-0-10f610321448fc6c38b35947f1de1bae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1782430162-0-0-23780bd7cae51d12f46aa0ba52a88ba0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1782430162-0-0-f5742523a968461e1e7ad8aa96bf5d0c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782430162-0-0-ec6389559f35b5092c58540feab648f7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782430162-0-0-d0a678e6aa61647e8541ad762cbfe135
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1782430162-0-0-b16c6981314eeb8d73d05c752d173197
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1782430162-0-0-b57fc32e29e8dd9006f43ac3c78e09a2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782430162-0-0-057ca8cc26c82438ece1e422445d782a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782430162-0-0-257f3c4631f622c9a6a0d301b89212d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782430162-0-0-e8023eaaae7f65462293753cd8fb195e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782430162-0-0-ac29709a784696cf3febb975a3b30812
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782430162-0-0-2ca541801cc302f98b2591124a09c2bd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782430162-0-0-eebb635be27a23ef79ddd6429da191e1
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782430882-0-0-c7ce09f48aa2a6b5345ecf26d2218236
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782430162-0-0-d3780730f4cb3e22c0ef7e598d4cc1c7
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782431242-0-0-f19e771361ec2013c9f464554df5b8f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782430162-0-0-122b2dead6db8a03a08f4c5fb82403fe
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782431242-0-0-6bb0fbabff54a2c3d71c7d9219dd672d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782430162-0-0-fc803776b808486ac51bf971d9b81882
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782431242-0-0-1332b1087d2f75af2393f900255e005f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782430162-0-0-fd7a59ccc66325c07a121468e6979cde
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [LOGAN] (Socolive) flv
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782431242-0-0-3c33cd85513cec52abbbfdbf713b548b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [CR Bưởi] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-552832_lsd.flv?txSecret=cc80d17662e67834459b63f132076c51&txTime=6a3e0022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [LOGAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1782431242-0-0-fd1e057093dad99183760471c103c91f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [CR Bưởi] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-552832_lhd.flv?txSecret=6062a797ddaf7aee2c04756105269ad8&txTime=6a3e0022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [LOGAN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1782431242-0-0-8077936a352d0ce61e7ba9a9a56c9b9c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [CR Bưởi] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=cc80d17662e67834459b63f132076c51&txTime=6a3e0022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [LOGAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1782431242-0-0-8632eccc38e6e4f0d60e08dc558957e3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [CR Bưởi] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=6062a797ddaf7aee2c04756105269ad8&txTime=6a3e0022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [CÔNG CHẤT] (Socolive) flv
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1782431242-0-0-f69789f16f6da5ec2354de1378f9f6b2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [THẠCH TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-291277_lsd.flv?txSecret=471dcdf6dd7149c07750b21e2cd74be2&txTime=6a3e0022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [CÔNG CHẤT] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1782431242-0-0-6725d2f1207b1003b413be0be35d0f85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [THẠCH TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-291277_lhd.flv?txSecret=20fb01714cf89746a92f5b925cd60643&txTime=6a3e0022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [CÔNG CHẤT] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1782431242-0-0-a4f50469a575853e47e18e259b296533
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [THẠCH TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=471dcdf6dd7149c07750b21e2cd74be2&txTime=6a3e0022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [CÔNG CHẤT] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1782431242-0-0-e7a665bf2144d4cef86d451a68328b40
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [THẠCH TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=20fb01714cf89746a92f5b925cd60643&txTime=6a3e0022
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1782431242-0-0-3b2fb4a37a6a212eefd57c44fdf146ae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1782431242-0-0-27840b5b2c7996711617b5d73e51826a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1782431242-0-0-856e8b4c865c365ab167f8067bf6e7d9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782431242-0-0-a449f77a45e44aefaed7d678b42b5c3b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782431242-0-0-098d98b9ff4db997d79706214b437d5d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782431242-0-0-694e64b2aa2089fbd70536ceff29b352
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782431242-0-0-99533bfce85c91577eae3fa9c183923e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782431242-0-0-66e32c07643a04b8f8348d027d7ed6ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782431242-0-0-c7a1c3e60ae61d5064ba0aa516191de4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782431242-0-0-1b25a5aa165acb8d6e0db2515a3baa00
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782431242-0-0-1f65dab745e11cb0086996d5784ebcb7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782431242-0-0-040c455d2b1c52e3689414a6170ec721
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782431242-0-0-951779403e2fdc26d9dd382f0365a6f0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1782431242-0-0-70c128acede60e615317040811c1fdf0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1782431242-0-0-1f85258ceef246524bbab6f731a5e6f2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782431242-0-0-52c46fca8574afa7df93868b8efd6b4e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782431242-0-0-f640753352f43de0462614f7a17013d2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-484845_lsd.flv?txSecret=d33239ab73618bce1c4513be5fd8ffdc&txTime=6a3e0022
+https://pull.niur.live/live/stream-484845_lsd.flv?txSecret=162ebf3ce620949a202c95c3c1614d1c&txTime=6a3e045a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [A BỆU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-484845_lhd.flv?txSecret=733c86e64d7c019dea7d695a1cceacce&txTime=6a3e0022
+https://pull.niur.live/live/stream-484845_lhd.flv?txSecret=1c083860aaa8367a1a0729c813fbf229&txTime=6a3e045a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [A BỆU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=d33239ab73618bce1c4513be5fd8ffdc&txTime=6a3e0022
+https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=162ebf3ce620949a202c95c3c1614d1c&txTime=6a3e045a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [A BỆU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=733c86e64d7c019dea7d695a1cceacce&txTime=6a3e0022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=7efe79a636e5f78d065040fd9b5cdcbc&txTime=6a3e0022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=3eef9c3950ef49a07fbad0640ac4df48&txTime=6a3e0022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=7efe79a636e5f78d065040fd9b5cdcbc&txTime=6a3e0022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=3eef9c3950ef49a07fbad0640ac4df48&txTime=6a3e0022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [HẢI THANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1782430162-0-0-442be1c885dc5bb80e4604845aa1f1ea
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [HẢI THANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1782430162-0-0-45c0f0fe5d55803e816c75a77faa14e3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [HẢI THANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1782430162-0-0-e32db27e39c5444ac6ee065436281cdc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [HẢI THANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782430162-0-0-d607d62967d7141a269ff67f76b5519b
+https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=1c083860aaa8367a1a0729c813fbf229&txTime=6a3e045a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV COZY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=2421f7193f8c13e5f471d156474e9b67&txTime=6a3e0022
+https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=fba3ce676e5e54585662ef125aa37c31&txTime=6a3e045a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV COZY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=7948d378754e2d1cc95739a44a81140d&txTime=6a3e0022
+https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=cda8f19536b712028cb4bd50cc56fe4a&txTime=6a3e045a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV COZY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=2421f7193f8c13e5f471d156474e9b67&txTime=6a3e0022
+https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=fba3ce676e5e54585662ef125aa37c31&txTime=6a3e045a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV COZY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=7948d378754e2d1cc95739a44a81140d&txTime=6a3e0022
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=cda8f19536b712028cb4bd50cc56fe4a&txTime=6a3e045a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-552832_lsd.flv?txSecret=a853c78ba5097a0ff0557a39cfc4e0e4&txTime=6a3e045a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-552832_lhd.flv?txSecret=44ec08182869d90921182253b09855ce&txTime=6a3e045a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=a853c78ba5097a0ff0557a39cfc4e0e4&txTime=6a3e045a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=44ec08182869d90921182253b09855ce&txTime=6a3e045a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=8a9e3ad24b3e37a89b80f392dd4f98b4&txTime=6a3e045a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=2eec12fea3dfa42870e05b8a1fa0faf2&txTime=6a3e045a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=8a9e3ad24b3e37a89b80f392dd4f98b4&txTime=6a3e045a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=2eec12fea3dfa42870e05b8a1fa0faf2&txTime=6a3e045a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [HẢI THANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1782431242-0-0-08854ed3259aea97d6eb28e7bdf91cea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [HẢI THANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1782431242-0-0-6259c364fe36a07bf5f07d179f8cbeb4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [HẢI THANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1782431242-0-0-411080ebdd6e96a037c52d15e59aba1b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [HẢI THANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782431242-0-0-6f9be3a58ae90e88daa107677221ba4c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [CÔNG CHẤT] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-291277_lsd.flv?txSecret=bda724dd027521c184c472951c1ca487&txTime=6a3e045a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [CÔNG CHẤT] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-291277_lhd.flv?txSecret=a7e4665da1cfeb8ef35b60d34f740d05&txTime=6a3e045a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [CÔNG CHẤT] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=bda724dd027521c184c472951c1ca487&txTime=6a3e045a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/caf5eb0e4278dfb1998bc9756da31a4f.png",06h00 ngày 26/06 Tunisia vs Netherlands [CÔNG CHẤT] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=a7e4665da1cfeb8ef35b60d34f740d05&txTime=6a3e045a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/508fc8904ae99ef310a12b10ef99348d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782430162-0-0-66209e98f0d4e3d9ec5e4956115aa234
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782431242-0-0-d7360d48c05e4005f5c7cc5932e744c0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/508fc8904ae99ef310a12b10ef99348d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782430162-0-0-a828ad0b3affe7c5f065c5cdfbc52623
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782431242-0-0-997d88d0f294c369717b91b33a44f5f0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/508fc8904ae99ef310a12b10ef99348d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782430162-0-0-eca2467a6b2c7bda31d6538d5547b742
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782431242-0-0-2e6d0e05ff2500c0c03ecc328795bf72
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/508fc8904ae99ef310a12b10ef99348d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782430162-0-0-2990c7ab88f7240de504985f667454ac
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782431242-0-0-8e2af974ee44d6c7576c542d2660a707
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782430522-0-0-333cef0adf140b970255ae6ff65ad234
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782431602-0-0-35439b2c8848e32dfe6436657a73d803
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782430522-0-0-e3671c8d12fefb8b2da03b422857c14d
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782431602-0-0-875a7cfa62f0d64d575bc778dfc03e2f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782430522-0-0-abd89254b815782f65eb96b3353b9b75
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782431602-0-0-2f6283f889e99c5d6e83d36912262b15
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782430522-0-0-4225dd14469f72526c10964b62333cee
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782431602-0-0-d4e9b929122b3aa92643b68118334f34
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV FIREMAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-991140_lsd.flv?txSecret=32e12c91f0fbd8a2b5d64e6e5199a8a2&txTime=6a3e01ad
+https://pull.niur.live/live/stream-991140_lsd.flv?txSecret=a5820e05c7ce78e289750e11e48bcfe1&txTime=6a3e05c2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV FIREMAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-991140_lhd.flv?txSecret=7338cbd725dff7ed96c7d841b6b1299f&txTime=6a3e01ad
+https://pull.niur.live/live/stream-991140_lhd.flv?txSecret=32b884f293138c733aba6b52b45e0d7d&txTime=6a3e05c2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV FIREMAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=32e12c91f0fbd8a2b5d64e6e5199a8a2&txTime=6a3e01ad
+https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=a5820e05c7ce78e289750e11e48bcfe1&txTime=6a3e05c2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/11197197f3d732e3d6c2cd7705d5264e.png",06h00 ngày 26/06 Japan vs Sweden [BLV FIREMAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=7338cbd725dff7ed96c7d841b6b1299f&txTime=6a3e01ad
+https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=32b884f293138c733aba6b52b45e0d7d&txTime=6a3e05c2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ce295849047bb90df424a729baf66f01.png",06h00 ngày 26/06 Toronto Tempo W vs Los Angeles Sparks W [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1782430522-0-0-5eddf725a4b8405797f760623d4f02bd
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1782431602-0-0-446b2e701d1f1f5fea32196057234908
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ce295849047bb90df424a729baf66f01.png",06h00 ngày 26/06 Toronto Tempo W vs Los Angeles Sparks W [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1782430522-0-0-6d3d18a0fb7bc2fa52c33c44b3e502c5
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1782431602-0-0-4da622427a21b8e8c570d810e050ecbd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ce295849047bb90df424a729baf66f01.png",06h00 ngày 26/06 Toronto Tempo W vs Los Angeles Sparks W [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782430522-0-0-dea18fa50debd55eab19fcd3c58b9830
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782431602-0-0-d201b56c219f5a644e1e218a0bbcf226
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ce295849047bb90df424a729baf66f01.png",06h00 ngày 26/06 Toronto Tempo W vs Los Angeles Sparks W [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782430522-0-0-3291d559975291f0f155e47e9a86532d
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782431602-0-0-8a1938e97013c8cf37727a3fe1b16e47
  
