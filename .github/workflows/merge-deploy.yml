@@ -151,6 +151,11 @@ jobs:
             cat quechoatv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
+          if [ -f khandaiatv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat khandaiatv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
           if [ -f hoiquantv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat hoiquantv.m3u >> ttthethao.m3u
@@ -199,11 +204,6 @@ jobs:
           if [ -f s8tv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat s8tv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
-          fi
-          if [ -f khandaiatv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat khandaiatv.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
           if [ -f xoilacztv.m3u ]; then
