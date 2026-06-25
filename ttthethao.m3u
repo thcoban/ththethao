@@ -101,17 +101,17 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZFBiNRWukKX42GRP9tsSmDqxzbVLnuon0BQ&s" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 🟢 13:30 25/06 🏐 Oman vs Hàn Quốc (T-Rex) [FHD]
-https://kdalive.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZFBiNRWukKX42GRP9tsSmDqxzbVLnuon0BQ&s" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 🟢 13:30 25/06 🏐 Oman vs Hàn Quốc (T-Rex) [HD]
-https://alive.yarncdn.live/kda-blv-t-rex/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/250px-Flag_of_Australia.svg.png" group-title="Khán Đài A" , 🟢 13:00 25/06 🏐 Úc vs HongKong (Tày) [FHD] 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/250px-Flag_of_Australia.svg.png" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 🟢 13:00 25/06 🏐 Úc vs HongKong (Tày) [FHD]
 https://kdalive.yarncdn.live/live/kda-blv-tay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/250px-Flag_of_Australia.svg.png" group-title="Khán Đài A" , 🟢 13:00 25/06 🏐 Úc vs HongKong (Tày) [HD] 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/250px-Flag_of_Australia.svg.png" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 🟢 13:00 25/06 🏐 Úc vs HongKong (Tày) [HD]
 https://alive.yarncdn.live/kda-blv-tay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZFBiNRWukKX42GRP9tsSmDqxzbVLnuon0BQ&s" group-title="Khán Đài A" , 🟢 13:30 25/06 🏐 Oman vs Hàn Quốc (T-Rex) [FHD] 
+https://kdalive.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZFBiNRWukKX42GRP9tsSmDqxzbVLnuon0BQ&s" group-title="Khán Đài A" , 🟢 13:30 25/06 🏐 Oman vs Hàn Quốc (T-Rex) [HD] 
+https://alive.yarncdn.live/kda-blv-t-rex/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://img0.aiscore.com/football/team/e4f191ddee95b37b08ab1fe9ac086ab3.png!w60" group-title="Khán Đài A" , 16:00 25/06 ⚽ Darwin Hearts vs Port Darwin FC (T-Rex) [FHD] 
 https://kdalive.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
@@ -805,20 +805,23 @@ https://alive.yarncdn.live/xctv_blv_rongdat/tracks-v2a1/mono.m3u8
  
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c1d7c9c225465a58343c00da561f4402.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc365.com/wp-content/uploads/2023/05/truc-tiep-bong-da-vuasanco.png" , 🟢 13:10 25/06 ⚽ Wahana FC vs Persma Manado (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-b76c282fcf0092a2b9da/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f3addfe172e973e5d5000babbead6926.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc365.com/wp-content/uploads/2023/05/truc-tiep-bong-da-vuasanco.png" , 🟢 17:30 24/06 ⚽ Brisbane Knights vs Souths United (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-6439199b555808b835c6/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f3addfe172e973e5d5000babbead6926.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc365.com/wp-content/uploads/2023/05/truc-tiep-bong-da-vuasanco.png" , 🟢 17:30 24/06 ⚽ Brisbane Knights vs Souths United (Nhà Đài 2)
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f3addfe172e973e5d5000babbead6926.png" group-title="Vua Sân Cỏ TV" , 🟢 17:30 24/06 ⚽ Brisbane Knights vs Souths United (Nhà Đài 2) 
 https://hls.streamhub.media/hls/thesport-api-6439199b555808b835c6/master.m3u8
 
  
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/8f06ac7835bf0ddf790691efc2d39aab.png!w80" group-title="Cola TV" group-logo="https://colatv99.live/assets/images/logo.png" , 🟡 14:00 25/06 🏀 Manawatu Jets vs Otago Nuggets (BLV POCARI) [flv]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/8f06ac7835bf0ddf790691efc2d39aab.png!w80" group-title="Cola TV" group-logo="https://colatv99.live/assets/images/logo.png" , 🟢 14:00 25/06 🏀 Manawatu Jets vs Otago Nuggets (BLV POCARI) [flv]
 https://live05.meung.app/live/19919577.flv
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/8f06ac7835bf0ddf790691efc2d39aab.png!w80" group-title="Cola TV" , 🟡 14:00 25/06 🏀 Manawatu Jets vs Otago Nuggets (BLV POCARI) [hls]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/8f06ac7835bf0ddf790691efc2d39aab.png!w80" group-title="Cola TV" , 🟢 14:00 25/06 🏀 Manawatu Jets vs Otago Nuggets (BLV POCARI) [hls]
 https://live05.meung.app/live/19919577.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4535b4701b1056d0ddef43d6a19d8884.png!w80" group-title="Cola TV" , 16:00 25/06 ⚽ TKS Việt Nam Nữ vs Thái Nguyên Nữ (BLV BÍ ĐAO) [flv]
@@ -1203,31 +1206,25 @@ https://live05.meung.app/live/82054853.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15945_1gwbryn6pn1.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 03:00 26/06 ⚽ Curacao vs Ivory Coast (BLV YẾN THANH) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15945_1gwbryn6pn1.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 03:00 26/06 ⚽ Curacao vs Ivory Coast (BLV TÔN LẬP) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15945_1gwbryn6pn1.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 03:00 26/06 ⚽ Curacao vs Ivory Coast (BLV VƯƠNG LUÂN) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15945_1gwbryn6pn1.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 03:00 26/06 ⚽ Curacao vs Ivory Coast (BLV PELE) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15945_1gwbryn6pn1.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Curacao vs Ivory Coast (BLV TÔN LẬP) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15945_1gwbryn6pn1.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Curacao vs Ivory Coast (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15945_1gwbryn6pn1.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Curacao vs Ivory Coast (BLV FERNANDO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15945_1gwbryn6pn1.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Curacao vs Ivory Coast (BLV YẾN THANH) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15945_1gwbryn6pn1.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Curacao vs Ivory Coast (BLV LÃO HẠC) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15945_1gwbryn6pn1.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Curacao vs Ivory Coast (BLV PELE) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Ecuador vs Germany (BLV TÂY MÔN KHÁNH) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Ecuador vs Germany (BLV TRIỆU TỬ LONG) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Ecuador vs Germany (BLV NGƯỜI THÉP) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Ecuador vs Germany (BLV LEO) [hls]
@@ -1239,28 +1236,34 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Ecuador vs Germany (BLV VÕ TÒNG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Ecuador vs Germany (BLV NGƯỜI THÉP) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="Lương Sơn TV" , 🟢 03:00 26/06 ⚽ Ecuador vs Germany (BLV TÂY MÔN KHÁNH) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV LỮ BỐ) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV TRIỆU TỬ LONG) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV LƯU BỊ) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV MÃ SIÊU) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV KAKA) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV KEVILL) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV YẾN THANH) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV TRIỆU TỬ LONG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV LÃO HẠC) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV MÃ SIÊU) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV LƯU BỊ) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Japan vs Sweden (BLV KAKA) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV FERNANDO) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV LEO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV TÂY MÔN KHÁNH) [hls]
@@ -1269,10 +1272,10 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV VƯƠNG LUÂN) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV FERNANDO) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV LÃO HẠC) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV LEO) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png" group-title="Lương Sơn TV" , 🟢 06:00 26/06 ⚽ Tunisia vs Netherlands (BLV YẾN THANH) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782366156.png" group-title="Lương Sơn TV" , 🔴🎥 12:42 25/06 ⚽ Bồ Đào Nha vs Uzbekistan (BLV KEVILL REPLAY) [hls]
@@ -1288,6 +1291,12 @@ https://hls.cdnfaster-a.live/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b06
 https://flv.cdnfaster-a.live/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 
 #EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782332812.png" group-title="Lương Sơn TV" , 🟡 14:00 25/06 🏀 Manawatu Jets vs Otago Nuggets (BLV SHIN) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/65748_1hzkvvh5g6c.png" group-title="Lương Sơn TV" , 🟡 14:30 25/06 ⚽ Shandong Qiutan vs Beijing Warriors (BLV PHI HỔ) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/65748_1hzkvvh5g6c.png" group-title="Lương Sơn TV" , 🟡 14:30 25/06 ⚽ Shandong Qiutan vs Beijing Warriors (BLV LIO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
  
@@ -2116,66 +2125,6 @@ https://cdnhls.xbdbotv.live/live/iwc5hhhink923nclx5jujpye/index.m3u8
  
 #EXTM3U
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Czechia vs Mexico [Sóc mèo méo meo] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782370762-0-0-2efe70c78ddbcd11a2465e5ab67c61a4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Czechia vs Mexico [Sóc mèo méo meo] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782370762-0-0-dac65212379d1ba8bead2cc402c77298
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Czechia vs Mexico [Sóc mèo méo meo] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782370762-0-0-8a3af976060f0284ee1591df33691d2f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Czechia vs Mexico [Sóc mèo méo meo] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782370762-0-0-f4a87f479395a7c5bc521296f4c0f906
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782370762-0-0-e6648a8c82d9ed748e246eb076079e58
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782370762-0-0-bcbe052ce622dce4dd76eca510d6d0d2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782370762-0-0-0d613f505bb053ed6c2ec22e4d2d0311
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782370762-0-0-2881802a8a272c6b4f4e0f6c3406582d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782370762-0-0-bb2aa4a5262d6c6df0efc07e8ad7455c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782370762-0-0-a5fa4059a04f54c06a0771c5e4f6d1c6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782370762-0-0-75695569f3d0ca9fc63f9469dec16553
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782370762-0-0-6b7b819d9d7080c8021e64245e227fa1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Scotland vs Brazil [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782371122-0-0-e2f76bf0eaf6a6f559d54cf02d12d181
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Scotland vs Brazil [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782371122-0-0-df1c1506d016b893316a763b9bd265e1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Scotland vs Brazil [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782371122-0-0-7579637be05e430e57abf3e2c43fca55
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Scotland vs Brazil [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782371122-0-0-a3c21c6c9a967d502b354c7ba8d5722c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Bosnia and Herzegovina vs Qatar [Sóc nhàm nhang nhồ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782371122-0-0-4e87a34056431feffd009d8ceaae228d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Bosnia and Herzegovina vs Qatar [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1782371122-0-0-3b1a295fe58abc7fc089debec00b09a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Bosnia and Herzegovina vs Qatar [Sóc nhàm nhang nhồ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782371122-0-0-b04c8abcb2aab7822f3f5e64de43cf37
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Bosnia and Herzegovina vs Qatar [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782371122-0-0-00564b47f317fcbad551e314e5acdf92
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Switzerland vs Canada [Sóc đau cổ vai gáy] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782371482-0-0-1b42ef42aac101d5b61b0611a0165139
@@ -2200,4 +2149,64 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782371482-0-0-a464
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782371482-0-0-ff7930bb100d88f3868a19793011e90e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Czechia vs Mexico [Sóc mèo méo meo] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782371842-0-0-d507942925eeb49109f3944a2121299a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Czechia vs Mexico [Sóc mèo méo meo] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782371842-0-0-0c9dcc5ab03c19d03b386e59ee40f12a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Czechia vs Mexico [Sóc mèo méo meo] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782371842-0-0-74277d54facb9effe3e08398fe7e27be
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Czechia vs Mexico [Sóc mèo méo meo] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782371842-0-0-26ac0beb644357d0019459335e1fd461
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782371842-0-0-ee2ab695aaa0baf36f7b9321ac525eed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782371842-0-0-6d57485bb6bd47aaa084f1522a4d12dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782371842-0-0-ecb436b79970ba1ebb6070cf39095714
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782371842-0-0-493d911eab098f14b9e1c44ba9cc98b0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782371842-0-0-c211ec825abd3e9236da66b3b9d2bf9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782371842-0-0-b12c5656b8c7747fa159ad5235ce206e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782371842-0-0-7bd3031253e64ba0b8a9c51ac5b7d77e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782371842-0-0-59d2bcdc3100a23fcef1954fd9bb7748
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Scotland vs Brazil [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782372202-0-0-942793b6b73becda3772343735d74af5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Scotland vs Brazil [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782372202-0-0-739e16b0c8e3519b6f48a757fce2a98a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Scotland vs Brazil [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782372202-0-0-22ff1fc69f4192c90d28fff8ca93bfcb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Scotland vs Brazil [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782372202-0-0-9e10983e45946bae1943ed16fe5810c7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Bosnia and Herzegovina vs Qatar [Sóc nhàm nhang nhồ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782372202-0-0-dd7813cff2154b1046dd62ab0b45b0dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Bosnia and Herzegovina vs Qatar [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1782372202-0-0-a8520b7b69c6632dcdb41b07b8ec7997
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Bosnia and Herzegovina vs Qatar [Sóc nhàm nhang nhồ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782372202-0-0-74180e3277667ec964362ae44d89024a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/e8a8db5cfcb40f7bc69c2bb4180be1ec.png",Tường thuật: WORLD CUP - Bosnia and Herzegovina vs Qatar [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782372202-0-0-c9a500d1a3d8d24a9833603c69fac454
  
