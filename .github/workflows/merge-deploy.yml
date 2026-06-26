@@ -146,9 +146,9 @@ jobs:
           mkdir -p m3ufiles
           ls -lh
 
-          if [ -f songsach.m3u ]; then
+          if [ -f nguyenban.m3u ]; then
             echo " " >> ttthethao.m3u
-            cat songsach.m3u >> ttthethao.m3u
+            cat nguyenban.m3u >> ttthethao.m3u
             echo " " >> ttthethao.m3u
           fi
           if [ -f quechoatv.m3u ]; then
@@ -291,7 +291,7 @@ jobs:
           [ -f vuasancotv.m3u ] && cp vuasancotv.m3u m3ufiles/
           [ -f biaomtv.m3u ] && cp biaomtv.m3u m3ufiles/
           [ -f s8tv.m3u ] && cp s8tv.m3u m3ufiles/
-          [ -f songsach.m3u ] && cp songsach.m3u m3ufiles/
+          [ -f nguyenban.m3u ] && cp nguyenban.m3u m3ufiles/
           
           [ -f socolivetv.m3u ] && cp socolivetv.m3u m3ufiles/
           
