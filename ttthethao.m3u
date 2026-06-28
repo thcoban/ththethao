@@ -161,12 +161,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png" group-title="Hội Quán TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV PHAN MÃ) [HD] 
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2994.png" group-title="Hội Quán TV" , 🟢 07:00 28/06 ⚽ U. Catolica vs San Luis (BLV PHAN ANH) [FHD] 
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2994.png" group-title="Hội Quán TV" , 🟢 07:00 28/06 ⚽ U. Catolica vs San Luis (BLV PHAN ANH) [HD] 
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQOuJBhheUKikHwopx5J3hD7olyljs3suGQ&s" group-title="Hội Quán TV" , 18:30 28/06 🏐 Trung Quốc vs Đức (BLV PHAN BỐNG) [FHD] 
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
 
@@ -427,19 +421,11 @@ https://alive.yarncdn.live/xctv_blv_chuoi/tracks-v2a1/mono.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_8b1f6bab.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (Chuối Chao) [FHD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_8b1f6bab.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (Chuối Chao) [FHD2] [flv]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_8b1f6bab.png" group-title="Chuối Chiên TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (A Ngao) [FHD1] [hls] 
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_8b1f6bab.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (A Ngao) [FHD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_8b1f6bab.png" group-title="Chuối Chiên TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (A Ngao) [FHD2] [flv] 
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132805_8b1f6bab.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (A Ngao) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/angaohd.flv
 
@@ -450,6 +436,14 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134312_327f1324.png" group-title="Chuối Chiên TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (Trốc Tru) [FHD2] [flv] 
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134312_327f1324.png" group-title="Chuối Chiên TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (Chuối Chao) [FHD1] [hls] 
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134312_327f1324.png" group-title="Chuối Chiên TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (Chuối Chao) [FHD2] [flv] 
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141237_9a196d59.png" group-title="Chuối Chiên TV" , 15:00 28/06 ⚽ Dangjin Citizen vs Gangneung City (Chuối Nhỏ) [FHD1] [hls] 
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -653,16 +647,10 @@ https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v2a1/mono.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4beda45843f48fe35bcf63328a82c780.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc365.com/wp-content/uploads/2023/05/truc-tiep-bong-da-vuasanco.png" , 🟢 07:00 28/06 ⚽ Colorado Rapids II vs Vancouver Whitecaps Reserve (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/21f4000b073c48e8f3f22130060b9826/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4beda45843f48fe35bcf63328a82c780.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc365.com/wp-content/uploads/2023/05/truc-tiep-bong-da-vuasanco.png" , 🟢 07:00 28/06 ⚽ Colorado Rapids II vs Vancouver Whitecaps Reserve (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-2c35f8b6787491475b73/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/92a6308394834fd38eadaf9105c99749.png" group-title="Vua Sân Cỏ TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (Lưu Bang) 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/92a6308394834fd38eadaf9105c99749.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc365.com/wp-content/uploads/2023/05/truc-tiep-bong-da-vuasanco.png" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (Lưu Bang)
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/92a6308394834fd38eadaf9105c99749.png" group-title="Vua Sân Cỏ TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (Lưu Triệt) 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/92a6308394834fd38eadaf9105c99749.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc365.com/wp-content/uploads/2023/05/truc-tiep-bong-da-vuasanco.png" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (Lưu Triệt)
 https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/92a6308394834fd38eadaf9105c99749.png" group-title="Vua Sân Cỏ TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (Lê Lợi) 
@@ -672,13 +660,16 @@ https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
 https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/92a6308394834fd38eadaf9105c99749.png" group-title="Vua Sân Cỏ TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (Travis) 
-https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
+https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/92a6308394834fd38eadaf9105c99749.png" group-title="Vua Sân Cỏ TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/08b4ef85d6602f58b653fc9475f9f412/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/92a6308394834fd38eadaf9105c99749.png" group-title="Vua Sân Cỏ TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (Nhà Đài 2) 
 https://hls.streamhub.media/hls/thesport-api-83d36d6d0e04c276e053/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/39416fb90fdda16a63b16b7988d1c834.png" group-title="Vua Sân Cỏ TV" , 🟢 09:00 28/06 ⚽ Napier City Rovers vs Wellington Olympic (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/f175f677d3cb6b3ac0d78641c626c878/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/39416fb90fdda16a63b16b7988d1c834.png" group-title="Vua Sân Cỏ TV" , 🟢 09:00 28/06 ⚽ Napier City Rovers vs Wellington Olympic (Nhà Đài 2) 
 https://hls.streamhub.media/hls/thesport-api-4a967ca5912f4f33b171/master.m3u8
@@ -693,13 +684,16 @@ https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/91e9ae1b4f224d9e856e56b0cf14416f.png" group-title="Vua Sân Cỏ TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (Xavi) 
-https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
+https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/91e9ae1b4f224d9e856e56b0cf14416f.png" group-title="Vua Sân Cỏ TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/24098edae860cdf6567953e48b716d99/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/91e9ae1b4f224d9e856e56b0cf14416f.png" group-title="Vua Sân Cỏ TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (Nhà Đài 2) 
 https://hls.streamhub.media/hls/thesport-api-35c0304170b6adffe412/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f93ca58969938ab5583e30e71d8e31a4.png" group-title="Vua Sân Cỏ TV" , 🟢 09:00 28/06 ⚽ Ventura County FC vs Real Monarchs (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/f22e1a476cfe9f287deef85783ca17c4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f93ca58969938ab5583e30e71d8e31a4.png" group-title="Vua Sân Cỏ TV" , 🟢 09:00 28/06 ⚽ Ventura County FC vs Real Monarchs (Nhà Đài 2) 
 https://hls.streamhub.media/hls/thesport-api-57159c265ddf15bcf282/master.m3u8
@@ -795,11 +789,11 @@ https://live05.meung.app/live/08552895.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a54769d9dca7f2ac5a2e1b261c868993.png!w80" group-title="Cola TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV C2) [hls]
 https://live05.meung.app/live/08552895.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/694edc2479b949e4a7a78d00275ced1e.png!w80" group-title="Cola TV" , 🟢 09:00 28/06 ⚽ Algeria vs Áo (BLV GIÀ LÀNG) [flv]
-https://live05.meung.app/live/14830711.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/694edc2479b949e4a7a78d00275ced1e.png!w80" group-title="Cola TV" , 🟢 09:00 28/06 ⚽ Algeria vs Áo (BLV PEPSI) [flv]
+https://live05.meung.app/live/59444581.flv
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/694edc2479b949e4a7a78d00275ced1e.png!w80" group-title="Cola TV" , 🟢 09:00 28/06 ⚽ Algeria vs Áo (BLV GIÀ LÀNG) [hls]
-https://live05.meung.app/live/14830711.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/694edc2479b949e4a7a78d00275ced1e.png!w80" group-title="Cola TV" , 🟢 09:00 28/06 ⚽ Algeria vs Áo (BLV PEPSI) [hls]
+https://live05.meung.app/live/59444581.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/256e715800fb8321f7cf1dacce3aa35e.png!w80" group-title="Cola TV" , 🟡 10:00 28/06 🏀 Canterbury Rams vs Bay Hawks (BLV ROCKSTAR) [flv]
 https://live05.meung.app/live/82054853.flv
@@ -991,28 +985,10 @@ https://live05.meung.app/live/90865415.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV MÃ SIÊU) [hls]
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV MÃ SIÊU) [flv]
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV LỮ BỐ) [hls]
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV LỮ BỐ) [flv]
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV KAKA) [hls]
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV KAKA) [flv]
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV LEO) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV LEO) [hls]
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV LEO) [flv]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV LEO) [flv]
 https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV LƯU BỊ) [hls]
@@ -1021,23 +997,35 @@ https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV LƯU BỊ) [flv]
 https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV KAKA) [hls]
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV KAKA) [flv]
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV LỮ BỐ) [hls]
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV LỮ BỐ) [flv]
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV MÃ SIÊU) [hls]
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV MÃ SIÊU) [flv]
+https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV PHI HỔ) [hls]
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BLV PHI HỔ) [flv]
 https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/16330_165018769444.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (BLV VÕ TÒNG) [hls]
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/16330_165018769444.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (BLV YẾN THANH) [hls]
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/16330_165018769444.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (BLV VÕ TÒNG) [flv]
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/16330_165018769444.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (BLV TÂY MÔN KHÁNH) [hls]
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/16330_165018769444.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (BLV TÂY MÔN KHÁNH) [flv]
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/16330_165018769444.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (BLV YẾN THANH) [flv]
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/16330_165018769444.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (BLV TRIỆU TỬ LONG) [hls]
 https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
@@ -1051,11 +1039,11 @@ https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/16330_165018769444.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (BLV NGƯỜI THÉP) [flv]
 https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/16330_165018769444.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (BLV YẾN THANH) [hls]
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/16330_165018769444.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (BLV VÕ TÒNG) [hls]
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/16330_165018769444.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (BLV YẾN THANH) [flv]
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/16330_165018769444.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (BLV VÕ TÒNG) [flv]
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/16330_165018769444.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (BLV LÃO HẠC) [hls]
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
@@ -1063,17 +1051,11 @@ https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e00
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/16330_165018769444.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (BLV LÃO HẠC) [flv]
 https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/57159_1gweh4xjqv1w.png" group-title="Lương Sơn TV" , 🟢 07:00 28/06 ⚽ Colorado Rapids II vs Vancouver Whitecaps Reserve (BLV LÝ ỨNG) [hls]
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/16330_165018769444.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (BLV TÂY MÔN KHÁNH) [hls]
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/57159_1gweh4xjqv1w.png" group-title="Lương Sơn TV" , 🟢 07:00 28/06 ⚽ Colorado Rapids II vs Vancouver Whitecaps Reserve (BLV LÝ ỨNG) [flv]
-https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/57159_1gweh4xjqv1w.png" group-title="Lương Sơn TV" , 🟢 07:00 28/06 ⚽ Colorado Rapids II vs Vancouver Whitecaps Reserve (BLV PELE) [hls]
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/57159_1gweh4xjqv1w.png" group-title="Lương Sơn TV" , 🟢 07:00 28/06 ⚽ Colorado Rapids II vs Vancouver Whitecaps Reserve (BLV PELE) [flv]
-https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/16330_165018769444.png" group-title="Lương Sơn TV" , 🟢 09:00 28/06 ⚽ Algeria vs Austria (BLV TÂY MÔN KHÁNH) [flv]
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/2128_1j23f66mzs2h.png" group-title="Lương Sơn TV" , 🟢 07:30 28/06 ⚽ Sport Boys vs Academia Deportiva Cantolao (BLV SHIN) [hls]
 https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
@@ -1087,22 +1069,22 @@ https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb945
 #EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782593750.png" group-title="Lương Sơn TV" , 🟢 08:00 28/06 🏀 Seattle Storm W vs Atlanta Dream W (BLV LÝ QUỲ) [flv]
 https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV VÕ TÒNG) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV NGƯỜI THÉP) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV NGƯỜI THÉP) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV TRIỆU TỬ LONG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV YẾN THANH) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV TÂY MÔN KHÁNH) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV LEO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV TRIỆU TỬ LONG) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV VÕ TÒNG) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV TÂY MÔN KHÁNH) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/48590_1gt0mbfyv81c.png" group-title="Lương Sơn TV" , 🟡 09:45 28/06 ⚽ Gold Coast United U23 vs Moreton Bay United U23 (BLV TÔN LẬP) [hls]
@@ -1366,12 +1348,12 @@ https://flv.lauthaitv.cc/live/perto-dconcep-chicup.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (ROY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=3f1f49335419b4483897b97ab25e42cd&wsABSTime=1782654328
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=67de21f2c1d443470bbbd45cecfb99f2&wsABSTime=1782656129
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (HD ROY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=3ec474359472332c8d5e41eae90ed3ed&wsABSTime=1782654331
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=342f9b14fc4a6bb30cb01ae511c6df87&wsABSTime=1782656131
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (NICK) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1381,12 +1363,12 @@ https://live2.pro2cdnlive.com/live/channel5.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (HD NICK) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=bcbc6dbbf620fffceb41db09dbf616c1&wsABSTime=1782654352
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=54c3434fedcb5d4a447720787b7c59ce&wsABSTime=1782656152
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (BRADY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel19.flv?auth_key=3000001782611154-0-0-34c350e091ea8afb7c7b3edfea770408
+https://live3.procdnlive.com/livecdn/channel19.flv?auth_key=3000001782612954-0-0-995731d14b1fc8c820347b3604bc0241
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (HD BRADY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1396,12 +1378,12 @@ https://live2.pro2cdnlive.com/live/channel4.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (FILIP) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=386c56f9aed15949d57e3a3f85295efd&wsABSTime=1782654389
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=dfc83e989726b1fe59264f5e62f973fc&wsABSTime=1782656184
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (HD FILIP) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782611191-0-0-7d06f6a55b20be9f8199182f99e398b9
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782612988-0-0-a016136cc467c918b5c2409749dd3cec
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (RIO) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1411,17 +1393,17 @@ https://live2.pro2cdnlive.com/live/channel5.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (HD RIO) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001782611196-0-0-a45f7a03bd07ee465afcc998b32fea1f
+https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001782612992-0-0-0817a081440afae661445f7f54566f6c
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (XMEN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=3aed6518768a42de7e06f9418becac18&wsABSTime=1782654398
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=a8ba3c3fd34a0bf7c54cc93bf0ddfcf8&wsABSTime=1782656194
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (HD XMEN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001782611207-0-0-50cbb4d553bad3ddbe59bbbb59120dcf
+https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001782613004-0-0-cb7dfbee7f953f907dbc899894dced0e
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (HELLO) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1431,17 +1413,17 @@ https://live2.pro2cdnlive.com/live/channel19.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (HD HELLO) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel19.flv?auth_key=3000001782611213-0-0-870a8a64eab3ed89ea15d574c234fdc8
+https://live3.procdnlive.com/livecdn/channel19.flv?auth_key=3000001782613011-0-0-182ab9f8ee4e0c592a0fca9563fd3788
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (TONI) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=c7b0b4a67dfcd1dca48468e9d383191b&wsABSTime=1782654416
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=dc07bd6b6caabfc05f1477007d9a5d54&wsABSTime=1782656213
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (HD TONI) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001782611218-0-0-23e5995214552c1b368abd8815cc0f02
+https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001782613016-0-0-4369427343078e878d1c7edf12e082b7
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (TOM) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1451,17 +1433,17 @@ https://live2.pro2cdnlive.com/live/channel13.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (HD TOM) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel13.flv?auth_key=3000001782611227-0-0-50300d83236b128e11a0b5cdf6a5c8c2
+https://live3.procdnlive.com/livecdn/channel13.flv?auth_key=3000001782613029-0-0-ff01d6eb7c7abc093fab8ff9a7d28ff4
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (ASTRA) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=f29ed39f1f394541db9aaca9b8c442d5&wsABSTime=1782654433
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=d2efb0eaafb3c0f01519592c31351d4b&wsABSTime=1782656232
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnho9jm7vx/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Jordan vs Argentina (HD ASTRA) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel22.flv?auth_key=3000001782611235-0-0-6763eb5e21a0895ab17ec76c8ee4330d
+https://live3.procdnlive.com/livecdn/channel22.flv?auth_key=3000001782613036-0-0-b9945f73949059307432671a3d5a6ef7
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlw90qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Algeria vs Áo (JOHAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1471,7 +1453,7 @@ https://live2.pro2cdnlive.com/live/channel12.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlw90qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Algeria vs Áo (HD JOHAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001782611241-0-0-d3f196a4a6205ef61620a6bca17a6d22
+https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001782613042-0-0-d8f57c5bdef4b63d69004a45a037ead1
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlw90qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Algeria vs Áo (HIRO) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1481,7 +1463,7 @@ https://live2.pro2cdnlive.com/live/channel14.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlw90qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Algeria vs Áo (HD HIRO) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001782611254-0-0-a170609870f9de36d5306dcff2b760d6
+https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001782613055-0-0-d9526541d372f3428772681818d3120a
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlw90qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Algeria vs Áo (RAVEN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1491,7 +1473,7 @@ https://live2.pro2cdnlive.com/live/channel21.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlw90qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Algeria vs Áo (HD RAVEN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel21.flv?auth_key=3000001782611259-0-0-2bd0ca1f0f2a3e641ec880177861f82e
+https://live3.procdnlive.com/livecdn/channel21.flv?auth_key=3000001782613060-0-0-28e652d6c8991608a4a25eda01f82324
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlw90qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Algeria vs Áo (LOGAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1501,7 +1483,7 @@ https://live2.pro2cdnlive.com/live/channel23.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlw90qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Algeria vs Áo (HD LOGAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel23.flv?auth_key=3000001782611264-0-0-f787ed93e7bf8e5a9fc56758a1807481
+https://live3.procdnlive.com/livecdn/channel23.flv?auth_key=3000001782613065-0-0-f9f79acae30e5723b8c86c93029e88c8
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlw90qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Algeria vs Áo (JEAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1511,7 +1493,7 @@ https://live2.pro2cdnlive.com/live/channel7.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlw90qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Algeria vs Áo (HD JEAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel7.flv?auth_key=3000001782611273-0-0-606e6a610f7395f482d2d654626920bd
+https://live3.procdnlive.com/livecdn/channel7.flv?auth_key=3000001782613078-0-0-5b3cfe3b15d0e5b818d619a2e8ba87da
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlw90qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Algeria vs Áo (POLO) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1521,7 +1503,7 @@ https://live2.pro2cdnlive.com/live/channel10.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlw90qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:00 28/06 ⚽ Algeria vs Áo (HD POLO) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001782611278-0-0-cecffdfe570d2c4c2589267e60f9c55b
+https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001782613083-0-0-3c28c289091f2dd89dfc24b7750e5148
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/e4wyrn1t1jkq86p/image/small" group-title="Xôi Lạc Z TV" , 🟢 07:00 28/06 🏀 Nữ Indiana Fever vs Nữ Los Angeles Sparks (ALAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1531,7 +1513,7 @@ https://live2.pro2cdnlive.com/live/channel25.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/e4wyrn1t1jkq86p/image/small" group-title="Xôi Lạc Z TV" , 🟢 07:00 28/06 🏀 Nữ Indiana Fever vs Nữ Los Angeles Sparks (HD ALAN) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001782611284-0-0-ac77be116ed64cdf3789142994a9a6f3
+https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001782613089-0-0-86598877ff5ec70cbe139b0765a9323e
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/yl5ergytjzzr8k0/image/small" group-title="Xôi Lạc Z TV" , 🟢 08:00 28/06 🏀 Nữ Seattle Storm vs Nữ Atlanta Dream (STEP) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1541,17 +1523,17 @@ https://live2.pro2cdnlive.com/live/channel26.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/yl5ergytjzzr8k0/image/small" group-title="Xôi Lạc Z TV" , 🟢 08:00 28/06 🏀 Nữ Seattle Storm vs Nữ Atlanta Dream (HD STEP) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001782611293-0-0-0aa9bd59d413fef3175daacc7e9f5a8d
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001782613103-0-0-1e99aecea6e826c4517aa782eeb0e660
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/56ypq3ktjngmd7o/image/small" group-title="Xôi Lạc Z TV" , 10:00 28/06 🏀 Canterbury Rams vs Bay Hawks (TOMMY) 
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/56ypq3ktjngmd7o/image/small" group-title="Xôi Lạc Z TV" , 🟡 10:00 28/06 🏀 Canterbury Rams vs Bay Hawks (TOMMY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel29.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/56ypq3ktjngmd7o/image/small" group-title="Xôi Lạc Z TV" , 10:00 28/06 🏀 Canterbury Rams vs Bay Hawks (HD TOMMY) 
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/56ypq3ktjngmd7o/image/small" group-title="Xôi Lạc Z TV" , 🟡 10:00 28/06 🏀 Canterbury Rams vs Bay Hawks (HD TOMMY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001782611299-0-0-591191981520830e454866e32b8082a0
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001782613109-0-0-9dbdf7442c6028809e9ce206cd3b602a
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/d23xmv1t13zmg8n/image/small" group-title="Xôi Lạc Z TV" , 13:00 28/06 🏀 Nelson Giants vs Auckland Tuatara (STEP) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1561,7 +1543,7 @@ https://live2.pro2cdnlive.com/live/channel26.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/d23xmv1t13zmg8n/image/small" group-title="Xôi Lạc Z TV" , 13:00 28/06 🏀 Nelson Giants vs Auckland Tuatara (HD STEP) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live2.pro2cdnlive.com/live/channel26.flv
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001782613115-0-0-994ad5fdb629dd8dfd1b574b03006c43
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/vjxm8xt49lkq6od/image/small" group-title="Xôi Lạc Z TV" , 14:15 28/06 🏀 Forestville Eagles vs Norwood Flames (TOMMY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1653,15 +1635,15 @@ https://live2.pro2cdnlive.com/live/channel31.flv
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel31.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/4jwq2eku42pkq0v/image/small" group-title="Xôi Lạc Z TV" , 10:00 28/06 🎮 T1 vs Team Liquid (MARTY) 
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/4jwq2eku42pkq0v/image/small" group-title="Xôi Lạc Z TV" , 🟡 10:00 28/06 🎮 T1 vs Team Liquid (MARTY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel30.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/4jwq2eku42pkq0v/image/small" group-title="Xôi Lạc Z TV" , 10:00 28/06 🎮 T1 vs Team Liquid (HD MARTY) 
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/4jwq2eku42pkq0v/image/small" group-title="Xôi Lạc Z TV" , 🟡 10:00 28/06 🎮 T1 vs Team Liquid (HD MARTY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001782611315-0-0-cb287dcad0c6319377ed8e3dc56710a1
+https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001782613139-0-0-44be3cbb2c5771c0cf6a1427c12daed4
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/318q6g8to50vro9/image/small" group-title="Xôi Lạc Z TV" , 15:00 28/06 🎮 Karmine Corp vs Deep Cross Gaming (MARTY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1953,314 +1935,314 @@ https://cdnhls.xbdbotv.live/live/rha71tsbt51w71jw80biwvwn/index.m3u8
 
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782614515-0-0-d7df857f3706312f3773b1e2866fea27
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782615562-0-0-d095a9fa17f28f835d1baf1d428f0a15
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782614515-0-0-7ec8865e4b0fb103733133a6d57440a0
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782615562-0-0-712de23db0f08fe1985cdf339e081fd2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782614515-0-0-0a73146245571a033b55843eff5b9d28
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782615562-0-0-a481b60df548cec079295244ae13ca0b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782614515-0-0-7dbec50215a7f82d6c1a920303ed38b2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [CR Bưởi] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=de7184f800f5a17281fa54407b23654c&txTime=6a40d022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [CR Bưởi] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=7f783437e09c36d3afe94925022d6404&txTime=6a40d022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [CR Bưởi] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=de7184f800f5a17281fa54407b23654c&txTime=6a40d022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [CR Bưởi] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=7f783437e09c36d3afe94925022d6404&txTime=6a40d022
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782615562-0-0-d1c25d5609a9677142faf3e07815ec7e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782614482-0-0-78035503cd27d425aaa55cea60ad1a7a
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782615562-0-0-c22d0b604f4bd12345c51cdce00f05d7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [TẠ BIÊN GIỚI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782614482-0-0-126b0afe045ab808968d8386cc5577ee
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782615562-0-0-e0ad7ae73992087d493c39055b54afe5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782614482-0-0-f213b3bc147acc12898277d6065ddf99
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782615562-0-0-8b275f633865a1c7120435ead311c635
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782614482-0-0-ca7cd01c248a26c515222621f244a5fe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV CUỘI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1782614482-0-0-0cf435db9006affc8e7c6251fd686171
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV CUỘI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1782614482-0-0-099c980647aa7d2cc653ce7ca5b08bc2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV CUỘI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782614482-0-0-e82a75814c73711684a3190b26d388e3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV CUỘI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782614482-0-0-3a4d079dd7449c7ba0feb3e6b1d72fcb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=d4ec064a997e5255a682a1e1f28a18c1&txTime=6a40d022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=2b5427c432f1ead4a3fdfd0b85f19dbb&txTime=6a40d022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=d4ec064a997e5255a682a1e1f28a18c1&txTime=6a40d022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=2b5427c432f1ead4a3fdfd0b85f19dbb&txTime=6a40d022
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782615562-0-0-c168cb62e3108d8e6c60af70f46f856e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV FIREMAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-991140_lsd.flv?txSecret=7026c2a3b6b619da9b2e7a6fba1a85b2&txTime=6a40d022
+https://pull.niur.live/live/stream-991140_lsd.flv?txSecret=dccb2d167190b71b558ede89a4648fca&txTime=6a40d45a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV FIREMAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-991140_lhd.flv?txSecret=0fa49a59e337b464f9ab1589411d3cc1&txTime=6a40d022
+https://pull.niur.live/live/stream-991140_lhd.flv?txSecret=b825fe2b14a2f2f27b80621892095fec&txTime=6a40d45a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV FIREMAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=7026c2a3b6b619da9b2e7a6fba1a85b2&txTime=6a40d022
+https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=dccb2d167190b71b558ede89a4648fca&txTime=6a40d45a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV FIREMAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=0fa49a59e337b464f9ab1589411d3cc1&txTime=6a40d022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV CÒ] (Socolive) flv
+https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=b825fe2b14a2f2f27b80621892095fec&txTime=6a40d45a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [CR Bưởi] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-582342_lsd.flv?txSecret=4531af3834b68b9cbfef7843fc356990&txTime=6a40d022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV CÒ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=e2328c0c2c09c687dcb93e2b9ea5bbbd&txTime=6a40d45a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [CR Bưởi] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-582342_lhd.flv?txSecret=dc8ff06303ffe353d23a80e494be6fbf&txTime=6a40d022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV CÒ] (Socolive) m3u8
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=ae741efb3723ce4711b83f1834b265a1&txTime=6a40d45a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [CR Bưởi] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-582342_lsd.m3u8?txSecret=4531af3834b68b9cbfef7843fc356990&txTime=6a40d022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV CÒ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=e2328c0c2c09c687dcb93e2b9ea5bbbd&txTime=6a40d45a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [CR Bưởi] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-582342_lhd.m3u8?txSecret=dc8ff06303ffe353d23a80e494be6fbf&txTime=6a40d022
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=ae741efb3723ce4711b83f1834b265a1&txTime=6a40d45a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=3f70663aac9df03fb86282791c6aa6bc&txTime=6a40d45a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=67ef7eeb4348f0b201a4d34003e99425&txTime=6a40d45a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=3f70663aac9df03fb86282791c6aa6bc&txTime=6a40d45a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=67ef7eeb4348f0b201a4d34003e99425&txTime=6a40d45a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV CUỘI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1782615562-0-0-b03bc23dffd2ec6d0de44f25787fd2b9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV CUỘI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1782615562-0-0-a7b3468457932665dfb63a608e475a6a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV CUỘI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782615562-0-0-01a721054a58eb1784d5aab3864cf5a2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV CUỘI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782615562-0-0-5e098b3986a1f5777e7da5f33b8313e7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV KEM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=84edd4edbeda3220c6cbb94e8f57720d&txTime=6a40d022
+https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=5860affe6c699f7403d23b8e8919f2b1&txTime=6a40d45a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV KEM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=e80749d50d8f9d7424ed50e41d86623a&txTime=6a40d022
+https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=74db38edd15037e5772aad40c6143bc6&txTime=6a40d45a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV KEM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=84edd4edbeda3220c6cbb94e8f57720d&txTime=6a40d022
+https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=5860affe6c699f7403d23b8e8919f2b1&txTime=6a40d45a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV KEM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=e80749d50d8f9d7424ed50e41d86623a&txTime=6a40d022
+https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=74db38edd15037e5772aad40c6143bc6&txTime=6a40d45a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV PEWPEW] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912015_lsd.flv?txSecret=455a7b8455aee61d489ceba69054f9af&txTime=6a40d022
+https://pull.niur.live/live/stream-9912015_lsd.flv?txSecret=4d597db31a7140e15d85f20fb27a86b5&txTime=6a40d45a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV PEWPEW] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912015_lhd.flv?txSecret=4952bf7426fb512d3f5f763afc2d7c03&txTime=6a40d022
+https://pull.niur.live/live/stream-9912015_lhd.flv?txSecret=ead4fad57ab6dc819b27c140a0cf5eef&txTime=6a40d45a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV PEWPEW] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912015_lsd.m3u8?txSecret=455a7b8455aee61d489ceba69054f9af&txTime=6a40d022
+https://pull.niur.live/live/stream-9912015_lsd.m3u8?txSecret=4d597db31a7140e15d85f20fb27a86b5&txTime=6a40d45a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV PEWPEW] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912015_lhd.m3u8?txSecret=4952bf7426fb512d3f5f763afc2d7c03&txTime=6a40d022
+https://pull.niur.live/live/stream-9912015_lhd.m3u8?txSecret=ead4fad57ab6dc819b27c140a0cf5eef&txTime=6a40d45a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV CÒ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-582342_lsd.flv?txSecret=40a3f58583d6286c946b290e9da9aaf0&txTime=6a40d45a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV CÒ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-582342_lhd.flv?txSecret=6fc48de4d5a341590f8b3123040dbeef&txTime=6a40d45a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV CÒ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-582342_lsd.m3u8?txSecret=40a3f58583d6286c946b290e9da9aaf0&txTime=6a40d45a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV CÒ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-582342_lhd.m3u8?txSecret=6fc48de4d5a341590f8b3123040dbeef&txTime=6a40d45a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6e3ff52e3539fb27bf8f2fd4ec24a69d.png",07h00 ngày 28/06 Indiana Fever W vs Los Angeles Sparks W [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1782614482-0-0-c965163a92761eab5a608af08d971d3f
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1782615562-0-0-c47fe8f5b5f94897cafc6e4041af5bd1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6e3ff52e3539fb27bf8f2fd4ec24a69d.png",07h00 ngày 28/06 Indiana Fever W vs Los Angeles Sparks W [A CHÈ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1782614482-0-0-ac1db0fe8830d48eaacdd976cb42c1de
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1782615562-0-0-1a2269a9d4b7e1b95882a9559e48356a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6e3ff52e3539fb27bf8f2fd4ec24a69d.png",07h00 ngày 28/06 Indiana Fever W vs Los Angeles Sparks W [A CHÈ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782614482-0-0-88873c57ab770db43609629c0f222730
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782615562-0-0-e6c761863c74ff7a2bce6150642994ee
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6e3ff52e3539fb27bf8f2fd4ec24a69d.png",07h00 ngày 28/06 Indiana Fever W vs Los Angeles Sparks W [A CHÈ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782614482-0-0-c19b6e7af083276f5fd7e92efa00626d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=6a5ccfd3f8596077e1f86c4f6385064a&txTime=6a40d18a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=56f8f49bd70a9d57eaf6ac8c59497e16&txTime=6a40d18a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=6a5ccfd3f8596077e1f86c4f6385064a&txTime=6a40d18a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=56f8f49bd70a9d57eaf6ac8c59497e16&txTime=6a40d18a
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782615562-0-0-4ca4b991d771adee778f4e11bcd18cfd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782614842-0-0-c35f23919cd64146ed84561f99a9d458
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782615982-0-0-d66783b516d5bfd72d8beae16994850f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV ĐỐM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782614842-0-0-aa770f96b06a0297e5dc105a6c2bea1d
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782615982-0-0-b975a51dcf39581971e492381a7bd78f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782614842-0-0-ff6ba44544d9dd2f0eeab4704bd342f1
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782615982-0-0-56145fee45b5adcf4f3a51adc4d03dc7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV ĐỐM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782614842-0-0-9c2defc5450da1e3a53775044f966f4b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV A TÚ] (Socolive) flv
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782615982-0-0-846ed65d8f67782b122bb6a38021b065
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV MESSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782614842-0-0-f87d9e458dfb270a25f46673e6a9410b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV A TÚ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=59567065920d3f9c53d3a9ecb56f734d&txTime=6a40d5fe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV MESSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782614842-0-0-9450cf2ca2ca24cf0deb5be36435a61b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV A TÚ] (Socolive) m3u8
+https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=cfb96bcc7b6060b4f035ce0c7ad28066&txTime=6a40d5fe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV MESSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782614842-0-0-c1c41857768bcdc5553f056ad645a8f9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV A TÚ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=59567065920d3f9c53d3a9ecb56f734d&txTime=6a40d5fe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV MESSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782614842-0-0-abe2035f47a41c0baf8362ca720b0726
+https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=cfb96bcc7b6060b4f035ce0c7ad28066&txTime=6a40d5fe
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV ENZO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1782614842-0-0-850bf0efccaf54c00306f5f6bc124e2b
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1782615982-0-0-95103509d3cf1fac60501cc735ba4309
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV ENZO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1782614842-0-0-6a5f23dd2e44eaf8739ac242dfde38d1
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1782615982-0-0-5dcd03788942261ca02fb4a55783ac4f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV ENZO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782614842-0-0-944646f0718dc202a2f6c2c2c25762f1
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782615982-0-0-c536bd93fad49a7f816dc7e58f7f642f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV ENZO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782614842-0-0-83c0e76df2228edf44b945b20d6f5983
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782615982-0-0-22a683972f7732ca4b166b62c59c9e48
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782615982-0-0-49e2bfda0e622c5a8bc51cbaf1902fdd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782615982-0-0-9213ae752e4871e488ecf3940908d54c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782615982-0-0-cf9e8f660a98af2dbea4e4ca07e5b1c2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782615982-0-0-5ab0378e51d15e9fdfbb3db1c4371137
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c05fd9dd5dbc8af119f36a0e91efb598.png",08h10 ngày 28/06 Seattle Storm W vs Atlanta Dream W [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1782614842-0-0-de3c4aa2f78b2688cbdaa1bcd5dd0ddf
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1782615982-0-0-65006b7f356c33b164ec4c013443ffa5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c05fd9dd5dbc8af119f36a0e91efb598.png",08h10 ngày 28/06 Seattle Storm W vs Atlanta Dream W [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1782614842-0-0-e8e95d4d4cc0814f7bbd497e82888e2b
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1782615982-0-0-f7a67e88ef527592d089bee122294de5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c05fd9dd5dbc8af119f36a0e91efb598.png",08h10 ngày 28/06 Seattle Storm W vs Atlanta Dream W [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782614842-0-0-3ffe3ee00f124a53b076cb2beeed870e
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782615982-0-0-04789800f3d8eba8c7f1427de8528ed8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c05fd9dd5dbc8af119f36a0e91efb598.png",08h10 ngày 28/06 Seattle Storm W vs Atlanta Dream W [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782614842-0-0-f68c27b01d29c5daee0cba59955ab425
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=154b9161605b830934b7e87d50e1cbb2&txTime=6a40d2f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=b76d75a9b73be9857ba01da2c29fff34&txTime=6a40d2f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=154b9161605b830934b7e87d50e1cbb2&txTime=6a40d2f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=b76d75a9b73be9857ba01da2c29fff34&txTime=6a40d2f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782615202-0-0-5bdc8defee301ab28cf7d9f416a34e96
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782615202-0-0-d9811cec2996cdcbd89fea97e29d12d2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782615202-0-0-330033640560df0abfddefe1e8a48b15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782615202-0-0-1ca4c18383a82f38d87c6e7100ea6afa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782615202-0-0-990e18e5206d23704d59f9e4da8b6f3c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782615202-0-0-9892a42c8ac5f6a24da606858b754c17
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782615202-0-0-292bfce253a320b68c274e01dcd960d6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782615202-0-0-bf1ea501f79cce604dfe9c4748c48996
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1782615202-0-0-fb334257048660f8a5f93c8c41e76e19
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1782615202-0-0-2fa450787dc0a21a4f7f7d02a6a8b0ed
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782615202-0-0-39c1a3b89374766a89502516ad0a6836
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782615202-0-0-1dcc4c7dff5634949f2b618cb1a820d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=2e46233d3d9d05a761c795f686b7bc60&txTime=6a40d2f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=24be9a5b40a5c81848bf1b40a4a3abf3&txTime=6a40d2f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=2e46233d3d9d05a761c795f686b7bc60&txTime=6a40d2f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=24be9a5b40a5c81848bf1b40a4a3abf3&txTime=6a40d2f2
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782615982-0-0-a077a09bffda661f98ab162bf277893a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782615202-0-0-2ef5ddd3d2714d18012744f875ce0996
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782616282-0-0-23f71f2164b713a1c79be7fd04bf91a8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782615202-0-0-0db35feea61c4b9bd66188d91df0cd62
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782616282-0-0-d63d20ab4bfdba172ebad710eda2a590
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782615202-0-0-b7d110850d1dd437b84cdea4c3251b4c
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782616282-0-0-dce1e0826e1dbafe04dd25e6ea849367
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782615202-0-0-a125ee87613f31e5a262b18608d36354
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782616282-0-0-a584a42634eec5eb5228cdb53207a32f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782616282-0-0-be24705b31f8055ff5603203ae98954c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782616282-0-0-e696dcc7f509bc2022a676494ae00ca5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782616282-0-0-feb46cddc12c8423014751aff6ac60a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782616282-0-0-fd36975cfe376c4602bdf1705b2ff9ee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782616282-0-0-149ee1fe31a77cc2e2d6419fe09f050c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782616282-0-0-0dff59bc79f7e2c1221cc5424f17a1db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782616282-0-0-a613969c344c5713d422e2dca2aa21da
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782616282-0-0-bd451c31db2c41ae32ce00246903d458
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=03e60e5cb9d326c65bded56217af178c&txTime=6a40d72a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=650e9dc3f514de29400f64405fd81fe4&txTime=6a40d72a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=03e60e5cb9d326c65bded56217af178c&txTime=6a40d72a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=650e9dc3f514de29400f64405fd81fe4&txTime=6a40d72a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=a7a53e9d2c402eda758da5067824d181&txTime=6a40d72a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=fb0a4d516ff0af96a4a8981ef9909b98&txTime=6a40d72a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=a7a53e9d2c402eda758da5067824d181&txTime=6a40d72a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=fb0a4d516ff0af96a4a8981ef9909b98&txTime=6a40d72a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1782616282-0-0-117971849267c55afd29d04578fc6375
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1782616282-0-0-f4375db38b6c3159537add2920289a54
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782616282-0-0-b009584e1f7d738585bd61feacaecd3b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782616282-0-0-96da3e2095e7733d714e80ee131a6921
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV COZY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=ed4ddb24c0818a998ca97fd52ed60ca0&txTime=6a40d2f2
+https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=e1cbcc3e2c8446362a35dee70715a6d5&txTime=6a40d72a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV COZY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=691c32d3919b08dbf369ca371dd08380&txTime=6a40d2f2
+https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=4b4494a458a47e5d7d1b6452fdcf4ecc&txTime=6a40d72a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV COZY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=ed4ddb24c0818a998ca97fd52ed60ca0&txTime=6a40d2f2
+https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=e1cbcc3e2c8446362a35dee70715a6d5&txTime=6a40d72a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/859d960f462cc06c7dc12e73a25b7eef.png",09h00 ngày 28/06 Jordan vs Argentina [BLV COZY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=691c32d3919b08dbf369ca371dd08380&txTime=6a40d2f2
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=4b4494a458a47e5d7d1b6452fdcf4ecc&txTime=6a40d72a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV TOMIA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782615202-0-0-553c77acf3ddc0e2594ad02d8c9192e8
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782616282-0-0-6bacd59b64117062140688620cc5c12a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV TOMIA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1782615202-0-0-60498afa7ba2ac8bcf7398ca784dfb21
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1782616282-0-0-37e5b3b0848772ad9d3895e529acbfe3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV TOMIA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782615202-0-0-1bb32ce50210501ff2a1fe9ca2672fca
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782616282-0-0-87d2f439b0196a39465bb0d9d8a09037
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV TOMIA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782615202-0-0-af20b6d03eb907a4beb5a8ee7fc3a1b2
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782616282-0-0-70ba56d0f48537e8d68f2a9d4ae19604
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1782615202-0-0-0447083dc1873b979abe51f73b07b5e8
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1782616282-0-0-a8205da840293d83f3f7b7a09c93f06c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1782615202-0-0-d30b22a21e44490e9f3fff56330a5912
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1782616282-0-0-3e1fb6a25aba97079165980db28659f5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782615202-0-0-42ae8442fd02043ee2acc892345cec3a
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782616282-0-0-cf5cafa38eb4ba2d23775bc1a3869979
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [LÃO LÂM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782615202-0-0-bb320d8d69a33a8fc475a320dcaddeaa
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782616282-0-0-eb3ac25812909e948d992ec5abbc5858
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV ROBBEN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-527383_lsd.flv?txSecret=d9c0f44610477097540e96b128b55234&txTime=6a40d2f2
+https://pull.niur.live/live/stream-527383_lsd.flv?txSecret=3a256a626ef21a1c7d2c36a809faddb9&txTime=6a40d72a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV ROBBEN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-527383_lhd.flv?txSecret=df31ffb05fd5dc0924ed276bed6ac691&txTime=6a40d2f2
+https://pull.niur.live/live/stream-527383_lhd.flv?txSecret=f17ef244d55dd9a1052d4853ddf9b24b&txTime=6a40d72a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV ROBBEN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-527383_lsd.m3u8?txSecret=d9c0f44610477097540e96b128b55234&txTime=6a40d2f2
+https://pull.niur.live/live/stream-527383_lsd.m3u8?txSecret=3a256a626ef21a1c7d2c36a809faddb9&txTime=6a40d72a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/6d1eff1f4e35760b779750cff13331db.png",09h00 ngày 28/06 Algeria vs Austria [BLV ROBBEN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-527383_lhd.m3u8?txSecret=df31ffb05fd5dc0924ed276bed6ac691&txTime=6a40d2f2
+https://pull.niur.live/live/stream-527383_lhd.m3u8?txSecret=f17ef244d55dd9a1052d4853ddf9b24b&txTime=6a40d72a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782615202-0-0-bbcf3e2f0eaef858f50eae79bf55f61c
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782616282-0-0-e56598faf69a76da50a193076b218d81
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782615202-0-0-637200d1635b0124ad82c59450cb445e
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782616282-0-0-7edcba3fd5fd5b37d2b1335f34fbe832
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782615202-0-0-f2d60ef3cb36162261314e2187fb19f4
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782616282-0-0-4436503dd519a9d121ea04a9d4d68ffb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782615202-0-0-cfacfb5f01120571e20a2cf3c7a34245
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782616282-0-0-0a32a92d320edcd92a40c004a19442b2
  
