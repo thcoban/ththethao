@@ -1,10 +1,6 @@
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/4cd66c0860ebbe2bc977e969f7e5b626.png" group-title="Nguyên Bản [không bình luận]" , 🟢 22:00 28/06 ⚽ Dnepr Mogilev vs Neman Grodno (sóng sạch) 
-#EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
-https://lilive1.eu.cc/live/f68d1e8d5e63d05df16389594a34af9d/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/674b92c29159cc3a21b75a4484db38b6.png" group-title="Nguyên Bản [không bình luận]" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (sóng sạch) 
 #EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
 https://lilive1.eu.cc/live/7cb7933e3d9aabd99d657a3730b54ffa/playlist.m3u8
@@ -17,11 +13,19 @@ https://lilive1.eu.cc/live/508b8a4f82754df65b0f2293b63ac08e/playlist.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1531.png" group-title="Quê Choa TV" group-logo="https://quechoa10.live/images/header/quechoatv-logo-v2.png" , 02:00 29/06 ⚽ South Africa vs Canada (PUMA) [FHD]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10353.png" group-title="Quê Choa TV" group-logo="https://quechoa10.live/images/header/quechoatv-logo-v2.png" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (NEM CHUA) [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa10.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10353.png" group-title="Quê Choa TV" group-logo="https://quechoa10.live/images/header/quechoatv-logo-v2.png" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (NEM CHUA) [HD]
+#EXTVLCOPT:http-referrer=https://quechoa10.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1531.png" group-title="Quê Choa TV" , 02:00 29/06 ⚽ South Africa vs Canada (PUMA) [FHD] 
 #EXTVLCOPT:http-referrer=https://quechoa10.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1531.png" group-title="Quê Choa TV" group-logo="https://quechoa10.live/images/header/quechoatv-logo-v2.png" , 02:00 29/06 ⚽ South Africa vs Canada (PUMA) [HD]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1531.png" group-title="Quê Choa TV" , 02:00 29/06 ⚽ South Africa vs Canada (PUMA) [HD] 
 #EXTVLCOPT:http-referrer=https://quechoa10.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
 
@@ -137,14 +141,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
 #EXTVLCOPT:http-referrer=https://quechoa10.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10353.png" group-title="Quê Choa TV" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (NEM CHUA) [FHD] 
-#EXTVLCOPT:http-referrer=https://quechoa10.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10353.png" group-title="Quê Choa TV" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (NEM CHUA) [HD] 
-#EXTVLCOPT:http-referrer=https://quechoa10.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10338.png" group-title="Quê Choa TV" , 22:00 29/06 ⚽ Italy U19 vs Serbia U19 (VĂN MINH) [FHD] 
 #EXTVLCOPT:http-referrer=https://quechoa10.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
@@ -157,17 +153,17 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/250px-Flag_of_Wales.svg.png" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (Mơ) [FHD]
-https://kdalive.yarncdn.live/live/kda-blv-mo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/250px-Flag_of_Wales.svg.png" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (Mơ) [HD]
-https://alive.yarncdn.live/live/kda-blv-mo/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/384.png" group-title="Khán Đài A" , 🟢 22:00 28/06 ⚽ FC Dnepr Mogilev vs Neman (Isco) [FHD] 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/384.png" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 🟢 22:00 28/06 ⚽ FC Dnepr Mogilev vs Neman (Isco) [FHD]
 https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/384.png" group-title="Khán Đài A" , 🟢 22:00 28/06 ⚽ FC Dnepr Mogilev vs Neman (Isco) [HD] 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/384.png" group-title="Khán Đài A" group-logo="https://tructiep.khandaia.link/logo-x.png" , 🟢 22:00 28/06 ⚽ FC Dnepr Mogilev vs Neman (Isco) [HD]
 https://alive.yarncdn.live/kda-blv-isco/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/250px-Flag_of_Wales.svg.png" group-title="Khán Đài A" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (Mơ) [FHD] 
+https://kdalive.yarncdn.live/live/kda-blv-mo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/250px-Flag_of_Wales.svg.png" group-title="Khán Đài A" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (Mơ) [HD] 
+https://alive.yarncdn.live/live/kda-blv-mo/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png" group-title="Khán Đài A" , 🟢 22:00 28/06 🏐 Pháp vs Nhật Bản (Núi) [FHD] 
 https://kdalive.yarncdn.live/live/kda-blv-nui/playlist.m3u8
@@ -187,10 +183,10 @@ https://kdalive.yarncdn.live/live/kda-blv-delua/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png" group-title="Khán Đài A" , 02:00 29/06 ⚽ South Africa vs Canada (Dế Lửa) [HD] 
 https://alive.yarncdn.live/kda-blv-delua/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/250px-Flag_of_Poland.svg.png" group-title="Khán Đài A" , 01:00 29/06 🏐 Ba Lan vs Argentina (Tày) [FHD] 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/250px-Flag_of_Poland.svg.png" group-title="Khán Đài A" , 🟡 01:00 29/06 🏐 Ba Lan vs Argentina (Tày) [FHD] 
 https://kdalive.yarncdn.live/live/kda-blv-tay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/250px-Flag_of_Poland.svg.png" group-title="Khán Đài A" , 01:00 29/06 🏐 Ba Lan vs Argentina (Tày) [HD] 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/250px-Flag_of_Poland.svg.png" group-title="Khán Đài A" , 🟡 01:00 29/06 🏐 Ba Lan vs Argentina (Tày) [HD] 
 https://alive.yarncdn.live/kda-blv-tay/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png" group-title="Khán Đài A" , 01:30 29/06 🏐 Serbia vs Mỹ (Núi) [FHD] 
@@ -299,23 +295,17 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ensign_of_France.svg/250px-Ensign_of_France.svg.png" group-title="Hội Quán TV" group-logo="https://sv2.hoiquan4.live/logo.png" , 🟢 22:00 28/06 🏐 Pháp vs Nhật Bản (BLV PHAN PHÉP) [HD]
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10353.png" group-title="Hội Quán TV" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (BLV PHAN HÀ LINH) [FHD] 
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10353.png" group-title="Hội Quán TV" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (BLV PHAN HÀ LINH) [HD] 
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/250px-Flag_of_Canada.svg.png" group-title="Hội Quán TV" , 🟢 21:30 28/06 🏐 Canada vs Brazil (BLV PHAN HẢI) [FHD] 
 https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/250px-Flag_of_Canada.svg.png" group-title="Hội Quán TV" , 🟢 21:30 28/06 🏐 Canada vs Brazil (BLV PHAN HẢI) [HD] 
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/384.png" group-title="Hội Quán TV" , 🟢 22:00 28/06 ⚽ FC Dnepr Mogilev vs Neman (BLV TÁO GIÀ) [FHD] 
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10353.png" group-title="Hội Quán TV" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (BLV PHAN HÀ LINH) [FHD] 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/384.png" group-title="Hội Quán TV" , 🟢 22:00 28/06 ⚽ FC Dnepr Mogilev vs Neman (BLV TÁO GIÀ) [HD] 
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10353.png" group-title="Hội Quán TV" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (BLV PHAN HÀ LINH) [HD] 
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/755.png" group-title="Hội Quán TV" , 04:30 29/06 ⚽ Nautico Recife vs Goias (BLV PHAN ANH) [FHD] 
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
@@ -353,10 +343,10 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Guangdong_South_China_Tiger_F.C.svg/1280px-Guangdong_South_China_Tiger_F.C.svg.png" group-title="Hội Quán TV" , 18:00 29/06 ⚽ Guangdong Meizhou W vs Wuhan Jiangda W (BLV PHAN CA) [HD] 
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLkHp8_KNZVw1jCYb3bu1mvTTOxYcnl5yQQ&s" group-title="Hội Quán TV" , 01:00 29/06 🏐 Ba Lan vs Argentina (BLV TÁO GIÀ) [FHD] 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLkHp8_KNZVw1jCYb3bu1mvTTOxYcnl5yQQ&s" group-title="Hội Quán TV" , 🟡 01:00 29/06 🏐 Ba Lan vs Argentina (BLV TÁO GIÀ) [FHD] 
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLkHp8_KNZVw1jCYb3bu1mvTTOxYcnl5yQQ&s" group-title="Hội Quán TV" , 01:00 29/06 🏐 Ba Lan vs Argentina (BLV TÁO GIÀ) [HD] 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLkHp8_KNZVw1jCYb3bu1mvTTOxYcnl5yQQ&s" group-title="Hội Quán TV" , 🟡 01:00 29/06 🏐 Ba Lan vs Argentina (BLV TÁO GIÀ) [HD] 
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png" group-title="Hội Quán TV" , 01:30 29/06 🏐 Serbia vs Mỹ (BLV PHAN HẢI) [FHD] 
@@ -449,7 +439,7 @@ https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/yTS_Piy3M1wUBnqU0n5aAw_96x96.png" group-title="Bù Giờ TV" , 01:00 29/06 🏐 Poland vs Argentina (BLV Chim Nhỏ) [FHD] 
+#EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/yTS_Piy3M1wUBnqU0n5aAw_96x96.png" group-title="Bù Giờ TV" , 🟡 01:00 29/06 🏐 Poland vs Argentina (BLV Chim Nhỏ) [FHD] 
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 
@@ -509,19 +499,11 @@ https://alive.yarncdn.live/xctv_blv_chuoi/tracks-v2a1/mono.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144602_ffd70c89.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (Chuối Già) [FHD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144602_ffd70c89.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (Chuối Già) [FHD2] [flv]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20251115_123030_666d88b2.png" group-title="Chuối Chiên TV" , 🟢 21:30 28/06 🏐 Canada vs Brazil (Chuối Tây) [FHD1] [hls] 
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20251115_123030_666d88b2.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 21:30 28/06 🏐 Canada vs Brazil (Chuối Tây) [FHD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20251115_123030_666d88b2.png" group-title="Chuối Chiên TV" , 🟢 21:30 28/06 🏐 Canada vs Brazil (Chuối Tây) [FHD2] [flv] 
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20251115_123030_666d88b2.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 🟢 21:30 28/06 🏐 Canada vs Brazil (Chuối Tây) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 
@@ -532,14 +514,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20251115_123028_e304fc82.png" group-title="Chuối Chiên TV" , 🟢 22:00 28/06 🏐 France vs Japan (Chuối To) [FHD2] [flv] 
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132326_af304b44.png" group-title="Chuối Chiên TV" , 🟢 22:00 28/06 ⚽ FC Dnepr Mogilev vs Neman (A Ngao) [FHD1] [hls] 
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132326_af304b44.png" group-title="Chuối Chiên TV" , 🟢 22:00 28/06 ⚽ FC Dnepr Mogilev vs Neman (A Ngao) [FHD2] [flv] 
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angaohd.flv
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130141_11ba6368.png" group-title="Chuối Chiên TV" , 🟢 23:00 28/06 ⚽ FC Levadia Tallinn vs Flora Tallinn (Chuối Chao) [FHD1] [hls] 
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -556,6 +530,14 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130141_11ba6368.png" group-title="Chuối Chiên TV" , 🟢 23:00 28/06 ⚽ FC Levadia Tallinn vs Flora Tallinn (Trốc Tru) [FHD2] [flv] 
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144602_ffd70c89.png" group-title="Chuối Chiên TV" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (Chuối Già) [FHD1] [hls] 
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144602_ffd70c89.png" group-title="Chuối Chiên TV" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (Chuối Già) [FHD2] [flv] 
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20251115_123043_e3391af2.png" group-title="Chuối Chiên TV" , 01:30 29/06 🏐 Slovenia vs Italy (Chuối Bơ) [FHD1] [hls] 
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -688,32 +670,23 @@ https://alive.yarncdn.live/xctv_blv_chuoi/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4b09565353907c35916554433323509a.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc365.com/wp-content/uploads/2023/05/truc-tiep-bong-da-vuasanco.png" , 🟢 00:00 29/06 ⚽ Thor Akureyri vs Valur Reykjavik (Nguyễn Huệ)
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3b6758ec26101bf8ba64b101a401520f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc365.com/wp-content/uploads/2023/05/truc-tiep-bong-da-vuasanco.png" , 🟢 00:00 29/06 ⚽ Keflavik vs KR Reykjavik (Nguyễn Nhạc)
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/016486307fcd47800a3b166cb5523f07.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc365.com/wp-content/uploads/2023/05/truc-tiep-bong-da-vuasanco.png" , 🟢 00:00 29/06 ⚽ NK Olimpija Ljubljana vs FK Čukarički (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-ff294fd1e0bc284280a7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3b6758ec26101bf8ba64b101a401520f.png" group-title="Vua Sân Cỏ TV" , 🟢 00:00 29/06 ⚽ Keflavik vs KR Reykjavik (Nguyễn Nhạc) 
 https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/dc7d0b99422eae4c9ab4d1f02f8da990.png" group-title="Vua Sân Cỏ TV" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (Lê Lợi) 
 https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/dc7d0b99422eae4c9ab4d1f02f8da990.png" group-title="Vua Sân Cỏ TV" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (Nhà Đài 2) 
+https://hls.streamhub.media/hls/thesport-api-53d135888913e7f27527/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4bafadf0099da512fff203d30a62ddd1.png" group-title="Vua Sân Cỏ TV" , 🟢 00:00 29/06 ⚽ Boca Juniors Reserve vs Atletico Tucuman Reserve (Nhà Đài 2) 
+https://hls.streamhub.media/hls/thesport-api-24595f309c2ceffe27a0/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/496e10acaf5e0d53cced9c84ec17da73.png" group-title="Vua Sân Cỏ TV" , 🟢 00:00 29/06 ⚽ Hafnarfjordur vs IBV Vestmannaeyjar (Triệu Hằng) 
 https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Austria Women U19 vs Iceland Women U19 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/f795e469c311210f87223b7a5ec89d1b/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Austria Women U19 vs Iceland Women U19 (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-81fd98ebb29431e42dd1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/2eafcb5ab54090b219c2bccb3f794bcd.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Lokomotiv Vitebsk Women vs Belshina (W) (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/267dd9afcc5ab41191566350a4972eb0/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/2eafcb5ab54090b219c2bccb3f794bcd.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Lokomotiv Vitebsk Women vs Belshina (W) (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-19d533448e75264423c4/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a96afd68bb256de910e7bb97921437f9.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Banga Gargzdai vs Hegelmann Litauen (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/42864eb28c3993d3ccfb7301478fc037/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a96afd68bb256de910e7bb97921437f9.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Banga Gargzdai vs Hegelmann Litauen (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-2ae1ded558e88cb8ced7/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/60d52dccc341acec222cfdee6644913b.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Sandvikens IF vs Helsingborg (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/c0987c23fd8b7eb7b5ee0b86647e18ba/playlist.m3u8
@@ -726,24 +699,6 @@ https://station1-global.ebaclofen.org/live/ceadf9048d3241e7f00d07de50eb45a8/play
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3a7e98528429448c23d759a25d5b5964.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ CA River Plate Montevideo vs La Luz (Nhà Đài 2) 
 https://hls.streamhub.media/hls/thesport-api-2f1193e204ab251a139a/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/ad91a51a649604ef81f69462d4bd8e2f.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ BATE-2 Borisov vs Energetik-BGU Minsk (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/063ef54717599d76392f6ab910097321/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/ad91a51a649604ef81f69462d4bd8e2f.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ BATE-2 Borisov vs Energetik-BGU Minsk (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-157c33ddbc2174827522/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4cd66c0860ebbe2bc977e969f7e5b626.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Dnepr Mogilev vs Neman Grodno (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/f68d1e8d5e63d05df16389594a34af9d/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4cd66c0860ebbe2bc977e969f7e5b626.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Dnepr Mogilev vs Neman Grodno (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-548de8593e19f9ceac65/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c2ecc69373eb00cb8bb5e008ac87ad59.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Sotra vs Jerv (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/2215d979a890294a2a81ec613b29b52b/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c2ecc69373eb00cb8bb5e008ac87ad59.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Sotra vs Jerv (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-9e637a32ba3cd286e7c7/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/523be5ac96e373209ba226ac0eab8cda.png" group-title="Vua Sân Cỏ TV" , 🟢 22:30 28/06 ⚽ FK Kauno Zalgiris II vs BFA Vilnius (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/29614291b90c48739a4b29f75dcd6d06/playlist.m3u8
@@ -817,7 +772,7 @@ https://station1-global.ebaclofen.org/live/01c078f054cce1cf62320d44da2689c6/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/845177796220245cb2e423aca13de617.png" group-title="Vua Sân Cỏ TV" , 🟢 23:30 28/06 ⚽ East End Lions vs Mighty Blackpool (Nhà Đài 2) 
 https://hls.streamhub.media/hls/thesport-api-c92f79aeb9b85a685d5f/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a9f1c83b015811e02dc44e78b81cf392.png" group-title="Vua Sân Cỏ TV" , 01:00 29/06 ⚽ CS Cerrito vs Plaza Colonia (Nhà Đài 1) 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a9f1c83b015811e02dc44e78b81cf392.png" group-title="Vua Sân Cỏ TV" , 🟡 01:00 29/06 ⚽ CS Cerrito vs Plaza Colonia (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/7857bd085c72bd5f211c43125ee4f119/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f5537e8960824e848e5a9bac16514483.png" group-title="Vua Sân Cỏ TV" , 02:00 29/06 ⚽ South Africa vs Canada (Tôn Quyền) 
@@ -853,41 +808,11 @@ https://station1-global.ebaclofen.org/live/000d19a0f58ab44985b055f16b10147e/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0b4eeb2ee5fd439b6c767c99ac23e406.png" group-title="Vua Sân Cỏ TV" , 🟢 12:00 28/06 ⚽ Maca Searle Women vs WS Wanderers B (W) (Nhà Đài 2) 
 https://hls.streamhub.media/hls/thesport-api-ebee6adffeb1a7cbe234/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/48d33f324032713de2fbd162751897aa.png" group-title="Vua Sân Cỏ TV" , 🟢 16:00 27/06 ⚽ Grange Thistle (w) vs Logan Lightning Women (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/12c0ebc51e81a0a1c111c45527eb693d/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3b19cae478679881554914e45d318742.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 27/06 ⚽ CSKA Sofia vs Qarabag (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/48d0ac3bd777d126d677b32a71758c1d/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3b19cae478679881554914e45d318742.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 27/06 ⚽ CSKA Sofia vs Qarabag (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-cc78d4e9e8d9bfd22e65/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e52b745126bbb6bdddc90b91b44413ae.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 27/06 ⚽ AZ Alkmaar vs AZ Alkmaar Youth (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/4c059195d7182d8898881b7b48c8f0b1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0b4eeb2ee5fd439b6c767c99ac23e406.png" group-title="Vua Sân Cỏ TV" , 🟢 12:00 28/06 ⚽ Maca Searle Women vs WS Wanderers B (W) (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/000d19a0f58ab44985b055f16b10147e/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0b4eeb2ee5fd439b6c767c99ac23e406.png" group-title="Vua Sân Cỏ TV" , 🟢 12:00 28/06 ⚽ Maca Searle Women vs WS Wanderers B (W) (Nhà Đài 2) 
 https://hls.streamhub.media/hls/thesport-api-ebee6adffeb1a7cbe234/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Austria Women U19 vs Iceland Women U19 (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/f795e469c311210f87223b7a5ec89d1b/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Austria Women U19 vs Iceland Women U19 (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-81fd98ebb29431e42dd1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/2eafcb5ab54090b219c2bccb3f794bcd.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Lokomotiv Vitebsk Women vs Belshina (W) (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/267dd9afcc5ab41191566350a4972eb0/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/2eafcb5ab54090b219c2bccb3f794bcd.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Lokomotiv Vitebsk Women vs Belshina (W) (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-19d533448e75264423c4/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a96afd68bb256de910e7bb97921437f9.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Banga Gargzdai vs Hegelmann Litauen (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/42864eb28c3993d3ccfb7301478fc037/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a96afd68bb256de910e7bb97921437f9.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Banga Gargzdai vs Hegelmann Litauen (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-2ae1ded558e88cb8ced7/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/60d52dccc341acec222cfdee6644913b.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Sandvikens IF vs Helsingborg (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/c0987c23fd8b7eb7b5ee0b86647e18ba/playlist.m3u8
@@ -900,24 +825,6 @@ https://station1-global.ebaclofen.org/live/ceadf9048d3241e7f00d07de50eb45a8/play
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3a7e98528429448c23d759a25d5b5964.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ CA River Plate Montevideo vs La Luz (Nhà Đài 2) 
 https://hls.streamhub.media/hls/thesport-api-2f1193e204ab251a139a/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/ad91a51a649604ef81f69462d4bd8e2f.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ BATE-2 Borisov vs Energetik-BGU Minsk (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/063ef54717599d76392f6ab910097321/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/ad91a51a649604ef81f69462d4bd8e2f.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ BATE-2 Borisov vs Energetik-BGU Minsk (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-157c33ddbc2174827522/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4cd66c0860ebbe2bc977e969f7e5b626.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Dnepr Mogilev vs Neman Grodno (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/f68d1e8d5e63d05df16389594a34af9d/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4cd66c0860ebbe2bc977e969f7e5b626.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Dnepr Mogilev vs Neman Grodno (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-548de8593e19f9ceac65/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c2ecc69373eb00cb8bb5e008ac87ad59.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Sotra vs Jerv (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/2215d979a890294a2a81ec613b29b52b/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c2ecc69373eb00cb8bb5e008ac87ad59.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 28/06 ⚽ Sotra vs Jerv (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-9e637a32ba3cd286e7c7/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/523be5ac96e373209ba226ac0eab8cda.png" group-title="Vua Sân Cỏ TV" , 🟢 22:30 28/06 ⚽ FK Kauno Zalgiris II vs BFA Vilnius (Nhà Đài 1) 
 https://station1-global.ebaclofen.org/live/29614291b90c48739a4b29f75dcd6d06/playlist.m3u8
@@ -990,18 +897,6 @@ https://station1-global.ebaclofen.org/live/01c078f054cce1cf62320d44da2689c6/play
 
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/845177796220245cb2e423aca13de617.png" group-title="Vua Sân Cỏ TV" , 🟢 23:30 28/06 ⚽ East End Lions vs Mighty Blackpool (Nhà Đài 2) 
 https://hls.streamhub.media/hls/thesport-api-c92f79aeb9b85a685d5f/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/48d33f324032713de2fbd162751897aa.png" group-title="Vua Sân Cỏ TV" , 🟢 16:00 27/06 ⚽ Grange Thistle (w) vs Logan Lightning Women (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/12c0ebc51e81a0a1c111c45527eb693d/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3b19cae478679881554914e45d318742.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 27/06 ⚽ CSKA Sofia vs Qarabag (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/48d0ac3bd777d126d677b32a71758c1d/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3b19cae478679881554914e45d318742.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 27/06 ⚽ CSKA Sofia vs Qarabag (Nhà Đài 2) 
-https://hls.streamhub.media/hls/thesport-api-cc78d4e9e8d9bfd22e65/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e52b745126bbb6bdddc90b91b44413ae.png" group-title="Vua Sân Cỏ TV" , 🟢 22:00 27/06 ⚽ AZ Alkmaar vs AZ Alkmaar Youth (Nhà Đài 1) 
-https://station1-global.ebaclofen.org/live/4c059195d7182d8898881b7b48c8f0b1/playlist.m3u8
 
  
  
@@ -1133,11 +1028,11 @@ https://live05.paznhl.app/live/59444581.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80" group-title="Cola TV" , 22:00 29/06 ⚽ Ý U19 vs Serbia U19 (BLV PEPSI) [hls]
 https://live05.paznhl.app/live/59444581.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80" group-title="Cola TV" , 00:00 30/06 ⚽ Brazil vs F2 (BLV C2) [flv]
-https://live05.paznhl.app/live/08552895.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80" group-title="Cola TV" , 00:00 30/06 ⚽ Brazil vs F2 (BLV 7UP) [flv]
+https://live05.paznhl.app/live/78905744.flv
 
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80" group-title="Cola TV" , 00:00 30/06 ⚽ Brazil vs F2 (BLV C2) [hls]
-https://live05.paznhl.app/live/08552895.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80" group-title="Cola TV" , 00:00 30/06 ⚽ Brazil vs F2 (BLV 7UP) [hls]
+https://live05.paznhl.app/live/78905744.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80" group-title="Cola TV" , 03:30 30/06 ⚽ Đức vs Paraguay (BLV 7UP) [flv]
 https://live05.paznhl.app/live/78905744.flv
@@ -1215,10 +1110,22 @@ https://live05.paznhl.app/live/87547578.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/579_1jbqr7wg8p11.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 23:00 28/06 ⚽ Levadia Tallinn vs FC Flora Tallinn (BLV TÔN LẬP) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1807_1h8fzp9tbb3.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 22:00 28/06 ⚽ Sandvikens IF vs Helsingborg (BLV MAYBACH) [hls]
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1807_1h8fzp9tbb3.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 22:00 28/06 ⚽ Sandvikens IF vs Helsingborg (BLV MAYBACH) [flv]
+https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/21208_1grgfd4mpf24.png" group-title="Lương Sơn TV" , 🟢 22:45 28/06 ⚽ Dziugas Telsiai vs FK Zalgiris Vilnius (BLV HEINEKEN) [hls]
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/21208_1grgfd4mpf24.png" group-title="Lương Sơn TV" , 🟢 22:45 28/06 ⚽ Dziugas Telsiai vs FK Zalgiris Vilnius (BLV HEINEKEN) [flv]
+https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/579_1jbqr7wg8p11.png" group-title="Lương Sơn TV" , 🟢 23:00 28/06 ⚽ Levadia Tallinn vs FC Flora Tallinn (BLV TÔN LẬP) [hls]
 https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/579_1jbqr7wg8p11.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 23:00 28/06 ⚽ Levadia Tallinn vs FC Flora Tallinn (BLV TÔN LẬP) [flv]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/579_1jbqr7wg8p11.png" group-title="Lương Sơn TV" , 🟢 23:00 28/06 ⚽ Levadia Tallinn vs FC Flora Tallinn (BLV TÔN LẬP) [flv]
 https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12850_1h5btqv04m1k.png" group-title="Lương Sơn TV" , 🟢 22:30 28/06 ⚽ FK Isloch Minsk vs FC Belshina Babruisk (BLV LỮ BỐ) [hls]
@@ -1233,35 +1140,11 @@ https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12850_1h5btqv04m1k.png" group-title="Lương Sơn TV" , 🟢 22:30 28/06 ⚽ FK Isloch Minsk vs FC Belshina Babruisk (BLV PHI HỔ) [flv]
 https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/9046_1gtqm7c5w61m.png" group-title="Lương Sơn TV" , 🟢 22:00 28/06 ⚽ FK Banga Gargzdai vs Hegelmann Litauen (BLV LƯU BỊ) [hls]
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png" group-title="Lương Sơn TV" , 🟢 23:30 28/06 ⚽ Deportes La Serena vs Cobreloa (BLV TÂY MÔN KHÁNH) [hls]
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/9046_1gtqm7c5w61m.png" group-title="Lương Sơn TV" , 🟢 22:00 28/06 ⚽ FK Banga Gargzdai vs Hegelmann Litauen (BLV LƯU BỊ) [flv]
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/9046_1gtqm7c5w61m.png" group-title="Lương Sơn TV" , 🟢 22:00 28/06 ⚽ FK Banga Gargzdai vs Hegelmann Litauen (BLV KAKA) [hls]
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/9046_1gtqm7c5w61m.png" group-title="Lương Sơn TV" , 🟢 22:00 28/06 ⚽ FK Banga Gargzdai vs Hegelmann Litauen (BLV KAKA) [flv]
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/2038_1h746p87zrk.png" group-title="Lương Sơn TV" , 🟢 22:00 28/06 ⚽ Dnepr Mogilev vs Neman Grodno (BLV VÕ TÒNG) [hls]
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/2038_1h746p87zrk.png" group-title="Lương Sơn TV" , 🟢 22:00 28/06 ⚽ Dnepr Mogilev vs Neman Grodno (BLV VÕ TÒNG) [flv]
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/21208_1grgfd4mpf24.png" group-title="Lương Sơn TV" , 🟢 22:45 28/06 ⚽ Dziugas Telsiai vs FK Zalgiris Vilnius (BLV HEINEKEN) [hls]
-https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/21208_1grgfd4mpf24.png" group-title="Lương Sơn TV" , 🟢 22:45 28/06 ⚽ Dziugas Telsiai vs FK Zalgiris Vilnius (BLV HEINEKEN) [flv]
-https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1807_1h8fzp9tbb3.png" group-title="Lương Sơn TV" , 🟢 22:00 28/06 ⚽ Sandvikens IF vs Helsingborg (BLV MAYBACH) [hls]
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1807_1h8fzp9tbb3.png" group-title="Lương Sơn TV" , 🟢 22:00 28/06 ⚽ Sandvikens IF vs Helsingborg (BLV MAYBACH) [flv]
-https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png" group-title="Lương Sơn TV" , 🟢 23:30 28/06 ⚽ Deportes La Serena vs Cobreloa (BLV TÂY MÔN KHÁNH) [flv]
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png" group-title="Lương Sơn TV" , 🟢 23:30 28/06 ⚽ Deportes La Serena vs Cobreloa (BLV DƯƠNG CHÍ) [hls]
 https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
@@ -1274,12 +1157,6 @@ https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png" group-title="Lương Sơn TV" , 🟢 23:30 28/06 ⚽ Deportes La Serena vs Cobreloa (BLV NGƯỜI THÉP) [flv]
 https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png" group-title="Lương Sơn TV" , 🟢 23:30 28/06 ⚽ Deportes La Serena vs Cobreloa (BLV TÂY MÔN KHÁNH) [hls]
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png" group-title="Lương Sơn TV" , 🟢 23:30 28/06 ⚽ Deportes La Serena vs Cobreloa (BLV TÂY MÔN KHÁNH) [flv]
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/2466_1gtaqccsmsh.png" group-title="Lương Sơn TV" , 🟢 00:00 29/06 ⚽ Wydad Casablanca vs Olympique Dcheira (BLV HÀN TÍN) [hls]
 https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
@@ -1302,22 +1179,25 @@ https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/609_165363443491.png" group-title="Lương Sơn TV" , 🟢 00:00 29/06 ⚽ Hafnarfjordur vs IBV Vestmannaeyjar (BLV GẤU KA) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV YẾN THANH) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV LEO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV VÕ TÒNG) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV YẾN THANH) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV VÕ TÒNG) [flv]
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV NGƯỜI THÉP) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV TÂY MÔN KHÁNH) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV TRIỆU TỬ LONG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV TÂY MÔN KHÁNH) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="Lương Sơn TV" , 🟢 02:00 29/06 ⚽ South Africa vs Canada (BLV NGƯỜI THÉP) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
  
@@ -1388,13 +1268,7 @@ https://freem3u.xyz/static/no-signal/low.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/da634f57-610a-42f3-9d7b-fb12a701daaa" group-title="S8 TV" group-logo="https://s8tv007.com/logo_s8tv.png" , 🟢 22:00 28/06 ⚽ Dnepr Mogilev vs Neman Grodno (NGƯỜI CHÈ) [hls]
-https://hls.lauthaitv.cc/live/denpr-neman-blrprem/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/da634f57-610a-42f3-9d7b-fb12a701daaa" group-title="S8 TV" , 🟢 22:00 28/06 ⚽ Dnepr Mogilev vs Neman Grodno (NGƯỜI CHÈ) [flv]
-https://flv.lauthaitv.cc/live/denpr-neman-blrprem.flv
-
-#EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/691099b4-a413-45a7-8625-28000f49b74f" group-title="S8 TV" , 🟢 22:30 28/06 ⚽ FK Isloch Minsk vs FC Belshina Babruisk (NGƯỜI TIỀN SỬ) [hls]
+#EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/691099b4-a413-45a7-8625-28000f49b74f" group-title="S8 TV" group-logo="https://s8tv007.com/logo_s8tv.png" , 🟢 22:30 28/06 ⚽ FK Isloch Minsk vs FC Belshina Babruisk (NGƯỜI TIỀN SỬ) [hls]
 https://hls.lauthaitv.cc/live/isloch-belshina-blrprem/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/691099b4-a413-45a7-8625-28000f49b74f" group-title="S8 TV" , 🟢 22:30 28/06 ⚽ FK Isloch Minsk vs FC Belshina Babruisk (NGƯỜI TIỀN SỬ) [flv]
@@ -1430,11 +1304,11 @@ https://hls.lauthaitv.cc/live/rsa-can-wc-nts/index.m3u8
 #EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/72045a3c-43d2-4a82-ad22-d177a3206dcb" group-title="S8 TV" , 02:00 29/06 ⚽ Nam Phi vs Canada (NGƯỜI TIỀN SỬ) [flv]
 https://flv.lauthaitv.cc/live/rsa-can-wc-nts.flv
 
-#EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/b8a0a0f5-3c37-4c40-9a32-ca9fabc20471" group-title="S8 TV" , 04:30 29/06 ⚽ Nautico (PE) vs Goias EC (NGƯỜI THỎ) [hls]
-https://hls.lauthaitv.cc/live/nauti-goias-braserieb/index.m3u8
+#EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/2e3b9b92-a8f4-4e8f-9056-a80dba9e52cc" group-title="S8 TV" , 04:30 29/06 ⚽ Universidad de Chile vs Union San Felipe (NGƯỜI CÁO) [hls]
+https://hls.lauthaitv.cc/live/uchile-usanfelipe-braserieb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/b8a0a0f5-3c37-4c40-9a32-ca9fabc20471" group-title="S8 TV" , 04:30 29/06 ⚽ Nautico (PE) vs Goias EC (NGƯỜI THỎ) [flv]
-https://flv.lauthaitv.cc/live/nauti-goias-braserieb.flv
+#EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/2e3b9b92-a8f4-4e8f-9056-a80dba9e52cc" group-title="S8 TV" , 04:30 29/06 ⚽ Universidad de Chile vs Union San Felipe (NGƯỜI CÁO) [flv]
+https://flv.lauthaitv.cc/live/uchile-usanfelipe-braserieb.flv
 
 #EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/b2b73b4f-24d0-41f0-b841-a85eeeae1ad7" group-title="S8 TV" , 04:30 29/06 ⚽ Fortaleza vs Sport Club do Recife (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/forta-recife-braserieb/index.m3u8
@@ -1442,11 +1316,11 @@ https://hls.lauthaitv.cc/live/forta-recife-braserieb/index.m3u8
 #EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/b2b73b4f-24d0-41f0-b841-a85eeeae1ad7" group-title="S8 TV" , 04:30 29/06 ⚽ Fortaleza vs Sport Club do Recife (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/forta-recife-braserieb.flv
 
-#EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/2e3b9b92-a8f4-4e8f-9056-a80dba9e52cc" group-title="S8 TV" , 04:30 29/06 ⚽ Universidad de Chile vs Union San Felipe (NGƯỜI CÁO) [hls]
-https://hls.lauthaitv.cc/live/uchile-usanfelipe-braserieb/index.m3u8
+#EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/b8a0a0f5-3c37-4c40-9a32-ca9fabc20471" group-title="S8 TV" , 04:30 29/06 ⚽ Nautico (PE) vs Goias EC (NGƯỜI THỎ) [hls]
+https://hls.lauthaitv.cc/live/nauti-goias-braserieb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/2e3b9b92-a8f4-4e8f-9056-a80dba9e52cc" group-title="S8 TV" , 04:30 29/06 ⚽ Universidad de Chile vs Union San Felipe (NGƯỜI CÁO) [flv]
-https://flv.lauthaitv.cc/live/uchile-usanfelipe-braserieb.flv
+#EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/b8a0a0f5-3c37-4c40-9a32-ca9fabc20471" group-title="S8 TV" , 04:30 29/06 ⚽ Nautico (PE) vs Goias EC (NGƯỜI THỎ) [flv]
+https://flv.lauthaitv.cc/live/nauti-goias-braserieb.flv
 
 #EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/b59c9028-638d-4ded-b6f3-f9fff26ee01e" group-title="S8 TV" , 07:00 29/06 ⚽ Puerto Montt vs D.Concepcion (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/perto-dconcep-chicup/index.m3u8
@@ -1780,19 +1654,11 @@ https://live2.pro2cdnlive.com/live/channel30.flv
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/4cd66c0860ebbe2bc977e969f7e5b626.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 🟢 22:00 28/06 ⚽ Dnepr Mogilev vs Neman Grodno (BLV TRẠNG BÉO) [geo] 
-#EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
-https://pull.asynccdn.com/live/2462c02139d9433984f4047434faa6dc/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/4cd66c0860ebbe2bc977e969f7e5b626.png" group-title="Tiếu Lâm TV" , 🟢 22:00 28/06 ⚽ Dnepr Mogilev vs Neman Grodno (Nhà đài) 
-#EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
-https://lilive1.eu.cc/live/f68d1e8d5e63d05df16389594a34af9d/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/dnoZORwS-rcthslVl.png" group-title="Tiếu Lâm TV" , 🟢 22:00 28/06 🏐 France vs Japan (BLV TRẠNG BỊP) [geo] 
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/dnoZORwS-rcthslVl.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 🟢 22:00 28/06 🏐 France vs Japan (BLV TRẠNG BỊP) [geo] 
 #EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
 https://pull.asynccdn.com/live/4af0f4f917164ec783a2d802f49f48fe/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/674b92c29159cc3a21b75a4484db38b6.png" group-title="Tiếu Lâm TV" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (BLV TRẠNG TỒ) [geo] 
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/674b92c29159cc3a21b75a4484db38b6.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 🟢 00:00 29/06 ⚽ Wales U19 vs Spain U19 (BLV TRẠNG TỒ) [geo] 
 #EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
 https://pull.asynccdn.com/live/f24686f3e0144d36aeb921043ce35428/index.m3u8
 
@@ -1800,7 +1666,7 @@ https://pull.asynccdn.com/live/f24686f3e0144d36aeb921043ce35428/index.m3u8
 #EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
 https://lilive1.eu.cc/live/7cb7933e3d9aabd99d657a3730b54ffa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/WnW15DfM-6ys9CWQj.png" group-title="Tiếu Lâm TV" , 01:00 29/06 🏐 Poland vs Argentina (BLV TRẠNG BỊP) [geo] 
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/WnW15DfM-6ys9CWQj.png" group-title="Tiếu Lâm TV" , 🟡 01:00 29/06 🏐 Poland vs Argentina (BLV TRẠNG BỊP) [geo] 
 #EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
 https://pull.asynccdn.com/live/f7ba9abbdbfd4b049d597ee5ace2ad77/index.m3u8
 
@@ -1872,6 +1738,10 @@ https://pull.asynccdn.com/live/e5764c41426542f59bf239b438b441ce/index.m3u8
 #EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
 https://pull.asynccdn.com/live/27e5862c5a75433db4e42cb177544ce9/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/zP226aXg-fB4vYUZp.png" group-title="Tiếu Lâm TV" , 03:30 30/06 ⚽ Germany vs Paraguay (BLV TRẠNG TỒ) [geo] 
+#EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
+https://pull.asynccdn.com/live/962ec7e9b2fa427a941bfc3b8cf4e55f/index.m3u8
+
  
  
 #EXTM3U
@@ -1912,23 +1782,11 @@ https://tqlive.yarncdn.live/live/tqtv_blv_asoi/playlist.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/a96afd68bb256de910e7bb97921437f9.png" group-title="Cà Khịa TV" group-logo="https://ck51.site/assets/png/logo.png" , 🟢 22:00 28/06 ⚽ Banga Gargzdai vs Hegelmann Litauen (Giàng A Hổ) [hls]
-https://hls.cdnfaster-b.site/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/a96afd68bb256de910e7bb97921437f9.png" group-title="Cà Khịa TV" group-logo="https://ck51.site/assets/png/logo.png" , 🟢 22:00 28/06 ⚽ Banga Gargzdai vs Hegelmann Litauen (Giàng A Hổ) [flv]
-https://flv.cdnfaster-b.site/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/60d52dccc341acec222cfdee6644913b.png" group-title="Cà Khịa TV" , 🟢 22:00 28/06 ⚽ Sandvikens IF vs Helsingborg (DERICE) [hls]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/60d52dccc341acec222cfdee6644913b.png" group-title="Cà Khịa TV" group-logo="https://ck51.site/assets/png/logo.png" , 🟢 22:00 28/06 ⚽ Sandvikens IF vs Helsingborg (DERICE) [hls]
 https://hls.cdnfaster-b.site/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/60d52dccc341acec222cfdee6644913b.png" group-title="Cà Khịa TV" , 🟢 22:00 28/06 ⚽ Sandvikens IF vs Helsingborg (DERICE) [flv]
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/60d52dccc341acec222cfdee6644913b.png" group-title="Cà Khịa TV" group-logo="https://ck51.site/assets/png/logo.png" , 🟢 22:00 28/06 ⚽ Sandvikens IF vs Helsingborg (DERICE) [flv]
 https://flv.cdnfaster-b.site/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/4cd66c0860ebbe2bc977e969f7e5b626.png" group-title="Cà Khịa TV" , 🟢 22:00 28/06 ⚽ Dnepr Mogilev vs Neman Grodno (BLV GÀ PHÁP) [hls]
-https://hls.cdnfaster-b.site/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/4cd66c0860ebbe2bc977e969f7e5b626.png" group-title="Cà Khịa TV" , 🟢 22:00 28/06 ⚽ Dnepr Mogilev vs Neman Grodno (BLV GÀ PHÁP) [flv]
-https://flv.cdnfaster-b.site/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/aed0f0a3abd1cb4e732b2135a575f227.png" group-title="Cà Khịa TV" , 🟢 22:30 28/06 ⚽ FK Isloch Minsk vs FC Belshina Babruisk (PHONG VÂN) [hls]
 https://hls.cdnfaster-b.site/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
@@ -1941,6 +1799,12 @@ https://hls.cdnfaster-b.site/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f2
 
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/efe167b92d0d9687486c2e446cf12967.png" group-title="Cà Khịa TV" , 🟢 22:45 28/06 ⚽ Dziugas Telsiai vs FK Zalgiris Vilnius (Giàng A Choén) [flv]
 https://flv.cdnfaster-b.site/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/ddc2fb68560f85a9b63a81a2a421b368.png" group-title="Cà Khịa TV" , 🟢 23:00 28/06 ⚽ Levadia Tallinn vs FC Flora Tallinn (Lữ Bố (Giàng Phụng Tiên)) [hls]
+https://hls.cdnfaster-b.site/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/ddc2fb68560f85a9b63a81a2a421b368.png" group-title="Cà Khịa TV" , 🟢 23:00 28/06 ⚽ Levadia Tallinn vs FC Flora Tallinn (Lữ Bố (Giàng Phụng Tiên)) [flv]
+https://flv.cdnfaster-b.site/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 
 #EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1782510652503-95aa55rvolv.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 27/06 ⚽ Na Uy vs Pháp (Giàng A Gấu) [hls]
 https://hls.cdnfaster-b.site/live/live1B2/index.m3u8?expire=1814045760&sign=ec5868dc37b335d2dfe347a002164285
@@ -1972,12 +1836,6 @@ https://hls.cdnfaster-b.site/live/ACHUOI1/index.m3u8?expire=1890980520&sign=c520
 #EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1782515810598-0w1mypakm36n.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 27/06 ⚽ Argentina  -  Áo (Lữ Bố (Giàng Phụng Tiên)) [flv]
 https://flv.cdnfaster-b.site/live/ACHUOI1.flv?expire=1890980520&sign=c520c542c70eadd22f5b5ea90e64d348
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/ddc2fb68560f85a9b63a81a2a421b368.png" group-title="Cà Khịa TV" , 🟢 23:00 28/06 ⚽ Levadia Tallinn vs FC Flora Tallinn (Lữ Bố (Giàng Phụng Tiên)) [hls]
-https://hls.cdnfaster-b.site/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/ddc2fb68560f85a9b63a81a2a421b368.png" group-title="Cà Khịa TV" , 🟢 23:00 28/06 ⚽ Levadia Tallinn vs FC Flora Tallinn (Lữ Bố (Giàng Phụng Tiên)) [flv]
-https://flv.cdnfaster-b.site/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/fb45c15b10b58f6aea87f77d24593ef9.png" group-title="Cà Khịa TV" , 🟢 23:20 28/06 ⚽ Bo Rangers vs Diamond Stars (VĂN GÔN) [hls]
 https://hls.cdnfaster-b.site/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 
@@ -1995,6 +1853,12 @@ https://hls.cdnfaster-b.site/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975a
 
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/4217fbd9136652e934cb9e88cc462eef.png" group-title="Cà Khịa TV" , 🟢 23:30 28/06 ⚽ Deportes La Serena vs Cobreloa (Giàng A Khoai) [flv]
 https://flv.cdnfaster-b.site/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/4b09565353907c35916554433323509a.png" group-title="Cà Khịa TV" , 🟢 00:00 29/06 ⚽ Thor Akureyri vs Valur Reykjavik (Giàng A Thơ) [hls]
+https://hls.cdnfaster-b.site/live/GIANGATHO/index.m3u8?expire=1813410540&sign=ed2bb6147299941e41871ced7bf1efb5
+
+#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/4b09565353907c35916554433323509a.png" group-title="Cà Khịa TV" , 🟢 00:00 29/06 ⚽ Thor Akureyri vs Valur Reykjavik (Giàng A Thơ) [flv]
+https://flv.cdnfaster-b.site/live/GIANGATHO.flv?expire=1813410540&sign=ed2bb6147299941e41871ced7bf1efb5
 
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/6c69fc2cbf514787c61e2b9e5e55674b.jpg" group-title="Cà Khịa TV" , 🟢 00:00 29/06 ⚽ Stjarnan Gardabaer vs KA Akureyri (GIÀNG A MIKE) [hls]
 https://hls.cdnfaster-b.site/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
@@ -2025,12 +1889,6 @@ https://hls.cdnfaster-b.site/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1
 
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/d54fa0898b3cfd7d1928173cc8af52e7.png" group-title="Cà Khịa TV" , 🟢 00:00 29/06 ⚽ Maghreb Fez vs Yacoub El Mansour (Giàng A Páo) [flv]
 https://flv.cdnfaster-b.site/live/APAO.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/4b09565353907c35916554433323509a.png" group-title="Cà Khịa TV" , 🟢 00:00 29/06 ⚽ Thor Akureyri vs Valur Reykjavik (Giàng A Thơ) [hls]
-https://hls.cdnfaster-b.site/live/GIANGATHO/index.m3u8?expire=1813410540&sign=ed2bb6147299941e41871ced7bf1efb5
-
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/4b09565353907c35916554433323509a.png" group-title="Cà Khịa TV" , 🟢 00:00 29/06 ⚽ Thor Akureyri vs Valur Reykjavik (Giàng A Thơ) [flv]
-https://flv.cdnfaster-b.site/live/GIANGATHO.flv?expire=1813410540&sign=ed2bb6147299941e41871ced7bf1efb5
 
 #EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/496e10acaf5e0d53cced9c84ec17da73.png" group-title="Cà Khịa TV" , 🟢 00:00 29/06 ⚽ Hafnarfjordur vs IBV Vestmannaeyjar (GIÀNG A TÁO) [hls]
 https://hls.cdnfaster-b.site/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
@@ -2070,270 +1928,6 @@ https://cdnhls.xbdbotv.live/live/rha71tsbt51w71jw80biwvwn/index.m3u8
  
 #EXTM3U
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=278b3977403790e056651c9c96c1353d&txTime=6a41a07e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=86bbc3ccc37fa2da2afcddbc3229a1b3&txTime=6a41a07e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=278b3977403790e056651c9c96c1353d&txTime=6a41a07e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=86bbc3ccc37fa2da2afcddbc3229a1b3&txTime=6a41a07e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [LOKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1782667822-0-0-dff616e662d699ccf7430bee7c0b8fb7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [LOKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1782667822-0-0-b58b63cf470e80a6b335af0fcc5aa9b2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [LOKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782667822-0-0-719cfda37dda172619e04cd2c0cc1c0f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [LOKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782667822-0-0-be1887ea4f8625ea0efcaa70a5dbf797
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Thor Akureyri vs Valur Reykjavik [NGƯỜI CÁ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1782667822-0-0-2ee86064d77176e10d36741d2cf59e8e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Thor Akureyri vs Valur Reykjavik [NGƯỜI CÁ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1782667822-0-0-9a3442b751002d72738e5685f0ab5bfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Thor Akureyri vs Valur Reykjavik [NGƯỜI CÁ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782667822-0-0-4a12416474040a665235be90951db972
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Thor Akureyri vs Valur Reykjavik [NGƯỜI CÁ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782667822-0-0-e7e10a14e138d046bf4371b959f4dba5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782667822-0-0-363e60b7eca34d8c3ebcde8f90a9effa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1782667822-0-0-6c4644a11b6dca832fda6826f7732830
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782667822-0-0-0fbe651b2dd47a9f8b7a56763c73c33c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782667822-0-0-eb19fedd6e813b614a8a4713d8598291
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",CHI Cup: Deportes La Serena vs Cobreloa [KÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1782667822-0-0-6f6e3ed3a7067f95070efbad7390118d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",CHI Cup: Deportes La Serena vs Cobreloa [KÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782667822-0-0-1906a3199eed3533db0b2637065fd383
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",CHI Cup: Deportes La Serena vs Cobreloa [KÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782667822-0-0-53f327b7245bc9abd8c53f4ca6c6422d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",CHI Cup: Deportes La Serena vs Cobreloa [KÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782667822-0-0-9542a3dedc5540b90c8e6e0f2151e484
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [A PÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782668122-0-0-167aac84fc5294825031e876a24e3c6e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [A PÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1782668122-0-0-15158b77d5ab1bed043e133eb2248f0f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [A PÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782668122-0-0-6b345ceb87d63f4d89bd06dc80a5b307
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [A PÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782668122-0-0-85961e930e7f00e9bd42426957d78766
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/26aabd85e4e0a4b2a25ed55b12567396.png",22h00 ngày 28/06 Austria Women U19 vs Iceland Women U19 [BLV LUCAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1782668122-0-0-2d57acb84a965a34b622472eec7331b1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/26aabd85e4e0a4b2a25ed55b12567396.png",22h00 ngày 28/06 Austria Women U19 vs Iceland Women U19 [BLV LUCAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1782668122-0-0-7225e602dfd4b5ef2db76f9f7c16e0b5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/26aabd85e4e0a4b2a25ed55b12567396.png",22h00 ngày 28/06 Austria Women U19 vs Iceland Women U19 [BLV LUCAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782668122-0-0-10c4e451c138c124f46f353d629477c5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/26aabd85e4e0a4b2a25ed55b12567396.png",22h00 ngày 28/06 Austria Women U19 vs Iceland Women U19 [BLV LUCAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782668122-0-0-4f0bde597ae2b7018a73b287c1211c91
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782668122-0-0-4630b38bc12fb3a9ca9014b2de65fc5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1782668122-0-0-9f3b87aa19a1b14c7d9e75615fecddef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782668122-0-0-ab4b7fe5604e4210ee0a1581b9034c3a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782668122-0-0-032241690765ad2f4675535602acb4ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [VƯƠNG ANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=16be157954c5dbb410b525b29a51df13&txTime=6a41a1aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [VƯƠNG ANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=993363f7376715de7a15862606a72a39&txTime=6a41a1aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [VƯƠNG ANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=16be157954c5dbb410b525b29a51df13&txTime=6a41a1aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [VƯƠNG ANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=993363f7376715de7a15862606a72a39&txTime=6a41a1aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [XUÂN SON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=a0134bc9eb669d41b755ff96d940ed33&txTime=6a41a1aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [XUÂN SON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=e97d10f6f4ee6fa131302b55f389a4fd&txTime=6a41a1aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [XUÂN SON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=a0134bc9eb669d41b755ff96d940ed33&txTime=6a41a1aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [XUÂN SON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=e97d10f6f4ee6fa131302b55f389a4fd&txTime=6a41a1aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [A BỆU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782668122-0-0-f64046e22c7a107edb15ba6fc28bce54
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [A BỆU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782668122-0-0-c6c09c13cd2383815afcca30e520d817
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [A BỆU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782668122-0-0-cb36cae008b7cf72bedc3ca5db711d39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [A BỆU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782668122-0-0-f2d394ab5210fd1bc0ba434b039461f5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV LION] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1782668122-0-0-035dc2803719ab3b119854b6d17712dc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV LION] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1782668122-0-0-6fefdc13631ca58131638a3aa96410d6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV LION] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782668122-0-0-fa86167cf0e12d0b0d993cd1a61628bc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV LION] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782668122-0-0-5779be0b0d6e1e1adb60ec04d3fd71cf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/26aabd85e4e0a4b2a25ed55b12567396.png",22h00 ngày 28/06 Austria Women U19 vs Iceland Women U19 [BLV RYO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1782668122-0-0-bdcf7e683cc835bfb773e51c78885800
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/26aabd85e4e0a4b2a25ed55b12567396.png",22h00 ngày 28/06 Austria Women U19 vs Iceland Women U19 [BLV RYO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1782668122-0-0-d20e232474516e9ad3ce9d47bf1c7ea8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/26aabd85e4e0a4b2a25ed55b12567396.png",22h00 ngày 28/06 Austria Women U19 vs Iceland Women U19 [BLV RYO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782668122-0-0-449b31d4995762a8b811711ae0070b30
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/26aabd85e4e0a4b2a25ed55b12567396.png",22h00 ngày 28/06 Austria Women U19 vs Iceland Women U19 [BLV RYO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782668122-0-0-b501624d2af5c813c6c8440d528ba8e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1782668122-0-0-d0f8464e5f197f3408b26a9508387fb6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1782668122-0-0-5f24e74a0f4a84ecf8b56c4c2c6d96ac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782668122-0-0-0f81c5aa467e953d0a37b62473d162bb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782668122-0-0-14e3327ebf16e090cb1f3ed48634ffeb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912117_lsd.flv?auth_key=1782668122-0-0-0c584899529fc634781b39c3830cef17
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912117_lhd.flv?auth_key=1782668122-0-0-083e72e3c5d1f5798937e85647df07b2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1782668122-0-0-4dab847ffb5e3da0cda133430d2c993a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1782668122-0-0-5672c6e085eb54a0952fa2526ea5f99a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/4bd08c5438d99290d205f6695896cc4c.png",22h00 ngày 28/06 Dnepr Mogilev vs Neman Grodno [BLV CÁP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1782668122-0-0-c181b60b8abb3f21c6ec4acb7ed66899
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/4bd08c5438d99290d205f6695896cc4c.png",22h00 ngày 28/06 Dnepr Mogilev vs Neman Grodno [BLV CÁP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1782668122-0-0-2837a8c3dab42f4fc8bf050ee5db88f9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/4bd08c5438d99290d205f6695896cc4c.png",22h00 ngày 28/06 Dnepr Mogilev vs Neman Grodno [BLV CÁP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1782668122-0-0-d22a29287b5ff9ac2ca4227154de535f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/4bd08c5438d99290d205f6695896cc4c.png",22h00 ngày 28/06 Dnepr Mogilev vs Neman Grodno [BLV CÁP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1782668122-0-0-e244e1a7780f139ed71e1273549ad11b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [XUÂN TÓC ĐỎ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=6ff5218845bcb2a39da8e48b9078da5d&txTime=6a41a1aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [XUÂN TÓC ĐỎ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=674e1672309afdff410f783e75a852b9&txTime=6a41a1aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [XUÂN TÓC ĐỎ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=6ff5218845bcb2a39da8e48b9078da5d&txTime=6a41a1aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=674e1672309afdff410f783e75a852b9&txTime=6a41a1aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",CHI Cup: Deportes La Serena vs Cobreloa [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1782668122-0-0-b2fc8fa216fbd561c91356a35b124a81
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",CHI Cup: Deportes La Serena vs Cobreloa [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1782668122-0-0-d0e4cd17a3903460896bf26f354c6415
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",CHI Cup: Deportes La Serena vs Cobreloa [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1782668122-0-0-97a84d6ea99c7a98ab01086604cc083f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",CHI Cup: Deportes La Serena vs Cobreloa [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1782668122-0-0-628a9b65a2246cff084748ea0b1e8895
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",20h00 ngày 28/06 FK Isloch Minsk vs FC Belshina Babruisk [QUỐC KHÁNH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1782668122-0-0-4fd8ef74ab49851deae981120636d2a2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",20h00 ngày 28/06 FK Isloch Minsk vs FC Belshina Babruisk [QUỐC KHÁNH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1782668122-0-0-6fd6083a6380f625340acce5d4817de3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",20h00 ngày 28/06 FK Isloch Minsk vs FC Belshina Babruisk [QUỐC KHÁNH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1782668122-0-0-c9fd21c6021207948da99814cc73e5f9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",20h00 ngày 28/06 FK Isloch Minsk vs FC Belshina Babruisk [QUỐC KHÁNH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1782668122-0-0-744a417aeed8cd29768104cca3ce6604
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ae19a7cf4edace5b764d0695b2a21d7d.png",22h00 ngày 28/06 Sheriff Tiraspol vs Real Sireti [BEN 10] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1782668122-0-0-c872419894ddac88221dd0c8d19ef3bd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ae19a7cf4edace5b764d0695b2a21d7d.png",22h00 ngày 28/06 Sheriff Tiraspol vs Real Sireti [BEN 10] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1782668122-0-0-ef5ebb3b9466026c6855a212a1ebd978
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ae19a7cf4edace5b764d0695b2a21d7d.png",22h00 ngày 28/06 Sheriff Tiraspol vs Real Sireti [BEN 10] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1782668122-0-0-dca82146ba5ff2e9eab890986e243dd1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ae19a7cf4edace5b764d0695b2a21d7d.png",22h00 ngày 28/06 Sheriff Tiraspol vs Real Sireti [BEN 10] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1782668122-0-0-0cb878da568923db758ff3e67eb15ef6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Keflavik vs KR Reykjavik [ĐỖ TÚ TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1782668122-0-0-1ae49b773215f16d57ab46cc744add05
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Keflavik vs KR Reykjavik [ĐỖ TÚ TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1782668122-0-0-6f71d2d646fb54fa99ee82c4e862b31b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Keflavik vs KR Reykjavik [ĐỖ TÚ TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782668122-0-0-2d2a1629fdbd9330148a2f9de0857f19
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Keflavik vs KR Reykjavik [ĐỖ TÚ TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782668122-0-0-a5c64366090035176d87905712364864
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",Tường thuật : 00:00  ICE PR	Stjarnan Gardabaer	KA Akureyri [VINFAST] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-617313_lsd.flv?auth_key=1782668122-0-0-408046c32bbbb2af3e5f82958a803206
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",Tường thuật : 00:00  ICE PR	Stjarnan Gardabaer	KA Akureyri [VINFAST] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-617313_lhd.flv?auth_key=1782668122-0-0-c949db2de63638fd993d639c0615eef0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",Tường thuật : 00:00  ICE PR	Stjarnan Gardabaer	KA Akureyri [VINFAST] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1782668122-0-0-9ee9c92c01eb2ff2fb835d63a7700b74
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",Tường thuật : 00:00  ICE PR	Stjarnan Gardabaer	KA Akureyri [VINFAST] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1782668122-0-0-6d97aecdf047e5112f945ddade1b1111
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [BLV ENZO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1782668482-0-0-d36130bac00c57312af2cf73c45ff366
@@ -2466,18 +2060,6 @@ https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=ed146d7e56cdfbddb717
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV VIP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=1d7f86c2b47bb28144acfb4c5ea06e56&txTime=6a41a312
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ae19a7cf4edace5b764d0695b2a21d7d.png",22h00 ngày 28/06 Sheriff Tiraspol vs Real Sireti [CƠM CHÁY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611528_lsd.flv?auth_key=1782668482-0-0-ef6539f50397ec0bf240468f93f7403e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ae19a7cf4edace5b764d0695b2a21d7d.png",22h00 ngày 28/06 Sheriff Tiraspol vs Real Sireti [CƠM CHÁY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1782668482-0-0-618e6285d8236b0168de7ca21af39c32
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ae19a7cf4edace5b764d0695b2a21d7d.png",22h00 ngày 28/06 Sheriff Tiraspol vs Real Sireti [CƠM CHÁY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1782668482-0-0-0e78280be87312432fe7538d22c51890
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ae19a7cf4edace5b764d0695b2a21d7d.png",22h00 ngày 28/06 Sheriff Tiraspol vs Real Sireti [CƠM CHÁY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1782668482-0-0-071005c6ce983107023220b903578fc1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Hafnarfjordur vs IBV Vestmannaeyjar [BLV A TINH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=ca4bee044fa964d4f344e8a6f3d6cfb9&txTime=6a41a312
@@ -2586,4 +2168,304 @@ https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782668482-0-0-e2bf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",Tường thuật: WORLD CUP - Croatia vs Ghana [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782668482-0-0-dda0fd5b1fb38cdce5a0a979eeb7d563
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1782668842-0-0-b2687240d401c771e8e6274b50a9fd3b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1782668842-0-0-ba9503d8822426c2b1f4de936166679f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1782668842-0-0-c7d5f4feceb6b915852bcfbfa4d8d426
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1782668842-0-0-92c72b4e6d386969e5f90e18d61f5fba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [LOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1782668842-0-0-32344f7989e680a6b5f26ba3c7184b5c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [LOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1782668842-0-0-40b0373d4fc5bdd26eb747fbca02fd90
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [LOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782668842-0-0-2e08abc1dabd02912a878dbc7a5c0de6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [LOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782668842-0-0-00f1a8c605de8d9ee1e7d39813951827
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=167b97b668bfe4b5b1046f69d506a90a&txTime=6a41a47a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=63c4280998da92d02c3f90c25a7c5498&txTime=6a41a47a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=167b97b668bfe4b5b1046f69d506a90a&txTime=6a41a47a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=63c4280998da92d02c3f90c25a7c5498&txTime=6a41a47a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Thor Akureyri vs Valur Reykjavik [NGƯỜI CÁ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1782668842-0-0-55a953cb0faf418e3669957ca777c4b9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Thor Akureyri vs Valur Reykjavik [NGƯỜI CÁ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1782668842-0-0-1467e2d826bd9b543d29887d48d3a119
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Thor Akureyri vs Valur Reykjavik [NGƯỜI CÁ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782668842-0-0-9cf81cda6f17374f144f3adab92ebc00
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Thor Akureyri vs Valur Reykjavik [NGƯỜI CÁ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782668842-0-0-8781edc828ddde09426d77d22aea42a5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",CHI Cup: Deportes La Serena vs Cobreloa [KÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1782668842-0-0-f9b06feba4b9c3158291cd1ac348c4dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",CHI Cup: Deportes La Serena vs Cobreloa [KÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782668842-0-0-53b0524fe19eca659d83ed2062b8c7a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",CHI Cup: Deportes La Serena vs Cobreloa [KÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782668842-0-0-2fa44780ef8e560e5b009939d99bf794
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",CHI Cup: Deportes La Serena vs Cobreloa [KÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782668842-0-0-0009b9368449633f2c562dc2de49f6d2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV A WIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782668842-0-0-aef849e9a362f338862c8461aa4e4393
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV A WIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1782668842-0-0-7e6fd93915557b02c57fc4ef46e8254a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV A WIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782668842-0-0-61cf608dfa6a7697e032044fdeeb495b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782668842-0-0-bc34c47bc59edcf0e07c6d3d4bf68d7f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Thor Akureyri vs Valur Reykjavik [BLV ANH TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1782668842-0-0-82bd7055cd06ace0d19108c8e9f94a8a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Thor Akureyri vs Valur Reykjavik [BLV ANH TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1782668842-0-0-b86866be3532471e5223bb08dea00e40
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Thor Akureyri vs Valur Reykjavik [BLV ANH TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782668842-0-0-2bbb457a4f826307a1e751ae31cd34e1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Thor Akureyri vs Valur Reykjavik [BLV ANH TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782668842-0-0-56a11cb6e9d2b80a7f1c7198d71bbe92
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV LION] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1782669202-0-0-914578c99fcd1bc1bb6416be5e26a62c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV LION] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1782669202-0-0-7cf55af093b00c3f2cadf2a24099b9c3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV LION] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782669202-0-0-4b711fedff6a5f082e2bc81f7eb7f6a5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV LION] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782669202-0-0-752f5e8e44b851ea4aa245e8b795008a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782669202-0-0-5604457e3dae00e3eb7cb96cecae4b62
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1782669202-0-0-d6b58835020684d1fdb275aaf4c83b77
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782669202-0-0-c5b63e5cc8624e1191b2ebc51e3ea350
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782669202-0-0-a5df417bbdb8db40e85186542e37ab71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV PEWPEW] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782669202-0-0-f493caafb8751d5ae263316064b5c251
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV PEWPEW] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1782669202-0-0-410efba7385ebc66ae538c4daffa2b47
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV PEWPEW] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782669202-0-0-aec9e5779e59529786c28805dce04b67
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",UEFA U19: Wales U19 vs Spain U19 [BLV PEWPEW] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782669202-0-0-ed623e5e992e3024c92bf6f352c5ef9c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [VƯƠNG ANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=d449885044facc74825a75ea27005d21&txTime=6a41a5e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=74a456a8a20bd53b3ac6e7a7ae5a210e&txTime=6a41a5e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=d449885044facc74825a75ea27005d21&txTime=6a41a5e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=74a456a8a20bd53b3ac6e7a7ae5a210e&txTime=6a41a5e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782669202-0-0-4e869273ca3cc0240408bc69d50356bb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782669202-0-0-60c73345625758ac8ebbba96c0c48dd6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782669202-0-0-4230a1f740e3cc687e8c95e6792bf295
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/39ef761e876b8d6e51f7619dcb1b99df.png",22h00 ngày 28/06 Sandvikens IF vs Helsingborg [A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782669202-0-0-85c563bc81fc19f8bd19cac6797f3f41
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [XUÂN SON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=0f9c13d2506d71bfa85b1dd7a2bcd469&txTime=6a41a5e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [XUÂN SON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=7fa156443c5d97892a107552c7c098b2&txTime=6a41a5e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [XUÂN SON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=0f9c13d2506d71bfa85b1dd7a2bcd469&txTime=6a41a5e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [XUÂN SON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=7fa156443c5d97892a107552c7c098b2&txTime=6a41a5e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/26aabd85e4e0a4b2a25ed55b12567396.png",22h00 ngày 28/06 Austria Women U19 vs Iceland Women U19 [BLV LUCAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1782669202-0-0-94fbd3d12cb835bd4ea41cb79af24f68
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/26aabd85e4e0a4b2a25ed55b12567396.png",22h00 ngày 28/06 Austria Women U19 vs Iceland Women U19 [BLV LUCAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1782669202-0-0-1048fbdb2f8f2bb3f5836957c0c98deb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/26aabd85e4e0a4b2a25ed55b12567396.png",22h00 ngày 28/06 Austria Women U19 vs Iceland Women U19 [BLV LUCAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782669202-0-0-1f8b6f44a2e5e94f1d1ebb73f0962563
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/26aabd85e4e0a4b2a25ed55b12567396.png",22h00 ngày 28/06 Austria Women U19 vs Iceland Women U19 [BLV LUCAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782669202-0-0-f175a2d54a36c20e40b0859854716358
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/26aabd85e4e0a4b2a25ed55b12567396.png",22h00 ngày 28/06 Austria Women U19 vs Iceland Women U19 [BLV RYO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1782669202-0-0-ed3a1e1a2f5afaa3c0e347dd9a276ef6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/26aabd85e4e0a4b2a25ed55b12567396.png",22h00 ngày 28/06 Austria Women U19 vs Iceland Women U19 [BLV RYO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1782669202-0-0-486fe707622fa16d2e6e08769e8290c0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/26aabd85e4e0a4b2a25ed55b12567396.png",22h00 ngày 28/06 Austria Women U19 vs Iceland Women U19 [BLV RYO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782669202-0-0-1ec504000f6f65df1f8a052b5f8a9291
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/26aabd85e4e0a4b2a25ed55b12567396.png",22h00 ngày 28/06 Austria Women U19 vs Iceland Women U19 [BLV RYO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782669202-0-0-97f61b11eac3e92ca35a2e63d06aa985
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",CHI Cup: Deportes La Serena vs Cobreloa [BLV WUKONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1782669202-0-0-435070c1eea9680b5c2ed0e16ea080a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",CHI Cup: Deportes La Serena vs Cobreloa [BLV WUKONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1782669202-0-0-53e09b5c1d0d0b0ae2e8213afd493141
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",CHI Cup: Deportes La Serena vs Cobreloa [BLV WUKONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1782669202-0-0-462efd3efe4a3d122e47c927ba0e7557
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",CHI Cup: Deportes La Serena vs Cobreloa [BLV WUKONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1782669202-0-0-ab614d1a3ee7684bcf3f0b294f0eec0e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/4bd08c5438d99290d205f6695896cc4c.png",22h00 ngày 28/06 Dnepr Mogilev vs Neman Grodno [BLV CÁP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1782669202-0-0-c6745dc13253787533aa7ee8417b0f1e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/4bd08c5438d99290d205f6695896cc4c.png",22h00 ngày 28/06 Dnepr Mogilev vs Neman Grodno [BLV CÁP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1782669202-0-0-583404a84b2877ed2002bcb91d01487c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/4bd08c5438d99290d205f6695896cc4c.png",22h00 ngày 28/06 Dnepr Mogilev vs Neman Grodno [BLV CÁP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1782669202-0-0-d067d42ab769446696dc5c333c0263a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/4bd08c5438d99290d205f6695896cc4c.png",22h00 ngày 28/06 Dnepr Mogilev vs Neman Grodno [BLV CÁP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1782669202-0-0-95d028e953d1ad64dc18e2f3367e5013
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",20h00 ngày 28/06 FK Isloch Minsk vs FC Belshina Babruisk [QUỐC KHÁNH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1782669202-0-0-3a9397ce7b00a06dd47c33a52645a818
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",20h00 ngày 28/06 FK Isloch Minsk vs FC Belshina Babruisk [QUỐC KHÁNH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1782669202-0-0-9992bd46e5f0bdee222da1dc269b25a0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",20h00 ngày 28/06 FK Isloch Minsk vs FC Belshina Babruisk [QUỐC KHÁNH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1782669202-0-0-fce2105598d156e552bfe9f8d3c55dc1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",20h00 ngày 28/06 FK Isloch Minsk vs FC Belshina Babruisk [QUỐC KHÁNH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1782669202-0-0-7bef2ea7267e7bcc9a5b2483bc25af42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [BLV XO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1782669202-0-0-f81a37e6961b6d765da024f4bf145a0c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [BLV XO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1782669202-0-0-52cb1b9976b022021dcf905e23f05a84
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [BLV XO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782669202-0-0-5f1a590ec33dd4a4e8220cef974f6345
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [BLV XO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782669202-0-0-86c44e090848e46218c1b8f28fa801d2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV LONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912117_lsd.flv?auth_key=1782669202-0-0-c8dc3ca332a06ff349a7a1bd3f2ca7a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV LONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912117_lhd.flv?auth_key=1782669202-0-0-fe495dc6437b9449d89de4a107424a87
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV LONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1782669202-0-0-2d5fb08f8e8a3557d755fd960788d1d5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/2cd087be93ea80d6d818e1f7a1b36c3d.png",22h45 ngày 28/06 Dziugas Telsiai vs FK Zalgiris Vilnius [BLV LONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1782669202-0-0-4123e8826888fd78a1a4f19bdd66253f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [XUÂN TÓC ĐỎ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=1b1454e10080366c8bd884bd9f565ca0&txTime=6a41a5e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [XUÂN TÓC ĐỎ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=f8b0c5292743dc107d638837e9718d62&txTime=6a41a5e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [XUÂN TÓC ĐỎ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=1b1454e10080366c8bd884bd9f565ca0&txTime=6a41a5e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",EST D1: Levadia Tallinn vs FC Flora Tallinn [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=f8b0c5292743dc107d638837e9718d62&txTime=6a41a5e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ae19a7cf4edace5b764d0695b2a21d7d.png",22h00 ngày 28/06 Sheriff Tiraspol vs Real Sireti [BEN 10] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1782669235-0-0-1e969823aff11579d86f8925131a4b22
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ae19a7cf4edace5b764d0695b2a21d7d.png",22h00 ngày 28/06 Sheriff Tiraspol vs Real Sireti [BEN 10] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1782669235-0-0-73fd3c8801ac89c7da8bc19a89c836c0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ae19a7cf4edace5b764d0695b2a21d7d.png",22h00 ngày 28/06 Sheriff Tiraspol vs Real Sireti [BEN 10] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1782669235-0-0-42aceff463be3bae2255da87912f9d37
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/ae19a7cf4edace5b764d0695b2a21d7d.png",22h00 ngày 28/06 Sheriff Tiraspol vs Real Sireti [BEN 10] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1782669235-0-0-28bea5d5bcdc880f9fd28eb5ec006f49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Keflavik vs KR Reykjavik [ĐỖ TÚ TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1782669202-0-0-9688fbd17fd6802699fe849f2cc8c04a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Keflavik vs KR Reykjavik [ĐỖ TÚ TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1782669202-0-0-e10ced2a0df4e1087e48fd98b94f31a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Keflavik vs KR Reykjavik [ĐỖ TÚ TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782669202-0-0-a77f51103ebcfccb58e64b8d464f118e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Keflavik vs KR Reykjavik [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782669202-0-0-67d12bff5b1f0081df41e07e633f2fa0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Thor Akureyri vs Valur Reykjavik [CƠM CHÁY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611528_lsd.flv?auth_key=1782669202-0-0-2204e55cea87ed42b1e29e68134d2b94
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Thor Akureyri vs Valur Reykjavik [CƠM CHÁY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1782669202-0-0-3aa11b5226b1bb4f07c8a8d3df34537f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Thor Akureyri vs Valur Reykjavik [CƠM CHÁY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1782669202-0-0-35f20c39f9a970118a7930420bef8ea3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Thor Akureyri vs Valur Reykjavik [CƠM CHÁY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1782669202-0-0-d25ffc67774a5dfe7d54b95eaabeb274
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Stjarnan Gardabaer vs KA Akureyri [VINFAST] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-617313_lsd.flv?auth_key=1782669202-0-0-5ee9aa449e2327e05bf54e89ae623fc6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Stjarnan Gardabaer vs KA Akureyri [VINFAST] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-617313_lhd.flv?auth_key=1782669202-0-0-4a653888c1dd63bab23cfc12073b89f0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Stjarnan Gardabaer vs KA Akureyri [VINFAST] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1782669202-0-0-cbcd28f33419dc366b17f5eebbde02ea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260623/c1d8c59dc9cb526ce750056cf4a4ea6d.png",ICE PR: Stjarnan Gardabaer vs KA Akureyri [VINFAST] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1782669202-0-0-aa35313cb6db3260299f1620c558ef6b
  
