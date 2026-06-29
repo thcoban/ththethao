@@ -872,6 +872,9 @@ https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a48ca99e1c924c90a9a1d2a95841df1c.png" group-title="Vua Sân Cỏ TV" , 08:00 30/06 ⚽ Netherlands vs Morocco (Travis) 
 https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a48ca99e1c924c90a9a1d2a95841df1c.png" group-title="Vua Sân Cỏ TV" , 08:00 30/06 ⚽ Netherlands vs Morocco (Nhà Đài 1) 
+https://station1-global.ebaclofen.org/live/e92385f06c44650c48579201aabea54c/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/5301386c592331424197d34172de723a.png" group-title="Vua Sân Cỏ TV" , 22:00 30/06 ⚽ Bosnia Women U19 vs Sweden Women U19 (Doanh Chính) 
 https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
 
@@ -895,17 +898,29 @@ https://hls.streamhub.media/hls/thesport-api-bb29a95e8372dad2b640/master.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV NGƯỜI THÉP) [hls]
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV NGƯỜI THÉP) [flv]
-https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV YẾN THANH) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV YẾN THANH) [hls]
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV YẾN THANH) [flv]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV YẾN THANH) [flv]
 https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV TRIỆU TỬ LONG) [hls]
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV TRIỆU TỬ LONG) [flv]
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV NGƯỜI THÉP) [hls]
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV NGƯỜI THÉP) [flv]
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV TÂY MÔN KHÁNH) [hls]
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV TÂY MÔN KHÁNH) [flv]
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV LÃO HẠC) [hls]
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
@@ -919,18 +934,6 @@ https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV VÕ TÒNG) [flv]
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV TÂY MÔN KHÁNH) [hls]
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV TÂY MÔN KHÁNH) [flv]
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV TRIỆU TỬ LONG) [hls]
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV TRIỆU TỬ LONG) [flv]
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/6412_20130925084754.png" group-title="Lương Sơn TV" , 🟢 05:00 30/06 ⚽ Democrata vs Ivinhema FC (MS) (BLV HEINEKEN) [hls]
 https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
 
@@ -943,28 +946,31 @@ https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c9
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/35185_1h0vgy0zaf32.png" group-title="Lương Sơn TV" , 🟢 05:30 30/06 ⚽ Asheville City vs Charlotte Independ B (BLV PELE) [flv]
 https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV KAKA) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV LƯU BỊ) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV KEVILL) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV LỮ BỐ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV LEO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV LỮ BỐ) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV MÃ SIÊU) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV TRIỆU TỬ LONG) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV KEVILL) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV KAKA) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV YẾN THANH) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV LEO) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV TRIỆU TỬ LONG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV NGƯỜI THÉP) [hls]
@@ -973,34 +979,31 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV VÕ TÒNG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV LEO) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV TÂY MÔN KHÁNH) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV KEVILL) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV LỮ BỐ) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV KAKA) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV LƯU BỊ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV LÃO HẠC) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV LỮ BỐ) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV LƯU BỊ) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV KEVILL) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV MÃ SIÊU) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV KAKA) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png" group-title="Lương Sơn TV" , 🟢 08:00 01/07 ⚽ Mexico vs Ecuador (BLV VÕ TÒNG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png" group-title="Lương Sơn TV" , 🟢 08:00 01/07 ⚽ Mexico vs Ecuador (BLV LÃO HẠC) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png" group-title="Lương Sơn TV" , 🟢 08:00 01/07 ⚽ Mexico vs Ecuador (BLV TRIỆU TỬ LONG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png" group-title="Lương Sơn TV" , 🟢 08:00 01/07 ⚽ Mexico vs Ecuador (BLV NGƯỜI THÉP) [hls]
@@ -1012,15 +1015,15 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png" group-title="Lương Sơn TV" , 🟢 08:00 01/07 ⚽ Mexico vs Ecuador (BLV TÂY MÔN KHÁNH) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png" group-title="Lương Sơn TV" , 🟢 08:00 01/07 ⚽ Mexico vs Ecuador (BLV TRIỆU TỬ LONG) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png" group-title="Lương Sơn TV" , 🟢 08:00 01/07 ⚽ Mexico vs Ecuador (BLV LÃO HẠC) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/910_1grwfny1j51c.png" group-title="Lương Sơn TV" , 🟡 06:30 30/06 ⚽ Union Espanola vs Colo Colo (BLV DƯƠNG CHÍ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
  
  
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/25.png" group-title="Nấu Xôi TV" group-logo="https://apixx.connect9nx.com/api/uploads/images/75a537c5-cfac-4c54-b198-029d137467f9.png" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay ([BLV Unknown])
-https://strxx.connect9nx.com/live/fx-1979-toEACxnrTH1M6Bx6HshT5gg26oODeVuO.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/13080.png" group-title="Nấu Xôi TV" group-logo="https://apixx.connect9nx.com/api/uploads/images/75a537c5-cfac-4c54-b198-029d137467f9.png" , 🟢 05:00 30/06 ⚽ Democrata GV vs Ivinhema ([BLV Unknown])
 https://freem3u.xyz/static/no-signal/low.m3u8
@@ -1041,10 +1044,10 @@ https://hls.lauthaitv.cc/live/ger-par-wc-tho/index.m3u8
 #EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/74aae8fa-6cb4-4a4c-ab40-c45b13c701f3" group-title="S8 TV" , 🟢 03:30 30/06 ⚽ Đức vs Paraguay (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/ger-par-wc-tho.flv
 
-#EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/08641637-4d6e-4b9c-b551-5823854ccbd3" group-title="S8 TV" , 06:30 30/06 ⚽ Union Espanola vs Colo Colo (NGƯỜI SẮT) [hls]
+#EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/08641637-4d6e-4b9c-b551-5823854ccbd3" group-title="S8 TV" , 🟡 06:30 30/06 ⚽ Union Espanola vs Colo Colo (NGƯỜI SẮT) [hls]
 https://hls.lauthaitv.cc/live/uesp-colo-chicup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/08641637-4d6e-4b9c-b551-5823854ccbd3" group-title="S8 TV" , 06:30 30/06 ⚽ Union Espanola vs Colo Colo (NGƯỜI SẮT) [flv]
+#EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/08641637-4d6e-4b9c-b551-5823854ccbd3" group-title="S8 TV" , 🟡 06:30 30/06 ⚽ Union Espanola vs Colo Colo (NGƯỜI SẮT) [flv]
 https://flv.lauthaitv.cc/live/uesp-colo-chicup.flv
 
 #EXTINF:-1 tvg-logo="https://news8tv.com/wp-json/s8-image/f27ef4e3-a430-465e-8e05-376e5127ed85" group-title="S8 TV" , 08:00 30/06 ⚽ Hà Lan vs Ma Rốc (NGƯỜI NẶN) [hls]
@@ -1601,7 +1604,7 @@ https://pull.asynccdn.com/live/962ec7e9b2fa427a941bfc3b8cf4e55f/index.m3u8
 #EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
 https://pull.asynccdn.com/live/515a7312abfd415c86eb679cef9caedd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/f2079480b8d2572df91b87cc61493326.png" group-title="Tiếu Lâm TV" , 06:30 30/06 ⚽ Union Espanola vs Colo Colo (BLV TRẠNG BÉO) [geo] 
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/f2079480b8d2572df91b87cc61493326.png" group-title="Tiếu Lâm TV" , 🟡 06:30 30/06 ⚽ Union Espanola vs Colo Colo (BLV TRẠNG BÉO) [geo] 
 #EXTVLCOPT:http-referrer=https://sv1.tieulam.info/
 https://pull.asynccdn.com/live/bcade5630f9343bbb130d470cc87b5f4/index.m3u8
 
@@ -1893,6 +1896,12 @@ https://playback.livetl001.com/live//69f42e961f739deff81510c0.flv
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/761ccf19be6a4fdf81880acadb81aa4c.png" group-title="Ant Live TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (Saitama) [hls]
 https://playback.livetl001.com/live//69f42e961f739deff81510c0.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/c74227822e1984fc283bd4a4abe63075.png" group-title="Ant Live TV" , 🟢 01:30 30/06 ⚽ Mabarrah vs Al Ansar SC (Bố phan hải) [flv]
+https://playback.livetl001.com/live//6a0ea6a6b89dded67b1171d3.flv
+
+#EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/c74227822e1984fc283bd4a4abe63075.png" group-title="Ant Live TV" , 🟢 01:30 30/06 ⚽ Mabarrah vs Al Ansar SC (Bố phan hải) [hls]
+https://playback.livetl001.com/live//6a0ea6a6b89dded67b1171d3.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a48ca99e1c924c90a9a1d2a95841df1c.png" group-title="Ant Live TV" , 08:00 30/06 ⚽ Netherlands vs Morocco (Kayti) [flv]
 https://playback.livetl001.com/live//69b8e6f43bcf2231c35d5144.flv
 
@@ -1911,10 +1920,10 @@ https://playback.livetl001.com/live//69be75e0a0a45974afb67776.flv
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a48ca99e1c924c90a9a1d2a95841df1c.png" group-title="Ant Live TV" , 08:00 30/06 ⚽ Netherlands vs Morocco (Meomeo) [hls]
 https://playback.livetl001.com/live//69be75e0a0a45974afb67776.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/f2079480b8d2572df91b87cc61493326.png" group-title="Ant Live TV" , 06:30 30/06 ⚽ Union Espanola vs Colo Colo (Blv đình bắc) [flv]
+#EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/f2079480b8d2572df91b87cc61493326.png" group-title="Ant Live TV" , 🟡 06:30 30/06 ⚽ Union Espanola vs Colo Colo (Blv đình bắc) [flv]
 https://playback.livetl001.com/live//6a2a5896b89dded67b19bcf5.flv
 
-#EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/f2079480b8d2572df91b87cc61493326.png" group-title="Ant Live TV" , 06:30 30/06 ⚽ Union Espanola vs Colo Colo (Blv đình bắc) [hls]
+#EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/f2079480b8d2572df91b87cc61493326.png" group-title="Ant Live TV" , 🟡 06:30 30/06 ⚽ Union Espanola vs Colo Colo (Blv đình bắc) [hls]
 https://playback.livetl001.com/live//6a2a5896b89dded67b19bcf5.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/0c7d6546c9204e45c17bc2d9d05f7a4b.png" group-title="Ant Live TV" , 15:00 30/06 ⚽ FC Ulaanbaatar vs Tuv Buganuud (Bố phan hải) [flv]
@@ -1999,150 +2008,6 @@ https://playback.livetl001.com/live//6a02c3637fd690a3410710a5.m3u8
  
 #EXTM3U
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=b96db47f839baca4f0e6375ade691a2a&txTime=6a433f56
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=104bdc0b34b586b6920de3a5e83426d8&txTime=6a433f56
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=b96db47f839baca4f0e6375ade691a2a&txTime=6a433f56
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=104bdc0b34b586b6920de3a5e83426d8&txTime=6a433f56
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782774022-0-0-6f5eb5050f217d3fdd87702f1b16e59f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782774022-0-0-5eabb7f31564b54256e7afa24aa7f449
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782774022-0-0-b4aaa738ad9e9448f733f61003c8fa6a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782774022-0-0-d3d032a1bee60186284f527bf5a59e1e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782774022-0-0-e3eb31f4dc841e963a4a52441c1f3709
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782774022-0-0-86772cc5dd244ad42c86103a53c0a20e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782774022-0-0-48a09eccd97bd5489dd8fb0e507ed427
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782774022-0-0-45474768e51ccf8d972fbd172fd68e9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=ce2539b73ba83329d9f2a290f9050c3d&txTime=6a433f56
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=dbb0f37ac09b78ab3b41bd240ac00668&txTime=6a433f56
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=ce2539b73ba83329d9f2a290f9050c3d&txTime=6a433f56
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=dbb0f37ac09b78ab3b41bd240ac00668&txTime=6a433f56
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=fbd82bd506680a4c9cbb2ac51d560084&txTime=6a433f56
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=e59d61689f3748522f2a898f940fa59e&txTime=6a433f56
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=fbd82bd506680a4c9cbb2ac51d560084&txTime=6a433f56
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=e59d61689f3748522f2a898f940fa59e&txTime=6a433f56
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782774022-0-0-5fcc6d9d8380da2d48728cd90ec8cc93
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782774022-0-0-e35c1ecb4ec96c9ce6509d513adb67d0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782774022-0-0-48d1252754fcd08b65eaabb1d942db10
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782774022-0-0-560c0a63ee234541e3823a65233d7ce4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [CR Bưởi] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=72f580eda8272adb09eefd4e9d2ccbe7&txTime=6a434082
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [CR Bưởi] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=8886a8a4654a46a04e0210c1fc5f9fb6&txTime=6a434082
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [CR Bưởi] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=72f580eda8272adb09eefd4e9d2ccbe7&txTime=6a434082
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [CR Bưởi] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=8886a8a4654a46a04e0210c1fc5f9fb6&txTime=6a434082
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782774322-0-0-947a43525368e39d729f87dbabd8d8f8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782774322-0-0-63a4ef77d4a068d78031df83e0c6c66c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782774322-0-0-fbc32c1df80b0bcc8023216ebc9db868
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782774322-0-0-00585ed06d701adaadd589bf2a36e087
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782774322-0-0-ddefd1d7127f3532a2c3dd06ceece210
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782774322-0-0-bbbd8771b069c7753e3a3c07b2fa1e00
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782774322-0-0-907532c730ac0bde7437b89986bdfd07
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782774322-0-0-2728a72afc4ec745fe4bed6bc39aa42f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=5683e56cd91ea7d1d285c891cfe589b8&txTime=6a434082
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=15a229b53675fca4dcb677a92341678d&txTime=6a434082
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=5683e56cd91ea7d1d285c891cfe589b8&txTime=6a434082
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=15a229b53675fca4dcb677a92341678d&txTime=6a434082
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=9a0d1ff82400fe81a1f40d0994683d9e&txTime=6a434082
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=dcad0e0da6f8b028ca4de41408a398a0&txTime=6a434082
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=9a0d1ff82400fe81a1f40d0994683d9e&txTime=6a434082
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=dcad0e0da6f8b028ca4de41408a398a0&txTime=6a434082
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782774322-0-0-eb77927b8e749f3946a4052ab6d7262b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782774322-0-0-0f4130e93e49ecaff02b9b5aecd7ad7e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782774322-0-0-1f21e45b0635b670523e39d296215ee4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782774322-0-0-480b520630d3aff7307da27bcb6fd94b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782774682-0-0-7b3e785403a66a5f411826babe0ee236
@@ -2155,4 +2020,148 @@ https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782774682-0-0-b466
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782774682-0-0-04bce294075b64d37cc3881cffd01f7b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=2e8f6b360cf4d719e56f4a30fdd9e638&txTime=6a434352
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=360f81fe2c4ec7f6d02edd94f7c4221e&txTime=6a434352
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=2e8f6b360cf4d719e56f4a30fdd9e638&txTime=6a434352
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=360f81fe2c4ec7f6d02edd94f7c4221e&txTime=6a434352
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782775042-0-0-888b5b85a653990d223641d77e35a4e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782775042-0-0-385eff176ef91290347531d7c824d338
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782775042-0-0-6a250a1d0d06bb022938035bbcfe9581
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782775042-0-0-438f350e1624cd0996ff81dd0c443bd8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782775042-0-0-029d7f2155ab10fa5bfeb8faad006173
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782775042-0-0-139b81666e2b6ba1d184253393d291a0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782775042-0-0-87635dbac1205f3ae6c77382317d23ae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782775042-0-0-c034234dde9631ad34adcf183c8e7173
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=d9daf2951aa43999d3e3013d4c042e78&txTime=6a434352
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=233ad4ee75e3b700de2381fe35134133&txTime=6a434352
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=d9daf2951aa43999d3e3013d4c042e78&txTime=6a434352
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=233ad4ee75e3b700de2381fe35134133&txTime=6a434352
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=55b47f0f9c322748f724ed15a1116e0d&txTime=6a434352
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=8566e6aa5554e142532837cbc629c35e&txTime=6a434352
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=55b47f0f9c322748f724ed15a1116e0d&txTime=6a434352
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=8566e6aa5554e142532837cbc629c35e&txTime=6a434352
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782775042-0-0-5726ef8313dcf5a197cb15e769037608
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782775042-0-0-eaf8cbaa04cee5f546de949ad87c66d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782775042-0-0-8f240d02fbc93cda8dfb5b2a526eb56c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782775042-0-0-e97c7df1a131fe279a504746b3d9fb4f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782775402-0-0-895a672fd26ecfd9997650976364970b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782775402-0-0-73c8e442f55ddfe97d787d07252833dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782775402-0-0-2526045c05fa065d7211ab77aa584fb8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782775402-0-0-d9f38262ae4a90243f919f808e166f88
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782775402-0-0-dc4f08332b5e9b5cdcc6d98714b4b526
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782775402-0-0-fbd8a491573fb28d498bdcd2e6a4bbab
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782775402-0-0-6db0f7274e5bdf276877c8623b736716
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782775402-0-0-e2423c14010ca24ad011c9b08354f40d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [CR Bưởi] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=c8791d46e5349cbc9b445d1944999345&txTime=6a4344ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [CR Bưởi] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=f084de83ffed63168d5dc288cfb73ea4&txTime=6a4344ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [CR Bưởi] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=c8791d46e5349cbc9b445d1944999345&txTime=6a4344ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [CR Bưởi] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=f084de83ffed63168d5dc288cfb73ea4&txTime=6a4344ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782775402-0-0-5b9d4321590b62c064525f92219004a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782775402-0-0-0c2a9072f76f68ecdb023fe57b9f3547
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782775402-0-0-0515cab7d7e8af4783fb7f41b099b63c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782775402-0-0-f736765bf049f9257074d07c3bd38d60
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=b3c07cf11f4cf502417339f9350a1675&txTime=6a4344ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=fc99a08b866808f51c8657d017af5f78&txTime=6a4344ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=b3c07cf11f4cf502417339f9350a1675&txTime=6a4344ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=fc99a08b866808f51c8657d017af5f78&txTime=6a4344ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=d4dccda3e411190a4f743f350468d705&txTime=6a4344ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=8148e3dfdbe5a012e2fbcf36d4431d96&txTime=6a4344ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=d4dccda3e411190a4f743f350468d705&txTime=6a4344ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png",03h30 ngày 30/06 Germany vs Paraguay [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=8148e3dfdbe5a012e2fbcf36d4431d96&txTime=6a4344ba
  
