@@ -405,12 +405,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" group-title="Hội Quán TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV PHAN QUẨY) [HD] 
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1118.png" group-title="Hội Quán TV" , 08:00 30/06 ⚽ Netherlands vs Morocco (BLV PHAN MÃ) [FHD] 
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1118.png" group-title="Hội Quán TV" , 08:00 30/06 ⚽ Netherlands vs Morocco (BLV PHAN MÃ) [HD] 
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1118.png" group-title="Hội Quán TV" , 08:00 30/06 ⚽ Netherlands vs Morocco (BLV PHAN QUẨY) [FHD] 
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 
@@ -434,6 +428,12 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/661.png" group-title="Hội Quán TV" , 23:00 30/06 ⚽ FK Liepaja vs Ogre United (BLV PHAN CA) [HD] 
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1118.png" group-title="Hội Quán TV" , 08:00 30/06 ⚽ Netherlands vs Morocco (BLV THẦN THÔNG) [FHD] 
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1118.png" group-title="Hội Quán TV" , 08:00 30/06 ⚽ Netherlands vs Morocco (BLV THẦN THÔNG) [HD] 
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
  
  
@@ -898,23 +898,23 @@ https://hls.streamhub.media/hls/thesport-api-bb29a95e8372dad2b640/master.m3u8
  
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV YẾN THANH) [hls]
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV YẾN THANH) [flv]
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV TRIỆU TỬ LONG) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV TRIỆU TỬ LONG) [hls]
 https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV TRIỆU TỬ LONG) [flv]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" group-logo="https://ls42.site/assets/png/logols-CJ7ptr7F.png" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV TRIỆU TỬ LONG) [flv]
 https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV NGƯỜI THÉP) [hls]
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV VÕ TÒNG) [hls]
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV NGƯỜI THÉP) [flv]
-https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV VÕ TÒNG) [flv]
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV YẾN THANH) [hls]
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV YẾN THANH) [flv]
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV TÂY MÔN KHÁNH) [hls]
 https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
@@ -922,17 +922,17 @@ https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV TÂY MÔN KHÁNH) [flv]
 https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV NGƯỜI THÉP) [hls]
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV NGƯỜI THÉP) [flv]
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV LÃO HẠC) [hls]
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV LÃO HẠC) [flv]
 https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV VÕ TÒNG) [hls]
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/560_164983677229.png" group-title="Lương Sơn TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (BLV VÕ TÒNG) [flv]
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/6412_20130925084754.png" group-title="Lương Sơn TV" , 🟢 05:00 30/06 ⚽ Democrata vs Ivinhema FC (MS) (BLV HEINEKEN) [hls]
 https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
@@ -946,31 +946,34 @@ https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c9
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/35185_1h0vgy0zaf32.png" group-title="Lương Sơn TV" , 🟢 05:30 30/06 ⚽ Asheville City vs Charlotte Independ B (BLV PELE) [flv]
 https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV LƯU BỊ) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV MÃ SIÊU) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV LEO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV LỮ BỐ) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV KAKA) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV MÃ SIÊU) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV LƯU BỊ) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV LỮ BỐ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV KEVILL) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/556_16498334962.png" group-title="Lương Sơn TV" , 🟢 08:00 30/06 ⚽ Netherlands vs Morocco (BLV KAKA) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV YẾN THANH) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV LEO) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV TRIỆU TỬ LONG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV TRIỆU TỬ LONG) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV TÂY MÔN KHÁNH) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV LEO) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV NGƯỜI THÉP) [hls]
@@ -979,34 +982,25 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV VÕ TÒNG) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png" group-title="Lương Sơn TV" , 🟢 00:00 01/07 ⚽ Ivory Coast vs Norway (BLV TÂY MÔN KHÁNH) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV LÃO HẠC) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV LỮ BỐ) [hls]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV KAKA) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV LƯU BỊ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV LỮ BỐ) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV KEVILL) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV LÃO HẠC) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV MÃ SIÊU) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png" group-title="Lương Sơn TV" , 🟢 04:00 01/07 ⚽ France vs Sweden (BLV KAKA) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png" group-title="Lương Sơn TV" , 🟢 08:00 01/07 ⚽ Mexico vs Ecuador (BLV VÕ TÒNG) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png" group-title="Lương Sơn TV" , 🟢 08:00 01/07 ⚽ Mexico vs Ecuador (BLV TRIỆU TỬ LONG) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png" group-title="Lương Sơn TV" , 🟢 08:00 01/07 ⚽ Mexico vs Ecuador (BLV NGƯỜI THÉP) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png" group-title="Lương Sơn TV" , 🟢 08:00 01/07 ⚽ Mexico vs Ecuador (BLV YẾN THANH) [hls]
@@ -1018,12 +1012,21 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png" group-title="Lương Sơn TV" , 🟢 08:00 01/07 ⚽ Mexico vs Ecuador (BLV LÃO HẠC) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png" group-title="Lương Sơn TV" , 🟢 08:00 01/07 ⚽ Mexico vs Ecuador (BLV TRIỆU TỬ LONG) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png" group-title="Lương Sơn TV" , 🟢 08:00 01/07 ⚽ Mexico vs Ecuador (BLV NGƯỜI THÉP) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/910_1grwfny1j51c.png" group-title="Lương Sơn TV" , 🟡 06:30 30/06 ⚽ Union Espanola vs Colo Colo (BLV DƯƠNG CHÍ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
  
  
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/25.png" group-title="Nấu Xôi TV" group-logo="https://apixx.connect9nx.com/api/uploads/images/75a537c5-cfac-4c54-b198-029d137467f9.png" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay ([BLV Unknown])
+https://strxx.connect9nx.com/live/fx-1979-toEACxnrTH1M6Bx6HshT5gg26oODeVuO.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/13080.png" group-title="Nấu Xôi TV" group-logo="https://apixx.connect9nx.com/api/uploads/images/75a537c5-cfac-4c54-b198-029d137467f9.png" , 🟢 05:00 30/06 ⚽ Democrata GV vs Ivinhema ([BLV Unknown])
 https://freem3u.xyz/static/no-signal/low.m3u8
@@ -1816,12 +1819,6 @@ https://hls.cdnfaster-b.site/live/live1B/index.m3u8?expire=1814045760&sign=67da0
 #EXTINF:-1 tvg-logo="https://api.url-api-ck.com/uploads/livestream-customs/1782682425943-8wzjjo2v0bo.png" group-title="Cà Khịa TV" , 🔴🎥 23:59 30/06 ⚽ Colombia vs Bồ Đào Nha (Giàng A Gấu) [flv]
 https://flv.cdnfaster-b.site/live/live1B.flv?expire=1814045760&sign=67da0f5d6b291f06dba6fdd8929ec9b9
 
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/4973ff994063b20e3d921315e7c76683.png" group-title="Cà Khịa TV" , 🟢 05:30 30/06 ⚽ Asheville City vs Charlotte Independ B (GIÀNG A MÂY) [hls]
-https://hls.cdnfaster-b.site/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-
-#EXTINF:-1 tvg-logo="https://img.url-api-ck.com/football/team/4973ff994063b20e3d921315e7c76683.png" group-title="Cà Khịa TV" , 🟢 05:30 30/06 ⚽ Asheville City vs Charlotte Independ B (GIÀNG A MÂY) [flv]
-https://flv.cdnfaster-b.site/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-
  
  
 #EXTM3U
@@ -1895,12 +1892,6 @@ https://playback.livetl001.com/live//69f42e961f739deff81510c0.flv
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/761ccf19be6a4fdf81880acadb81aa4c.png" group-title="Ant Live TV" , 🟢 03:30 30/06 ⚽ Germany vs Paraguay (Saitama) [hls]
 https://playback.livetl001.com/live//69f42e961f739deff81510c0.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/c74227822e1984fc283bd4a4abe63075.png" group-title="Ant Live TV" , 🟢 01:30 30/06 ⚽ Mabarrah vs Al Ansar SC (Bố phan hải) [flv]
-https://playback.livetl001.com/live//6a0ea6a6b89dded67b1171d3.flv
-
-#EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/c74227822e1984fc283bd4a4abe63075.png" group-title="Ant Live TV" , 🟢 01:30 30/06 ⚽ Mabarrah vs Al Ansar SC (Bố phan hải) [hls]
-https://playback.livetl001.com/live//6a0ea6a6b89dded67b1171d3.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a48ca99e1c924c90a9a1d2a95841df1c.png" group-title="Ant Live TV" , 08:00 30/06 ⚽ Netherlands vs Morocco (Kayti) [flv]
 https://playback.livetl001.com/live//69b8e6f43bcf2231c35d5144.flv
