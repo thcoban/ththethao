@@ -61,6 +61,7 @@ jobs:
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o extractm3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/extractm3u.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o removem3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/removem3u.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o apisports.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/apisports.py & 
+          curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o antlivetv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/antlivetv.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o fixjson.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/fixjson.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o testproxies.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/testproxies.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o keys.json ${{ secrets.URL_PRIVATE_FILES_REPO }}/jsonfiles/keys.json & 
@@ -83,6 +84,7 @@ jobs:
           curl -s -k -L -o vuasancotv.m3u https://thcoban.github.io/ththethao/vuasancotv.m3u  &
           curl -s -k -L -o biaomtv.m3u https://thcoban.github.io/ththethao/biaomtv.m3u  &
           curl -s -k -L -o s8tv.m3u https://thcoban.github.io/ththethao/s8tv.m3u  &
+          curl -s -k -L -o antlivetv.m3u https://thcoban.github.io/ththethao/antlivetv.m3u  &
           
           wait
           ls -lh
@@ -97,6 +99,10 @@ jobs:
             # will overwrite previous xoilacztv, if the condition matches
             # python xoilacztv.py https://xoilacz.vip xoilacztv.m3u  & 
             python xoilacztv.py https://xoilacz.io xoilacztv.m3u  & 
+          fi
+
+          if [ -f antlivetv.py ]; then
+            python antlivetv.py https://gavanglink.org antlivetv.m3u &
           fi
           
           if [ -f apisports.py ]; then
@@ -118,6 +124,7 @@ jobs:
             python apisports.py biaom biaomtv.m3u &
             python apisports.py s8tv s8tv.m3u &
           fi
+          
           
           if [ -f extractm3u.py ]; then
             # python extractm3u.py pktv.m3u new_pktv.m3u "Cháo Gà"  & 
@@ -237,6 +244,12 @@ jobs:
             echo " " >> ttthethao.m3u
           fi
 
+          if [ -f antlivetv.m3u ]; then
+            echo " " >> ttthethao.m3u
+            cat antlivetv.m3u >> ttthethao.m3u
+            echo " " >> ttthethao.m3u
+          fi
+
           if [ -f socolivetv.m3u ]; then
             echo " " >> ttthethao.m3u
             cat socolivetv.m3u >> ttthethao.m3u
@@ -291,6 +304,7 @@ jobs:
           [ -f vuasancotv.m3u ] && cp vuasancotv.m3u m3ufiles/
           [ -f biaomtv.m3u ] && cp biaomtv.m3u m3ufiles/
           [ -f s8tv.m3u ] && cp s8tv.m3u m3ufiles/
+          [ -f antlivetv.m3u ] && cp antlivetv.m3u m3ufiles/
           [ -f nguyenban.m3u ] && cp nguyenban.m3u m3ufiles/
           
           [ -f socolivetv.m3u ] && cp socolivetv.m3u m3ufiles/
