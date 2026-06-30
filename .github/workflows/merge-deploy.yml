@@ -67,24 +67,25 @@ jobs:
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o keys.json ${{ secrets.URL_PRIVATE_FILES_REPO }}/jsonfiles/keys.json & 
           
           # download previous m3u files, for next use
-          curl -s -k -L -o quechoatv.m3u https://thcoban.github.io/ththethao/quechoatv.m3u  &
-          curl -s -k -L -o tieulamtv.m3u https://thcoban.github.io/ththethao/tieulamtv.m3u  &
           curl -s -k -L -o xoilacztv.m3u https://thcoban.github.io/ththethao/xoilacztv.m3u  &
-          curl -s -k -L -o hoiquantv.m3u https://thcoban.github.io/ththethao/hoiquantv.m3u  &
-          curl -s -k -L -o khandaiatv.m3u https://thcoban.github.io/ththethao/khandaiatv.m3u  &
-          curl -s -k -L -o xaycontv.m3u https://thcoban.github.io/ththethao/xaycontv.m3u  &
-          curl -s -k -L -o colatv.m3u https://thcoban.github.io/ththethao/colatv.m3u  &
-          curl -s -k -L -o bugiotv.m3u https://thcoban.github.io/ththethao/bugiotv.m3u  &
-          curl -s -k -L -o tamquoctv.m3u https://thcoban.github.io/ththethao/tamquoctv.m3u  &
-          curl -s -k -L -o cakhiatv.m3u https://thcoban.github.io/ththethao/cakhiatv.m3u  &
-          curl -s -k -L -o nauxoitv.m3u https://thcoban.github.io/ththethao/nauxoitv.m3u  &
-          curl -s -k -L -o chuoichientv.m3u https://thcoban.github.io/ththethao/chuoichientv.m3u  &
-          curl -s -k -L -o luongsontv.m3u https://thcoban.github.io/ththethao/luongsontv.m3u  &
-          curl -s -k -L -o chaogatv.m3u https://thcoban.github.io/ththethao/chaogatv.m3u  &
-          curl -s -k -L -o vuasancotv.m3u https://thcoban.github.io/ththethao/vuasancotv.m3u  &
-          curl -s -k -L -o biaomtv.m3u https://thcoban.github.io/ththethao/biaomtv.m3u  &
-          curl -s -k -L -o s8tv.m3u https://thcoban.github.io/ththethao/s8tv.m3u  &
-          curl -s -k -L -o antlivetv.m3u https://thcoban.github.io/ththethao/antlivetv.m3u  &
+          
+          # curl -s -k -L -o quechoatv.m3u https://thcoban.github.io/ththethao/quechoatv.m3u  &
+          # curl -s -k -L -o tieulamtv.m3u https://thcoban.github.io/ththethao/tieulamtv.m3u  &
+          # curl -s -k -L -o hoiquantv.m3u https://thcoban.github.io/ththethao/hoiquantv.m3u  &
+          # curl -s -k -L -o khandaiatv.m3u https://thcoban.github.io/ththethao/khandaiatv.m3u  &
+          # curl -s -k -L -o xaycontv.m3u https://thcoban.github.io/ththethao/xaycontv.m3u  &
+          # curl -s -k -L -o colatv.m3u https://thcoban.github.io/ththethao/colatv.m3u  &
+          # curl -s -k -L -o bugiotv.m3u https://thcoban.github.io/ththethao/bugiotv.m3u  &
+          # curl -s -k -L -o tamquoctv.m3u https://thcoban.github.io/ththethao/tamquoctv.m3u  &
+          # curl -s -k -L -o cakhiatv.m3u https://thcoban.github.io/ththethao/cakhiatv.m3u  &
+          # curl -s -k -L -o nauxoitv.m3u https://thcoban.github.io/ththethao/nauxoitv.m3u  &
+          # curl -s -k -L -o chuoichientv.m3u https://thcoban.github.io/ththethao/chuoichientv.m3u  &
+          # curl -s -k -L -o luongsontv.m3u https://thcoban.github.io/ththethao/luongsontv.m3u  &
+          # curl -s -k -L -o chaogatv.m3u https://thcoban.github.io/ththethao/chaogatv.m3u  &
+          # curl -s -k -L -o vuasancotv.m3u https://thcoban.github.io/ththethao/vuasancotv.m3u  &
+          # curl -s -k -L -o biaomtv.m3u https://thcoban.github.io/ththethao/biaomtv.m3u  &
+          # curl -s -k -L -o s8tv.m3u https://thcoban.github.io/ththethao/s8tv.m3u  &
+          # curl -s -k -L -o antlivetv.m3u https://thcoban.github.io/ththethao/antlivetv.m3u  &
           
           wait
           ls -lh
@@ -281,33 +282,34 @@ jobs:
           # ls -lh
 
           [ -f bongda.m3u ] && cp bongda.m3u m3ufiles/
-          [ -f thethao.m3u ] && cp thethao.m3u m3ufiles/
+          [ -f ${{ secrets.NAME_THTHETHAO }} ] && cp ${{ secrets.NAME_THTHETHAO }} m3ufiles/
           [ -f thethao-base.m3u ] && cp thethao-base.m3u m3ufiles/
-          [ -f ttthethao.m3u ] && cp ttthethao.m3u m3ufiles/
+          [ -f ${{ secrets.NAME_TTTHETHAO }} ] && cp ${{ secrets.NAME_TTTHETHAO }} m3ufiles/
 
           # keep current xoilacztv.m3u for next use
           [ -f xoilacztv.m3u ] && cp xoilacztv.m3u m3ufiles/
-          [ -f quechoatv.m3u ] && cp quechoatv.m3u m3ufiles/
-          [ -f hoiquantv.m3u ] && cp hoiquantv.m3u m3ufiles/
-          [ -f khandaiatv.m3u ] && cp khandaiatv.m3u m3ufiles/
-          [ -f xaycontv.m3u ] && cp xaycontv.m3u m3ufiles/
-          [ -f colatv.m3u ] && cp colatv.m3u m3ufiles/
-          [ -f bugiotv.m3u ] && cp bugiotv.m3u m3ufiles/
-          [ -f tamquoctv.m3u ] && cp tamquoctv.m3u m3ufiles/
-          [ -f chuoichientv.m3u ] && cp chuoichientv.m3u m3ufiles/
-          [ -f cakhiatv.m3u ] && cp cakhiatv.m3u m3ufiles/
-          [ -f nauxoitv.m3u ] && cp nauxoitv.m3u m3ufiles/
-          [ -f quechoatv.m3u ] && cp quechoatv.m3u m3ufiles/
-          [ -f tieulamtv.m3u ] && cp tieulamtv.m3u m3ufiles/
-          [ -f luongsontv.m3u ] && cp luongsontv.m3u m3ufiles/
-          [ -f chaogatv.m3u ] && cp chaogatv.m3u m3ufiles/
-          [ -f vuasancotv.m3u ] && cp vuasancotv.m3u m3ufiles/
-          [ -f biaomtv.m3u ] && cp biaomtv.m3u m3ufiles/
-          [ -f s8tv.m3u ] && cp s8tv.m3u m3ufiles/
-          [ -f antlivetv.m3u ] && cp antlivetv.m3u m3ufiles/
-          [ -f nguyenban.m3u ] && cp nguyenban.m3u m3ufiles/
           
-          [ -f socolivetv.m3u ] && cp socolivetv.m3u m3ufiles/
+          # [ -f quechoatv.m3u ] && cp quechoatv.m3u m3ufiles/
+          # [ -f hoiquantv.m3u ] && cp hoiquantv.m3u m3ufiles/
+          # [ -f khandaiatv.m3u ] && cp khandaiatv.m3u m3ufiles/
+          # [ -f xaycontv.m3u ] && cp xaycontv.m3u m3ufiles/
+          # [ -f colatv.m3u ] && cp colatv.m3u m3ufiles/
+          # [ -f bugiotv.m3u ] && cp bugiotv.m3u m3ufiles/
+          # [ -f tamquoctv.m3u ] && cp tamquoctv.m3u m3ufiles/
+          # [ -f chuoichientv.m3u ] && cp chuoichientv.m3u m3ufiles/
+          # [ -f cakhiatv.m3u ] && cp cakhiatv.m3u m3ufiles/
+          # [ -f nauxoitv.m3u ] && cp nauxoitv.m3u m3ufiles/
+          # [ -f quechoatv.m3u ] && cp quechoatv.m3u m3ufiles/
+          # [ -f tieulamtv.m3u ] && cp tieulamtv.m3u m3ufiles/
+          # [ -f luongsontv.m3u ] && cp luongsontv.m3u m3ufiles/
+          # [ -f chaogatv.m3u ] && cp chaogatv.m3u m3ufiles/
+          # [ -f vuasancotv.m3u ] && cp vuasancotv.m3u m3ufiles/
+          # [ -f biaomtv.m3u ] && cp biaomtv.m3u m3ufiles/
+          # [ -f s8tv.m3u ] && cp s8tv.m3u m3ufiles/
+          # [ -f antlivetv.m3u ] && cp antlivetv.m3u m3ufiles/
+          # [ -f nguyenban.m3u ] && cp nguyenban.m3u m3ufiles/
+          
+          # [ -f socolivetv.m3u ] && cp socolivetv.m3u m3ufiles/
           
           [ -f keys.json ] && cp keys.json m3ufiles/
           [ -f ttthethao.json ] && cp ttthethao.json m3ufiles/         
