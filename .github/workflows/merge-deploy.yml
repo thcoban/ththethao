@@ -146,139 +146,141 @@ jobs:
       
       # Runs a set of commands using the runners shell
       - name: Merge Files
-        # Combine thethao-base.m3u, bongda.m3u and other m3u files into thethao.m3u
+        # Combine thethao-base.m3u, ttthethao.m3u and other m3u files into thethao.m3u
         run: |
           # delete old thethao.m3u, ttthethao.m3u before merge
-          rm -f thethao.m3u
-          rm -f ttthethao.m3u
+          rm -f ${{ secrets.NAME_THTHETHAO }}
+          rm -f ${{ secrets.NAME_TTTHETHAO }}
           mkdir -p m3ufiles
           ls -lh
 
           if [ -f nguyenban.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat nguyenban.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat nguyenban.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f quechoatv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat quechoatv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat quechoatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f khandaiatv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat khandaiatv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat khandaiatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f hoiquantv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat hoiquantv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat hoiquantv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f bugiotv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat bugiotv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat bugiotv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f xaycontv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat xaycontv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat xaycontv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f chaogatv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat chaogatv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat chaogatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f chuoichientv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat chuoichientv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat chuoichientv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f vuasancotv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat vuasancotv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat vuasancotv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f colatv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat colatv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat colatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f luongsontv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat luongsontv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat luongsontv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f nauxoitv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat nauxoitv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat nauxoitv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f s8tv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat s8tv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat s8tv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f xoilacztv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat xoilacztv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat xoilacztv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi         
           if [ -f tieulamtv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat tieulamtv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat tieulamtv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f tamquoctv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat tamquoctv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat tamquoctv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f cakhiatv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat cakhiatv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat cakhiatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f biaomtv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat biaomtv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat biaomtv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
 
           if [ -f antlivetv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat antlivetv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat antlivetv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
 
           if [ -f socolivetv.m3u ]; then
-            echo " " >> ttthethao.m3u
-            cat socolivetv.m3u >> ttthethao.m3u
-            echo " " >> ttthethao.m3u
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat socolivetv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           
           # if [ -f new_vatv.m3u ]; then
-          #   echo " " >> ttthethao.m3u
-          #   cat new_vatv.m3u >> ttthethao.m3u
-          #   echo " " >> ttthethao.m3u
+          #   echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          #   cat new_vatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+          #   echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           # fi
 
           # if [ -f new_pktv.m3u ]; then
-          #   echo " " >> ttthethao.m3u
-          #   cat new_pktv.m3u >> ttthethao.m3u
-          #   echo " " >> ttthethao.m3u
+          #   echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          #   cat new_pktv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+          #   echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           # fi
 
           # if [ -f new_bongda.m3u ]; then
-          #   echo " " >> ttthethao.m3u
-          #   cat new_bongda.m3u >> ttthethao.m3u
-          #   echo " " >> ttthethao.m3u
+          #   echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          #   cat new_bongda.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+          #   echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           # fi
 
-          cat thethao-base.m3u > thethao.m3u
-          echo " " >> thethao.m3u
-          cat ttthethao.m3u >> thethao.m3u
-          echo " " >> thethao.m3u
+          echo "Last updated: $(date)" >> lastupdate.txt
+
+          cat thethao-base.m3u > ${{ secrets.NAME_THTHETHAO }}
+          echo " " >> ${{ secrets.NAME_THTHETHAO }}
+          cat ${{ secrets.NAME_TTTHETHAO }} >> ${{ secrets.NAME_THTHETHAO }}
+          echo " " >> ${{ secrets.NAME_THTHETHAO }}
           # ls -lh
 
           [ -f bongda.m3u ] && cp bongda.m3u m3ufiles/
@@ -330,7 +332,8 @@ jobs:
       - name: Commit and push changes
         run: |
           git config --local user.name "thcoban [bot]"
-          git add ttthethao.m3u
+          # git add ttthethao.m3u
+          git add lastupdate.txt
           git add etc/testing/host.txt
 
           echo "checking any changes"
