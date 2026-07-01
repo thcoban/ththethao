@@ -281,7 +281,7 @@ jobs:
           echo " " >> ${{ secrets.NAME_THTHETHAO }}
           # ls -lh
 
-          date -u +'%Y-%m-%dT%H:%M:%SZ' >> lastupdate.txt
+          echo "Last updated: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" > lastupdated.txt
 
           [ -f bongda.m3u ] && cp bongda.m3u m3ufiles/
           [ -f ${{ secrets.NAME_THTHETHAO }} ] && cp ${{ secrets.NAME_THTHETHAO }} m3ufiles/
@@ -333,7 +333,7 @@ jobs:
         run: |
           git config --local user.name "thcoban [bot]"
           # git add ttthethao.m3u
-          git add lastupdate.txt
+          git add lastupdated.txt
           git add etc/testing/host.txt
 
           echo "checking any changes"
