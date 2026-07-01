@@ -275,13 +275,13 @@ jobs:
           #   echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           # fi
 
-          cat "Last updated: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> lastupdate.txt
-
           cat thethao-base.m3u > ${{ secrets.NAME_THTHETHAO }}
           echo " " >> ${{ secrets.NAME_THTHETHAO }}
           cat ${{ secrets.NAME_TTTHETHAO }} >> ${{ secrets.NAME_THTHETHAO }}
           echo " " >> ${{ secrets.NAME_THTHETHAO }}
           # ls -lh
+
+          date -u +'%Y-%m-%dT%H:%M:%SZ' >> lastupdate.txt
 
           [ -f bongda.m3u ] && cp bongda.m3u m3ufiles/
           [ -f ${{ secrets.NAME_THTHETHAO }} ] && cp ${{ secrets.NAME_THTHETHAO }} m3ufiles/
