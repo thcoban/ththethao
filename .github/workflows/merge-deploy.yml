@@ -328,7 +328,7 @@ jobs:
 
       - name: Retry Deployment on Failure
         id: deployment
-        uses: w9jds/retry-action@master
+        uses: Wandalen/wretry.action@v3.5
         with:
           action: actions/deploy-pages@v5  # Swap this out for your specific deployment action
           attempts: 2
