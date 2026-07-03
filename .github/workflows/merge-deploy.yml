@@ -51,7 +51,7 @@ jobs:
         run: |
           curl -s -k -L -o bongda.m3u ${{ secrets.URL_BONGDA }}  &  
           # curl -s -k -L -o pktv.m3u ${{ secrets.URL_PK_TV }}  & 
-          curl -s -k -L -o tlgsport.json https://bit.ly/tlgsport  & 
+          # curl -s -k -L -o tlgsport.json https://bit.ly/tlgsport  & 
           # curl -s -k -L -o vatv.m3u ${{ secrets.URL_VATV }}  & 
           # curl -s -k -L -o linhtv.m3u ${{ secrets.URL_LINH_REPO }}/full.m3u  & 
           
