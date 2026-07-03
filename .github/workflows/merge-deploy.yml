@@ -317,6 +317,7 @@ jobs:
           # [ -f ttthethao.json ] && cp ttthethao.json m3ufiles/         
           
           # ls -lh m3ufiles/
+
           
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -326,17 +327,6 @@ jobs:
           # Upload entire repository
           path: 'm3ufiles/'
 
-      - name: Retry Deployment on Failure
-        id: deployment
-        uses: Wandalen/wretry.action@v3
-        with:
-          action: actions/deploy-pages@v5  # Swap this out for your specific deployment action
-          attempt_limit: 3
-          attempt_delay: 3
-    
-      # - name: Deploy to GitHub Pages
-      #   id: deployment
-      #   uses: actions/deploy-pages@v5        
 
       - name: Commit and push changes
         run: |
@@ -351,5 +341,19 @@ jobs:
           fi
           
           git commit --allow-empty -m "[no ci] Update ttthethao.m3u" && git push
+
+
+      - name: Retry Deployment on Failure
+        id: deployment
+        uses: Wandalen/wretry.action@v3
+        with:
+          action: actions/deploy-pages@v5  # Swap this out for your specific deployment action
+          attempt_limit: 3
+          attempt_delay: 3
+    
+      # - name: Deploy to GitHub Pages
+      #   id: deployment
+      #   uses: actions/deploy-pages@v5        
+
           # git commit  -m "retry" && git push
           # git push
