@@ -325,9 +325,18 @@ jobs:
         with:
           # Upload entire repository
           path: 'm3ufiles/'
-      - name: Deploy to GitHub Pages
+
+      - name: Retry Deployment on Failure
         id: deployment
-        uses: actions/deploy-pages@v5        
+        uses: w9jds/retry-action@master
+        with:
+          action: actions/deploy-pages@v5  # Swap this out for your specific deployment action
+          attempts: 2
+          delay: 10
+    
+      # - name: Deploy to GitHub Pages
+      #   id: deployment
+      #   uses: actions/deploy-pages@v5        
 
       - name: Commit and push changes
         run: |
@@ -341,5 +350,6 @@ jobs:
             echo "[test only] No changes detected."
           fi
           
-          git commit -m "[no ci] Update ttthethao.m3u"
+          git commit --allow-empty -m "[no ci] Update ttthethao.m3u" && git push
+          # git commit  -m "retry" && git push
           git push      
