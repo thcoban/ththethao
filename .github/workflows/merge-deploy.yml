@@ -331,8 +331,8 @@ jobs:
         uses: Wandalen/wretry.action@v3
         with:
           action: actions/deploy-pages@v5  # Swap this out for your specific deployment action
-          attempt_limit: 3
-          delay: 3
+          attempt_limit: 2
+          attempt_delay: 3
     
       # - name: Deploy to GitHub Pages
       #   id: deployment
