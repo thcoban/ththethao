@@ -327,22 +327,6 @@ jobs:
           # Upload entire repository
           path: 'm3ufiles/'
 
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.name "thcoban [bot]"
-          # git add ttthethao.m3u
-          git add lastupdated.txt
-          git add etc/testing/host.txt
-
-          echo "checking any changes"
-          if git diff --staged --quiet; then
-            echo "[test only] No changes detected."
-          fi
-          
-          git commit --allow-empty -m "[no ci] Update ttthethao.m3u" && git push
-
-
       - name: Retry Deployment on Failure
         id: deployment
         uses: Wandalen/wretry.action@v3
@@ -357,3 +341,17 @@ jobs:
 
           # git commit  -m "retry" && git push
           # git push
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "thcoban [bot]"
+          # git add ttthethao.m3u
+          git add lastupdated.txt
+          git add etc/testing/host.txt
+
+          echo "checking any changes"
+          if git diff --staged --quiet; then
+            echo "[test only] No changes detected."
+          fi
+          
+          git commit --allow-empty -m "[no ci] Update thethao" && git push
