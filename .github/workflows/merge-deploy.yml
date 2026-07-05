@@ -49,7 +49,7 @@ jobs:
           
       - name: Download file via curl
         run: |
-          curl -s -k -L -o bongda.m3u ${{ secrets.URL_BONGDA }}  &  
+          # curl -s -k -L -o bongda.m3u ${{ secrets.URL_BONGDA }}  &  
           # curl -s -k -L -o pktv.m3u ${{ secrets.URL_PK_TV }}  & 
           # curl -s -k -L -o tlgsport.json https://bit.ly/tlgsport  & 
           # curl -s -k -L -o vatv.m3u ${{ secrets.URL_VATV }}  & 
@@ -127,14 +127,14 @@ jobs:
           fi
           
           
-          if [ -f extractm3u.py ]; then
-            # python extractm3u.py pktv.m3u new_pktv.m3u "Cháo Gà"  & 
-            # python extractm3u.py vatv.m3u new_vatv.m3u "ColaTV"   &
+          # if [ -f extractm3u.py ]; then
+          #   # python extractm3u.py pktv.m3u new_pktv.m3u "Cháo Gà"  & 
+          #   # python extractm3u.py vatv.m3u new_vatv.m3u "ColaTV"   &
             
-            [ -f bongda.m3u ] && cp bongda.m3u bongda2.m3u
-            python extractm3u.py bongda2.m3u socolivetv.m3u "socolive"
-            # python extractm3u.py bongda3.m3u luongsontv.m3u "Lương sơn" 
-          fi
+          #   [ -f bongda.m3u ] && cp bongda.m3u bongda2.m3u
+          #   python extractm3u.py bongda2.m3u socolivetv.m3u "socolive"
+          #   # python extractm3u.py bongda3.m3u luongsontv.m3u "Lương sơn" 
+          # fi
           
           # if [ -f removem3u.py ]; then
           #   python removem3u.py bongda.m3u new_bongda.m3u "Khán đài a, Gà vàng, Chuối Chiên" & 
@@ -283,7 +283,8 @@ jobs:
 
           echo "Last updated: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" > lastupdated.txt
 
-          [ -f bongda.m3u ] && cp bongda.m3u m3ufiles/
+          # [ -f bongda.m3u ] && cp bongda.m3u m3ufiles/
+          
           [ -f ${{ secrets.NAME_THTHETHAO }} ] && cp ${{ secrets.NAME_THTHETHAO }} m3ufiles/
           [ -f thethao-base.m3u ] && cp thethao-base.m3u m3ufiles/
           [ -f ${{ secrets.NAME_TTTHETHAO }} ] && cp ${{ secrets.NAME_TTTHETHAO }} m3ufiles/
