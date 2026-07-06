@@ -355,4 +355,5 @@ jobs:
             echo "[test only] No changes detected."
           fi
           
+          git pull
           git commit --allow-empty -m "[no ci] Update thethao" && git push
