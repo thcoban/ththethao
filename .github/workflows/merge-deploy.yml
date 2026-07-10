@@ -55,7 +55,7 @@ jobs:
           # curl -s -k -L -o vatv.m3u ${{ secrets.URL_VATV }}  & 
           # curl -s -k -L -o linhtv.m3u ${{ secrets.URL_LINH_REPO }}/full.m3u  & 
           
-          curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o thethao-base.m3u ${{ secrets.URL_PRIVATE_FILES_REPO }}/thethao-base.m3u  & 
+          curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o ${{ secrets.NAME_THETHAO }} ${{ secrets.URL_PRIVATE_FILES_REPO }}/${{ secrets.NAME_THETHAO }}  & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o xoilacztv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/xoilacztv.py  & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o json2m3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/json2m3u.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o extractm3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/extractm3u.py & 
@@ -147,9 +147,9 @@ jobs:
       
       # Runs a set of commands using the runners shell
       - name: Merge Files
-        # Combine thethao-base.m3u, ttthethao.m3u and other m3u files into thethao.m3u
+        # Combine base.m3u, tt.m3u and other m3u files into full.m3u
         run: |
-          # delete old thethao.m3u, ttthethao.m3u before merge
+          # delete old full.m3u, tt.m3u before merge
           rm -f ${{ secrets.NAME_THTHETHAO }}
           rm -f ${{ secrets.NAME_TTTHETHAO }}
           mkdir -p m3ufiles
@@ -276,7 +276,7 @@ jobs:
           #   echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           # fi
 
-          cat thethao-base.m3u > ${{ secrets.NAME_THTHETHAO }}
+          cat ${{ secrets.NAME_THETHAO }} > ${{ secrets.NAME_THTHETHAO }}
           echo " " >> ${{ secrets.NAME_THTHETHAO }}
           cat ${{ secrets.NAME_TTTHETHAO }} >> ${{ secrets.NAME_THTHETHAO }}
           echo " " >> ${{ secrets.NAME_THTHETHAO }}
@@ -287,7 +287,7 @@ jobs:
           # [ -f bongda.m3u ] && cp bongda.m3u m3ufiles/
           
           [ -f ${{ secrets.NAME_THTHETHAO }} ] && cp ${{ secrets.NAME_THTHETHAO }} m3ufiles/
-          [ -f thethao-base.m3u ] && cp thethao-base.m3u m3ufiles/
+          [ -f ${{ secrets.NAME_THETHAO }} ] && cp ${{ secrets.NAME_THETHAO }} m3ufiles/
           [ -f ${{ secrets.NAME_TTTHETHAO }} ] && cp ${{ secrets.NAME_TTTHETHAO }} m3ufiles/
 
           # keep current xoilacztv.m3u for next use
@@ -349,7 +349,6 @@ jobs:
       - name: Commit and push changes
         run: |
           git config --local user.name "thcoban [bot]"
-          # git add ttthethao.m3u
           git add lastupdated.txt
           git add etc/testing/host.txt
 
@@ -359,4 +358,4 @@ jobs:
           fi
           
           git pull
-          git commit --allow-empty -m "[no ci] Update thethao" && git push
+          git commit --allow-empty -m "[no ci] Update repo" && git push
