@@ -343,17 +343,12 @@ jobs:
       #   id: deployment
       #   uses: actions/deploy-pages@v5        
 
-          # git commit  -m "retry" && git push
-          # git push
-
-      - name: Delete artifact
+      - name: Delete artifact validation file
         uses: geekyeggo/delete-artifact@v6
         with:
           name: |
-              artifact-*
               github-pages.zip
               github-pages
-              output
           failOnError: false
       
       - name: Commit and push changes
