@@ -352,7 +352,7 @@ jobs:
           name: |
               artifact-*
               github-pages.zip
-              binary-file
+              github-pages
               output
           failOnError: false
       
