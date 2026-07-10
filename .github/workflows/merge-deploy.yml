@@ -325,7 +325,7 @@ jobs:
         uses: actions/configure-pages@v5
         
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           retention-days: 0
           # Upload in m3ufiles/ folder only
@@ -346,6 +346,16 @@ jobs:
           # git commit  -m "retry" && git push
           # git push
 
+      - name: Delete artifact
+        uses: geekyeggo/delete-artifact@v6
+        with:
+          name: |
+              artifact-*
+              github-pages.zip
+              binary-file
+              output
+          failOnError: false
+      
       - name: Commit and push changes
         run: |
           git config --local user.name "thcoban [bot]"
