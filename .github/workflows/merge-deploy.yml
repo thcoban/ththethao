@@ -92,9 +92,9 @@ jobs:
 
       - name: Download, get & convert links to M3U files
         run: |
-          if [ -f testproxies.py ]; then
-            python testproxies.py etc/proxies.txt &
-          fi
+          # if [ -f testproxies.py ]; then
+          #   python testproxies.py etc/proxies.txt &
+          # fi
         
           if [ -f xoilacztv.py ]; then
             # will overwrite previous xoilacztv, if the condition matches
