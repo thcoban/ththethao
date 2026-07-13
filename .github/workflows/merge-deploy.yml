@@ -112,6 +112,7 @@ jobs:
             python apisports.py tieulam tieulamtv.m3u &
             python apisports.py luongson luongsontv.m3u &
             python apisports.py socolive socolivetv.m3u &
+            python apisports.py giovang giovangtv.m3u &
             
             python apisports.py khandaia khandaiatv.m3u &
             python apisports.py hoiquan hoiquantv.m3u &
@@ -215,19 +216,19 @@ jobs:
             cat nauxoitv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
-          if [ -f s8tv.m3u ]; then
+          if [ -f tieulamtv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat s8tv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            cat tieulamtv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f xoilacztv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat xoilacztv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          fi         
-          if [ -f tieulamtv.m3u ]; then
+          fi
+          if [ -f s8tv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat tieulamtv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            cat s8tv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f tamquoctv.m3u ]; then
@@ -240,15 +241,24 @@ jobs:
             cat cakhiatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
+          if [ -f socolivetv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat socolivetv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi
           if [ -f biaomtv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat biaomtv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
-
           if [ -f antlivetv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat antlivetv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi
+          if [ -f giovangtv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat giovangtv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
 
