@@ -302,6 +302,7 @@ jobs:
 
           # keep current xoilacztv.m3u for next use
           [ -f xoilacztv.m3u ] && cp xoilacztv.m3u m3ufiles/
+          [ -f tieulam_test.m3u ] && cp tieulam_test.m3u m3ufiles/
           
           # [ -f quechoatv.m3u ] && cp quechoatv.m3u m3ufiles/
           # [ -f hoiquantv.m3u ] && cp hoiquantv.m3u m3ufiles/
@@ -322,8 +323,8 @@ jobs:
           # [ -f s8tv.m3u ] && cp s8tv.m3u m3ufiles/
           # [ -f antlivetv.m3u ] && cp antlivetv.m3u m3ufiles/
           # [ -f nguyenban.m3u ] && cp nguyenban.m3u m3ufiles/
-          
           # [ -f socolivetv.m3u ] && cp socolivetv.m3u m3ufiles/
+          # [ -f giovangtv.m3u ] && cp giovangtv.m3u m3ufiles/
           
           [ -f keys.json ] && cp keys.json m3ufiles/
           # [ -f ttthethao.json ] && cp ttthethao.json m3ufiles/         
