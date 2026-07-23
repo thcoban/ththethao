@@ -163,6 +163,11 @@ jobs:
             cat nguyenban.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
+          if [ -f phaohoatv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat phaohoatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi          
           if [ -f quechoatv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat quechoatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
@@ -211,11 +216,6 @@ jobs:
           if [ -f luongsontv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat luongsontv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          fi
-          if [ -f phaohoatv.m3u ]; then
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat phaohoatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f nauxoitv.m3u ]; then
