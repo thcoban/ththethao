@@ -109,7 +109,7 @@ jobs:
           if [ -f apisports.py ]; then
             python apisports.py cakhia cakhiatv.m3u &
             python apisports.py nauxoi nauxoitv.m3u &
-            # python apisports.py tieulam tieulamtv.m3u &
+            python apisports.py tieulam tieulamtv.m3u &
             python apisports.py luongson luongsontv.m3u &
             python apisports.py socolive socolivetv.m3u &
             python apisports.py giovang giovangtv.m3u &
