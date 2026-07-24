@@ -128,6 +128,7 @@ jobs:
             python apisports.py biaom biaomtv.m3u &
             python apisports.py s8tv s8tv.m3u &
             python apisports.py phaohoa phaohoatv.m3u &
+            python apisports.py saoke saoketv.m3u &
           fi
           
           
@@ -231,6 +232,11 @@ jobs:
           if [ -f xoilacztv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat xoilacztv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi
+          if [ -f saoketv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat saoketv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f s8tv.m3u ]; then
