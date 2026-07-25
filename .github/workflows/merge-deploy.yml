@@ -107,6 +107,7 @@ jobs:
           fi
           
           if [ -f apisports.py ]; then
+            python apisports.py quocte quoctetv.m3u &
             python apisports.py cakhia cakhiatv.m3u &
             python apisports.py nauxoi nauxoitv.m3u &
             # python apisports.py tieulam tieulamtv.m3u &
@@ -217,6 +218,11 @@ jobs:
           if [ -f luongsontv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat luongsontv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi
+          if [ -f quoctetv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat quoctetv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f nauxoitv.m3u ]; then
