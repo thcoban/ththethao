@@ -110,7 +110,7 @@ jobs:
             # python apisports.py tieulam tieulamtv.m3u &
             # python apisports.py cakhia cakhiatv.m3u &
             # python apisports.py luongson luongsontv.m3u &
-            python apisports.py sptv sptv.m3u &
+            # python apisports.py sptv sptv.m3u &
             python apisports.py nauxoi nauxoitv.m3u &
             python apisports.py socolive socolivetv.m3u &
             python apisports.py giovang giovangtv.m3u &
@@ -260,16 +260,16 @@ jobs:
             cat cakhiatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
-          if [ -f socolivetv.m3u ]; then
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat socolivetv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          fi          
           if [ -f biaomtv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat biaomtv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
+          if [ -f socolivetv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat socolivetv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi          
           if [ -f antlivetv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat antlivetv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
