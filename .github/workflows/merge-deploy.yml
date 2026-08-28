@@ -116,9 +116,7 @@ jobs:
             # python apisports.py cakhia cakhiatv.m3u &
             # python apisports.py luongson luongsontv.m3u &
             # python apisports.py sptv sptv.m3u &
-            python apisports.py nauxoi nauxoitv.m3u &
-            python apisports.py socolive socolivetv.m3u &
-            python apisports.py giovang giovangtv.m3u &
+            # python apisports.py nauxoi nauxoitv.m3u &
             
             # python apisports.py khandaia khandaiatv.m3u &
             # python apisports.py hoiquan hoiquantv.m3u &
@@ -127,6 +125,9 @@ jobs:
             # python apisports.py bugio bugiotv.m3u &
             # python apisports.py tamquoc tamquoctv.m3u &
             # python apisports.py quechoa quechoatv.m3u &
+
+            python apisports.py socolive socolivetv.m3u &
+            python apisports.py giovang giovangtv.m3u &
             
             python apisports.py cola colatv.m3u &
             python apisports.py chuoichien chuoichientv.m3u &
