@@ -62,7 +62,7 @@ jobs:
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o removem3u.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/removem3u.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o apisports.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/apisports.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o antlivetv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/antlivetv.py & 
-          curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o antlivetv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/gavangtv.py & 
+          curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o gavangtv.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/gavangtv.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o fixjson.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/fixjson.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o testproxies.py ${{ secrets.URL_PRIVATE_FILES_REPO }}/python/testproxies.py & 
           curl -s -k -H "Authorization: token ${{ secrets.MY_SECRET_PAT }}" -L -o keys.json ${{ secrets.URL_PRIVATE_FILES_REPO }}/jsonfiles/keys.json & 
