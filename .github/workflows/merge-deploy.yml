@@ -130,6 +130,7 @@ jobs:
             python apisports.py giovang giovangtv.m3u &
             
             python apisports.py cola colatv.m3u &
+            python apisports.py gavang33 gavang33tv.m3u &
             python apisports.py chuoichien chuoichientv.m3u &
             python apisports.py vuasanco vuasancotv.m3u &
             python apisports.py biaom biaomtv.m3u &
@@ -166,16 +167,67 @@ jobs:
           mkdir -p m3ufiles
           ls -lh
 
+          if [ -f phaohoatv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat phaohoatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi
+          if [ -f vuasancotv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat vuasancotv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi
+          if [ -f chuoichientv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat chuoichientv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi
+          if [ -f xoilacztv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat xoilacztv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi
+          if [ -f gavang33tv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat gavang33tv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi
+          if [ -f colatv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat colatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi
+          if [ -f s8tv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat s8tv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi
+          if [ -f giovangtv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat giovangtv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi
+          if [ -f gavangtv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat gavangtv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi
+          if [ -f biaomtv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat biaomtv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi
+          if [ -f socolivetv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat socolivetv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi          
+          
           if [ -f nguyenban.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat nguyenban.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
-          if [ -f phaohoatv.m3u ]; then
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat phaohoatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          fi          
           if [ -f quechoatv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat quechoatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
@@ -206,26 +258,6 @@ jobs:
             cat chaogatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
-          if [ -f chuoichientv.m3u ]; then
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat chuoichientv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          fi
-          if [ -f vuasancotv.m3u ]; then
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat vuasancotv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          fi
-          if [ -f xoilacztv.m3u ]; then
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat xoilacztv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          fi
-          if [ -f colatv.m3u ]; then
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat colatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          fi
           if [ -f luongsontv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat luongsontv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
@@ -246,29 +278,9 @@ jobs:
             cat saoketv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
-          if [ -f s8tv.m3u ]; then
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat s8tv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          fi
           if [ -f tamquoctv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat tamquoctv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          fi
-          if [ -f giovangtv.m3u ]; then
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat giovangtv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          fi
-          if [ -f gavangtv.m3u ]; then
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat gavangtv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          fi
-          if [ -f biaomtv.m3u ]; then
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat biaomtv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f cakhiatv.m3u ]; then
@@ -281,35 +293,7 @@ jobs:
             cat antlivetv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
-          if [ -f socolivetv.m3u ]; then
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat socolivetv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          fi          
-          if [ -f sptv.m3u ]; then
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat sptv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          fi
           
-          # if [ -f new_vatv.m3u ]; then
-          #   echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          #   cat new_vatv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-          #   echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          # fi
-
-          # if [ -f new_pktv.m3u ]; then
-          #   echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          #   cat new_pktv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-          #   echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          # fi
-
-          # if [ -f new_bongda.m3u ]; then
-          #   echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          #   cat new_bongda.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-          #   echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          # fi
-
           cat ${{ secrets.NAME_THETHAO }} > ${{ secrets.NAME_THTHETHAO }}
           echo " " >> ${{ secrets.NAME_THTHETHAO }}
           cat ${{ secrets.NAME_TTTHETHAO }} >> ${{ secrets.NAME_THTHETHAO }}
