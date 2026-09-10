@@ -93,9 +93,9 @@ jobs:
 
       - name: Download, get & convert links to M3U files
         run: |
-          if [ -f testproxies.py ]; then
-            python testproxies.py etc/proxies.txt &
-          fi
+          # if [ -f testproxies.py ]; then
+          #   python testproxies.py etc/proxies.txt &
+          # fi
         
           if [ -f xoilacztv.py ]; then
             # will overwrite previous xoilacztv, if the condition matches
@@ -182,6 +182,11 @@ jobs:
             cat chuoichientv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
+          if [ -f giovangtv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat giovangtv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi
           if [ -f xoilacztv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat xoilacztv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
@@ -205,11 +210,6 @@ jobs:
           if [ -f saoketv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat saoketv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          fi
-          if [ -f giovangtv.m3u ]; then
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat giovangtv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f gavangtv.m3u ]; then
