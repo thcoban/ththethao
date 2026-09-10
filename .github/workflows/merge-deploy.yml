@@ -192,6 +192,11 @@ jobs:
             cat xoilacztv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
+          if [ -f saoketv.m3u ]; then
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+            cat saoketv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
+            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
+          fi
           if [ -f gavang33tv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat gavang33tv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
@@ -205,11 +210,6 @@ jobs:
           if [ -f s8tv.m3u ]; then
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
             cat s8tv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-          fi
-          if [ -f saoketv.m3u ]; then
-            echo " " >> ${{ secrets.NAME_TTTHETHAO }}
-            cat saoketv.m3u >> ${{ secrets.NAME_TTTHETHAO }}
             echo " " >> ${{ secrets.NAME_TTTHETHAO }}
           fi
           if [ -f gavangtv.m3u ]; then
